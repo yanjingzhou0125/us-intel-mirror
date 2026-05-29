@@ -1,0 +1,96 @@
+name: Scrape US Intel
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # 每 30 分钟
+  workflow_dispatch:          # 手动触发
+
+permissions:
+  contents: write              # 允许 commit
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest    # 美国 IP，能访问 Reddit
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Scrape Reddit
+        run: |
+          mkdir -p data
+          python3 << 'PYEOF'
+          import requests, json, time
+          HEADERS = {'User-Agent': 'StockIntelBot/1.0 by yan'}
+          SUBS = ['wallstreetbets', 'stocks', 'investing', 'StockMarket', 'NVDA_Stock', 'AMD_Stock']
+          all_posts = {}
+          for sub in SUBS:
+              try:
+                  r = requests.get(f'https://www.reddit.com/r/{sub}/hot.json?limit=30',
+                                    headers=HEADERS, timeout=10)
+                  if r.status_code == 200:
+                      data = r.json()
+                      posts = [p['data'] for p in data.get('data', {}).get('children', [])]
+                      all_posts[sub] = [{
+                          'title': p.get('title', ''),
+                          'score': p.get('score', 0),
+                          'num_comments': p.get('num_comments', 0),
+                          'upvote_ratio': p.get('upvote_ratio', 0),
+                          'created': p.get('created_utc', 0),
+                          'permalink': p.get('permalink', ''),
+                          'selftext': (p.get('selftext') or '')[:500],
+                          'flair': p.get('link_flair_text') or '',
+                      } for p in posts]
+                  time.sleep(2)   # 礼貌延迟
+              except Exception as e:
+                  print(f'Skip {sub}: {e}')
+          with open('data/reddit.json', 'w') as f:
+              json.dump({'ts': time.strftime('%Y-%m-%d %H:%M:%S'),
+                         'sources': all_posts}, f, indent=2, ensure_ascii=False)
+          print(f'Reddit done: {sum(len(v) for v in all_posts.values())} posts across {len(all_posts)} subs')
+          PYEOF
+
+      - name: Scrape StockTwits
+        run: |
+          python3 << 'PYEOF'
+          import requests, json, time
+          HEADERS = {'User-Agent': 'Mozilla/5.0'}
+          TICKERS = ['NVDA', 'TSLA', 'AAPL', 'AMD', 'TSM', 'MSFT', 'GOOG', 'META']
+          out = {}
+          for t in TICKERS:
+              try:
+                  r = requests.get(f'https://api.stocktwits.com/api/2/streams/symbol/{t}.json?limit=10',
+                                    headers=HEADERS, timeout=8)
+                  if r.status_code == 200:
+                      msgs = r.json().get('messages', [])
+                      out[t] = [{
+                          'user': m['user']['username'],
+                          'body': m['body'][:300],
+                          'created_at': m['created_at'],
+                          'sentiment': (m.get('entities', {}).get('sentiment') or {}).get('basic', ''),
+                      } for m in msgs[:10]]
+                  time.sleep(1)
+              except Exception as e:
+                  print(f'Skip {t}: {e}')
+          with open('data/stocktwits.json', 'w') as f:
+              json.dump({'ts': time.strftime('%Y-%m-%d %H:%M:%S'),
+                         'tickers': out}, f, indent=2, ensure_ascii=False)
+          print(f'StockTwits done: {len(out)} tickers')
+          PYEOF
+
+      - name: Commit & push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --staged --quiet; then
+              echo "No changes"
+          else
+              git commit -m "auto: $(date -u +%Y-%m-%dT%H:%MZ)"
+              git push
+          fi
