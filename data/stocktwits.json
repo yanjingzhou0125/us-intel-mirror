@@ -1,131 +1,179 @@
 {
-  "ts": "2026-07-21 07:07:34",
+  "ts": "2026-07-21 10:01:28",
   "tickers": {
     "NVDA": [
       {
-        "user": "Impatient_Investor",
-        "body": "$NVDA market is sucking the liquidity out of retailers after the removal of PDT rule. I think they are going to wipe out the last penny from retailers.",
-        "created_at": "2026-07-21T06:56:57Z",
+        "user": "mz08",
+        "body": "$HIHO &lt;&lt;&lt;&lt; $SPCX $NVDA $AMD $SKHY",
+        "created_at": "2026-07-21T09:58:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Jack_Danielss",
+        "body": "$AMD $INTC $MU $NVDA $SKHY \nThanks 🙏 I don’t buy",
+        "created_at": "2026-07-21T09:53:25Z",
         "sentiment": ""
       },
       {
         "user": "Smart_Investment",
-        "body": "$NVDA $SPY $300 plus upgrades by every analyst recently, they sure know about the earnings coming clearly. Some of them has rated NVIDIA with a price target of $350 plus a share. Those are one of the most reputable 5 star analysts in the entire market.",
-        "created_at": "2026-07-21T06:56:54Z",
+        "body": "$NVDA $SPY $QQQ Breaking News:\n\nJust in, the latest notable high value portfolio news.\n\n“Trumps portfolio has huge Nividia stake in high multimillion shares”",
+        "created_at": "2026-07-21T09:52:52Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "TalkMarkets",
-        "body": "Why Nvidia Stock Is Flat Since November Despite Tripling Its Net Income $NVDA \nhttps://talkmarkets.com/article/why-nvidia-stock-is-flat-since-november-despite-tripling-its-net-income-1784616032",
-        "created_at": "2026-07-21T06:42:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BuySellHoldFinance",
-        "body": "$NVDA Trailing qqq. Expect them to dump this",
-        "created_at": "2026-07-21T06:37:37Z",
+        "user": "bullishforeverbrah",
+        "body": "$NVDA bankruptcy will be announced soon",
+        "created_at": "2026-07-21T09:44:42Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "Finwizard61",
-        "body": "$NVDA Sales and Margins acceleration taking place.",
-        "created_at": "2026-07-21T06:35:07Z",
+        "user": "LieutenantJoe",
+        "body": "$MVIS $ANDURIL.X $NVDA $RTX \n\n“Anduril Industries is positioning itself to potentially partner with MicroVision, Inc. This collaboration could leverage MicroVision&#39;s advanced lidar technology for defense applications, particularly in relation to a significant government contract.”\n\n&quot;We&#39;",
+        "created_at": "2026-07-21T09:39:56Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "GrowingWealth",
-        "body": "$SPY $QQQ $MU $NVDA &lt;&lt;&lt;&lt;No short selling allowed overnight trading for Big Tech and the stocks with &#39;24 hr trading&#39; mark. Let&#39;s keep flying until big money shorts showing up at 7 am. :)",
-        "created_at": "2026-07-21T06:30:26Z",
+        "user": "pmcapitaltrading",
+        "body": "$NVDA $META Rick and Morty, Yes daddy please $RDDT $BTC.X",
+        "created_at": "2026-07-21T09:39:04Z",
         "sentiment": ""
       },
       {
-        "user": "IntrinsicTrader",
-        "body": "$NVDA $QQQ Long NVDA Short QQQ. Too much bloat caused by NVDA pumping other stocks.",
-        "created_at": "2026-07-21T06:25:32Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "jumbobody",
-        "body": "$NVDA We are coiled for $210-213 tomorrow! LFG",
-        "created_at": "2026-07-21T06:24:25Z",
+        "user": "Mipel",
+        "body": "$NVDA .http://Investing.com - Taiwan Semiconductor Manufacturing Co., Ltd. (NYSE:TSM) plans to raise prices for both advanced and mature chip manufacturing services by up to 10% starting in 2027, Nikkei Asia reported on Tuesday, citing multiple sources.\n\nTSM’s U.S. absentee receipts rose about 4% in",
+        "created_at": "2026-07-21T09:38:48Z",
         "sentiment": ""
       },
       {
-        "user": "Championinvestor",
-        "body": "$NVDA “Morgan Stanley analyst Joseph Moore reiterated a &quot;Buy&quot; rating on Nvidia. The analyst also assigned a price target of $288 -$325 to NVDA stock.” \n\nOverall, the AI Nvidia recent partnership deals, new revenues &amp; profits performance has driven a bullish view among analysts, with ot",
-        "created_at": "2026-07-21T06:13:54Z",
+        "user": "LieutenantJoe",
+        "body": "$MVIS $ADUIZZX.P $NVDA \n\n“Anduril Industries is positioning itself to potentially partner with MicroVision, Inc. This collaboration could leverage MicroVision&#39;s advanced lidar technology for defense applications, particularly in relation to a significant government contract.”\n\n“Scott Goldstein i",
+        "created_at": "2026-07-21T09:34:46Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "HadronTrade",
-        "body": "$NVDA 210 for sure tomorrow",
-        "created_at": "2026-07-21T06:07:40Z",
-        "sentiment": "Bullish"
+        "user": "JJG1005",
+        "body": "$NVDA again getting it&#39;s ass kicked by amd intrl and others in PM",
+        "created_at": "2026-07-21T09:29:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "US_Stock_Bubble2026",
+        "body": "$AMD $NVDA $MU $SKHY $INTC DO NOT BUY the US Stocks at these insanely Overvalued prices in this Tulip Mania BUBBLE! These stocks are up by 1000-5000% in no time for no reason. They are fundamentally the same Ponzi Schemes. Chasers will Burn. Sell and lock in the gains. A Heavy Correction is imminent",
+        "created_at": "2026-07-21T09:26:08Z",
+        "sentiment": "Bearish"
       }
     ],
     "TSLA": [
       {
-        "user": "AZZ_MAN",
-        "body": "$TSLA who can sleep!",
-        "created_at": "2026-07-21T07:01:48Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "jwordlek",
-        "body": "$TSLA the best dip ever and I missed it.",
-        "created_at": "2026-07-21T06:49:10Z",
+        "user": "doomed96",
+        "body": "$TSLA 🔥",
+        "created_at": "2026-07-21T09:57:39Z",
         "sentiment": ""
       },
       {
-        "user": "TradeThePool",
-        "body": "$TSLA  Q2 crushed it: 480K vehicles (+18% beat), 13.5 GWh energy storage.  \n \nBut forget the cars. AI5 chip (5x power, Samsung 2nm Texas), Optimus V3 with 50 actuators, full vertical integration. Cybercab + robotaxi next.  \n \nEarnings tomorrow. This is pure tech powerhouse mode.  \n \n#Tesla #AI5 #Opt",
-        "created_at": "2026-07-21T06:47:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "jwordlek",
-        "body": "$TSLA please keep it down. I know it’s just a dream and my nightmare.",
-        "created_at": "2026-07-21T06:44:38Z",
+        "user": "Sntfx",
+        "body": "$TSLA time to buy again?",
+        "created_at": "2026-07-21T09:42:05Z",
         "sentiment": ""
       },
       {
-        "user": "Leonx",
-        "body": "$TSLA step by step....",
-        "created_at": "2026-07-21T06:42:24Z",
-        "sentiment": "Bullish"
+        "user": "Borgetti",
+        "body": "$TSLA the problem right now is that the shorts are afraid of losing their pants 👖🙂",
+        "created_at": "2026-07-21T09:41:49Z",
+        "sentiment": ""
       },
       {
-        "user": "OTC85",
-        "body": "$AMFN $GFUZ $OKLO $DJT $TSLA",
-        "created_at": "2026-07-21T06:38:06Z",
-        "sentiment": "Bullish"
+        "user": "LeonardoDeDust",
+        "body": "$TSLA Exactly. It is a solid car company at $80 per stock. Rest is hype.",
+        "created_at": "2026-07-21T09:38:28Z",
+        "sentiment": ""
       },
       {
-        "user": "Blanblun",
-        "body": "$MU $AMZN $QQQ $AAPL $TSLA  BREAKING \n \nIran&#39;s IRGC says it destroyed Amazon&#39;s central data infrastructure in Bahrain in a cruise missile strike during the 24th wave of Operation Nasr 2, calling it retaliation for yesterday&#39;s U.S. strike on Darkhovin in Khuzestan province, southwestern I",
-        "created_at": "2026-07-21T06:31:02Z",
+        "user": "ShawnXZ",
+        "body": "$TSLA the issues is not sells and delivery data. There are so many issues like FSD, robotaxi and robot. I said many years ago, Tsla is not car company. If tsla is a car company, it only worse 80. The problem right now is tsla cannot reach any goal that Elon made many years ago.",
+        "created_at": "2026-07-21T09:32:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Jj0320011",
+        "body": "$TSLA boom mode",
+        "created_at": "2026-07-21T09:30:23Z",
         "sentiment": ""
       },
       {
         "user": "Wwwe",
-        "body": "$TSLA Tesla reveals first vehicle model to receive Starlink integration\nby Joey Klender\nhttps://www.teslarati.com/tesla-reveals-first-model-starlink-integration/\nAi derived:Starlink integration:Continuous Operational Redundancy: real-time visibility into vehicle telemetry across 100% of the geograph",
-        "created_at": "2026-07-21T05:25:52Z",
+        "body": "$TSLA Hypothetical benefits of a supplemental real-time Cybercab Starlink to data center(Cortex 2?) connection; improved management of robotaxi fleet and handling of edge cases; Improved perception and data center fallback/redundancy for rare conditions alternative to teleoperator intervention , (al",
+        "created_at": "2026-07-21T09:26:19Z",
         "sentiment": ""
       },
       {
-        "user": "TalkMarkets",
-        "body": "Mag 7 Earnings: How Expectations For Alphabet And Tesla Have Evolved $TSLA $GOOGL https://talkmarkets.com/article/mag-7-earnings-how-expectations-for-alphabet-and-tesla-have-evolved-1784609490",
-        "created_at": "2026-07-21T04:51:52Z",
-        "sentiment": ""
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $SPY $AAPL $TSLA  ..",
+        "created_at": "2026-07-21T09:25:07Z",
+        "sentiment": "Bullish"
       },
       {
-        "user": "Margarethenshaw",
-        "body": "@Eartth Man, 25-30 minutes from New York to London with 1,000 passengers? That’s the kind of future that gets me excited to load up on $TSLA once the shorts throw in the towel.",
-        "created_at": "2026-07-21T04:50:23Z",
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $AAPL $TSLA $SPY",
+        "created_at": "2026-07-21T09:23:57Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "erob_trades_official",
+        "body": "$TSLA when $400",
+        "created_at": "2026-07-21T08:53:07Z",
         "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Mipel",
+        "body": "$AAPL .-http://Investing.com - Taiwan Semiconductor Manufacturing Co., Ltd. (NYSE:TSM) plans to raise prices for both advanced and mature chip manufacturing services by up to 10% starting in 2027, Nikkei Asia reported on Tuesday, citing multiple sources.\n\nTSM’s U.S. absentee receipts rose about 4% i",
+        "created_at": "2026-07-21T09:41:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Oferk2803",
+        "body": "$AAPL short term bearish - to close 317 gap and then breaking 5M cap market",
+        "created_at": "2026-07-21T09:40:43Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MyTESLA21",
+        "body": "$AAPL We’re gonna blow out earnings … we started the computer age and nobody does it better! Makes me feel sorry for the rest!",
+        "created_at": "2026-07-21T09:38:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MyTESLA21",
+        "body": "$AAPL  Hey!!! Apple is about to post it’s earnings, Fish or cut bait but I’d fish 🎣 this pond is full! Remember, it’s a foolish frog who doesn’t promote his own pond!!!",
+        "created_at": "2026-07-21T09:37:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $SPY $AAPL $TSLA  ..",
+        "created_at": "2026-07-21T09:25:07Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $AAPL $TSLA $SPY",
+        "created_at": "2026-07-21T09:23:57Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mipel",
+        "body": "$AAPL -Good luck to all the bettors!\nThere is no friend as loyal as hard cash!\nHedge, hedge, hedge! It’s coming—Japan, China, oil, war!!!!",
+        "created_at": "2026-07-21T07:54:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SammyDavisSr",
+        "body": "$SPY this up $4 bucks and $AAPL is down🤣🤣🤣",
+        "created_at": "2026-07-21T07:12:19Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Blanblun",
         "body": "$MU $AMZN $QQQ $AAPL $TSLA  BREAKING \n \nIran&#39;s IRGC says it destroyed Amazon&#39;s central data infrastructure in Bahrain in a cruise missile strike during the 24th wave of Operation Nasr 2, calling it retaliation for yesterday&#39;s U.S. strike on Darkhovin in Khuzestan province, southwestern I",
@@ -137,243 +185,219 @@
         "body": "$AAPL green",
         "created_at": "2026-07-21T05:14:00Z",
         "sentiment": ""
-      },
-      {
-        "user": "Satiretwit",
-        "body": "$AAPL unstoppable",
-        "created_at": "2026-07-21T04:29:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "dannbla",
-        "body": "$AAPL $NVDA $PLTR $SPCX",
-        "created_at": "2026-07-21T04:29:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "starman1564",
-        "body": "$AAPL $NVDA $QQQ $SPY $TSLA",
-        "created_at": "2026-07-21T04:29:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Oferk2803",
-        "body": "$AAPL short term headed to close that 317 gap and then will hit that 5M market cap IMO",
-        "created_at": "2026-07-21T04:17:46Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT GOOGL TSLA  \n \n0/1 DTE&#39;s \n \n🙃",
-        "created_at": "2026-07-21T04:02:20Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LeonardoBonacci",
-        "body": "$QQQ Back to semis.  Hence, short $AAPL and software.",
-        "created_at": "2026-07-21T03:54:33Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Themadogtrader",
-        "body": "$AAPL $NBIS $NVDA \n\nStop the f madness Nvidia is gonna singly handy. Be the blame for the AI bubble they’re running the largest fucking Ponzi scheme in history ￼",
-        "created_at": "2026-07-21T03:38:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LimitedSlippage",
-        "body": "$NVDA maybe just maybe we get a 7-8% day tomorow on the heels of $NBIS and take over $AAPL onfe again … can we get a $$215 I think so",
-        "created_at": "2026-07-21T03:34:43Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
       {
+        "user": "CautiousInvestor538",
+        "body": "$AMD reverse cathie in effect again lol",
+        "created_at": "2026-07-21T09:58:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "mz08",
+        "body": "$HIHO &lt;&lt;&lt;&lt; $SPCX $NVDA $AMD $SKHY",
+        "created_at": "2026-07-21T09:58:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Jack_Danielss",
+        "body": "$AMD $INTC $MU $NVDA $SKHY \nThanks 🙏 I don’t buy",
+        "created_at": "2026-07-21T09:53:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Flickted",
+        "body": "@Techii1993 $AMD stock has been crushing it for some time. Been one of my better returns over the past several months.",
+        "created_at": "2026-07-21T09:51:20Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "Mipel",
-        "body": "$AMD On the sales side, ARK sold 115,597 shares of Iridium Communications Inc (NASDAQ:IRDM) from the ARKQ and ARKX funds, worth $5,396,067, as well as 48,836 shares of Baidu (NASDAQ:BIDU) through the ARKQ fund, for a total of $5,237,172. Both sales are part of a broader strategy to reduce holdings i",
-        "created_at": "2026-07-21T07:04:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TaylorTyme",
-        "body": "$AMD did the same thing last night and crashed at open. Don’t be fooled by overnight bs.",
-        "created_at": "2026-07-21T07:04:07Z",
+        "body": "$AMD Thanks to all the good people...\nI really appreciate the help...\nClearance sale🙏mama",
+        "created_at": "2026-07-21T09:50:43Z",
         "sentiment": ""
       },
       {
         "user": "Mipel",
-        "body": "$AMD more selling",
-        "created_at": "2026-07-21T07:02:23Z",
+        "body": "$AMD http://Investing.com - Taiwan Semiconductor Manufacturing Co., Ltd. (NYSE:TSM) plans to raise prices for both advanced and mature chip manufacturing services by up to 10% starting in 2027, Nikkei Asia reported on Tuesday, citing multiple sources.\n\nTSM’s U.S. absentee receipts rose about 4% in p",
+        "created_at": "2026-07-21T09:38:38Z",
         "sentiment": ""
       },
       {
-        "user": "BasiuMisiu",
-        "body": "$AMD 600 Thursday",
-        "created_at": "2026-07-21T07:00:31Z",
+        "user": "US_Stock_Bubble2026",
+        "body": "$AMD $NVDA $MU $SKHY $INTC DO NOT BUY the US Stocks at these insanely Overvalued prices in this Tulip Mania BUBBLE! These stocks are up by 1000-5000% in no time for no reason. They are fundamentally the same Ponzi Schemes. Chasers will Burn. Sell and lock in the gains. A Heavy Correction is imminent",
+        "created_at": "2026-07-21T09:26:08Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $SPY $AAPL $TSLA  ..",
+        "created_at": "2026-07-21T09:25:07Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "sbbq",
-        "body": "$AMD What does Mipel have to say now?  Definitely confused!",
-        "created_at": "2026-07-21T06:20:37Z",
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $AAPL $TSLA $SPY",
+        "created_at": "2026-07-21T09:23:57Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "DavidG44",
-        "body": "$AMD there needs to be a dislike button on some of these posts lol",
-        "created_at": "2026-07-21T06:02:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BoomPilot",
-        "body": "$AMD still can’t break above the level it was rejected at 3x today.   Might be some disappointment tomorrow if/when this craters",
-        "created_at": "2026-07-21T05:31:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "seaw",
-        "body": "$AMD \n\nGame changer \n\nAMD&#39;s next major press conference is the &quot;Advancing AI 2026&quot; event, featuring Chair and CEO Dr. Lisa Su. The conference takes place in San Francisco on July 22–23, 2026, with the primary keynote kicking off on July 23, 2026, at 9:30 AM PT.",
-        "created_at": "2026-07-21T05:23:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "sp122809",
-        "body": "$AMD I’d like this at 545 on Wednesday",
-        "created_at": "2026-07-21T05:15:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "itsallaboutheoptions",
-        "body": "$AMD pre-market call spread plus additional session calls — AMD at ~$395 today, AI chip sell-off entering day 3. \n \n+1,000 AMD 100 18 SEP 2026 500.00 CALL @ 79.20, for $7,920,000 total deltas. \n+2,000 AMD 100 18 SEP 2026 650.00 CALL @ 28.60, for $5,720,000 total deltas. \n+850 AMD 100 15 JAN 2027 600",
-        "created_at": "2026-07-21T05:10:18Z",
+        "user": "LongerThanLong",
+        "body": "$AMD Yeah baby, go up! At 540 I sell more naked calls. Amazing stock for option selling, thanks for the premiums boys &lt;3",
+        "created_at": "2026-07-21T09:19:26Z",
         "sentiment": ""
       }
     ],
     "TSM": [
       {
+        "user": "Mipel",
+        "body": "$TSM -http://Investing.com - Taiwan Semiconductor Manufacturing Co., Ltd. (NYSE:TSM) plans to raise prices for both advanced and mature chip manufacturing services by up to 10% starting in 2027, Nikkei Asia reported on Tuesday, citing multiple sources.\n\nTSM’s U.S. absentee receipts rose about 4% in ",
+        "created_at": "2026-07-21T09:40:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Olivia_Strickland",
+        "body": "$TSM up 4.7% premarket at 417, looks like the beat finally landing after yesterday&#39;s sell-the-news drop. these big-cap gaps can absorb and grind or just fade back to VWAP. what level you guys watching here?",
+        "created_at": "2026-07-21T09:34:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$ASML $TSM $INTC $SPY  ...",
+        "created_at": "2026-07-21T09:28:02Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM ,Good luck to you.\nThere are fundamentals, and then there’s a casino... the market is due for a correction.!!!",
+        "created_at": "2026-07-21T09:08:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM !Credit market skepticism: The AI story is increasingly becoming one of debt and financing, with bond investors growing wary of the ever-increasing spending of big tech companies.\nSpillover risks to other markets: Tightening credit conditions for financing AI infrastructure could quickly shift ",
+        "created_at": "2026-07-21T09:02:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM -.http://Investing.com - Futures on major U.S. stock indexes are up slightly. As geopolitical tensions in the Middle East continue, investors are weighing growing concerns about the viability of the AI ​​investment wave and preparing for a slew of key tech sector reports heading into the weeken",
+        "created_at": "2026-07-21T08:56:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM !!!!\n1. Timeline for the market bottom: Rich Priborotsky (head of the One-Delta desk at Goldman Sachs) notes that market data suggests that the bearish momentum is about two weeks away from bottoming out.\n2. Deeper than average correction: Given that the uptrend that preceded the correction was",
+        "created_at": "2026-07-21T08:45:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BigFishEatLittleFish",
+        "body": "$TSM seems like an overreatctive post er drop — snatch up some cheapies and it&#39;s right bacc! 🚀",
+        "created_at": "2026-07-21T08:36:26Z",
+        "sentiment": ""
+      },
+      {
         "user": "BuySellHoldFinance",
-        "body": "$TSM nice 😁",
-        "created_at": "2026-07-21T06:14:59Z",
+        "body": "$TSM i bought calls below 400 btw. When pple mocked me for it. And now I am right. Hahahahahah",
+        "created_at": "2026-07-21T08:31:17Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "AIEcosystem",
-        "body": "ASML reportedly granting eligible employees €20K in stock locked until 2030.\nTo me, this is more than a bonus—it&#39;s a talent retention strategy.\nYou don&#39;t lock in critical engineers for years unless you expect years of demand.\nAnother data point supporting the long-term AI infrastructure thes",
-        "created_at": "2026-07-21T04:43:20Z",
+        "user": "Othala1",
+        "body": "$TSM",
+        "created_at": "2026-07-21T08:03:36Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "jwvy801089",
-        "body": "$TSM Give me $420, you stupid American premarket. \nTaiwan price is up 3 percent, you fxcking stupid American market just \ncan&#39;t get it up like Trump&#39;s pick. \nFscking market.",
-        "created_at": "2026-07-21T03:52:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Siccest1",
-        "body": "$INTC when China takes over Taiwan by force or blockade next year or next, $TSM will go down in flames while $INTC goes to $500+ and beyond. This is the time to load up while it’s under $100. Won’t be double digits after earnings!",
-        "created_at": "2026-07-21T01:39:57Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TradeIntelligence_",
-        "body": "AI Infrastructure Price Targets I’m Watching  \n \nThe semiconductor cycle still has massive upside potential according to these long-term targets: \n \n$MU  is still a $1,550 stock \n$SNDK  is a $3,000 stock \n$AMD  is a $750 stock  \n$NVDA  is a $400 stock  \n$TSM  is a $650 stock \n \nAI demand, memory gro",
-        "created_at": "2026-07-20T23:52:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bazziggr",
-        "body": "$TSM $380?",
-        "created_at": "2026-07-20T23:33:56Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MarketPulsee",
-        "body": "25 High-Quality Stocks With The Strongest Operating Margins \n \nStrong operating margins often signal pricing power, efficiency, and durable competitive advantages. \n \nTop 25: \n \n$NVDA — 65.6% \n$BAM — 64.5% \n$MA — 60.8% \n$TSM — 60.3% \n$FICO — 58.2% \n \nQuality screen: \n \n• Positive net income margin \n",
-        "created_at": "2026-07-20T22:30:27Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ChrisMarketDiary",
-        "body": "$TSM catching bids up +0.99% at $402.30. Money is rotating back into AI capex leaders, with TSMC repeatedly flagged as the apex beneficiary. \n \nASML&#39;s massive retention bonus headlines also expose tight EUV capacity. Leading-edge supply is at a premium, and $TSM owns the bottleneck. \n \nChasing t",
-        "created_at": "2026-07-20T22:27:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "#AMD: Hyperscaler Deals Drive Growth $AMD $META $MSFT $NVDA $TSM https://talkmarkets.com/article/amd-hyperscaler-deals-drive-growth-1784583213",
-        "created_at": "2026-07-20T21:34:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ysell",
-        "body": "$TSM https://youtu.be/hy90LdpEUvQ?si=UzzNz9lzYWmrWR1O",
-        "created_at": "2026-07-20T21:30:59Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
       {
-        "user": "ranthor",
-        "body": "$MSFT lmao, literally nose diving as everything else is ripping",
-        "created_at": "2026-07-21T07:05:35Z",
+        "user": "Legitimate",
+        "body": "$MSFT crazy how software can’t catch a single fucking bid when the market is green $NOW",
+        "created_at": "2026-07-21T09:59:54Z",
         "sentiment": ""
       },
       {
-        "user": "AnaIyze",
-        "body": "$MSFT all i ask of u is to hold 400 level for dear fucking life",
-        "created_at": "2026-07-21T06:26:18Z",
+        "user": "roosterstraw",
+        "body": "$MSFT what a turd",
+        "created_at": "2026-07-21T09:58:35Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "erob_trades_official",
+        "body": "$MSFT back to $350",
+        "created_at": "2026-07-21T09:54:20Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "zeno123",
+        "body": "$MSFT down, $SOXX semis up. Couldn’t be easier.",
+        "created_at": "2026-07-21T09:49:06Z",
         "sentiment": ""
       },
       {
-        "user": "StackRadar1",
-        "body": "$MSFT from now till the 29th 📈📈📈",
-        "created_at": "2026-07-21T06:05:44Z",
+        "user": "investing_dans_valeur",
+        "body": "$AMZN $ORCL $META $MSFT $AVGO",
+        "created_at": "2026-07-21T09:26:39Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Nosh",
-        "body": "$MSFT SGH.  $400 area.",
-        "created_at": "2026-07-21T05:35:11Z",
-        "sentiment": ""
+        "user": "titan421",
+        "body": "$MSFT knew this POS would go down! CEO and company are both POS!",
+        "created_at": "2026-07-21T09:11:09Z",
+        "sentiment": "Bearish"
       },
       {
-        "user": "cruellbear",
-        "body": "Bears rn\n\n$QQQ $SPY $SOXL $NBIS $MSFT",
-        "created_at": "2026-07-21T05:20:28Z",
+        "user": "YEHONATAN101",
+        "body": "$MSFT I believe after 29th we over 450$\nLoad the boat time!",
+        "created_at": "2026-07-21T08:51:53Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "SwingPlay",
-        "body": "$MSFT $META earnings in a week… we shall see a run soon…🚀🚀🚀🚀🚀",
-        "created_at": "2026-07-21T04:13:51Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Heyshishito",
-        "body": "$MSFT futes are up. So we are down. You know how it goes",
-        "created_at": "2026-07-21T04:09:38Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BigBreakingWire",
-        "body": "Big Tech giants Alphabet, Microsoft, Amazon, Meta, and Oracle hold $1.65 trillion in off-balance-sheet AI commitments, exceeding reported debt. Analysts warn these obligations could pressure liquidity if AI demand slows.\n\nRead 👇🏻 https://wp.me/PfgCxS-8FD\n\n$MSFT $AMZN $META $ORCL $QQQ",
-        "created_at": "2026-07-21T03:47:19Z",
+        "user": "Harris_lost_2024",
+        "body": "$TSLA $SPY $QQQ $NVDA $MSFT Replace Lindzon with AI leadership. Time for him to step down.",
+        "created_at": "2026-07-21T08:25:59Z",
         "sentiment": ""
       },
       {
-        "user": "ospreyeye",
-        "body": "$MSFT &gt;&gt; Daily Chart &gt;&gt;\n\nFinally closed above the 50 SMA @ 401.10\n\nIf support holds could make a run 🏃‍♀️ to the 200 SMA @ 437.30\n\nClosing back below the 50 SMA would be a red flag 🚩 signaling possible consolidation \n\n$SPY $QQQ $IGV $CRM",
-        "created_at": "2026-07-21T03:10:54Z",
+        "user": "PutsOnMyself",
+        "body": "$MSFT of course yesterday was too good to be true , back to scheduled broadcast of bleeding out of our asses everytime semi’s are the slightest green. This is probably the 20th fucking time we failed to hold 400",
+        "created_at": "2026-07-21T08:09:42Z",
         "sentiment": ""
       },
       {
-        "user": "SuperGreenToday",
-        "body": "$MSFT\nShare Price: $402.51\n\nContract Selected: Jul 31, 2026 $400 Calls\n\nBuy Zone: $15.68 – $19.37\nTarget Zone: $28.09 – $34.33\nPotential Upside: 69% ROI\n\nTime to Expiration: 10 Days | Updates via https://fxcapta.com/stockinfo/",
-        "created_at": "2026-07-21T03:09:51Z",
+        "user": "freaky_nikki",
+        "body": "$MSFT  $INFQ  $SPY $NVDA   at Microsoft we care about the future, with food supply dwindling, our ai has found a way to synthesize carbon fibers that give meat a spongey, grainy texture. It&#39;s not chicken ... It&#39;s something more",
+        "created_at": "2026-07-21T08:03:18Z",
         "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "1manfund",
+        "body": "$GOOG  \n \nCrucial results tomorrow for AI capex story as a whole",
+        "created_at": "2026-07-21T08:58:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ra1980",
+        "body": "$MRVL $MU $INTC $GOOG $TQQQ \nIn premarket every thing is green after 9:30 everything will collapse",
+        "created_at": "2026-07-21T08:35:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "THIS_TIME_IS_DIFFERENT",
+        "body": "$GOOG $GOOGL TOO MUCH TOO FAST",
+        "created_at": "2026-07-21T08:00:39Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "freaky_nikki",
+        "body": "$GOOG $MU $SNDK $META",
+        "created_at": "2026-07-21T07:24:41Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "intel_investments",
         "body": "$SPY Hey Goebbels, tell agent Tom I&#39;m going to send my 27K rabies hospital bill to the CIA. I&#39;m sure they can afford it with their 73.4 billion (https://stkt.co/34qJ_oFp) annual budget. Also, shut down the backdoor agents are using over at YouTube $GOOG to cyberstalk/spy on target MK-Ultra s",
@@ -409,33 +433,51 @@
         "body": "$GOOGL  $GOOG $MU $NVDA \n\nYou need to see the movie obsession then you will get it",
         "created_at": "2026-07-20T22:48:04Z",
         "sentiment": ""
-      },
-      {
-        "user": "Saracin1001",
-        "body": "[IAKHUW] Yesterday was positive despite heavy earnings market was strong and positive. $GOOG and $AMZN breached psychological +1.00% change. Today market will try to continue movement up and will have a positive impulse on opening. Stay positive whole day dont let Bears false info about doomsday sce",
-        "created_at": "2026-07-20T22:45:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "freaky_nikki",
-        "body": "$GOOG $GOOGL $MU $NVDA if I&#39;m a fudster then you&#39;re a grub hugger bugger",
-        "created_at": "2026-07-20T22:44:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Hanover_Fiste",
-        "body": "$GOOG $GOOGL $MU $NVDA \nFUDSTER",
-        "created_at": "2026-07-20T22:39:01Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "freaky_nikki",
-        "body": "$NVDA $GOOG $GOOGL $MU",
-        "created_at": "2026-07-20T22:38:05Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "pmcapitaltrading",
+        "body": "$NVDA $META Rick and Morty, Yes daddy please $RDDT $BTC.X",
+        "created_at": "2026-07-21T09:39:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMZN $ORCL $META $MSFT $AVGO",
+        "created_at": "2026-07-21T09:26:39Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "wizeinvesting",
+        "body": "$CCJ $CEG $LEU $NLR $META\n\nArtificial intelligence has sparked one of the biggest investment booms in recent history, with most of the attention focused on chipmakers, software companies, and cloud computing giants. Yet behind every AI breakthrough lies a challenge that is becoming impossible to ign",
+        "created_at": "2026-07-21T08:30:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "freaky_nikki",
+        "body": "$SPY $GOOGL $META $NVDA  it only took one water bottle to generate this. YOUR WELCOME 😘💋",
+        "created_at": "2026-07-21T07:51:50Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SMCI $TSLA $NVDA $SPCX $META The only stock i worry about long term from the stocks tagged here is $SMCI not because I feel that they wont make a profit, but because of the intense amount of shorts that have piled in on it intent on ensuring it gets punished beyond reasonable amounts. \n \nFor $TSLA ",
+        "created_at": "2026-07-21T07:31:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Biostock",
+        "body": "$SPY  #QQQ $1.6 Trillion dollars off balance sheet AI debt.  $META $ORCL $AMZN  MSFT GOOG",
+        "created_at": "2026-07-21T07:26:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "freaky_nikki",
+        "body": "$GOOG $MU $SNDK $META",
+        "created_at": "2026-07-21T07:24:41Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Trjust",
         "body": "$META",
@@ -453,48 +495,6 @@
         "body": "$MSFT $META earnings in a week… we shall see a run soon…🚀🚀🚀🚀🚀",
         "created_at": "2026-07-21T04:13:51Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BigBreakingWire",
-        "body": "Big Tech giants Alphabet, Microsoft, Amazon, Meta, and Oracle hold $1.65 trillion in off-balance-sheet AI commitments, exceeding reported debt. Analysts warn these obligations could pressure liquidity if AI demand slows.\n\nRead 👇🏻 https://wp.me/PfgCxS-8FD\n\n$MSFT $AMZN $META $ORCL $QQQ",
-        "created_at": "2026-07-21T03:47:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "leifstocks",
-        "body": "Trade Plan 7/21 📈\n\nLevels I&#39;m watching for a break:\n\n$NVDA &gt; 208 → 215c 7/31 | Target 213\n$PLTR &gt; 139 → 160c 7/31 | Target 155  \n$META &gt; 653 → 670c 7/31 | Target 660\n$SPY &gt; 750 → 760c 8/21 | Target 759\n\nNeed the break + volume to confirm.\nNFA - Education only",
-        "created_at": "2026-07-21T03:05:23Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ub3r5pAnK",
-        "body": "$SMCI $TSLA $NVDA $SPCX $META If theres no better way to represent that AI is here to stay its that it can already rewrite things to be more coherent, like the below. \n \n$SMCI $TSLA $NVDA $SPCX $META Technology once helped humanity eradicate smallpox through vaccination, surveillance and global coor",
-        "created_at": "2026-07-21T03:01:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankenMoney",
-        "body": "$CMCL built my own Chatgpt thing that can teach itself, just trained on a laptop, idk why these frontier labs need trillions $NVDA $INTC $AMD $META there is not much of a moat there",
-        "created_at": "2026-07-21T02:40:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "NetflixUser",
-        "body": "$META $MSFT $QQQ $SPY sis trust me sis. Puts will print tomorrow sis. Big money isn’t letting calls hit sis. Too much calls sis.",
-        "created_at": "2026-07-21T02:37:08Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Wall Street remains sharply divided over the future of the AI-driven market rally three years after it began. While U.S. equities have delivered some of their strongest returns in decades, market gains have become increasingly concentrated in a handful of AI beneficiaries, fueling debate over whethe",
-        "created_at": "2026-07-21T02:14:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Moonshot AI is preparing for a Hong Kong IPO within the next six months following the strong reception of its open-weight Kimi K3 model. The Chinese AI startup has begun seeking shareholder approval for the listing and is reportedly closing a funding round that could value the company at more than $",
-        "created_at": "2026-07-21T02:10:06Z",
-        "sentiment": ""
       }
     ]
   }
