@@ -1,7 +1,25 @@
 {
-  "ts": "2026-07-25 10:52:07",
+  "ts": "2026-07-25 12:02:22",
   "tickers": {
     "NVDA": [
+      {
+        "user": "MrChoudhury",
+        "body": "$SKHY ($NVDA ) Nvidia’s new multi-hundred-billion-dollar partnership with SK Group locks in long-term HBM co-development and supply with SK Hynix while SK Telecom builds multi-gigawatt AI factories, underscoring that advanced memory is no longer a commodity: only a handful of players (SK Hynix $SKHY",
+        "created_at": "2026-07-25T11:46:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MultimanMV",
+        "body": "$NVDA https://finance.yahoo.com/technology/ai/articles/jensen-huang-signed-toyota-fanuc-095900725.html",
+        "created_at": "2026-07-25T11:04:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "The_Titan_Traders",
+        "body": "NVIDIA AND SK GROUP JUST ANNOUNCED A $500+ BILLION PARTNERSHIP.\n\nSK Group $SKHY and Nvidia $NVDA signed letters of intent for a $500-billion-plus initiative spanning two fronts: AI factory construction and next-generation memory supply.\n\nSK Telecom will build a 2-gigawatt NVIDIA Vera Rubin DSX AI Fa",
+        "created_at": "2026-07-25T10:59:30Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Hanover_Fiste",
         "body": "@Blanblun @LolovanH How is $NVDA going to build infrastructure in South Korea without using or partnering a South Korean company?  That’s the main reason.",
@@ -43,27 +61,27 @@
         "body": "$NVDA",
         "created_at": "2026-07-25T09:42:19Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Smart_Investment",
-        "body": "$NVDA NVIDIA AND SK GROUP UNVEIL AI INITIATIVE VALUED AT OVER $500B\n\nHUGE multi billion revenues for Nvidia.",
-        "created_at": "2026-07-25T09:06:47Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "NatoshiSakomoto",
-        "body": "$SPCX \n\nWe may see biggest short squeeze next 10 days…\n\nThat’s all I am saying…\n\n$SPY $QQQ $TSLA $NVDA",
-        "created_at": "2026-07-25T09:01:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Electroyal",
-        "body": "$GS $IREN $NVDA \n\nWe are traders and we haven’t lost any money in fact our win rate is 98% on all daily closing trades and the other 2% is salvaged to a win under our rules to not sell a stock lower than the purchase price.  So our win rate is 98 to 100%.\n\nWe use IRE and IREZ to lock in profits ever",
-        "created_at": "2026-07-25T08:52:37Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Valentino19",
+        "body": "$TSLA",
+        "created_at": "2026-07-25T11:44:32Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AntifaPunk",
+        "body": "$DJT $SPY $TQQQ $TSLA I am political, and yet everything I say is also objective. And if Trump shreds the US Constitution to erase democracy and stay a third term, there will be riots in the streets. There will be casualties. MAGA cucks will quickly learn that the left has guns, too. And MAGA is out",
+        "created_at": "2026-07-25T11:34:30Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Stocktrader365",
+        "body": "$DJT $SPY $TQQQ $TSLA \n\nI’m non political so what I say is objective. They would never put Trump in jail. It would cause massive rioting on a large scale. It would cause absolute destruction. It would cause massive casualties all over. \n\nWhat you stated will never happen. \n\nThere will also be revolu",
+        "created_at": "2026-07-25T11:09:58Z",
+        "sentiment": ""
+      },
       {
         "user": "ro0lz",
         "body": "$NVEC 200$ EOY Next boom physical AI. $TSLA",
@@ -105,24 +123,6 @@
         "body": "$SPCX  $TSLA   If any  founder / ceo promises the things elon promises (self driving robots, robotaxis, colonizine mars etc etc etc, and fails every one of those predictions and timelines.   Would you sell their stock?",
         "created_at": "2026-07-25T08:40:59Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "NatoshiSakomoto",
-        "body": "$SPCX $SPY $QQQ $TSLA $MU \n\nSpaceX👀👀👀👀",
-        "created_at": "2026-07-25T08:33:11Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $AAPL $TSLA $SPY",
-        "created_at": "2026-07-25T08:13:43Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MontgomeryB",
-        "body": "@HoulingPoochie it’s over except it this is what I ment with people fell in love with management &amp; company Instead logic,\nThey loved musk look what happen to $TSLA  $SPCX  they literally maxed out their black card to buy!!’ Now the clown is laughing calling himself former ex trillionaire on thei",
-        "created_at": "2026-07-25T08:10:09Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
@@ -189,6 +189,18 @@
     ],
     "AMD": [
       {
+        "user": "Iamwillwexler",
+        "body": "$AMD @wader2k",
+        "created_at": "2026-07-25T11:15:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Alwaysneaker",
+        "body": "$AMD the most bloated semiconductor stock in the market. Buy more and lose more",
+        "created_at": "2026-07-25T11:11:40Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "Seams",
         "body": "$AMD hows it going",
         "created_at": "2026-07-25T09:13:03Z",
@@ -235,21 +247,15 @@
         "body": "$AMD Advanced Micro Devices Price Target Raised to $640.00/Share From $515.00 by Jefferies",
         "created_at": "2026-07-25T05:37:59Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Paragonlives",
-        "body": "$AMD Advanced Micro Devices Price Target Raised to $730.00/Share From $700.00 by UBS",
-        "created_at": "2026-07-25T05:37:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JesusizKing",
-        "body": "$TSLA If this drops into the 2’s im selling all of my $NVDA &amp; loading da boat.  I’m TEAM $AMD  anyway LOL.\n\nI will retire prior to 55!",
-        "created_at": "2026-07-25T05:09:17Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "MrChoudhury",
+        "body": "$SKHY ($NVDA ) Nvidia’s new multi-hundred-billion-dollar partnership with SK Group locks in long-term HBM co-development and supply with SK Hynix while SK Telecom builds multi-gigawatt AI factories, underscoring that advanced memory is no longer a commodity: only a handful of players (SK Hynix $SKHY",
+        "created_at": "2026-07-25T11:46:30Z",
+        "sentiment": ""
+      },
       {
         "user": "destonfallon",
         "body": "$TSM https://youtu.be/_mKN12bW5XM?si=kXoe1HGaljjmGuEb",
@@ -303,15 +309,15 @@
         "body": "The AI infrastructure cycle is far from over. 🚀 \n \nRecent signals: \n \n$ASML raised its full-year revenue outlook. \n \n$TSM raised its full-year revenue outlook. \n \n$GOOG is committing over $200B in AI infrastructure CapEx. \n \n$META is planning hundreds of billions in spending over the coming years. \n",
         "created_at": "2026-07-24T22:37:08Z",
         "sentiment": ""
-      },
-      {
-        "user": "SkinnyDipping",
-        "body": "I just came upon an analyst out there who surprisingly, actually does understand how AI works, and and why demand for $MU $SNDK $STX $TSM $SOXX  stocks et all, will only continue to grow exponentially forever until we pull the plug. (Which we won’t.) \n         If you haven’t read this yet, I highly ",
-        "created_at": "2026-07-24T20:39:13Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "Stjude66",
+        "body": "$MSFT Is msft ever going back to all time high again? What is going on with this stock?",
+        "created_at": "2026-07-25T11:55:50Z",
+        "sentiment": ""
+      },
       {
         "user": "tradeordie24",
         "body": "$MSFT can someone please tell me if this is going to go up big after earnings?? I want to learn how to know this and how people get so fucking lucky with puts or calls. I lost over $4,000 on Tesla earnings and I want to recover",
@@ -365,15 +371,15 @@
         "body": "$MSFT Puts will pay!",
         "created_at": "2026-07-25T04:29:24Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Jpp24",
-        "body": "$SPY $QQQ $MSFT $AMZN $META who is most likely to  move higher next week?",
-        "created_at": "2026-07-25T03:43:57Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "hotramentrades",
+        "body": "@lk90046 yeah it’s a joke. Waymo operates in like 11US cities.$UBER operates in 15,000 cities and 72 countries. In fact $GOOG invested $208 million in Uber back in 2013 and now holds a 5% stake… all these companies will make money, but $UBER  will always be the top dog and the transportation sector!",
+        "created_at": "2026-07-25T10:56:47Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "JuiceAmsterdam",
         "body": "$MU there is a lot of concern about hyperscalers borrowing money for capex. Just know that $GOOG had a negative cash flow of 5bn with 250 bn of cash and cash equivalents. This means that they can keep this up for 50 quarters. \n\nAlso as of 2028 their earnings will grow faster than capex",
@@ -427,15 +433,15 @@
         "body": "$GOOG $TSLA these shorts are $AAPL bulls.",
         "created_at": "2026-07-25T01:45:36Z",
         "sentiment": ""
-      },
-      {
-        "user": "MountCapital",
-        "body": "$GOOG $GOOGL such dumb pumpers. \nStrip away the gains from their investment in spacex and its pe is not 16.",
-        "created_at": "2026-07-25T01:00:29Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "MicroCapsTrader",
+        "body": "$META Google had a blowout earnings but was punished for cash flow and CapEx spend. Meta’s CFO must be having sleepless nights on how to spin company’s CapEx spend story next week. Any negative readout will takeout another 15% from current levels and under $500, but if there’s any evidence of ROI on",
+        "created_at": "2026-07-25T11:04:12Z",
+        "sentiment": ""
+      },
       {
         "user": "BrandonFrasier",
         "body": "$META Danke für das Kaufsignal!",
@@ -488,12 +494,6 @@
         "user": "JDKING",
         "body": "$ORCL If $MSFT ,  $AMZN$ORCL $META   can’t justify their massive AI infrastructure investments, then semiconductor and memory stocks won’t be immune.\n\nThe entire AI supply chain ultimately depends on customer ROI. If hyperscalers stop seeing returns and don’t get market support , they slow capex. Wh",
         "created_at": "2026-07-25T02:27:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "A coalition of 25 technology companies, including Nvidia, Microsoft, Meta and Palantir, urged policymakers to avoid &quot;premature restrictions&quot; on open-weight AI models, arguing that such measures could weaken U.S. competitiveness and push innovation overseas. The group said open-weight model",
-        "created_at": "2026-07-25T02:26:19Z",
         "sentiment": ""
       }
     ]
