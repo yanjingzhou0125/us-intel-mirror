@@ -1,193 +1,205 @@
 {
-  "ts": "2026-07-26 04:05:41",
+  "ts": "2026-07-26 07:10:13",
   "tickers": {
     "NVDA": [
       {
-        "user": "spikespants",
-        "body": "$CRWV $NVDA $SKHY AI player here.  Just joined st today?\n\nHard to trust.  Give me some interaction to validate your opinion",
-        "created_at": "2026-07-26T04:03:13Z",
+        "user": "Johnny001",
+        "body": "$NVDA",
+        "created_at": "2026-07-26T06:15:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $NVDA $AAPL  \n \n1 DTE&#39;s \n \n🙃",
+        "created_at": "2026-07-26T05:59:24Z",
         "sentiment": ""
       },
       {
-        "user": "melok",
-        "body": "$NVDA what actually has enough power to break NVDA out of this ~$200–212 behavior? I think the August 26 earnings/guidance are becoming much more important than another partnership headline.",
-        "created_at": "2026-07-26T03:50:59Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "melok",
-        "body": "$NVDA SK Hynix is expected to supply $750 billion of memory chips to U.S. companies, including NVIDIA, under long-term agreements. More importantly, it describes a separate $500+ billion initiative involving NVIDIA and SK Hynix covering next-generation memory and large AI data centers.",
-        "created_at": "2026-07-26T03:49:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "melok",
-        "body": "$NVDA SK Telecom plans a 2-gigawatt AI data center using NVIDIA Vera Rubin processors and SK Hynix HBM4, with the first phase expected in 2027. \n\nThat is significant because it gives tangible evidence that demand isn’t simply ending with Blackwell. It points directly toward Rubin + HBM4 deployment a",
-        "created_at": "2026-07-26T03:49:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $SPY $QQQ $AAPL",
-        "created_at": "2026-07-26T03:45:15Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Shortsqueezegamma",
-        "body": "$CRWV  \nWhy panic? Every time CRWV hit $70 support, it violently bounced to $85-$100+! \nNow we have the ultimate catalyst: $NVDA massive $500B+ deal with $SKHY for HBM4 memory fully removes CRWV&#39;s hardware bottleneck. \n$71 is the most obvious dip-buy before the massive rebound straight to $85+! ",
-        "created_at": "2026-07-26T03:37:56Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA JoeOver",
-        "created_at": "2026-07-26T03:29:56Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $IWM $NVDA",
-        "created_at": "2026-07-26T03:20:06Z",
+        "user": "Mipel",
+        "body": "$NVDA What are the main risks that could lead to a market crash?\n&amp;quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall by",
+        "created_at": "2026-07-26T05:32:08Z",
         "sentiment": ""
       },
       {
-        "user": "RougeLegacy",
-        "body": "$NVDA calls will print Monday.",
-        "created_at": "2026-07-26T03:17:30Z",
+        "user": "Shutking",
+        "body": "$NVDA AI Spending Statistics 2026: Where $2.59 Trillion Is Going - Okay so where’s the meat. \nAI Spending Statistics 2026: The Complete Data on Where $2.59 Trillion Is Going\nGlobal AI spending is forecast to reach $2.59 trillion in 2026 - a 47% year-over-year increase per Gartner&#39;s May 2026 proj",
+        "created_at": "2026-07-26T05:31:55Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "BigCheeze2014",
-        "body": "$NBIS \n\nWhen $NVDA buys-in to 10% of $NBIS…this speaks volumes of how good the company stands and whom they will support with GPUs and anything else.",
-        "created_at": "2026-07-26T03:01:33Z",
+        "user": "Fnkychld",
+        "body": "$NVDA time to sell a bit",
+        "created_at": "2026-07-26T05:01:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "finv0000",
+        "body": "@Rickyjg866 distribution will be the differentiator once LLMs are commoditized or rate of development slows such that differences beteeen models aren’t perceptible to most, which may be already. $AAPL and $GOOGL positioned best for that scenario but one of them is dumping FCF to be on the wrong side",
+        "created_at": "2026-07-26T05:01:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Anthonybarnes4",
+        "body": "$RUM $RDDT $INTC We start FLYING when Wall Street finally takes notice that RUMBLE just acquired 9 DATA CENTERS, 22k $NVDA GPUs and 300k CPUs. Currently only ONE analyst with coverage with a price target of $22. Just wait for the first major cloud deal to come through per management:",
+        "created_at": "2026-07-26T04:53:05Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BullsandBearsxxx",
+        "body": "$SPY ita crazy the $spY chat is bearish but $nvdA chat bullish on their news. How spy going down while nvda about to",
+        "created_at": "2026-07-26T04:36:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "___dog___",
+        "body": "$AMFN $NVDA",
+        "created_at": "2026-07-26T04:33:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "___dog___",
+        "body": "$AMFN $NVDA fyi easy money. Without fusion growth slows for ai",
+        "created_at": "2026-07-26T04:30:09Z",
         "sentiment": "Bullish"
       }
     ],
     "TSLA": [
       {
         "user": "Xander1989",
-        "body": "$SHIB.X alexa play ( STFU Janice) by Drake…\n\n$AMC $DJT $BTC.X $TSLA",
-        "created_at": "2026-07-26T03:58:56Z",
+        "body": "$SHIB.X this is starting to look like an all in situation… im considering it…\n\n$AMC $DJT $TSLA $BTC.X",
+        "created_at": "2026-07-26T06:53:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Broke_Kid",
+        "body": "$TSLA  Only a matter of time.",
+        "created_at": "2026-07-26T06:40:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "trumpdisasterprez",
+        "body": "$SPCX $TSLA",
+        "created_at": "2026-07-26T06:39:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stocks_Spot",
+        "body": "$RIVN is heading into a major test with Q2 earnings due July 30. Operationally, the quarter was stronger than expected: 12,194 deliveries, supported by growth in R1, commercial vans and the first R2 deliveries. Rivian consequently raised its full-year delivery guidance to 65,000-70,000 vehicles. \n \n",
+        "created_at": "2026-07-26T06:38:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Xander1989",
+        "body": "$SHIB.X do you see.. they are trapped and confused.. they have no choice but to cover..\n\n$AMC $DOGE.X $BTC.X $TSLA",
+        "created_at": "2026-07-26T06:24:31Z",
         "sentiment": "Bullish"
       },
       {
         "user": "Xander1989",
-        "body": "$SHIB.X 4,000 dollars at 28% even… hold ….\n\n$AMC $DJT $TSLA $DOGE.X",
-        "created_at": "2026-07-26T03:53:39Z",
+        "body": "$SHIB.X they are soooo mad we only put $50 at  5.90% 😂 \n\n$AMC $DJT $TSLA $BTC.X",
+        "created_at": "2026-07-26T06:09:31Z",
         "sentiment": "Bullish"
       },
       {
         "user": "Xander1989",
-        "body": "$SHIB.X my brother said he want a blue beam, imma get him one 🚙… \n\n$AMC $DJT $TSLA $BTC.X",
-        "created_at": "2026-07-26T03:51:19Z",
+        "body": "$SHIB.X $50 dollars only at 5.90% .. let them chase now… \n\n$AMC $DJT $TSLA $BTC.X",
+        "created_at": "2026-07-26T06:06:53Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Xander1989",
-        "body": "$SHIB.X there aint no standin on business with me…  \n\n$AMC $DJT $BTC.X $TSLA",
-        "created_at": "2026-07-26T03:49:39Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Xander1989",
-        "body": "$SHIB.X alexa, play (Whisper my Name) by Drake… this party is just getting started and i feel sorry for anyone who is going to be left out tonight.. this is where the reall party is at tonight…. \n\n$AMC $DJT $TSLA $BTC.X",
-        "created_at": "2026-07-26T03:43:04Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Xander1989",
-        "body": "$SHIB.X place 3000 dollars at 27.25%- 27.50% and hold… \n\n$DJT $AMC $TSLA $BTC.X",
-        "created_at": "2026-07-26T03:40:39Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JakesFlorida",
+        "user": "stockdog88",
         "body": "$TSLA",
-        "created_at": "2026-07-26T03:35:34Z",
+        "created_at": "2026-07-26T05:58:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "stockdog88",
+        "body": "$TSLA no bubble here",
+        "created_at": "2026-07-26T05:57:19Z",
         "sentiment": "Bullish"
       },
       {
         "user": "Xander1989",
-        "body": "$SHIB.X put 100 dollars at 26.13% and also at 26.39% and hold until further notice…\n\n$TSLA $AMC $BTC.X $DOGE.X",
-        "created_at": "2026-07-26T03:30:48Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "PaddyOoohhYeah",
-        "body": "$SPY $DJT $TSLA I don&#39;t know who you think you are, nor do I care! Your posts are retarded at best. Don&#39;t you ever mistake our kindness for weakness! Ever!",
-        "created_at": "2026-07-26T03:28:23Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Xander1989",
-        "body": "$SHIB.X  the calm before the storm… exciting times… \n\n$AMC $DJT $TSLA $BTC.X",
-        "created_at": "2026-07-26T03:22:26Z",
+        "body": "$SHIB.X 5,000 dollars at 4.50% and hold ✅✅✅\n\n$AMC $DJT $TSLA $BTC.X",
+        "created_at": "2026-07-26T05:50:22Z",
         "sentiment": "Bullish"
       }
     ],
     "AAPL": [
       {
+        "user": "Stocks_Spot",
+        "body": "$AAPL heads into its July 30 earnings report near record levels. That means “good” may not be good enough. Investors will want strong iPhone and Services growth, plus evidence that the new Siri and Apple Intelligence can create real commercial value. \n \nRelated ticker: $AVGO. Apple expanded its mult",
+        "created_at": "2026-07-26T07:07:00Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $NVDA $AAPL  \n \n1 DTE&#39;s \n \n🙃",
+        "created_at": "2026-07-26T05:59:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ihatemylifesavings",
+        "body": "$XCN.X $AAPL $MU $SNDK $META stat connected https://x.com/Onyx/status/2080361311704080471",
+        "created_at": "2026-07-26T05:38:22Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BreakoutsHappen",
+        "body": "Earnings This Week (Jul 27–31): $MSFT, $META, $AAPL, $AMZN Expected to Beat Estimates \n \nhttps://breakoutshappen.com/stock-news/earnings-this-week-jul-27-31-msft-meta-aapl-amzn-expected-to-beat-estimates-briefing",
+        "created_at": "2026-07-26T05:37:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$AAPL-: What are the main risks that could lead to a market crash?\n&amp;quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall ",
+        "created_at": "2026-07-26T05:34:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "finv0000",
+        "body": "@Rickyjg866 distribution will be the differentiator once LLMs are commoditized or rate of development slows such that differences beteeen models aren’t perceptible to most, which may be already. $AAPL and $GOOGL positioned best for that scenario but one of them is dumping FCF to be on the wrong side",
+        "created_at": "2026-07-26T05:01:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "finv0000",
+        "body": "$AAPL only mag 7 not up to their eyeballs in AI capex, told everyone the truth about why that is a long time ago. LLM’s do some clever stuff but returns on development are diminishing far from claimed capabilities. $SPY \n\nhttps://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf",
+        "created_at": "2026-07-26T04:52:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "biolab",
+        "body": "$AAPL let’s go gays for Palestine you fucking retards",
+        "created_at": "2026-07-26T04:50:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "itsrucka",
+        "body": "$AAPL new iPhones will cost 800,000 dollars each",
+        "created_at": "2026-07-26T04:15:56Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "investing_dans_valeur",
         "body": "$AMD $NVDA $SPY $QQQ $AAPL",
         "created_at": "2026-07-26T03:45:15Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Rocksolidinvestments",
-        "body": "$FSRNQ $AAPL https://www.caranddriver.com/news/a73247269/fords-30000-ev-truck-integrated-apple-maps/",
-        "created_at": "2026-07-26T02:43:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "CNGLLC",
-        "body": "@stockswinger101 @MarketMaestro1 dont forget $AAPL",
-        "created_at": "2026-07-26T02:26:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AAPL $SPY $NVDA $TSLA $AMD",
-        "created_at": "2026-07-26T02:07:09Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "wallstreet_gangsta2",
-        "body": "$SPY $AAPL $META the best president we ever have . 19 trillion $ invested , inflation gone , economy booming , powerhouse consumers on the planet earth thanks to more $ in consumers pockets . We must win house senate this midterm . Let’s goooooo 😎😎😎😎🤘🤘🤘",
-        "created_at": "2026-07-26T02:01:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL lol 🤣😂🤣😂🙌🙌🙌🇺🇸🇺🇸🇺🇸",
-        "created_at": "2026-07-26T01:50:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL  this is what happens when they want to get rid of Christianity!",
-        "created_at": "2026-07-26T01:30:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "OnlyInItForTheMoney",
-        "body": "$DJT $SPY $TQQQ $TSLA $AAPL  \nGive it &quot;Two Weeks.&quot;",
-        "created_at": "2026-07-26T00:31:15Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "rcx420_69",
-        "body": "$DJT $SPY $TQQQ $TSLA $AAPL You don&#39;t understand neither side gives a sh*t about healthcare.  They are their biggest donors especially on the D side.  Ever since Obama care , the Government has paid the 3000% increase in bills instead of people defaulting or paying a fair price being uninsured. ",
-        "created_at": "2026-07-26T00:14:54Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL",
-        "created_at": "2026-07-26T00:08:50Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Mipel",
+        "body": "$AMD What are the main risks that could lead to a market crash?\n&quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall by tens",
+        "created_at": "2026-07-26T05:30:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "anamkm",
+        "body": "$AMD Atvk Promising",
+        "created_at": "2026-07-26T04:24:07Z",
+        "sentiment": ""
+      },
       {
         "user": "hawk36",
         "body": "$AMD BANK OF AMERICA $620  target 🎯 \n\n🤡 comically low 🤡",
@@ -235,21 +247,15 @@
         "body": "$AMD",
         "created_at": "2026-07-26T01:45:50Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Iamwillwexler",
-        "body": "$AMD looks like they were worrying about the wrong, folks. Unexpectedly",
-        "created_at": "2026-07-26T01:32:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Estabon",
-        "body": "$AMD 750 after earnings bitches",
-        "created_at": "2026-07-26T01:05:07Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "Mipel",
+        "body": "$TSM-:! What are the main risks that could lead to a market crash?\n&amp;quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall ",
+        "created_at": "2026-07-26T05:44:05Z",
+        "sentiment": ""
+      },
       {
         "user": "AlphaBull_10M",
         "body": "$NVDA $INTC $QCOM $TSM $SOXL",
@@ -303,15 +309,45 @@
         "body": "$TSM banking big for as far as the eye can see but selling off hard. Evidence of emotional traders cratering, while in the background, smart money double downs",
         "created_at": "2026-07-24T23:58:10Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "That1Foolio",
-        "body": "$INTC $MU $TSM $UMC What are the chances of an interest rate cut on the 29th?",
-        "created_at": "2026-07-24T23:46:01Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "Stocks_Spot",
+        "body": "$PATH closed Friday up 6.3% at $10.84 on unusually heavy volume. The interesting part: there was no obvious new company-specific announcement explaining the entire move. For now, this looks more like a sentiment and volume event than confirmation of a fundamental breakout. \n \nThe next earnings repor",
+        "created_at": "2026-07-26T06:51:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Eltek",
+        "body": "$MSFT Everything is fixed at this point. CapEx is what it is. All you can bet on is that the market will react favorably to whatever they report in regards to CapEx. They aren&#39;t going to be like &quot;oh golly, CapEx came in lower than we expected lol!&quot; It&#39;s going to be: yeah we&#39;ve ",
+        "created_at": "2026-07-26T06:11:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BreakoutsHappen",
+        "body": "Earnings This Week (Jul 27–31): $MSFT, $META, $AAPL, $AMZN Expected to Beat Estimates \n \nhttps://breakoutshappen.com/stock-news/earnings-this-week-jul-27-31-msft-meta-aapl-amzn-expected-to-beat-estimates-briefing",
+        "created_at": "2026-07-26T05:37:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$MSFT -: What are the main risks that could lead to a market crash?\n&amp;quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall",
+        "created_at": "2026-07-26T05:35:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "xElysian",
+        "body": "$MSFT Green on Monday.",
+        "created_at": "2026-07-26T04:52:44Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "anamkm",
+        "body": "$MSFT Atvk Promising",
+        "created_at": "2026-07-26T04:28:58Z",
+        "sentiment": ""
+      },
       {
         "user": "Unhappytrader28",
         "body": "$MSFT anyways, curious to see how earnings come in this quarter. Stock has been beaten down, sidelines for now.",
@@ -335,45 +371,15 @@
         "body": "$ORCL $PLTR $MSFT $INTC     \nDid Trump just TACO again? \n\nhttps://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
         "created_at": "2026-07-26T00:06:07Z",
         "sentiment": ""
-      },
-      {
-        "user": "hedgefundme",
-        "body": "$MSFT not like Google always first to report the tune changes",
-        "created_at": "2026-07-25T23:21:31Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "fismael",
-        "body": "$MSFT $GOOGL $META $AMZN  \n \nAlot of people are shouting on these tickers, and cheering the tickers that are on the other side of the table benefiting from them spending. I&#39;m very bullish on technology and the future, but, these companies are doing is investing on their future, these are mature ",
-        "created_at": "2026-07-25T23:15:49Z",
-        "sentiment": ""
-      },
-      {
-        "user": "titan421",
-        "body": "$MSFT Facts!",
-        "created_at": "2026-07-25T22:26:03Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "titan421",
-        "body": "$MSFT Facts!",
-        "created_at": "2026-07-25T22:25:54Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "titan421",
-        "body": "$MSFT Lots of beers, bears will be happy!",
-        "created_at": "2026-07-25T22:25:00Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "DidYouReadThis",
-        "body": "$MSFT What’s your best tech related Halloween joke or riddle?",
-        "created_at": "2026-07-25T21:39:10Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "Techdamentals",
+        "body": "$GOOGL $GOOG Weekly chart on Google not looking good. breakdown with big volume on the weekly. Look for a possible retrace to $330 before it starts going down again, it may or may not. If it does, we&#39;ll look for shorts. Free Cash flow is negative $5B due to CapX spending.",
+        "created_at": "2026-07-26T04:13:22Z",
+        "sentiment": ""
+      },
       {
         "user": "intrader",
         "body": "$GOOG is this graph true?",
@@ -427,15 +433,27 @@
         "body": "$GOOGL This chart is absolute madness. $GOOG spent two decades generating an ocean of positive free cash flow, and the AI capex curve just wiped out a full Q of it in one shot. \n \nQ2 FCF: -$5.9B  \nQ2 CapEx: $44.9B (record high, more than doubled YoY) \nOp cash flow: $39.1B... the core biz is still a ",
         "created_at": "2026-07-25T16:45:11Z",
         "sentiment": ""
-      },
-      {
-        "user": "discussionbo7",
-        "body": "$META $MU $GOOG \n$SNDK really smart bulls",
-        "created_at": "2026-07-25T15:54:03Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
+      {
+        "user": "Ihatemylifesavings",
+        "body": "$XCN.X $AAPL $MU $SNDK $META stat connected https://x.com/Onyx/status/2080361311704080471",
+        "created_at": "2026-07-26T05:38:22Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BreakoutsHappen",
+        "body": "Earnings This Week (Jul 27–31): $MSFT, $META, $AAPL, $AMZN Expected to Beat Estimates \n \nhttps://breakoutshappen.com/stock-news/earnings-this-week-jul-27-31-msft-meta-aapl-amzn-expected-to-beat-estimates-briefing",
+        "created_at": "2026-07-26T05:37:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$META -What are the main risks that could lead to a market crash?\n&amp;quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall b",
+        "created_at": "2026-07-26T05:34:12Z",
+        "sentiment": ""
+      },
       {
         "user": "wallstreet_gangsta2",
         "body": "$SPY $AAPL $META the best president we ever have . 19 trillion $ invested , inflation gone , economy booming , powerhouse consumers on the planet earth thanks to more $ in consumers pockets . We must win house senate this midterm . Let’s goooooo 😎😎😎😎🤘🤘🤘",
@@ -476,24 +494,6 @@
         "user": "pmcapitaltrading",
         "body": "$SPY $RDDT People often forget men are simple creatures $META $SPCX $NVDA",
         "created_at": "2026-07-25T23:32:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY almost the 1st of the month. $META $BTC.X $RDDT",
-        "created_at": "2026-07-25T23:28:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "everevolving09",
-        "body": "$META $NVDA $SPCX",
-        "created_at": "2026-07-25T23:28:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$META  🛑🛑🛑you’re witnessing the decay of America and every single aspect compliments of the Democrat party",
-        "created_at": "2026-07-25T23:23:33Z",
         "sentiment": ""
       }
     ]
