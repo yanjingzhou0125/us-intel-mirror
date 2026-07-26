@@ -1,69 +1,111 @@
 {
-  "ts": "2026-07-26 09:33:04",
+  "ts": "2026-07-26 11:19:04",
   "tickers": {
     "NVDA": [
       {
-        "user": "Thinking101",
-        "body": "$MBLY the setup 😍🤑\n\n$INTC $UBER $NVDA $TSLA",
-        "created_at": "2026-07-26T09:22:59Z",
+        "user": "JElway",
+        "body": "$NVDA",
+        "created_at": "2026-07-26T11:12:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "cryptogenuineuser",
+        "body": "$NVDA  \nStructure: Medium-term uptrend remains intact above the rising 100-hour SMA near $199.70, but price has slipped below the 50-hour SMA and G-Trend resistance around $208.80–209.20. \nMomentum: Neutral-to-soft after repeated failures near $210–214. Selling pressure is controlled rather than imp",
+        "created_at": "2026-07-26T11:09:04Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "amberajax2point0",
-        "body": "$CRWV $IREN $NBIS $NVDA because excess inventory storage closets, where the only difference is the ticker, aren’t worth anything.",
-        "created_at": "2026-07-26T09:21:12Z",
+        "user": "Stocks_Spot",
+        "body": "$NVDA remains the benchmark for AI infrastructure, but competition is getting more serious. $AMD now has its Helios platform with MI455X accelerators in production and is targeting NVIDIA’s data-center position through major customers including OpenAI and Anthropic. \n \nAMD gaining ground does not au",
+        "created_at": "2026-07-26T11:02:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stocks_Spot",
+        "body": "$CAT faces an important test when Caterpillar reports Q2 results on August 4. The company is no longer just a construction and mining story. Surging demand for generators, turbines and large engines powering AI data centers has turned CAT into an indirect AI-infrastructure play. \n \nQ1 revenue increa",
+        "created_at": "2026-07-26T10:53:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "potanginamo",
+        "body": "$NVDA $QQQ $SPY same old sht, everytime market goes lower they announce deal on each other, lol nothing new.",
+        "created_at": "2026-07-26T10:52:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stocks_Spot",
+        "body": "$AMTM is back in focus after DOE/NNSA selected Amentum to negotiate a major AI and energy infrastructure project at the Savannah River Site. The proposal combines a 1 GW AI data center with roughly 2 GW of dedicated power generation, initially using natural gas and potentially transitioning toward a",
+        "created_at": "2026-07-26T10:50:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Fasiel",
+        "body": "$NVDA Tomorrow will be a price explosion 💚💚💚💚",
+        "created_at": "2026-07-26T10:49:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA JoeOver",
+        "created_at": "2026-07-26T10:43:42Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "TalkMarkets",
-        "body": "Why Are Nvidia-Backed CoreWeave, Nebius, And IREN Stocks Plunging? $NBIS $IREN $CRWV $NVDA  \nhttps://talkmarkets.com/article/why-are-nvidia-backed-coreweave-nebius-and-iren-stocks-plunging-1785057057",
-        "created_at": "2026-07-26T09:12:09Z",
+        "user": "theredpill1116",
+        "body": "$NVDA $IREN $CRWV $NBIS $INTC https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+        "created_at": "2026-07-26T10:01:35Z",
         "sentiment": ""
       },
       {
-        "user": "Championinvestor",
-        "body": "$NVDA I clearly see Nvidia stock going all time highs, I’m also not a biased forever bull, but this is an opportunity to buy the stock and hold because before earnings this is going close to all time high.",
-        "created_at": "2026-07-26T08:34:57Z",
+        "user": "Shortsqueezegamma",
+        "body": "$CRWV  \n​$72 IS THE ABSOLUTE BOTTOM. Institutional buyers are stepping in heavily while retail is panic-selling. \n$NVDA &amp; $SKHY $500B+ deal guarantees hardware supply for $CRWV  — $99B+ backlog is officially UNLOCKED. \nShorts are trapped in a deadly setup before Aug 11 earnings. Reclaim of $85+ ",
+        "created_at": "2026-07-26T09:39:20Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Championinvestor",
-        "body": "$NVDA “Massive News for Nvidia shareholders” $SPY $QQQ \n\n“Nvidia locks in $500 billion Al partnership with SK Group that will generate billions of revenues &amp; profits for Nvidia”\n\nWSJ",
-        "created_at": "2026-07-26T08:33:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "NaomiSigmon",
-        "body": "$NVDA  \n \nLooking good out there today. Keep the focus: discipline over emotion, process over outcome. Trade with a plan, trade with patience. 💹 Stay informed and catch the opportunities!  \n \n@NaomiSigmon",
-        "created_at": "2026-07-26T07:51:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GrowingWealth",
-        "body": "$SPY $QQQ $NVDA $MU &lt;&lt;&lt;Stockpile Warnings: The Pentagon has already utilized over 1,200 Patriot interceptor missiles since the war began... now shifting toward diplomacy.   \n \n——The White House stated that while a naval blockade remains in full effect, President Trump prefers a diplomatic r",
-        "created_at": "2026-07-26T07:33:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GoldManStackz",
-        "body": "$IWM $NVDA $QQQ $SPY",
-        "created_at": "2026-07-26T07:12:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Splinters_options001",
-        "body": "7/24 Notable Options Flow 📊\n\n🟢 $AMZN – 250C | 09/04/2026 | $3.8M premium | $6.73 avg\n🟢 $NVDA – 230C | 09/04/2026 | $4.4M premium | $5.04 avg\n\n🔴 $IREN – 33.5P | 08/21/2026 | $3.7M premium | $3.38 avg\n🔴 $NBIS – 170P | 08/07/2026 | $49M premium | $15.61 avg\n\nKeep these names on your watchlist. Large op",
-        "created_at": "2026-07-26T07:11:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GoldManStackz",
-        "body": "$NVDA",
-        "created_at": "2026-07-26T07:10:53Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "cryptogenuineuser",
+        "body": "$TSLA  \nStructure: Severe breakdown with price near $311, materially below all major hourly moving averages and beneath a steeply declining bearish cloud. \nMomentum: Deeply negative, although the first selling climax has passed and the oscillator is attempting to recover from oversold territory. \nSu",
+        "created_at": "2026-07-26T11:18:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ahsan2026",
+        "body": "$TSLA Let&#39;s go to 400 quick enough !!",
+        "created_at": "2026-07-26T10:53:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "WhyRUPumping",
+        "body": "$AMC $BTC.X $DJT $TSLA this fool is down a lot on a lot, keep pumping loser.",
+        "created_at": "2026-07-26T10:48:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JakesFlorida",
+        "body": "$TSLA $315+",
+        "created_at": "2026-07-26T10:28:47Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JakesFlorida",
+        "body": "$TSLA",
+        "created_at": "2026-07-26T10:11:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DIRTYCASH",
+        "body": "$TSLA  $SPCX\n\nTRUMP AND PUTIN BOTH STUCK IN A WAR THEY STARTED AND CANNOT WIN….\n\nHE CANT EVEN TURN A POOL BLUE SO DON’T\nGET OUR HOPES UP ABOUT SORTING IRAN BEFORE THE MIDTERMS!",
+        "created_at": "2026-07-26T09:42:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "sam92",
+        "body": "$TSLA \n\nhttps://x.com/i/status/2080646429576454157",
+        "created_at": "2026-07-26T09:40:23Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Thinking101",
         "body": "$MBLY the setup 😍🤑\n\n$INTC $UBER $NVDA $TSLA",
@@ -81,48 +123,6 @@
         "body": "$TSLA $SPCX \n\nThe way Elon tries to invalidate normal people (ie, his life is worth more than your life) makes me want Tesla to bottom at 100 and Space X at 50.",
         "created_at": "2026-07-26T08:53:53Z",
         "sentiment": ""
-      },
-      {
-        "user": "PitaPierogi",
-        "body": "$SMCI $SPCX $TSLA SHORTS ARE COOKED.",
-        "created_at": "2026-07-26T08:27:31Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FuelCellWolf",
-        "body": "$TSLA every $ loss of this share means some 600 millions $ loss for Elon. That are good news",
-        "created_at": "2026-07-26T08:15:11Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "NatoshiSakomoto",
-        "body": "$SPCX $SPY $TSLA $QQQ $MU \n\nGreen candles on Monday and this week will be epic though…I agreed the rest…After August 4th bloodbath expected with 900M more shares…Anything under $120 is bargain on Monday morning…",
-        "created_at": "2026-07-26T08:07:52Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Sntfx",
-        "body": "$TSLA last time short have bounced at 280... We can repeat It?",
-        "created_at": "2026-07-26T08:07:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Xander1989",
-        "body": "$AMC $DJT $TSLA $BTC.X",
-        "created_at": "2026-07-26T08:02:50Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Xander1989",
-        "body": "$SHIB.X $TSLA $SPY $BTC.X $DOGE.X",
-        "created_at": "2026-07-26T07:51:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "NatoshiSakomoto",
-        "body": "$SPCX $SPY $DJT $QQQ $TSLA \n\nAll the way up… SpaceX to the moon…",
-        "created_at": "2026-07-26T07:41:15Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "Stocks_Spot",
+        "body": "$NVDA remains the benchmark for AI infrastructure, but competition is getting more serious. $AMD now has its Helios platform with MI455X accelerators in production and is targeting NVIDIA’s data-center position through major customers including OpenAI and Anthropic. \n \nAMD gaining ground does not au",
+        "created_at": "2026-07-26T11:02:28Z",
+        "sentiment": ""
+      },
+      {
         "user": "Iamwillwexler",
         "body": "$AMD  @hawk36 \n\nhttps://x.com/washghost1/status/2080872618475876479?s=46",
         "created_at": "2026-07-26T09:15:39Z",
@@ -241,15 +247,15 @@
         "body": "$AMD earnings are going to be epic",
         "created_at": "2026-07-26T02:37:54Z",
         "sentiment": ""
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AAPL $SPY $NVDA $TSLA $AMD",
-        "created_at": "2026-07-26T02:07:09Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "Stocks_Spot",
+        "body": "$NVDA remains the benchmark for AI infrastructure, but competition is getting more serious. $AMD now has its Helios platform with MI455X accelerators in production and is targeting NVIDIA’s data-center position through major customers including OpenAI and Anthropic. \n \nAMD gaining ground does not au",
+        "created_at": "2026-07-26T11:02:28Z",
+        "sentiment": ""
+      },
       {
         "user": "Mipel",
         "body": "$TSM-:! What are the main risks that could lead to a market crash?\n&amp;quot;One of the biggest risks in my opinion is if China invades Taiwan or even imposes a naval blockade on it. The entire chip industry in the world will undergo a complete turnaround, and all the markets in the world will fall ",
@@ -303,15 +309,33 @@
         "body": "$NVDA $SMCI $TSM $DRAM.X $SKHY  \nBREAKING NEWS --- (BLOOMBERG LIVE) \n&#39;NVIDIA TO INVEST $1 BILLION IN NAVER AND EXPAND SK GROUP ACCORD&#39;",
         "created_at": "2026-07-25T00:39:47Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Q_TIPS",
-        "body": "$TSM banking big for as far as the eye can see but selling off hard. Evidence of emotional traders cratering, while in the background, smart money double downs",
-        "created_at": "2026-07-24T23:58:10Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "DeFi_Wookie",
+        "body": "$OPEAZZX.P $ANTHZZX.P $GOOGL The idea that there was a moat was an illusion. Now is the ideal time to create an AI model. You can distill everything from the models that Spent trillions and have a Model that’s equal for a couple pennies for every $1,000 they spent. $MSFT $AMZN",
+        "created_at": "2026-07-26T11:13:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "THE_TRADE",
+        "body": "$MSFT \n\nAckman sold Alphabet to make Microsoft his core position\n\nBurry is Long Microsoft \n\nWhat more can I say......",
+        "created_at": "2026-07-26T10:56:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PutsOnMyself",
+        "body": "$MSFT most suffocating dogshit on the market",
+        "created_at": "2026-07-26T10:05:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Sagro",
+        "body": "$GOOG   @ChillerID   \nYou wrote: &quot;Quantum cracking crypto... only less than 1% of blockchains are quantum-safe today.  \n The challenge is now more than 50% ahead of Google&#39;s estimated quantum capability required to break ECDSA. &quot; \n \nQuestion for you expert: How much quantum  compute is",
+        "created_at": "2026-07-26T09:59:08Z",
+        "sentiment": ""
+      },
       {
         "user": "Stocks_Spot",
         "body": "$PATH closed Friday up 6.3% at $10.84 on unusually heavy volume. The interesting part: there was no obvious new company-specific announcement explaining the entire move. For now, this looks more like a sentiment and volume event than confirmation of a fundamental breakout. \n \nThe next earnings repor",
@@ -347,33 +371,27 @@
         "body": "$MSFT Atvk Promising",
         "created_at": "2026-07-26T04:28:58Z",
         "sentiment": ""
-      },
-      {
-        "user": "Unhappytrader28",
-        "body": "$MSFT anyways, curious to see how earnings come in this quarter. Stock has been beaten down, sidelines for now.",
-        "created_at": "2026-07-26T01:44:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "titan421",
-        "body": "$MSFT 50/50 chance on earnings, my bet is load up for downside! This company and CEO are trash!",
-        "created_at": "2026-07-26T01:33:10Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "JDKING",
-        "body": "$INTC $MSFT $NVDA $ORCL $PLTR So the TACO news and that 950B deal should  give the market a boost on Monday",
-        "created_at": "2026-07-26T00:46:51Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JDKING",
-        "body": "$ORCL $PLTR $MSFT $INTC     \nDid Trump just TACO again? \n\nhttps://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-        "created_at": "2026-07-26T00:06:07Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "gracie33",
+        "body": "$GOOG Long play",
+        "created_at": "2026-07-26T11:00:18Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Sagro",
+        "body": "$GOOG   @ChillerID   \nYou wrote: &quot;Quantum cracking crypto... only less than 1% of blockchains are quantum-safe today.  \n The challenge is now more than 50% ahead of Google&#39;s estimated quantum capability required to break ECDSA. &quot; \n \nQuestion for you expert: How much quantum  compute is",
+        "created_at": "2026-07-26T09:59:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MountCapital",
+        "body": "$GOOG Below $300 next week",
+        "created_at": "2026-07-26T09:51:56Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "cayenne",
         "body": "$CBRS “Record Speeds: Cerebras runs Google’s Gemma 4 (such as the 31B model) at over 1,800 output tokens per second, which is significantly faster than standard GPU endpoints.Multimodal Execution: It enables real-time visual and agentic workflows by processing multimodal data streams nearly instantl",
@@ -415,24 +433,6 @@
         "body": "$SPCX $GOOG",
         "created_at": "2026-07-25T21:35:42Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "pauldrew2006",
-        "body": "$AMZN $GOOG $META $MSFT \nAgreed, but is this the price to add. The more you own the more protection in puts you need unless you can absorb massive short term unrealized losses.",
-        "created_at": "2026-07-25T21:08:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ArcValueTrade",
-        "body": "Clues for Stock market directions-                   \n                                                                                                                                           \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                      ",
-        "created_at": "2026-07-25T21:07:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "The 10 Stocks That Decide This Bull Market $AAPL $AMZN $GOOG $META $MSFT https://talkmarkets.com/article/the-10-stocks-that-decide-this-bull-market-1784989398",
-        "created_at": "2026-07-25T20:31:44Z",
-        "sentiment": ""
       }
     ],
     "META": [
