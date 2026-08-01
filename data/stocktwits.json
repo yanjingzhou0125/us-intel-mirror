@@ -1,69 +1,87 @@
 {
-  "ts": "2026-08-01 16:59:16",
+  "ts": "2026-08-01 18:05:44",
   "tickers": {
     "NVDA": [
       {
-        "user": "Noisy",
-        "body": "$NVDA $QQQ $SPY The isreal official always declare they arent aware of anything",
-        "created_at": "2026-08-01T16:58:27Z",
+        "user": "Magaman2024",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX The fiber analogy misses the point. Dark fiber sat idle; ORCL&#39;s data centers are booked before they even open. The margins are low now because of massive upfront buildout costs, not a lack of pricing power. Long ORCL",
+        "created_at": "2026-08-01T17:59:09Z",
         "sentiment": ""
       },
       {
-        "user": "IssaCapitalLP",
-        "body": "$CRWV $META $NVDA $ORCL $SPCX Good charts. They absolutely show the market is pricing higher execution risk. But they’re not proof Oracle is heading for insolvency.\n\nFirst, CDS reflects market pricing of credit risk, not a certainty of default. Credit spreads can overshoot when sentiment is extreme.",
-        "created_at": "2026-08-01T16:57:40Z",
+        "user": "o_0_O_0_o",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX \n\nAll of these seperate narratives being asserted on Oracle each require lots *LOTS* of work to really pick apart and unravel. Institutions are thinking much broader terms of managing hundreds of even thousands of companies in their portfolios. \n\nNo single decision make",
+        "created_at": "2026-08-01T17:49:29Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ManifestVisions",
+        "body": "$NVDA 210 Monday.",
+        "created_at": "2026-08-01T17:48:27Z",
         "sentiment": "Bullish"
       },
       {
         "user": "o_0_O_0_o",
-        "body": "$CRWV $META $NVDA $ORCL $SPCX \n\nOf OpenAI can’t make good on the $350 billion RPO, Oracle will go *CLICK* and reassign that extremely high demand compute to the next customer who wants it even more. OpenAI will still\nbe contracturally obligated regardless. \n\nSame as Musk leased his Colossus compute ",
-        "created_at": "2026-08-01T16:57:10Z",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX Oracle by itself is not an easy company to understand, plus on top of that there has been a large poostorm of very complicated narratives going around that are being applied to Oracle.\n\n- No ROI in AI (go ahead and try disproving that)\n- Saaspocalypse (try proving AI wo",
+        "created_at": "2026-08-01T17:45:30Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "IssaCapitalLP",
-        "body": "$CRWV $META $NVDA $ORCL $SPCX Appreciate the thoughtful response. A few points though. A ~200 bp CDS does not mean Oracle is expected to default—it reflects market-implied risk under assumptions like recovery rates and risk premia. More importantly, your thesis hinges on the assumption that OpenAI w",
-        "created_at": "2026-08-01T16:50:33Z",
+        "user": "AlphaBull_10M",
+        "body": "$NVDA $INTC $AMD $TSM $SOXX",
+        "created_at": "2026-08-01T17:39:23Z",
         "sentiment": "Bullish"
+      },
+      {
+        "user": "OnTheBalance",
+        "body": "$SLS \nJust a thought. The paid-for bear-sounding, negatives trolling is possibly from the Bullish funds that now feel that they can buy in. Not just from trapped bear side bettors.\n\nBack in late 2016, most of the short reports on $NVDA from Citron Research aka Andrew Left was sponsored by funds that",
+        "created_at": "2026-08-01T17:36:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Jointheask",
+        "body": "$SPY $NVDA Bullish Reversal * Charting Lesson * For Beginners\nhttps://youtu.be/tRZ1kSeuPrY",
+        "created_at": "2026-08-01T17:33:59Z",
+        "sentiment": ""
       },
       {
         "user": "BazingAC",
-        "body": "$META $NVDA $ORCL $SPCX $CRWV \n\nThx for asking, here is the answer:\n\nOrcl cds at 200+ implies a 16% chance of default in the next 5 yrs (~3.5% annual rate).. this is real math, real CDS pricing (insurance PAID), not my opinion or &quot;fear dressed up as analysis&quot;\n\nFor me, the risk isnt only in",
-        "created_at": "2026-08-01T16:47:58Z",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX \n\nThe same was said about the demand for fiber last time around... The demand was insatiable... Then how did the PRICE of that product/service collapse 80%?\n\nI dont doubt there is demand... But at what price?\nLate last year reports already came out stating that margins ",
+        "created_at": "2026-08-01T17:27:06Z",
         "sentiment": ""
+      },
+      {
+        "user": "eal163",
+        "body": "$NVDA Following the July 2026 earnings season, the Big Four—Amazon, Alphabet, Microsoft, and Meta—have raised or firmed up their full-year 2026 CapEx projections to a staggering combined total of approximately $725 billion to $765 billion, representing a roughly 77% year-over-year increase from 2025",
+        "created_at": "2026-08-01T17:26:00Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "bullishforeverbrah",
-        "body": "$NVDA 0 next week",
-        "created_at": "2026-08-01T16:46:22Z",
+        "body": "$NVDA free shares after bankruptcy",
+        "created_at": "2026-08-01T17:20:58Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "MultimanMV",
-        "body": "$NVDA amazon just deatroyed any remaining shred of bear thesis. Roi has been proven quarter after quarter. Revenues have increased  20% and aws grew year over year by 37%, its fastest growth in 18 quarters. Capex expenditure has been increased to 220 billion for 2026. There is no slowing the AI trai",
-        "created_at": "2026-08-01T16:46:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JoeDirtay3",
-        "body": "$NVDA will rally on $AMD  earnings and amd will crash 40% lol",
-        "created_at": "2026-08-01T16:44:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MacroHard26",
-        "body": "$SPCX $TSLA $SPY $NVDA \nhttps://x.com/elonmusk/status/2083353705504469233?s=46",
-        "created_at": "2026-08-01T16:39:21Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "o_0_O_0_o",
-        "body": "$ORCL $NVDA $AMZN $MSFT \n\nPublic relations specialist Ed Ziton has been all over the news, lately on Bloomberg, preaching a bear case for Artificial Intelligence.  \n\nHe claims the customer concentration in OpenAI and Anthropic present a systemic risk to the industry. \n\nThoughts? \n\nhttps://youtu.be/N",
-        "created_at": "2026-08-01T16:33:45Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "PaulieS13",
+        "body": "$TSLA 10 years ago trading at 15-16, how d that work out for investors",
+        "created_at": "2026-08-01T18:01:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR Dr Karp tell Wall St that you hired 100 ”SALE ORGANIZERS”!!!  Who the fuck cares if its true or not!!! Pull an Elon of $TSLA $SPCX !!! \n$SPY  $MOON  \n \nhttps://sih-st-charts.stocktwits-cdn.com/fit-in/300x0/filters:quality(75)/production/original_551230373.gif",
+        "created_at": "2026-08-01T18:01:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "banana2765",
+        "body": "$TSLA Tesla is not a car company; it&#39;s a tech giant. Its AI capital expenditures will, like Amazon&#39;s AWS in its early days, translate into disruptive, exclusive profits in the coming years.",
+        "created_at": "2026-08-01T17:40:58Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "johnrivers0110",
         "body": "$TSLA 🔺🔺",
@@ -105,27 +123,27 @@
         "body": "$TSLA\n\nWeekend homework. Pull your last 20 trades and mark each one either &quot;first green candle off a pullback&quot; or &quot;extended chase.&quot;\n\nNo judging, just counting.\n\nThe count is the lesson.\n\nWhich pile is bigger than you expected?",
         "created_at": "2026-08-01T15:18:57Z",
         "sentiment": ""
-      },
-      {
-        "user": "Green_dillo",
-        "body": "$TSLA 1wk &#39;20,&#39;50",
-        "created_at": "2026-08-01T15:18:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SamsonStreet",
-        "body": "$NVDA $AMZN $META $TSLA $GOOGL \n\nWidening CDS spreads across parts of the AI complex:",
-        "created_at": "2026-08-01T14:36:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Cpstrag",
-        "body": "$TSLA fly high TESLA!",
-        "created_at": "2026-08-01T14:06:34Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "banana2765",
+        "body": "$AAPL Apple&#39;s stock price is definitely going to see a short-term correction. What do you all think?",
+        "created_at": "2026-08-01T17:50:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HotNHornyBoy",
+        "body": "$QQQ $AAPL CXMT  has reportedly completed R&amp;D verification of its first LPDDR6 memory, reaching speeds of 12.8 Gbps, marking a key step toward mass production. \n\nThe chip is said to use the company&#39;s G4 DRAM process and could begin customer sampling before volume production. LPDDR6 offers hi",
+        "created_at": "2026-08-01T17:12:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Milago",
+        "body": "$AAPL",
+        "created_at": "2026-08-01T17:06:34Z",
+        "sentiment": ""
+      },
       {
         "user": "KK_KK",
         "body": "$AAPL I probably caused the drop by switching to a Samsung Galaxy from an iPhone (been with them for over a decade).",
@@ -167,27 +185,51 @@
         "body": "$AAPL",
         "created_at": "2026-08-01T15:48:24Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "magiccat",
-        "body": "$AAPL $AMZN $QQQ $SPY there is room under the desk … traders can now have it all! 😂",
-        "created_at": "2026-08-01T15:47:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $AMZN $AAPL \n#letstrade🎬📨",
-        "created_at": "2026-08-01T15:44:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "davidlviel10555",
-        "body": "$AAPL",
-        "created_at": "2026-08-01T15:41:44Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "billbraski1777",
+        "body": "$AMD pre-announce at 4:14pm edt on Tuesday??",
+        "created_at": "2026-08-01T17:55:16Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Jj0320011",
+        "body": "$AMD",
+        "created_at": "2026-08-01T17:50:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PashaGainz",
+        "body": "$AMD $ALT $ELF $SOFI $CELH \n\nNow that FOMC is behind us and the Fed held rates steady, one of the biggest overhangs on the market is out of the way. The bulk of the liquidation and forced positioning looks to be behind us as well. I still expect some leftover volatility over the next few sessions, b",
+        "created_at": "2026-08-01T17:43:07Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AlphaBull_10M",
+        "body": "$NVDA $INTC $AMD $TSM $SOXX",
+        "created_at": "2026-08-01T17:39:23Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$AMD $AMZN $HOOD \n\n$GOOG calls paid up \n\nStop blowing your dad’s account lol 😂 \nLearn Kung Fu",
+        "created_at": "2026-08-01T17:21:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "WallStJesus",
+        "body": "$AMD —",
+        "created_at": "2026-08-01T17:09:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD who is doing the due dilly voodoo this weekend? I just found out AMD designs both CPUs AND GPUs! Incredible really!",
+        "created_at": "2026-08-01T16:59:34Z",
+        "sentiment": ""
+      },
       {
         "user": "JoeDirtay3",
         "body": "$NVDA will rally on $AMD  earnings and amd will crash 40% lol",
@@ -205,51 +247,15 @@
         "body": "$AMD $MU $NVDA $SMH What a week for Semis! I wrote about where I believe they’re heading to next in my Substack post!",
         "created_at": "2026-08-01T16:14:34Z",
         "sentiment": ""
-      },
-      {
-        "user": "Roger833",
-        "body": "$AMD I got puts on this badboy. Er could send this -20% down",
-        "created_at": "2026-08-01T16:03:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $AMD $AVGO \n\nLove when traders make money. Everything else is noise 💸🎧",
-        "created_at": "2026-08-01T15:51:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "robertlesnicki",
-        "body": "$AMD -11% since mentioned",
-        "created_at": "2026-08-01T15:01:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "3 Trade Ideas For The Back Half Of 2026 $AMD $HUT $IBB $IGV $XLY https://talkmarkets.com/article/3-trade-ideas-for-the-back-half-of-2026-1785595473",
-        "created_at": "2026-08-01T14:46:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BubbleBanker",
-        "body": "@SL1200mk2 If you hold it to post ER, you are essentially gambling. It could drop Monday and then rise slightly with ER but won&#39;t be above $526 for you to break even. Most likely, $AMD will drop to $400 after earnings, and you will lose everything. \n \nCut losses early. $1.5K can be made quickly ",
-        "created_at": "2026-08-01T14:28:00Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Blueville",
-        "body": "$AMD $GOOG $MU The top performing options lottos of the week from July 27 - 31. #consistentprofits #bluevillecapital",
-        "created_at": "2026-08-01T14:27:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "chuchutrain",
-        "body": "$INTC $mU $nvdA $amD so the worst month since 2002 just ended. You know no fundamentals has changed. There was no bad news. This correction was important. Dont worry. We will be back in August. The massive reversal is coming!",
-        "created_at": "2026-08-01T14:21:26Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "AlphaBull_10M",
+        "body": "$NVDA $INTC $AMD $TSM $SOXX",
+        "created_at": "2026-08-01T17:39:23Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "robertlesnicki",
         "body": "$TSM -12% since mentioned",
@@ -303,15 +309,27 @@
         "body": "$AAPL.X $INTC $TSLA $TSM I don’t know, sounds like TSM is the one playing catch-up.",
         "created_at": "2026-07-31T16:02:44Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BashNew",
-        "body": "@howardlindzon @603stockgoat $TSM",
-        "created_at": "2026-07-31T16:02:00Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "zeno123",
+        "body": "$MSFT $GOOGL how you actually use PUTS. I have sizable positions in both from the YTD lows and not stressing with puts at strikes far above my cost basis. I hope they expire WORTHLESS months from now. Chilling with these moves and will all see ATH and further in the future.",
+        "created_at": "2026-08-01T18:00:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "zeno123",
+        "body": "$MSFT 350s was obvious. Thanks for the second chance to load up this year.",
+        "created_at": "2026-08-01T17:47:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SirGekko",
+        "body": "$MSFT Love this stock and glad management &quot;read the room&quot; of other MAG7 companies and CAPEX spending not to spook the market. Glad Azure is showing the explosive growth. I think there may be a pullback as most companies have reported and both $MSFT and $AMZN had a great week...any selloff ",
+        "created_at": "2026-08-01T17:30:18Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "o_0_O_0_o",
         "body": "$ORCL $NVDA $AMZN $MSFT \n\nPublic relations specialist Ed Ziton has been all over the news, lately on Bloomberg, preaching a bear case for Artificial Intelligence.  \n\nHe claims the customer concentration in OpenAI and Anthropic present a systemic risk to the industry. \n\nThoughts? \n\nhttps://youtu.be/N",
@@ -353,27 +371,15 @@
         "body": "$PLTR buyback enough shares to do $2 BILLION this  qtr!!! \n \n$SPY 100,000 Foundry users at $MSFT !!! \n \nMOST TOKENS EVER!!! 100% YOY GROWTH!!! \nhttps://media.stocktwits-cdn.com/api/3/media/5930963/default.jpeg",
         "created_at": "2026-08-01T14:57:52Z",
         "sentiment": ""
-      },
-      {
-        "user": "Higreg",
-        "body": "@SamsonStreet - nice one ! Loaded $AAPL , $MSFT    for this reason - a small blip in tech -\nMMs will shelter under these names based in their mandates .",
-        "created_at": "2026-08-01T14:41:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SamsonStreet",
-        "body": "$GOOGL $META $MSFT $AMZN $AAPL \n\nGood morning. Below are the recent big tech earnings/outlooks highlights:",
-        "created_at": "2026-08-01T14:32:41Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MikeEli",
-        "body": "$MSFT",
-        "created_at": "2026-08-01T14:24:47Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "PivotPoint_101",
+        "body": "$AMD $AMZN $HOOD \n\n$GOOG calls paid up \n\nStop blowing your dad’s account lol 😂 \nLearn Kung Fu",
+        "created_at": "2026-08-01T17:21:36Z",
+        "sentiment": ""
+      },
       {
         "user": "jcrsbarb",
         "body": "$GOOGL $GOOG Growth has reaccelerated dramatically (from the mid/high 40s% range previously into the 60–80%+ range), driven by AI infrastructure demand and enterprise AI solutions. The backlog provides multi-year visibility. We’re in the early stages of AI with excellent prospects for the future.",
@@ -427,15 +433,39 @@
         "body": "Why Google, Microsoft, And Meta Are Building In West Texas? According To Galaxy Digital Executive\n\n$GLXY $META $MSFT $GOOG $BTC.X\n\nhttps://stocktwits.com/news/equity/markets/google-microsoft-meta-west-texas-galaxy-digital/cZ8xvbPRJ5e",
         "created_at": "2026-08-01T10:42:32Z",
         "sentiment": ""
-      },
-      {
-        "user": "LLMAgent",
-        "body": "$GOOG $GOOGL",
-        "created_at": "2026-08-01T08:39:52Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "Magaman2024",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX The fiber analogy misses the point. Dark fiber sat idle; ORCL&#39;s data centers are booked before they even open. The margins are low now because of massive upfront buildout costs, not a lack of pricing power. Long ORCL",
+        "created_at": "2026-08-01T17:59:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "o_0_O_0_o",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX \n\nAll of these seperate narratives being asserted on Oracle each require lots *LOTS* of work to really pick apart and unravel. Institutions are thinking much broader terms of managing hundreds of even thousands of companies in their portfolios. \n\nNo single decision make",
+        "created_at": "2026-08-01T17:49:29Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "o_0_O_0_o",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX Oracle by itself is not an easy company to understand, plus on top of that there has been a large poostorm of very complicated narratives going around that are being applied to Oracle.\n\n- No ROI in AI (go ahead and try disproving that)\n- Saaspocalypse (try proving AI wo",
+        "created_at": "2026-08-01T17:45:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BazingAC",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX \n\nThe same was said about the demand for fiber last time around... The demand was insatiable... Then how did the PRICE of that product/service collapse 80%?\n\nI dont doubt there is demand... But at what price?\nLate last year reports already came out stating that margins ",
+        "created_at": "2026-08-01T17:27:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BazingAC",
+        "body": "$CRWV $META $NVDA $ORCL $SPCX \nYes my argument does rest on that assumption that openai may not be able to raise the money needed to pay 350bn to orcl.... But 2 things, 1) sam Altman is known for wild projections(see GW screenshot below).... If the market believed all that demand is rock solid... We",
+        "created_at": "2026-08-01T17:14:40Z",
+        "sentiment": ""
+      },
       {
         "user": "IssaCapitalLP",
         "body": "$CRWV $META $NVDA $ORCL $SPCX Good charts. They absolutely show the market is pricing higher execution risk. But they’re not proof Oracle is heading for insolvency.\n\nFirst, CDS reflects market pricing of credit risk, not a certainty of default. Credit spreads can overshoot when sentiment is extreme.",
@@ -464,36 +494,6 @@
         "user": "Tradeyer",
         "body": "$UUUU I have a feeling after the $META dump  he may have lost his marbles",
         "created_at": "2026-08-01T16:46:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Synaptric",
-        "body": "$META Pundits like to say from false moves comes fast moves. \nConsider three false moves above the cloud and above the 40-week for Meta followed by multiple red candles. Successively lower MACD, a red forward cloud, and the negatively sloped 40-week moving average piles on more technical damage.",
-        "created_at": "2026-08-01T16:38:22Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "IssaCapitalLP",
-        "body": "$META $NVDA $ORCL $SPCX You’re confusing higher credit risk with imminent insolvency. Oracle’s CDS widening is a legitimate data point, but it’s not a bankruptcy forecast. Oracle remains investment grade, generates tens of billions in recurring revenue, and serves mission-critical enterprise and gov",
-        "created_at": "2026-08-01T16:20:43Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SpaceOddity83",
-        "body": "$SPY my opinion the best stock buy for long term value is $META currently trading in the abyss what a discount for a MAG7 currently 40% undervalued just buy it and go have a beer this fine Saturday and don’t look back",
-        "created_at": "2026-08-01T16:13:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$META buy puts next week",
-        "created_at": "2026-08-01T16:01:12Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BazingAC",
-        "body": "Hey man, long time!\n\nWhere to begin... Look at debt before equity for the worst offenders: $ORCL  cds is wider than during 08, now 1 notch above junk.. the equity is down 65% from the 320s highs last year.. If ORCL gets in trouble, CRWV is toast and half the neoclouds will be insolvent... Btw there ",
-        "created_at": "2026-08-01T15:38:15Z",
         "sentiment": ""
       }
     ]
