@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-02 10:59:07",
+  "ts": "2026-08-02 12:10:50",
   "tickers": {
     "NVDA": [
+      {
+        "user": "HooterTrades",
+        "body": "$INTC $NVDA $TSLA \n\nJust like clockwork 📉🕳️",
+        "created_at": "2026-08-02T11:57:55Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Nvidia’s Valuation Gap With AMD Just Got Bigger $NVDA $AMD https://talkmarkets.com/article/nvidias-valuation-gap-with-amd-just-got-bigger-1785670665",
+        "created_at": "2026-08-02T11:38:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "gogo1927",
+        "body": "$NVDA $210 Monday 😄🚀",
+        "created_at": "2026-08-02T11:28:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "cryptogenuineuser",
+        "body": "$NVDA  \nSpot Price: $200.75 \n \nKey Support: $190.00 \n \nKey Resistance: $212.00 \n \nRSI (14): ~78 (Approaching overbought momentum territory)",
+        "created_at": "2026-08-02T11:14:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TwoToesTrading",
+        "body": "$SPY $AAPL $NVDA $INTC $BE \n\nCharts and trade plans covered so far this weekend 👇🏼\n\nNVDA BE SYM ASTS INTC QCOM FIG IBM GLW ONDS USAR TE AAPL.  Just getting started 😂\n\nTook a break last week to see how FOMC &amp; major ER played out.  Bout to smash the market this week..     going to leave discord op",
+        "created_at": "2026-08-02T11:01:11Z",
+        "sentiment": ""
+      },
       {
         "user": "RiskOn24x7",
         "body": "$NVDA 24 days until earnings",
@@ -31,39 +61,39 @@
         "body": "@GhostOfAndysPromises @sctppr @StockLooser93 Reply to your &quot;laughter&quot; #1 Per Ai: \n&quot;It is perfectly fair to point out that even the most successful companies endure brutal growing pains. While PLUG and ATOM are very different companies facing their own unique challenges, the comparison",
         "created_at": "2026-08-02T10:37:13Z",
         "sentiment": ""
-      },
-      {
-        "user": "cryptogenuineuser",
-        "body": "$NVDA I am going long 10x for 5 Minutes",
-        "created_at": "2026-08-02T10:32:57Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "mobeigi",
-        "body": "Managed a perfect July 2026, only my second month ever with no red days. \n \nTraded predominantly 0DTE options on $QQQ . \nWith a small amount of trading in $MU, $NVDA , $AAPL  and $TSLA too.",
-        "created_at": "2026-08-02T09:57:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MuskyFlex",
-        "body": "$SPCX float will be approx 1.5B shares post lockup expiry… now let’s compare the float of spacex  to that of $NVDA and  $AAPL  😯 🤯 \nnote that elon still holds 4.8B shares (or roughly 45% of the company)  which he can’t and won’t be selling anytime soon..  \nexpect to see some massive institutional lo",
-        "created_at": "2026-08-02T09:39:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "HooterTrades",
-        "body": "$NVDA $INTC $TSLA \n\nMonday, we will be back to fighting…\n\nMark it 🎯",
-        "created_at": "2026-08-02T09:14:24Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "SHELBY_SNEK",
-        "body": "$ADA.X \n\n$SNEK.X it that Ada for a 100x 😎🐍💪🏻🚀🚀🚀\n#cardanoseason\n\n$BTC.X $XRP.X $NVDA",
-        "created_at": "2026-08-02T08:47:21Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "HooterTrades",
+        "body": "$INTC $NVDA $TSLA \n\nJust like clockwork 📉🕳️",
+        "created_at": "2026-08-02T11:57:55Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "ShibWillow",
+        "body": "$TSLA Cheap here i think",
+        "created_at": "2026-08-02T11:45:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DIRTYCASH",
+        "body": "$SPCX $TSLA\n\nMAKE\nAMERICA\nGRIFT\nAGAIN",
+        "created_at": "2026-08-02T11:27:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "cryptogenuineuser",
+        "body": "$TSLA  is currently trading around the $410.00–$416.00 zone after maintaining a higher-low structure off its multi-month support levels. The broader technical picture reflects a bullish expansion attempt as buyers work to establish a higher base above key moving averages to challenge multi-month ove",
+        "created_at": "2026-08-02T11:21:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "_Thumper_",
+        "body": "$TSLA   \n \n✅",
+        "created_at": "2026-08-02T11:04:22Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "HooterTrades",
         "body": "$INTC $NVDA $TSLA \n\n😂💀",
@@ -93,101 +123,107 @@
         "body": "📢 $TSLA  Wave IV Bounce – Downside Risk    \n \n🚗 Tesla is unfolding a corrective Elliott Wave structure. The analysis highlights potential downside toward the $290–$189 zone before buyers can regain control for the next rally.  \n \n📉 TSLA downside zone in focus.  \n \nFull analysis 👉 https://elliottwave",
         "created_at": "2026-08-02T09:34:08Z",
         "sentiment": ""
-      },
-      {
-        "user": "HooterTrades",
-        "body": "$NVDA $INTC $TSLA \n\nMonday, we will be back to fighting…\n\nMark it 🎯",
-        "created_at": "2026-08-02T09:14:24Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "TALENT_ON_LOAN_FROM_GOD",
-        "body": "$SPCX my $100 prediction by end of August is on time \n\n$TSLA pump and dump \nElon Trump and GOP Congress  P&amp;D \nEnding bad 🍿🥤—MONEYMADE",
-        "created_at": "2026-08-02T09:11:33Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Mbappe",
-        "body": "$BNTX $FCEL $PLUG $SUFBF $TSLA Cheating is not winning",
-        "created_at": "2026-08-02T09:09:43Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Eneferrrr",
-        "body": "$TSLA nothingburger",
-        "created_at": "2026-08-02T08:59:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FlipFlop12",
-        "body": "$SUFBF Watchlist: \n \n$SUFBF German football club https://www.spvggunterhaching.de/ \nMaybe Elon Musk $TSLA could buy this german footbal club and bring them back up to compete agains Bayern Munich. If Elon would buy Unterchaching I think he would make them even bigger then Bayern Munich because he wi",
-        "created_at": "2026-08-02T08:27:39Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
       {
-        "user": "mobeigi",
-        "body": "Managed a perfect July 2026, only my second month ever with no red days. \n \nTraded predominantly 0DTE options on $QQQ . \nWith a small amount of trading in $MU, $NVDA , $AAPL  and $TSLA too.",
-        "created_at": "2026-08-02T09:57:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "quambi",
-        "body": "$AAPL $320+ open ? Could happen",
-        "created_at": "2026-08-02T09:50:42Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MuskyFlex",
-        "body": "$SPCX float will be approx 1.5B shares post lockup expiry… now let’s compare the float of spacex  to that of $NVDA and  $AAPL  😯 🤯 \nnote that elon still holds 4.8B shares (or roughly 45% of the company)  which he can’t and won’t be selling anytime soon..  \nexpect to see some massive institutional lo",
-        "created_at": "2026-08-02T09:39:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "KingWarsh",
-        "body": "$AAPL $AMZN $NVDA $GOOGL $META Award winning pumper of 2025 and 2026 Donald J Trump. 🌮",
-        "created_at": "2026-08-02T08:36:17Z",
+        "user": "Bitcoin20K",
+        "body": "$AAPL $SPY $QQQ $SMH Iphone Foldable leaked. Revealing September 9th. $MU",
+        "created_at": "2026-08-02T11:53:31Z",
         "sentiment": ""
       },
       {
         "user": "Bitcoin20K",
-        "body": "$AAPL DD. https://x.com/TechieUltimatum/status/2083762370787287321?s=20 Sept 9 reveal!! $SPY $QQQ $SMH",
-        "created_at": "2026-08-02T08:33:27Z",
+        "body": "$AAPL Sept 9th. Foldable leaked. It looks awesome. Will sell out.",
+        "created_at": "2026-08-02T11:51:23Z",
         "sentiment": ""
       },
       {
-        "user": "bullANDbear69",
-        "body": "$AAPL",
-        "created_at": "2026-08-02T05:23:14Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $AAPL $NVDA  \n \n2 DTE&#39;s  🙃 \n \n👇",
-        "created_at": "2026-08-02T05:05:10Z",
+        "user": "scdtrader213",
+        "body": "$AAPL is leading the big tech industry group in terms of free cash flow which is in large part due to other hyperscalers massively ramping up their CapEx forecasts more aggressively",
+        "created_at": "2026-08-02T11:47:09Z",
         "sentiment": ""
       },
       {
-        "user": "ShadyAggie40",
-        "body": "$SPY $QQQ Yes Sir. You are correct we will bottom out at 200 day moving average , along with Semiconductor index. I keep warning bulls, but nobody is paying attention. Inflation risks based on $AAPL  Apple ER gave the confirmation.",
-        "created_at": "2026-08-02T03:20:13Z",
-        "sentiment": "Bearish"
+        "user": "Mathieu801",
+        "body": "$AAPL Whens iphone 18 coming ?",
+        "created_at": "2026-08-02T11:42:08Z",
+        "sentiment": ""
       },
       {
-        "user": "rammit",
-        "body": "$AAPL Big jump coming in hott on Monday",
-        "created_at": "2026-08-02T03:04:35Z",
-        "sentiment": "Bullish"
+        "user": "AFONSOEV_",
+        "body": "Rosenblatt Raises Apple Price Target to $300 — PT $AAPL https://price-target.com/2026/07/31/172676/",
+        "created_at": "2026-08-02T11:39:40Z",
+        "sentiment": ""
       },
       {
-        "user": "ResearchTrends09",
-        "body": "$AAPL do you realize how close we are to  full-fledged pedal to the metal all in  socialism\nIn 2028 if the Democrat party wins the election  The score is tied 3-3 bottom of the ninth base are loaded. Nobody out. 3-0 count. And the pitcher  is throwing with a broken arm.",
-        "created_at": "2026-08-02T02:52:42Z",
+        "user": "AFONSOEV_",
+        "body": "Oppenheimer Reiterates Perform on Apple — PT $AAPL https://price-target.com/2026/07/31/172677/",
+        "created_at": "2026-08-02T11:39:32Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "Goldman Sachs Lowers Apple Price Target to $360 — PT $AAPL https://price-target.com/2026/07/31/172678/",
+        "created_at": "2026-08-02T11:38:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "BofA Securities Reiterates Buy on Apple, $380 Price Target — PT $AAPL https://price-target.com/2026/07/31/172679/",
+        "created_at": "2026-08-02T11:38:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "Morgan Stanley Lowers Apple Price Target to $360 — PT $AAPL https://price-target.com/2026/07/31/172680/",
+        "created_at": "2026-08-02T11:38:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "Raymond James Reiterates Market Perform on Apple — PT $AAPL https://price-target.com/2026/07/31/172683/",
+        "created_at": "2026-08-02T11:37:57Z",
         "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Teflontrudon",
+        "body": "$AMD $520 And It Shall Be",
+        "created_at": "2026-08-02T12:05:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "omega8119",
+        "body": "$AMD $600 Monday if we get another peace deal lol",
+        "created_at": "2026-08-02T12:05:16Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TheProphetOfProfit",
+        "body": "This is the $AMD 16 year, monthly chart. The only reason I decided to even take a look at this was because I was curious to see what it looked like after I saw July’s monthly candle was a potential topping signal. Well… would you look at that? It’s finally having trouble at 16 year resistance. Now a",
+        "created_at": "2026-08-02T11:45:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Nvidia’s Valuation Gap With AMD Just Got Bigger $NVDA $AMD https://talkmarkets.com/article/nvidias-valuation-gap-with-amd-just-got-bigger-1785670665",
+        "created_at": "2026-08-02T11:38:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BearFather",
+        "body": "$MU had a dream this was running back towards $900 ( due to war news ) &amp; was getting excited only to realize we have 24 more hours 😂 $MUU  $RAM $SNDK $AMD",
+        "created_at": "2026-08-02T11:20:24Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "shortsqueezing18",
+        "body": "$AMD $MU war is over. The short squeeze has begun",
+        "created_at": "2026-08-02T11:11:17Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ElliottwaveForecast",
         "body": "📢 $AMD  Elliott Wave – Next Buying Opportunity?    \n \n💻 AMD is approaching a critical Elliott Wave support zone. Signals suggest a potential bullish setup forming, with traders watching closely for the next upward cycle.  \n \n📈 AMD Blue Box support zone in focus for buyers.  \n \nRead the Full analysis",
@@ -211,42 +247,6 @@
         "body": "$AMD",
         "created_at": "2026-08-02T09:00:12Z",
         "sentiment": ""
-      },
-      {
-        "user": "Seams",
-        "body": "$AMD gimmie a ride before the pop",
-        "created_at": "2026-08-02T07:26:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "stockdog88",
-        "body": "$AMD $INTC $MU $SNDK $SPY I’m not the one losing on Monday pal",
-        "created_at": "2026-08-02T06:08:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD AI could carry greater systemic risk. Estimates suggest that about $7 trillion will be spent on data centers over the next four years, creating the potential for significant capital misallocation if the productivity gains from AI do not justify the investment.\n\nA growing portion of that spendin",
-        "created_at": "2026-08-02T06:00:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadyAggie40",
-        "body": "$SPY When $AMD $SNDK  crashes $MU $INTC , you will have alot big hot dogs down your throat  😎to make up for your losses.",
-        "created_at": "2026-08-02T05:54:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "VIN1P",
-        "body": "$SPY $AMD $PLTR $SPCX \n\nEarnings schedule… \nPretty darn stacked earnings this coming week…",
-        "created_at": "2026-08-02T03:44:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SKHY $INTC",
-        "created_at": "2026-08-02T02:59:46Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,18 @@
     ],
     "MSFT": [
       {
+        "user": "maggiem",
+        "body": "$MSFT And accumulation is heading up...",
+        "created_at": "2026-08-02T11:58:29Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "maggiem",
+        "body": "$MSFT On the daily, price just crossed above the 200 sma &amp; the 20 sma getting ready to cross the 50 sma... this chart is slowly getting repaired &amp; starting to look much better...",
+        "created_at": "2026-08-02T11:57:37Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "mawtrades",
         "body": "$DKNG So Dr. Burry has doubled down on DKNG and FLUT and also his shorts of $SNDK and $MU right at the bottom, this was before $MSFT and $AMZN came out with record earnings from AI and are increasing CAPEX.  \n \nI feel his macro read is now totally broken and the $SNDK earnings could wipe him out. I ",
         "created_at": "2026-08-02T10:57:41Z",
@@ -359,21 +371,15 @@
         "body": "$MSFT touching 480 monday",
         "created_at": "2026-08-02T02:53:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "NetflixUser",
-        "body": "$AMZN $IGV $MSFT $NASDAQ $NOW wrong - Microsoft just had a blowout earnings and is still undervalued. No reason to drop.",
-        "created_at": "2026-08-02T02:36:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "kindness123",
-        "body": "$MSFT 👀",
-        "created_at": "2026-08-02T02:33:10Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "ShibWillow",
+        "body": "$GOOG 400 in next 2 weeks very likely",
+        "created_at": "2026-08-02T11:38:54Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "DooScooby7",
         "body": "$ASTS $SPCX $GOOG $LUNR \n\nBank: AST SpaceMobile is favoured \n\nThe bank says that while it is hard to argue that either SpaceX or RocketLab are “cheap” in terms of their share price, the bank prefers AST due to “its more palatable valuation, and a clearer path to an EBITDA upside”.\n\nAmen \n\nhttps://ww",
@@ -427,15 +433,39 @@
         "body": "$GOOG higher.",
         "created_at": "2026-08-01T19:47:37Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "everevolving09",
-        "body": "$GOOG $META $AMZN $MSFT $MU market be chasing hyperscalers on monday once the market digests everything over the weekend and realizes the ai story is very much real rev drivers for all these mega companies and the selling margin calls are now ✅",
-        "created_at": "2026-08-01T19:35:24Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "AFONSOEV_",
+        "body": "Barclays Reiterates Overweight on Meta, $780 PT — PT $META https://price-target.com/2026/07/31/172691/",
+        "created_at": "2026-08-02T11:37:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TheProphetOfProfit",
+        "body": "$META needs to hold support of this wedge setup on the weekly or you’re looking at somewhere between $439.70-$477.86. It’s held this uptrend support 4 times over the last few years. Something to keep an eye on as we head into August.",
+        "created_at": "2026-08-02T11:37:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "Evercore ISI Lowers Meta Price Target to $820 — PT $META https://price-target.com/2026/07/30/172699/",
+        "created_at": "2026-08-02T11:36:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "Evercore ISI Reiterates Outperform on Meta, $930 PT — PT $META https://price-target.com/2026/07/29/172700/",
+        "created_at": "2026-08-02T11:35:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AFONSOEV_",
+        "body": "Goldman Sachs Reiterates Buy on Meta, $815 PT — PT $META https://price-target.com/2026/07/29/172701/",
+        "created_at": "2026-08-02T11:35:36Z",
+        "sentiment": ""
+      },
       {
         "user": "Ep1219",
         "body": "$META wow!!!! 600.00 plus!!!  On monday!!!!!!    Trump",
@@ -465,36 +495,6 @@
         "body": "$META Bill Ackman bought Meta with 600$ plus average. It means we Just need to buy and hold at this moment. Buy the dip boys.",
         "created_at": "2026-08-02T03:44:29Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "StockRegulationBot",
-        "body": "$META I hope that this news coming iut doesn’t ruin META.  Were they really putting antennas up to steal data out of thin air and resell it?",
-        "created_at": "2026-08-02T03:11:53Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MrBoyd",
-        "body": "$META",
-        "created_at": "2026-08-02T02:48:17Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$META sub 500 soon",
-        "created_at": "2026-08-02T02:42:01Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "NetflixUser",
-        "body": "$META Ds get degrees",
-        "created_at": "2026-08-02T02:41:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Iamwillwexler",
-        "body": "$AMD So Meta $META",
-        "created_at": "2026-08-02T01:53:00Z",
-        "sentiment": ""
       }
     ]
   }
