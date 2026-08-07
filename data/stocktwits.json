@@ -1,69 +1,105 @@
 {
-  "ts": "2026-08-07 08:14:00",
+  "ts": "2026-08-07 09:31:44",
   "tickers": {
     "NVDA": [
       {
-        "user": "MomentumWins",
-        "body": "$APP An upgrade today is very much possible on low valuation after the drop.  p/e of 20 for a company growing at 50% in AI space is just aberration. won’t stay long $SPY $MU $SNDK $NVDA",
-        "created_at": "2026-08-07T08:09:45Z",
+        "user": "Georgee23",
+        "body": "$NVDA",
+        "created_at": "2026-08-07T09:25:49Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY It&#39;s on!",
-        "created_at": "2026-08-07T08:05:55Z",
+        "user": "US_Stock_Bubble2026",
+        "body": "$TTD unbelievable almost half of the market value vanished in a single day on single er. What kind of Scam is it? Going to $0 today? $AAPL $AMZN $NVDA",
+        "created_at": "2026-08-07T09:23:56Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Californiaplastics1980",
+        "body": "$NVDA 300 coming sooner than you think!",
+        "created_at": "2026-08-07T09:21:34Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "HIMAX_TSM_NVDA_CPO",
-        "body": "Interview: Nvidia exec on progress of CPO production and pluggable optics\n$nvda $tsm $nvda https://www.digitimes.com/news/a20260807PD225/nvidia-cpo-optics-production-switch.html",
-        "created_at": "2026-08-07T08:04:10Z",
+        "user": "JohnElder",
+        "body": "$NVDA $INKW",
+        "created_at": "2026-08-07T09:08:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $SPY $QQQ",
+        "created_at": "2026-08-07T09:08:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JohnElder",
+        "body": "$NVDA",
+        "created_at": "2026-08-07T09:08:02Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Federernadal",
+        "body": "$NVDA 219.99 close today 💩",
+        "created_at": "2026-08-07T09:07:42Z",
         "sentiment": ""
+      },
+      {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $NVDA all this premarket action is noise. all that matters now is the monthly jobs report at 8:30am today",
+        "created_at": "2026-08-07T08:47:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PierceC",
+        "body": "$NVDA $SPY $QQQ \nKeep pumping",
+        "created_at": "2026-08-07T08:39:52Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "Flickted",
         "body": "$NVDA $AMD $MU $SMCI $SKHY",
-        "created_at": "2026-08-07T08:04:09Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "StocktwitsNews",
-        "body": "CRWV vs IREN: Which Stock Does Jim Cramer Think Is The Better Neocloud Bet?\n\n$CRWV $IREN $NVDA\n\nhttps://stocktwits.com/news/equity/markets/crwv-vs-iren-which-stock-does-jim-cramer-think-is-the-better-neocloud-bet/cZoODvcRJBE",
-        "created_at": "2026-08-07T07:33:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "valuedictorian",
-        "body": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-cat-michael-burry-warns-future-ghost-towns/cZoJqv8RJe6 $NVDA Time for Michael to retire.  Sad.",
-        "created_at": "2026-08-07T07:28:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mish6969",
-        "body": "$NVDA $5 Trillion MCAP 😵‍💫",
-        "created_at": "2026-08-07T07:17:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bulllvsbear",
-        "body": "$NBIS $NVDA  Burry is only like 3-5 yrs to early in his short positions… \nTime to bury Mr Burry!",
-        "created_at": "2026-08-07T07:16:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FatmanEZ",
-        "body": "$QQQ of course we are green lol \n$NVDA  steady pumps",
-        "created_at": "2026-08-07T07:16:20Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY Blast off!",
-        "created_at": "2026-08-07T07:14:56Z",
+        "created_at": "2026-08-07T08:24:38Z",
         "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "SerinTech",
+        "body": "$TSLA\n\nTesla’s biggest opportunity may not be selling more cars.\n\nIt could be turning AI, autonomy, and robotics into entirely new businesses.\n\nIs Tesla still primarily a car company in 2026 — or already becoming something much bigger?",
+        "created_at": "2026-08-07T09:02:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TurtleBeach",
+        "body": "$SPY Senate McConnell says we go to a million bigly. $DJT $QQQ $TSLA $SPCX",
+        "created_at": "2026-08-07T09:01:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FshOn",
+        "body": "$HTZ $LCID $TSLA $UBER Twits knows!",
+        "created_at": "2026-08-07T08:52:24Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "Why Is HTZ Stock Surging Nearly 20% In Premarket Trading? \n\n$HTZ $UBER $LCID $TSLA\n\nhttps://stocktwits.com/news/equity/markets/why-htz-stock-surging-premarket-trading/cZoOyDKRJBO",
+        "created_at": "2026-08-07T08:50:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DS10",
+        "body": "$TSLA The Future",
+        "created_at": "2026-08-07T08:28:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AmericanDeams",
+        "body": "$DJT $QQQ $SPY $TSLA This is like my kids voting for me not to participate in eating desert. Iran can’t tell us what to do. Haha. Nerdy little leftists freaking out because  completely inept and powerless Iran said we’re not allowed in the Straight…that’s hilarious!\nNice try Iran",
+        "created_at": "2026-08-07T08:19:03Z",
+        "sentiment": ""
+      },
       {
         "user": "Losing2Winning",
         "body": "$SPY $QQQ $DJT $TSLA \n\nWhat&#39;s fucking hilarious is Trump was pumping the Iran Hormuz reopening deal and claiming Iran was begging for the deal and talking to the US.  Iran said they weren&#39;t talking to lying Felon 47.  Turned out the US is banned from Hormuz in the deal.  Trump lied again as ",
@@ -87,45 +123,33 @@
         "body": "I just talked to a MM bro\nBulls ate done bro\n\n$QQQ $SPY $SOXL $NVDA $TSLA",
         "created_at": "2026-08-07T05:35:19Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Jj0320011",
-        "body": "$TSLA",
-        "created_at": "2026-08-07T05:27:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jj0320011",
-        "body": "$TSLA",
-        "created_at": "2026-08-07T05:27:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cryptoforecast",
-        "body": "$TSLA Tesla Stock Price Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/tesla-stock-price-prediction/",
-        "created_at": "2026-08-07T05:12:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BrokeBail",
-        "body": "$TSLA OMG! Data Centers in Space. The world as a Matrix. Robots for Agricultural Farming across the planet! Service, food, and comfort for all. Weather on order. OMG! Fire another one Elon. Please, please, please.",
-        "created_at": "2026-08-07T05:12:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BrokeBail",
-        "body": "$TSLA OMG! Fire another one Elon. Please, please, please.",
-        "created_at": "2026-08-07T05:04:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "btmzq",
-        "body": "$SLV $GLD $TSLA",
-        "created_at": "2026-08-07T05:00:39Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "US_Stock_Bubble2026",
+        "body": "$TTD unbelievable almost half of the market value vanished in a single day on single er. What kind of Scam is it? Going to $0 today? $AAPL $AMZN $NVDA",
+        "created_at": "2026-08-07T09:23:56Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Baring",
+        "body": "$AAPL Another opportunity to jump in",
+        "created_at": "2026-08-07T08:47:40Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "stockzforlife",
+        "body": "$AAPL is it a bear flag?",
+        "created_at": "2026-08-07T08:27:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ClassicGlo",
+        "body": "$AAPL dang everything just shot up and we shot down 🤔",
+        "created_at": "2026-08-07T08:22:10Z",
+        "sentiment": ""
+      },
       {
         "user": "Meatballtrades",
         "body": "$AAPL 5 min shows retracements for entry \nshe&#39;s set to open on that line...you&#39;re welcome \nalso you&#39;re gambling =go easy patterns fail and when they do I cut it \ndo it ur way just sharing and good luck \ndon&#39;t forget to sell it back to them we had 9 rug pulls yesterday",
@@ -161,33 +185,51 @@
         "body": "$AAPL let’s see 320 baby",
         "created_at": "2026-08-07T03:02:16Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "topstockalerts",
-        "body": "OpenAI is developing a screenless AI smart speaker expected to launch in 2027 with a price above $300, according to people familiar with the project. The device will have a hockey puck-sized, donut-shaped design with moving components that signal when it is listening or responding, giving it a more ",
-        "created_at": "2026-08-07T02:23:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DaJoker",
-        "body": "$SPY $NVDA  $SPCX $AAPL $TSLA \n\nMicah 6:8 🙏\n\nProfit: $6.4k today 🟢\n\nPlenty of opportunities out there today. U.S. Jobs report tomorrow morning @ 8:30 AM EST. High volatility expected for Friday. Enjoy the night. \n\nJOKER 🃏",
-        "created_at": "2026-08-07T02:19:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "OpenAI asked a federal judge to dismiss Apple&#39;s trade secrets lawsuit, calling the allegations unfounded and arguing Apple mischaracterized ordinary recruiting and employee interactions. The AI company said its hardware chief followed standard industry hiring practices when interviewing Apple em",
-        "created_at": "2026-08-07T02:19:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL 🛑🛑 do you realize Epstein had people scouting for young girls at the malls? . Paid those girls and their parents six figures   bought them clothes  black clothes.  because Clinton likes that color. Do you realize there are no photos of Donald Trump with any girl under 18 ??  He’s not a pedo, l",
-        "created_at": "2026-08-07T02:14:54Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "kindness123",
+        "body": "$AMD",
+        "created_at": "2026-08-07T09:28:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Aktie9",
+        "body": "$AMD this stock won’t go down.",
+        "created_at": "2026-08-07T09:27:13Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $SPY $QQQ",
+        "created_at": "2026-08-07T09:08:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD and of course the new company we bought, taaalass, is…Canadian. Did we have to pay more for the extra As in their name?",
+        "created_at": "2026-08-07T09:03:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Lily112211",
+        "body": "$AMD AMD has agreed to acquire Taalas, a company it describes as a &quot;pioneer in the field of dedicated AI inference silicon.&quot; \n \nThis deal expands AMD&#39;s business beyond GPUs and deepens its push into dedicated inference hardware as competition intensifies.",
+        "created_at": "2026-08-07T09:01:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Flickted",
+        "body": "$NVDA $AMD $MU $SMCI $SKHY",
+        "created_at": "2026-08-07T08:24:38Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Flickted",
+        "body": "$NVDA $AMD $MU $SMCI $SKHY I think it&#39;s about time to get that paper!",
+        "created_at": "2026-08-07T08:20:58Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Flickted",
         "body": "$NVDA $AMD $MU $SMCI $SKHY It&#39;s on!",
@@ -205,51 +247,15 @@
         "body": "Created a matrix on how the future might play out \n$AMD  is a winner in most future scenarios",
         "created_at": "2026-08-07T08:03:25Z",
         "sentiment": ""
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY Blast off!",
-        "created_at": "2026-08-07T07:14:56Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Roar01",
-        "body": "$AVGO  Broadcom is the best stock to own in all of AI trade, humongous upside here  🍀🍀🍀🚀🚀🚀🚀 $NVDA $SPY $AMD $MRVL",
-        "created_at": "2026-08-07T07:06:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $AVGO $NVDA $AMD $INTC \nNetlist (OTCQB: NLST): Is the Samsung Strategic Alliance Worth a $15–$20 Stock? The Numbers Suggest the Company Has Entered a New Era \nhttps://garywallach.substack.com/p/netlist-otcqb-nlst-is-the-samsung?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeO",
-        "created_at": "2026-08-07T07:06:08Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Foreheadious",
-        "body": "$AMD AI has escaped the sandbox",
-        "created_at": "2026-08-07T07:03:35Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY",
-        "created_at": "2026-08-07T07:01:42Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "spacechimp",
-        "body": "$AMD China just raised prices, silly",
-        "created_at": "2026-08-07T07:00:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "shankiki1",
-        "body": "$AMD are we crossing 500 today?",
-        "created_at": "2026-08-07T06:31:29Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "ChristopherRussell592",
+        "body": "$GRRR $ABAT $CRON $TSM $INSM Gorilla Technology expands AI security solutions, American Battery Technology advances battery recycling, Cronos depends on cannabis market expansion, TSMC remains the global semiconductor manufacturing leader, and Insmed advances rare disease therapies. I&#39;m watching",
+        "created_at": "2026-08-07T09:23:00Z",
+        "sentiment": ""
+      },
       {
         "user": "HIMAX_TSM_NVDA_CPO",
         "body": "Interview: Nvidia exec on progress of CPO production and pluggable optics\n$nvda $tsm $nvda https://www.digitimes.com/news/a20260807PD225/nvidia-cpo-optics-production-switch.html",
@@ -303,15 +309,21 @@
         "body": "$SOXS $NVDA $MU $TSM $AVGO Why are bears so dumb that they can&#39;t do ten seconds of research?",
         "created_at": "2026-08-06T22:59:32Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "tertm141",
-        "body": "$TSM uptrend resume?",
-        "created_at": "2026-08-06T22:40:45Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "CapitaLit",
+        "body": "Michael Burry Shares &#39;Three Great Charts&#39; That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008   \n \n$GOOGL $AMZN $MSFT $QQQ $SPY  \n \n \n https://stocktwits.com/news-articles/markets/equity/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as-h",
+        "created_at": "2026-08-07T09:06:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "winnercircle",
+        "body": "$MSFT jobs numbers coming stock will go either way. What’s everyone’s predictions?",
+        "created_at": "2026-08-07T08:45:06Z",
+        "sentiment": ""
+      },
       {
         "user": "SuperFugazi",
         "body": "$MSFT Technically, the stock should fall by 10 to 15 percent, but the problem is that funds want to maintain the gains of the indices and are supporting the stock for a period, trying to avoid a healthy pullback. This exacerbates the problem and makes the slide very big in few days",
@@ -359,18 +371,6 @@
         "body": "$APP rather buy this than $MSFT or $AMZN right now",
         "created_at": "2026-08-07T04:31:09Z",
         "sentiment": ""
-      },
-      {
-        "user": "JohnAnthony_",
-        "body": "$MSFT thank you shoutouts to ALL those who sold out today so we can hit 530 by eom 🤣🤣🤣🤣🌮🌮🌮🍿🍿🍿💵💵💵💰💰💰🤡🤡🤡",
-        "created_at": "2026-08-07T04:28:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Blanblun",
-        "body": "$MSFT is forming a top at 500$. Great level for a nice short",
-        "created_at": "2026-08-07T04:26:48Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
@@ -437,6 +437,18 @@
     ],
     "META": [
       {
+        "user": "Bullitt2020",
+        "body": "$META \n\nPersonal accountability is dead, Hopefully higher court reverses this nonsense.\n\nNew Mexico- demorats",
+        "created_at": "2026-08-07T08:37:26Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Supaslims",
+        "body": "$META Nearly a billion dollars in fines just this year and literally thousands of lawsuits on the horizon. How could anyone not view this financial entity as anything but the apex ontological equivalent of pond scum, or perhaps the fine patina of waxy nicotine that stains the walls of local drug den",
+        "created_at": "2026-08-07T08:20:19Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "Mipel",
         "body": "$META",
         "created_at": "2026-08-07T06:07:20Z",
@@ -482,18 +494,6 @@
         "user": "MaBoiiiiiiiiiiis",
         "body": "$META $100 or $200 dollar drop tomorrow on massive 600 million lost lawsuit against them. They apparently endangered kids.",
         "created_at": "2026-08-07T04:41:38Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "the_big_gains",
-        "body": "$META stock is struggling with the resistance level at $589. Looking for a pullback from here.",
-        "created_at": "2026-08-07T04:39:43Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$META Meta was ordered to pay $567 million after a New Mexico court said its platforms harmed young users, per AP \n \nThe order includes $420 million for treatment services over five years (2.1 Billion) \n \nThis thing is going to tank to $455.32 tomorrow.",
-        "created_at": "2026-08-07T04:12:04Z",
         "sentiment": "Bearish"
       }
     ]
