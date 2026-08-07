@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-07 05:16:55",
+  "ts": "2026-08-07 06:45:58",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Mipel",
+        "body": "$NVDA ..Asian stocks were mixed on Friday, with South Korea and Japan leading regional declines as another wave of selling in semiconductor stocks continued to weigh on technology stocks, as investors awaited a crucial U.S. jobs report later in the day.",
+        "created_at": "2026-08-07T06:05:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AdrienneClark1088",
+        "body": "$NVDA $CELH $SLS $BYND $DJT NVIDIA remains the AI infrastructure leader, Celsius continues taking beverage market share, SELLAS depends on clinical milestones, Beyond Meat is working toward operational recovery, and DJT remains heavily influenced by sentiment. I&#39;m watching profitability, adoptio",
+        "created_at": "2026-08-07T06:00:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "N0N",
+        "body": "$NVDA probably",
+        "created_at": "2026-08-07T05:46:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "N0N",
+        "body": "$NVDA  breather incoming?",
+        "created_at": "2026-08-07T05:36:24Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "cruellbear",
+        "body": "I just talked to a MM bro\nBulls ate done bro\n\n$QQQ $SPY $SOXL $NVDA $TSLA",
+        "created_at": "2026-08-07T05:35:19Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "S_Micheal_Hawk",
+        "body": "$NVDA I believe puts are appropriate here",
+        "created_at": "2026-08-07T05:23:35Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Misterflipper",
         "body": "$NVDA opening tomorrow 220+?",
@@ -25,45 +61,39 @@
         "body": "$NVDA",
         "created_at": "2026-08-07T04:54:16Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL MSFT AMZN GOOGL TSLA META \n \n0 DTE&#39;s \n \n🙃",
-        "created_at": "2026-08-07T04:45:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Where_is_Calhoun",
-        "body": "$NVDA i think we are looking @ at least 250 before ER, more like 265",
-        "created_at": "2026-08-07T04:31:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "stockchancellor",
-        "body": "$aaoi $nnbr $nvda  https://open.substack.com/pub/belowthetape/p/nnbr-as-the-next-aaoi-the-case?r=7vf3ql&amp;utm_medium=ios",
-        "created_at": "2026-08-07T04:11:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "newsofthemarket",
-        "body": "$AMD market cap 797 billion / ROE 10% / Gross Margin 50% / 2026 revenue 41 billion est. \n \n$NVDA market cap 5.3 trillion / ROE 114% / Gross Margin 75% / 2026 revenue est 253 billion est. \n \nAMD needs a new hit product to get higher. We may have it for 2nd half 2026.",
-        "created_at": "2026-08-07T04:08:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Shutking",
-        "body": "$NVDA In 3 minutes explode 🚀🚀🚀🚀",
-        "created_at": "2026-08-07T03:57:52Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "cruellbear",
-        "body": "Tomorrow, \nwith a 69% probability, \nQQQ will drop 4.28%.\nTrust me bro, I&#39;m not joking bro\n\n$QQQ $SPY $SOXL $NVDA $MSFT",
-        "created_at": "2026-08-07T03:56:02Z",
-        "sentiment": "Bearish"
       }
     ],
     "TSLA": [
+      {
+        "user": "AdrienneClark1088",
+        "body": "$DKNG $APP $TSLA $SMCI $ASTS DraftKings continues expanding digital betting, AppLovin benefits from AI-driven advertising, Tesla remains focused on EVs and autonomy, Super Micro benefits from AI server demand, and AST SpaceMobile advances satellite connectivity. I&#39;m watching revenue growth, marg",
+        "created_at": "2026-08-07T06:00:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JaniceRathburn514",
+        "body": "$TSLA Always growing well!!",
+        "created_at": "2026-08-07T05:53:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "cruellbear",
+        "body": "I just talked to a MM bro\nBulls ate done bro\n\n$QQQ $SPY $SOXL $NVDA $TSLA",
+        "created_at": "2026-08-07T05:35:19Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Jj0320011",
+        "body": "$TSLA",
+        "created_at": "2026-08-07T05:27:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Jj0320011",
+        "body": "$TSLA",
+        "created_at": "2026-08-07T05:27:44Z",
+        "sentiment": ""
+      },
       {
         "user": "cryptoforecast",
         "body": "$TSLA Tesla Stock Price Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/tesla-stock-price-prediction/",
@@ -93,36 +123,6 @@
         "body": "$TSLA bullish",
         "created_at": "2026-08-07T04:52:12Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "sunman20201",
-        "body": "$TSLA no change in conviction",
-        "created_at": "2026-08-07T04:49:36Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Thenapp",
-        "body": "$TSLA https://www.nasdaq.com/articles/spacex-and-tesla-merger-talks-are-heating-heres-why-investors-should-pay-attention",
-        "created_at": "2026-08-07T04:15:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MayeMusksBurnerAccount",
-        "body": "$TSLA you idiots got musked. I tried to warn you",
-        "created_at": "2026-08-07T04:09:13Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "equity_jar",
-        "body": "$HTZ 🍋 \n\n$GME $TSLA $AMC $CAR",
-        "created_at": "2026-08-07T04:07:51Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Elversburg2026",
-        "body": "$TSLA $QQQ $SPY Overnight that zone will be tested by tiny money, its about after the AM bell teams.  CYU then........",
-        "created_at": "2026-08-07T03:29:25Z",
-        "sentiment": "Bearish"
       }
     ],
     "AAPL": [
@@ -189,6 +189,48 @@
     ],
     "AMD": [
       {
+        "user": "shankiki1",
+        "body": "$AMD are we crossing 500 today?",
+        "created_at": "2026-08-07T06:31:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$AMD Your money is on the grill!",
+        "created_at": "2026-08-07T06:19:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$AMD Asian stocks were mixed on Friday, with South Korea and Japan leading regional declines as another wave of selling in semiconductor stocks continued to weigh on technology stocks, as investors awaited a crucial U.S. jobs report later in the day...",
+        "created_at": "2026-08-07T06:05:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AdrienneClark1088",
+        "body": "$REPL $BTC $AMFN $NLST $AMD Replimune advances oncology programs, Bitcoin continues attracting institutional capital, AMFN remains execution-dependent, Netlist benefits from memory demand and IP developments, and AMD continues gaining share in AI computing. I&#39;m watching commercial execution, leg",
+        "created_at": "2026-08-07T06:00:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "o_0_O_0_o",
+        "body": "$AMD $MU $SNDK $SOXX That is generally true for valuing cyclicals. \n\nThe market seems to be misreading that this is still cyclical.",
+        "created_at": "2026-08-07T05:32:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Seams",
+        "body": "$AMD Definitely into it at 420",
+        "created_at": "2026-08-07T05:25:38Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ace_of_king",
+        "body": "$AMD \nI feel Good Strategy for AMD \n$480–490 🟡 Small position\n$450–470 🟢 Buy more\n$420–450 🟢🟢 Stronger entry\nBelow $420 🟢🟢🟢 Very attractive if fundamentals remain intact\n&gt;$520 🔴 I wouldn&#39;t chase",
+        "created_at": "2026-08-07T05:22:32Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "madcoy",
         "body": "$SNDK $MU $AMD $SOXX $MU you do not understand...you buy Mu when there&#39;s no Pe...or very high ...not when there&#39;s a low pe...",
         "created_at": "2026-08-07T05:02:09Z",
@@ -205,51 +247,33 @@
         "body": "@flytosky2025 sooner Intel will make $AMD chips",
         "created_at": "2026-08-07T04:47:47Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BoomPilot",
-        "body": "$AMD trading pretty flat for something that’s supposedly going to rocket in a few hours.  I’m just saying 😅",
-        "created_at": "2026-08-07T04:32:02Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "JockoJohnson",
-        "body": "$AMD Epyc is way better than Vera - How much more circular financing is nvda going to do with OpenAi?? We can paly that game too..",
-        "created_at": "2026-08-07T04:24:57Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Stockanater",
-        "body": "$AMD AMD makes me laugh with AI purchase they are reaching and hoping",
-        "created_at": "2026-08-07T04:18:55Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "newsofthemarket",
-        "body": "$AMD market cap 797 billion / ROE 10% / Gross Margin 50% / 2026 revenue 41 billion est. \n \n$NVDA market cap 5.3 trillion / ROE 114% / Gross Margin 75% / 2026 revenue est 253 billion est. \n \nAMD needs a new hit product to get higher. We may have it for 2nd half 2026.",
-        "created_at": "2026-08-07T04:08:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadowBanningIsBad",
-        "body": "$SNDK $MU $AMD $SOXX Micron earnings grew 14 x yoy and is 5x forward pe.  lol   $MU will be 3k by eoy.  Not a joke.",
-        "created_at": "2026-08-07T03:56:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pinator",
-        "body": "$AMD somebody wants 600 to unlock 150 million free shs, 100 billion , the dump after that to double digits will be epic.",
-        "created_at": "2026-08-07T03:55:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadowBanningIsBad",
-        "body": "$AMD Groq is way better than Taalas.  Anyone know how much more dilution for Taalas?",
-        "created_at": "2026-08-07T03:52:08Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "LadyBABA",
+        "body": "$F $GM $IBM $ROP $TSM what in the actual **** btw that would crash the global economy and send everything into chaos",
+        "created_at": "2026-08-07T06:20:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "KennethBraithwaite524",
+        "body": "$GRRR $ABAT $CRON $TSM $INSM Gorilla Technology expands AI security solutions, American Battery Technology advances battery recycling, Cronos depends on cannabis market expansion, TSMC remains the global semiconductor manufacturing leader, and Insmed advances rare disease therapies. I&#39;m watching",
+        "created_at": "2026-08-07T06:10:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM Asian stocks were mixed on Friday, with South Korea and Japan leading regional declines as another wave of selling in semiconductor stocks continued to weigh on technology stocks, as investors awaited a crucial U.S. jobs report later in the day.",
+        "created_at": "2026-08-07T06:02:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BrokeBail",
+        "body": "$TSM GOD. Can&#39;t this country go over and blow everything up in Taiwan. Screw the Chinese, I think this country should do it. $IBM $ROP $F $GM",
+        "created_at": "2026-08-07T05:19:09Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "sliceofbytes",
         "body": "$TSM I don&#39;t see why not.. seems like buyers stepped in well before the 200.",
@@ -285,33 +309,27 @@
         "body": "AMD agreed to acquire Toronto-based AI chip startup Taalas, expanding its portfolio of inference accelerators as demand grows for specialized AI hardware beyond GPUs. Financial terms were not disclosed. Founded in 2023, Taalas has raised $219 million and develops chips that are hardwired for individ",
         "created_at": "2026-08-06T22:23:42Z",
         "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$TSM ::https://x.com/cryptorover/status/2085445301461303639?s=46&amp;t=Xq7UFW3u8B-l5R2nfYmJ2w",
-        "created_at": "2026-08-06T20:35:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "itsphd",
-        "body": "*DRILL* Taiwanese President Lai Ching-te was transported through the night inside an armored personnel carrier as Taiwan conducted an extraordinary simulation of how its leadership would operate during a China attack $TSM",
-        "created_at": "2026-08-06T19:21:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$TSM -Trump has no choice.\nThey’re giving him the finger—politely...\nIn my opinion, war is coming this weekend...!!!",
-        "created_at": "2026-08-06T18:57:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MarketPulsee",
-        "body": "The first half of 2026 gave investors these opportunities: \n \n$AMD → Under $200 \n$AMZN → Under $210 \n$NOW → Under $85 \n$TSM → Under $320  \n \nThe market rarely gives investors perfect entry points. \n \nThe biggest opportunities often appear when great companies are temporarily ignored, misunderstood, ",
-        "created_at": "2026-08-06T18:46:44Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "AdrienneClark1088",
+        "body": "$AAOI $UWMC $PLTR $WEN $MSFT Applied Optoelectronics benefits from AI networking demand, UWM Holdings remains tied to mortgage activity, Palantir continues expanding enterprise AI adoption, Wendy&#39;s focuses on operational improvements, and Microsoft remains one of the strongest long-term AI platf",
+        "created_at": "2026-08-07T06:00:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "Michael Burry Shares &#39;Three Great Charts&#39; That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008 \n\n$MSFT $GOOGL $AMZN $ORCL $SPY\n\nhttps://stocktwits.com/news/equity/markets/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as-housing-did-in-200",
+        "created_at": "2026-08-07T05:48:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Snipertradesexpert",
+        "body": "$MSFT to $504",
+        "created_at": "2026-08-07T05:38:11Z",
+        "sentiment": ""
+      },
       {
         "user": "glintogobby",
         "body": "$MSFT the SP500 is up 12% this year. MSFT is up 3% YTD. \n\nSoon MSFT will outperform the SP500 YTD. Apple did the same thing last year.",
@@ -353,27 +371,15 @@
         "body": "Tomorrow, \nwith a 69% probability, \nQQQ will drop 4.28%.\nTrust me bro, I&#39;m not joking bro\n\n$QQQ $SPY $SOXL $NVDA $MSFT",
         "created_at": "2026-08-07T03:56:02Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "SerinTech",
-        "body": "$NVDA $MSFT\n\nOpenAI’s latest update shows that AI competition is entering a new phase — where cost efficiency matters as much as model performance.\n\nThe question now is: as powerful AI becomes more accessible, how will the competitive landscape evolve?",
-        "created_at": "2026-08-07T03:32:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "honestbuck",
-        "body": "$PATH Dan has all the time in the world. $NOW $CRM $MSFT",
-        "created_at": "2026-08-07T03:21:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Snipertradesexpert",
-        "body": "$MSFT GET READY FOR MORE OF THIS 🏆",
-        "created_at": "2026-08-07T03:18:04Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "MountCapital",
+        "body": "$GOOG the company narrative has changed. \nIt is now lagging in AI. \n$300 next week",
+        "created_at": "2026-08-07T06:04:34Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Ub3r5pAnK",
         "body": "$SMCI $SPCX $META $GOOG Also an important development is that the racks will need access to optical trancievers.  \n \nNot sure if youve heard but Trumps trying to ban chinese optical tranceivers, its especially important to SMCI here, because they have a centrally located facility in Malaysia. \n \nHav",
@@ -427,15 +433,33 @@
         "body": "$GOOG wont see $360 again",
         "created_at": "2026-08-07T02:34:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "SparkleByRS",
-        "body": "$NLST Samsung settled..now time for everyone else to settle with netlist! $SMCI $SSNLF $MU $GOOG  \n\nhttps://youtu.be/HoQmpsVYClo?is=sqEzDgxiG736bwD0",
-        "created_at": "2026-08-07T01:59:42Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "Mipel",
+        "body": "$META",
+        "created_at": "2026-08-07T06:07:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NicoleWang1028",
+        "body": "$DDOG $META $TMC $RGTI $LUNR Datadog continues leading cloud observability, Meta expands AI monetization and digital advertising, TMC targets strategic deep-sea minerals, Rigetti advances quantum computing, and Intuitive Machines benefits from growing lunar exploration opportunities. I&#39;m watchin",
+        "created_at": "2026-08-07T06:02:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MaBoiiiiiiiiiiis",
+        "body": "$META $57-$127 down tomorrow.",
+        "created_at": "2026-08-07T05:40:27Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "401kTrader",
+        "body": "$META shit is coming down tomorrow",
+        "created_at": "2026-08-07T05:18:18Z",
+        "sentiment": ""
+      },
       {
         "user": "Ub3r5pAnK",
         "body": "$SMCI $SPCX $META $GOOG Also an important development is that the racks will need access to optical trancievers.  \n \nNot sure if youve heard but Trumps trying to ban chinese optical tranceivers, its especially important to SMCI here, because they have a centrally located facility in Malaysia. \n \nHav",
@@ -471,30 +495,6 @@
         "body": "$META Meta was ordered to pay $567 million after a New Mexico court said its platforms harmed young users, per AP \n \nThe order includes $420 million for treatment services over five years (2.1 Billion) \n \nThis thing is going to tank to $455.32 tomorrow.",
         "created_at": "2026-08-07T04:12:04Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "23bobsmith23",
-        "body": "$AMZN $GOOG $GOOGL $META $MSFT yes 🙌 👏🏻",
-        "created_at": "2026-08-07T04:08:48Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "blueblood12",
-        "body": "$META Meta was ordered to pay $567 million after a New Mexico court said its platforms harmed young users, per AP\n\nThe order includes $420 million for treatment services over five years (2.1 Billion)\n\nTheir latest earnings report Free Cash Flow: $784 million (down about 91% year-over-year) $GOOGL $Q",
-        "created_at": "2026-08-07T03:46:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Carnage1371",
-        "body": "$GOOG $META $SMCI $SPCX \nSchool is in session:\n\nStarmind is SpaceX’s planned constellation of orbital AI data center satellites (up to 1 million). Unlike Starlink satellites (which mainly relay data as a space-based internet network), Starmind satellites act as servers in space—they perform AI compu",
-        "created_at": "2026-08-07T03:01:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JohnAnthony_",
-        "body": "$META is this cooked? Asking for a 5th cousins girlfriend that uses a edward jones advisor but is unhappy she bought @ 682",
-        "created_at": "2026-08-07T03:00:22Z",
-        "sentiment": ""
       }
     ]
   }
