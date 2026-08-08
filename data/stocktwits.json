@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-08 19:29:45",
+  "ts": "2026-08-08 19:56:47",
   "tickers": {
     "NVDA": [
+      {
+        "user": "WallStKoal",
+        "body": "$NVDA is bypassing silicon bottlenecks to corner the ultimate AI moat: physical land and power grid capacity. \n \nBy deploying $2B initially for ~20% of Lancium—plus $1B tied to grid connection milestones at a $10B valuation—Nvidia is directly locking up scarce utility infrastructure to guarantee its",
+        "created_at": "2026-08-08T19:43:12Z",
+        "sentiment": ""
+      },
       {
         "user": "SuppaBull",
         "body": "$NVDA Huge gap up Monday morning IMO.",
@@ -55,15 +61,21 @@
         "body": "$BB $BB.TSX $NVDA $TSLA $SPCX \nFor those who want to read into more about my thinking here....\n\nRead with an open mind...\n\nhttps://www.reddit.com/r/BB_Stock/s/eBEi4gafZs",
         "created_at": "2026-08-08T18:27:10Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Slinga_Malinga",
-        "body": "$NVDA how high can this go over next 5-7 years?",
-        "created_at": "2026-08-08T18:14:20Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "larsmoravy",
+        "body": "$TSLA 🚘 FOR SALE — TESLA MODEL X 100D | RED | FALCON WING DOORS\n\n⚡ Tesla Model X 100D — a premium all-electric SUV combining exceptional performance, luxury, technology, and practicality in one impressive package.\n\nFinished in a stunning deep red exterior, this Model X stands out with its unmistakab",
+        "created_at": "2026-08-08T19:51:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "EconomyEngine",
+        "body": "$QQQ $SPY $TSLA 🚨 BREAKING:\n\nTHE INVESTOR WHO CALLED THE 2008 FINANCIAL CRISIS, STEVE EISMAN, PREVIOUSLY SAID ON CNBC:\n\n&quot;I&#39;M NOT A FAN OF A SPACEX IPO. I THINK THE $1.75T VALUATION IS SILLY.&quot;\n\nNOW $SPCX IS DOWN 50% AND HAS LOST MORE THAN $1.2 TRILLION IN MARKET VALUE\n\nHIS COMMENTS ARE ",
+        "created_at": "2026-08-08T19:47:44Z",
+        "sentiment": ""
+      },
       {
         "user": "Rex_Kwon_Do",
         "body": "$AMFN $TSLA $ASTS $SERV $RR  \n \nAMFN Executive Chariman Brent Nelson last week:   \n   \n“This is a groundbreaking, paradigm-shifting technology. I don’t think people have really grasped what we can do.”   \n   \n“We’re going step by step into bigger and bigger fusion engines. We think the sweet spot is",
@@ -111,21 +123,33 @@
         "body": "$TSLA \n\nTesla???",
         "created_at": "2026-08-08T18:01:47Z",
         "sentiment": ""
-      },
-      {
-        "user": "Sleepy_Don",
-        "body": "$QQQ $SPY $DJIA $TSLA \n\nTrump sure is quiet. No threats no spewing bs. He is beaten. Markets geen as hell in Monday? Or will he spoil it with a reverse TACO?",
-        "created_at": "2026-08-08T18:00:43Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "GMERTRD",
-        "body": "@Edt384 it also means $GME is building a war chest of cash just like $TSLA did to become what they are today.",
-        "created_at": "2026-08-08T17:46:40Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "ivijay237",
+        "body": "$AAPL what’s your PT for next week ?",
+        "created_at": "2026-08-08T19:50:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RhinoResurrected",
+        "body": "$AIXI they cant just R/S here to get this above $15 million market cap. This is a true lottery ticket. They either chinese pump this above $15 for 10 days, they win lawsuit, or they receive a settlement from $AAPL \n\nThere&#39;s nothing else to be done. \nDelisting is highly unlikely as this is a real",
+        "created_at": "2026-08-08T19:41:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SpyBreakOuts",
+        "body": "$SPY \n$AAPL \n$SPCX \n\nRomans 10:9-10\n\n9. because, if you confess with your mouth that \n\n&gt;Jesus&lt;\n\n is. &gt; Lord &lt; and believe in your heart that God raised him from the dead, you will be\n &gt;saved. &lt;\n\n10. For with the heart one believes and is justified, and with the mouth one confesses ",
+        "created_at": "2026-08-08T19:37:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FibonacciTrader_",
+        "body": "5-YEAR INVESTING SHOWDOWN: EXPENSIVE GROWTH vs. CHEAPER VALUE  \n \nIf you could only choose ONE side, where would you put your money? \n \n HIGH P/E GROWTH 🆚 LOW P/E VALUE \n \n$HOOD → 34x 🆚 $SCHW → 15x \n$AAPL → 34x 🆚 $META → 18x \n$MRVL → 48x 🆚 QCOM → 18x \n \n HIGH P/E: Paying a premium for future earning",
+        "created_at": "2026-08-08T19:34:40Z",
+        "sentiment": ""
+      },
       {
         "user": "TimCook_____",
         "body": "$AAPL Innovation has always been at the heart of Apple. \n\nWe continue to focus on creating products and experiences that enrich people’s lives while investing in the technologies that will define the future.\n\nFrom artificial intelligence to services, privacy, and sustainability, we believe the best ",
@@ -161,33 +185,21 @@
         "body": "$INFQ $CIFR $IBRX $AAOI $AAPL INFQ remains speculative, Cipher Mining benefits from Bitcoin and data-center demand, ImmunityBio depends on commercial execution, Applied Optoelectronics benefits from AI optical networking, and Apple continues strengthening its ecosystem. I&#39;m watching revenue grow",
         "created_at": "2026-08-08T16:02:49Z",
         "sentiment": ""
-      },
-      {
-        "user": "DonCorleone77",
-        "body": "$BRK.A $BRK.B $GOOGL $AAPL $AXP  \n \nBerkshire Hathaway reports Q2 operating earnings $12.98B vs. $11.16B \n \nReports Q2 revenue $101.81B vs. $92.52B last year. Berkshire acquired approximately $4.5B in treasury shares during the second quarter of 2026, bringing the six-month total to about $4.8B. The",
-        "created_at": "2026-08-08T15:57:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadowBanningIsBad",
-        "body": "$MU $SKHY There are critical shortages in every step of the chip MAKING process.  From the raw material mined in NC USA, to the Ultra Pure Silicone Metal  processing, CZ Growth furnace, Helium gas, WF6 gas, HF acid even Sub 5nm IPA.    We are quickly getting to the point where Cost will increase for",
-        "created_at": "2026-08-08T15:47:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "In_N__Out",
-        "body": "$AMZN $AAPL $META $TSLA $NVDA MoneyMaxxing trend.. Gen Z aren’t spending any money.  Nobody will be spending money soon.",
-        "created_at": "2026-08-08T15:45:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "birdseyetrader",
-        "body": "$AAPL best stock",
-        "created_at": "2026-08-08T15:19:09Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "TradeIntelligence_",
+        "body": "THE S&amp;P 500’S NEXT BIG WINNERS ARE ALREADY SHOWING UP  \n \nThese names have delivered 100%+ gains so far this year: \n \n $MRVL → +157.4%  \n $WDC → +152.1%  \n $LITE → +141.5%  \n $AMD → +125.7%  \n $HPE → +121.6%  \n \n AI, chips, memory and data-center infrastructure continue to dominate the S&amp;P 5",
+        "created_at": "2026-08-08T19:40:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TeamSetupAlpha",
+        "body": "Missed the early moves? Don’t miss the next AI infrastructure wave. \n \nMissed $AMD near $80. \nMissed $MU near $156. \nMissed $AAOI near $40. \n \nNow all eyes are on $NBIS. \n \nSemiconductors just suffered their sharpest July selloff since 2008 — right as AI infrastructure spending is accelerating. \n \n$",
+        "created_at": "2026-08-08T19:35:53Z",
+        "sentiment": ""
+      },
       {
         "user": "FibonacciTrader_",
         "body": "IF YOU COULD ONLY BET ON ONE SIDE FOR THE NEXT 5 YEARS… WHICH ONE? \n \n HIGH P/E GROWTH vs. LOW P/E VALUE \n \n$AMD → 44x 🆚 $NVDA → 22x \n$AMZN → 30x 🆚 $ORCL → 18x \n$PLTR → 91x🆚  CRM →14x \n \n HIGH P/E: Paying more today for stronger future growth. \nLOW P/E: Paying less for earnings that already exist. \n",
@@ -235,18 +247,6 @@
         "body": "$AMD Can this be a $1000/share?",
         "created_at": "2026-08-08T17:05:59Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "RoxieJones689",
-        "body": "$AMD $SKHY $ASML $V $XOM AMD continues gaining share in AI computing, SKHY remains tied to high-yield credit conditions, ASML remains essential to advanced chip manufacturing, Visa benefits from global digital-payment growth, and Exxon Mobil remains leveraged to energy prices. I&#39;m watching AI ad",
-        "created_at": "2026-08-08T16:40:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JeffreyMiller661",
-        "body": "$WEN $DJT $TSLA $CELH $AMD Wendy&#39;s focuses on restaurant efficiency, DJT remains sentiment-driven, Tesla remains focused on EVs and autonomy, Celsius continues gaining beverage share, and AMD continues competing in AI computing. I&#39;m watching margins, consumer demand, and AI adoption.",
-        "created_at": "2026-08-08T16:24:39Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "Honeystocks",
+        "body": "$MSFT Breaking out again? \n \nAs long as we&#39;re above those July 2024 levels it&#39;s a chart I still like. \n \nCongrats all the buy low : sell high crowd who bought the lows. \n \n+45% off the lows. Crazy. \n \n1 of 25 trade ideas below 👇 (yes, it&#39;s free) \nhttps://www.honeystocks.com/analysis",
+        "created_at": "2026-08-08T19:41:51Z",
+        "sentiment": ""
+      },
+      {
         "user": "4years_2_retirement",
         "body": "$NOW $SAP $MSFT \nSo to put things in perspective \nHere is an overview of BILL as CEO of SAP from 2010-2019\n\n* 2010 Revenue:$16 Billion    \n* 2019 Revenue: $32 Billion\n* Revenue nearly doubled during his tenure \n\n*MC grew from roughly $40B to $160B from 2009-2019\n\nWhat’s particularly interesting is t",
         "created_at": "2026-08-08T19:02:33Z",
@@ -364,12 +370,6 @@
         "user": "RoxieJones689",
         "body": "$NVDA $AAPL $GOOGL $MSFT $AMZN NVIDIA remains the leading AI accelerator provider, Apple benefits from its ecosystem and services base, Alphabet continues expanding AI and cloud monetization, Microsoft remains a major enterprise AI platform, and Amazon benefits from AWS and e-commerce scale. I&#39;m",
         "created_at": "2026-08-08T16:39:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JeffreyMiller661",
-        "body": "$AMC $RKLB $NLST $MSFT $INOD AMC remains retail-sentiment driven, Rocket Lab expands launch and space systems, Netlist remains tied to memory technology and IP developments, Microsoft leads enterprise AI, and Innodata benefits from AI data demand. I&#39;m watching cash flow and commercial execution.",
-        "created_at": "2026-08-08T16:24:57Z",
         "sentiment": ""
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "FibonacciTrader_",
+        "body": "5-YEAR INVESTING SHOWDOWN: EXPENSIVE GROWTH vs. CHEAPER VALUE  \n \nIf you could only choose ONE side, where would you put your money? \n \n HIGH P/E GROWTH 🆚 LOW P/E VALUE \n \n$HOOD → 34x 🆚 $SCHW → 15x \n$AAPL → 34x 🆚 $META → 18x \n$MRVL → 48x 🆚 QCOM → 18x \n \n HIGH P/E: Paying a premium for future earning",
+        "created_at": "2026-08-08T19:34:40Z",
+        "sentiment": ""
+      },
+      {
         "user": "RoxieJones689",
         "body": "$AVGO $TSM $SPCX $META $TSLA Broadcom benefits from AI networking and custom silicon demand, TSMC remains critical to advanced semiconductor manufacturing, SPCX remains sensitive to SPAC and capital-market activity, Meta continues monetizing AI-enhanced advertising, and Tesla remains focused on EVs,",
         "created_at": "2026-08-08T16:40:24Z",
@@ -488,12 +494,6 @@
         "user": "nesanmano",
         "body": "$META they got fined another 942miions",
         "created_at": "2026-08-08T14:51:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "dalalstreetbets1",
-        "body": "Meta now touches 3.6 billion people every day across Facebook, Instagram, WhatsApp, Messenger and Threads rose 3% year on year.\n\n$META",
-        "created_at": "2026-08-08T14:48:14Z",
         "sentiment": ""
       }
     ]
