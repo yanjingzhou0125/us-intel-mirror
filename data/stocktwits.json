@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-08 18:51:35",
+  "ts": "2026-08-08 19:29:45",
   "tickers": {
     "NVDA": [
+      {
+        "user": "SuppaBull",
+        "body": "$NVDA Huge gap up Monday morning IMO.",
+        "created_at": "2026-08-08T19:25:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FibonacciTrader_",
+        "body": "IF YOU COULD ONLY BET ON ONE SIDE FOR THE NEXT 5 YEARS… WHICH ONE? \n \n HIGH P/E GROWTH vs. LOW P/E VALUE \n \n$AMD → 44x 🆚 $NVDA → 22x \n$AMZN → 30x 🆚 $ORCL → 18x \n$PLTR → 91x🆚  CRM →14x \n \n HIGH P/E: Paying more today for stronger future growth. \nLOW P/E: Paying less for earnings that already exist. \n",
+        "created_at": "2026-08-08T19:19:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HanRP",
+        "body": "$CRWV $NVDA holds 47M shares",
+        "created_at": "2026-08-08T19:15:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "darioras",
+        "body": "$NVDA New highs next week?",
+        "created_at": "2026-08-08T19:08:54Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Kingbagholder69",
+        "body": "$MU $NVDA $QQQ $SNDK im not sure you&#39;ve read the iran commentary LOL. They want compensation and have all sorts of demands for control over the straight 🤣",
+        "created_at": "2026-08-08T19:08:19Z",
+        "sentiment": ""
+      },
       {
         "user": "TalkMarkets",
         "body": "S&amp;P 500 Gamma Squeeze Fades As Real Yields Rise Mentions: $AVGO $IEF $NVDA $SPY $VIX https://talkmarkets.com/article/sp-500-gamma-squeeze-fades-as-real-yields-rise-1786214893",
@@ -31,39 +61,21 @@
         "body": "$NVDA how high can this go over next 5-7 years?",
         "created_at": "2026-08-08T18:14:20Z",
         "sentiment": ""
-      },
-      {
-        "user": "_JensenHuang___",
-        "body": "$NVDA AI is entering a new era, and the world is building the infrastructure to power it. 🚀\n\nAt NVIDIA, we believe accelerated computing and AI will continue transforming every industry, from data centers and robotics to healthcare and scientific discovery.\n\nThe next wave of innovation is just begin",
-        "created_at": "2026-08-08T18:12:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Nowhiteflag",
-        "body": "$SPCX got into spcx at $109 after selling 25% of my $NVDA position the day before.  Now, for better or worse, my entire account is 75% NVDA and 25% SPCX. This could go either way.",
-        "created_at": "2026-08-08T18:02:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "logn",
-        "body": "$NVDA",
-        "created_at": "2026-08-08T17:51:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TeslaPsycho",
-        "body": "Burry is so done this week 😂😂 $NVDA https://www.nasdaq.com/articles/massive-news-palantirs-newest-partnership-could-strengthen-its-ai-moat",
-        "created_at": "2026-08-08T17:45:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "eu_lern",
-        "body": "$NVDA x $PLTR next week is fire we already curling",
-        "created_at": "2026-08-08T17:39:46Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Rex_Kwon_Do",
+        "body": "$AMFN $TSLA $ASTS $SERV $RR  \n \nAMFN Executive Chariman Brent Nelson last week:   \n   \n“This is a groundbreaking, paradigm-shifting technology. I don’t think people have really grasped what we can do.”   \n   \n“We’re going step by step into bigger and bigger fusion engines. We think the sweet spot is",
+        "created_at": "2026-08-08T19:05:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "UrNeighbor",
+        "body": "$ARLO $TSLA $SPCX https://www.tradingview.com/news/tradingview:08c8396e88b1e:0-arlo-technologies-inc-stock-12-month-price-target-raised-to-21-implies-36-upside/",
+        "created_at": "2026-08-08T18:54:22Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Tslainsights",
         "body": "$TSLA spacex buying tesla would mean swapping near-term catalysts (Optimus and robotaxi) for long-term capex (orbital data centers). completely different investment profiles.",
@@ -110,18 +122,6 @@
         "user": "GMERTRD",
         "body": "@Edt384 it also means $GME is building a war chest of cash just like $TSLA did to become what they are today.",
         "created_at": "2026-08-08T17:46:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Neurogirl",
-        "body": "$BTC.X $DJT $QQQ $SPY $TSLA the world would end",
-        "created_at": "2026-08-08T17:43:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TheBullofWalllStreet",
-        "body": "$SPY $QQQ $TSLA $BTC.X $DJT \nTrump’s only feasible solution against Iran is to use nuear weapons! \nHe hasn’t done it yet because he knows Iran also holds several nuclear weapons and can retaliate.",
-        "created_at": "2026-08-08T17:36:46Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,42 @@
     ],
     "AMD": [
       {
+        "user": "FibonacciTrader_",
+        "body": "IF YOU COULD ONLY BET ON ONE SIDE FOR THE NEXT 5 YEARS… WHICH ONE? \n \n HIGH P/E GROWTH vs. LOW P/E VALUE \n \n$AMD → 44x 🆚 $NVDA → 22x \n$AMZN → 30x 🆚 $ORCL → 18x \n$PLTR → 91x🆚  CRM →14x \n \n HIGH P/E: Paying more today for stronger future growth. \nLOW P/E: Paying less for earnings that already exist. \n",
+        "created_at": "2026-08-08T19:19:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "EquityBlueprint",
+        "body": "If you missed $AMD at $80,$MU at $156, or$AAOI at $40, do not miss$NBIS. \nJuly handed semiconductors their worst selloff since 2008, right as the AI infrastructure buildout hits vertical acceleration. $NBIS is trading at $187 today and is on track to break $500 before 2030. \n \nTap my profile right n",
+        "created_at": "2026-08-08T19:17:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$MU #2, $MRVL #6, and $AMD #9 on the NAS 100 top 25 list this week.  GO TEAM!",
+        "created_at": "2026-08-08T19:13:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Chrilow",
+        "body": "Chet this monday!",
+        "created_at": "2026-08-08T19:11:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "wader2k",
+        "body": "$MU #3, $MRVL #6, and $AMD #9 on the S&amp;P top 25 list",
+        "created_at": "2026-08-08T19:11:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Tyrantor",
+        "body": "$AMD AMD is not able to secure manufacturing space at Taiwan Manufacturing Company. They have too many supply chain constraints to scale up fast. Elon said SpaceX will not buy from AMD anymore. All the insiders are selling because they know this.",
+        "created_at": "2026-08-08T18:53:11Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "juanchopantalunan",
         "body": "$AMD I own 9k Shares in 2015. $2+ back then . I sold everything at about $100. That was stupid.  Now  i am starting to accumulate shares again.",
         "created_at": "2026-08-08T17:09:30Z",
@@ -211,42 +247,6 @@
         "body": "$WEN $DJT $TSLA $CELH $AMD Wendy&#39;s focuses on restaurant efficiency, DJT remains sentiment-driven, Tesla remains focused on EVs and autonomy, Celsius continues gaining beverage share, and AMD continues competing in AI computing. I&#39;m watching margins, consumer demand, and AI adoption.",
         "created_at": "2026-08-08T16:24:39Z",
         "sentiment": ""
-      },
-      {
-        "user": "EquityBlueprint",
-        "body": "AMD ($AMD) just acquired Taalas to integrate model-specific AI inference silicon directly into its Instinct GPU roadmap. \n \nThis completes AMD&#39;s full-stack AI platform across CPUs, GPUs, networking, software, rack systems, and dedicated inference hardware. AMD is no longer just building GPUs; it",
-        "created_at": "2026-08-08T16:15:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "sp122809",
-        "body": "$AMD MMs dumped it below $500 to take out all the call holders. \n\nClear skies ahead",
-        "created_at": "2026-08-08T16:06:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sp122809",
-        "body": "$AMD we&#39;ll see $510+ next week",
-        "created_at": "2026-08-08T16:05:29Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "RhoRuler",
-        "body": "$WEN $DJT $TSLA $CELH $AMD Wendy&#39;s focuses on restaurant efficiency, DJT remains sentiment-driven, Tesla remains focused on EVs and autonomy, Celsius continues gaining beverage share, and AMD continues competing in AI computing. I&#39;m watching margins, consumer demand, and AI adoption.",
-        "created_at": "2026-08-08T16:02:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ashton_1nvests",
-        "body": "In case you missed it Thursday…\n\n$AMD is acquiring Taalas, a company focused on specialized AI inference silicon.\n\nAMD plans to integrate Taalas’ technology directly into its accelerator roadmap alongside Instinct GPUs.\n\nAnother piece being added to AMD’s full-stack AI platform.\n\nCPU. GPU. Networkin",
-        "created_at": "2026-08-08T15:49:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "dukeofhb",
-        "body": "@stockdog88 imho $ALAB and $AMD was a share grab/opex. Fantastic earnings. \n$SNDK there are concerns about “peak pricing” for memory so margins will possibly shrink going forward… shrinking margins are kiss of death for Wall Street. Expanding margins are the golden goose. SNDK will prob bounce back.",
-        "created_at": "2026-08-08T14:33:13Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "4years_2_retirement",
+        "body": "$NOW $SAP $MSFT \nSo to put things in perspective \nHere is an overview of BILL as CEO of SAP from 2010-2019\n\n* 2010 Revenue:$16 Billion    \n* 2019 Revenue: $32 Billion\n* Revenue nearly doubled during his tenure \n\n*MC grew from roughly $40B to $160B from 2009-2019\n\nWhat’s particularly interesting is t",
+        "created_at": "2026-08-08T19:02:33Z",
+        "sentiment": ""
+      },
+      {
         "user": "itamardrori",
         "body": "$MSFT double bottom setup. Trigger: $466.32. \nMy scanner flagged it pre-open. Watching the level.",
         "created_at": "2026-08-08T18:47:10Z",
@@ -364,12 +370,6 @@
         "user": "JeffreyMiller661",
         "body": "$AMC $RKLB $NLST $MSFT $INOD AMC remains retail-sentiment driven, Rocket Lab expands launch and space systems, Netlist remains tied to memory technology and IP developments, Microsoft leads enterprise AI, and Innodata benefits from AI data demand. I&#39;m watching cash flow and commercial execution.",
         "created_at": "2026-08-08T16:24:57Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AscendingProfits",
-        "body": "$AMC $RKLB $NLST $MSFT $INOD AMC remains retail-sentiment driven, Rocket Lab expands launch and space systems, Netlist remains tied to memory technology and IP developments, Microsoft leads enterprise AI, and Innodata benefits from AI data demand. I&#39;m watching cash flow and commercial execution.",
-        "created_at": "2026-08-08T16:02:43Z",
         "sentiment": ""
       }
     ],
