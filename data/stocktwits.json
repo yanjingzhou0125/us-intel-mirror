@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-08 04:35:11",
+  "ts": "2026-08-08 05:42:22",
   "tickers": {
     "NVDA": [
+      {
+        "user": "fanttomas",
+        "body": "$NVDA  go go go",
+        "created_at": "2026-08-08T05:39:51Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "GlobalMarketBulletin",
         "body": "$NVDA Jim Cramer remains bullish on Nvidia Corporation (NASDAQ: NVDA), but investors want more than AI hype. With Blackwell demand, Rubin, earnings growth and data-center spending in focus, could NVDA stock be setting up for its next major move? https://globalmarketbulletin.com/is-nvidia-nvda-still-",
@@ -55,15 +61,27 @@
         "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
         "created_at": "2026-08-08T03:07:49Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "TCLutz",
-        "body": "$MSFT $NVDA $PLTR $AMZN $META",
-        "created_at": "2026-08-08T02:55:40Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "ELON_DOGE69",
+        "body": "$SPY $SPCX $TSLA \n\nThis is pure from selling CC and SP since Jan 2026. My goal is to end the year with $100K. I know it’s lil aggressive but I’ll get there. I’ll be happy with anything between $90K-$100K. Will keep you guys posted. \n\nMajor portion comes from sell Tesla CC and SpaceX SP. Elon is a ge",
+        "created_at": "2026-08-08T05:32:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JoeDirtay3",
+        "body": "$TSLA $360 very soon.",
+        "created_at": "2026-08-08T05:23:26Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Padi0612",
+        "body": "$TSLA sometimes this is such a mindfuck .a week ago. I was relieved to breakeven on my 310 calls and then I sold them.🤦‍♂️",
+        "created_at": "2026-08-08T04:40:46Z",
+        "sentiment": ""
+      },
       {
         "user": "moneybag888",
         "body": "$SPY 3 gaps down or 800+ dejavu 🤔 $TSLA",
@@ -105,27 +123,15 @@
         "body": "$QQQ GOOD NEWS 🚨 BlackRock, the second-largest institutional shareholder of Tesla, bolstered its $TSLA stake during Q2 2026 by acquiring 6,028,120 additional shares for $2.535 billion 🔥\n\nThis pushed their total position at the close of Q2 to 214,123,129 shares, carrying a massive valuation of $90.06",
         "created_at": "2026-08-08T02:28:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "Options",
-        "body": "Lockup concerns easing for $SPCX? The stock came roaring back as SpaceX and $PLTR helped power a wild Friday in the options market. \n \nWe break down $SPCX, $PLTR, $TSLA, $NVDA and more on &quot;The Hot Options Report: 08-07-2026 — SpaceX and Palantir Power a Wild Friday.&quot; \n \nCheck out the $SPCX",
-        "created_at": "2026-08-08T02:12:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ByGraceThruFaith",
-        "body": "$SPCX $TSLA $GOOGL  \n \n$GOOGL owns 551,189,500 shares of $SPCX",
-        "created_at": "2026-08-08T01:33:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Lpohc",
-        "body": "$TSLA",
-        "created_at": "2026-08-08T01:28:20Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "my_options_expired",
+        "body": "$AAPL",
+        "created_at": "2026-08-08T05:30:14Z",
+        "sentiment": ""
+      },
       {
         "user": "GlobalMarketBulletin",
         "body": "$AAPL Jim Cramer has repeatedly backed Apple Inc. (NASDAQ: AAPL) as an “own it, don’t trade it” investment. But with Apple taking a slower approach to artificial intelligence, is AAPL still worth owning for the long haul? https://globalmarketbulletin.com/could-apple-aapl-deliver-another-decade-of-st",
@@ -179,15 +185,15 @@
         "body": "$AAPL $AVGO $AXTI all the gains from\nThe subs in the discord https://x.com/jc_justcharts/status/2085909861049536591?s=46",
         "created_at": "2026-08-08T02:04:38Z",
         "sentiment": ""
-      },
-      {
-        "user": "Diverg3nceGod",
-        "body": "$SPY $AAPL 🤫",
-        "created_at": "2026-08-08T01:29:47Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AMD Advanced Micro Devices, Inc. (NASDAQ: AMD) just suffered a sharp 7.24% drop, but its AI chips, data-center business and growing role as Nvidia’s biggest challenger could make the selloff worth a closer look. https://globalmarketbulletin.com/is-amd-amd-a-smart-alternative-to-nvidia-for-long-term",
+        "created_at": "2026-08-08T04:39:29Z",
+        "sentiment": ""
+      },
       {
         "user": "GlobalMarketBulletin",
         "body": "$AMD $ARM $CRWD $GOOGL $INTC Amazon is rebounding, Alphabet is making waves after earnings, and AI stocks remain volatile. Discover Jim Cramer’s top 10 technology stocks and the catalysts investors should be watching. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cram",
@@ -240,12 +246,6 @@
         "user": "JockoJohnson",
         "body": "$AMD I really miss when we had proper bears on here that had at least some thought provoking content. Nope, we get mouth breathing knuckle dragers like this guy. Hey, if I want any more crap out of you SE, I&#39;ll squeeze your head - This is the last time I&#39;ll respond this clown..",
         "created_at": "2026-08-08T00:09:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "spacechimp",
-        "body": "$AMD",
-        "created_at": "2026-08-08T00:07:29Z",
         "sentiment": ""
       }
     ],
@@ -432,6 +432,68 @@
         "user": "Cogsey",
         "body": "$GOOG $NBIS $CRWV $IREN Motherfkr it literally says here: \nhttps://uk.investing.com/news/stock-market-news/top-neocloud-stocks-to-watch-as-google-expands-thirdparty-ai-compute-93CH-4788127 \n \nThe Prime Beneficiary: CoreWeave \n \nGTFO",
         "created_at": "2026-08-07T21:47:09Z",
+        "sentiment": ""
+      }
+    ],
+    "META": [
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY I was outbidded at 20,000$... $RDDT $META $BTC.X",
+        "created_at": "2026-08-08T04:32:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$META Jim Cramer remains constructive on Meta Platforms, Inc. (NASDAQ: META), but Zuckerberg’s enormous AI spending is raising questions. Can Facebook, Instagram and WhatsApp generate enough growth to justify the bill? https://globalmarketbulletin.com/heres-what-makes-meta-platforms-meta-a-smart-lon",
+        "created_at": "2026-08-08T04:24:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
+        "created_at": "2026-08-08T04:00:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Themadogtrader",
+        "body": "$META what do we call this a freak show pattern",
+        "created_at": "2026-08-08T03:45:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "severeblast",
+        "body": "$META Up on the bad news...ahh for now...",
+        "created_at": "2026-08-08T03:26:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ZTRADEZ_LLC",
+        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
+        "created_at": "2026-08-08T03:14:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DoubleUpwithChuck",
+        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
+        "created_at": "2026-08-08T03:07:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TCLutz",
+        "body": "$MSFT $NVDA $PLTR $AMZN $META",
+        "created_at": "2026-08-08T02:55:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "In_N__Out",
+        "body": "$META This is just the beginning. All states are going after $META $GOOGL TikTok \n\n$SPY $QQQ",
+        "created_at": "2026-08-08T01:40:55Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MarketScoutTrades",
+        "body": "We did the Palantir thing. 📊 \n \nI shared the numbers, and some people actually acted on them. \n \n$PLTR at $110 \n$HIMS at $15 \n$MSFT at $350 \n$HOOD at $68 \n$META at $540 \n \nOver the last five months, we’ve had several corrections that gave buyers a chance to step in at much better levels. \n \nThat’s r",
+        "created_at": "2026-08-08T01:04:59Z",
         "sentiment": ""
       }
     ]
