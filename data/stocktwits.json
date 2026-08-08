@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-08 01:38:22",
+  "ts": "2026-08-08 03:25:27",
   "tickers": {
     "NVDA": [
+      {
+        "user": "ZTRADEZ_LLC",
+        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
+        "created_at": "2026-08-08T03:14:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DoubleUpwithChuck",
+        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
+        "created_at": "2026-08-08T03:07:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TCLutz",
+        "body": "$MSFT $NVDA $PLTR $AMZN $META",
+        "created_at": "2026-08-08T02:55:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JetJupiter",
+        "body": "$NVDA made 10 grand here today, good way to finish the week.",
+        "created_at": "2026-08-08T02:49:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DarkFlowSignals",
+        "body": "Soft July jobs report (-23K, wages cooled to 3.2%) pulled the rate-cut path forward, dropped the dollar and lit up metals, the one clean rotation on the tape today. $SLV $57.5C 9/18 is our fresh silver entry, the cleanest, least-crowded leg of the move. \n \nLive book into the weekend: $GOOGL $330C +1",
+        "created_at": "2026-08-08T02:40:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "topstockalerts",
+        "body": "Huawei’s top semiconductor scientist, Liao Heng, warned that Nvidia and other chipmakers could soon face physical limits in their drive to build increasingly powerful processors. He argued that decades of shrinking transistors and increasing chip density are approaching a point where further miniatu",
+        "created_at": "2026-08-08T02:26:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Options",
+        "body": "Lockup concerns easing for $SPCX? The stock came roaring back as SpaceX and $PLTR helped power a wild Friday in the options market. \n \nWe break down $SPCX, $PLTR, $TSLA, $NVDA and more on &quot;The Hot Options Report: 08-07-2026 — SpaceX and Palantir Power a Wild Friday.&quot; \n \nCheck out the $SPCX",
+        "created_at": "2026-08-08T02:12:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RobertLemire",
+        "body": "$NVDA I don&#39;t think anyone knew back in 1996 when this was the homepage for Nvidia...IO had to use two pics to capture the whole page. \nOne Chip. To rule them all.  \nAlways a kick to find the old web pages.",
+        "created_at": "2026-08-08T01:47:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ericon2",
+        "body": "$NVDA a 52 week high juat around the corner.",
+        "created_at": "2026-08-08T01:41:40Z",
+        "sentiment": ""
+      },
       {
         "user": "Tony5885",
         "body": "$NVDA",
         "created_at": "2026-08-08T01:36:44Z",
         "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "DeepSeek is preparing a significant price increase across all of its AI services, potentially marking a major shift in China&#39;s AI market after years of ultra-low pricing. The company did not disclose specific increases but described them as substantial and urged customers to prepare. DeepSeek&#3",
-        "created_at": "2026-08-08T01:35:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "kindness123",
-        "body": "$NBIS $GS $NVDA institutional ownership 🤩",
-        "created_at": "2026-08-08T01:26:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA buyer at 100",
-        "created_at": "2026-08-08T01:17:31Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "bradley_b",
-        "body": "$SPY $QQQ The market looks very bullish. Don&#39;t let the news or other bears scare you. I think we still have some juice left into $SPX 8000  area. \n\n$NVDA will probably test highs\n\n$SNDK above $1000 remains bullish\n\nTrend is up and breadth is good.",
-        "created_at": "2026-08-08T01:16:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA if nvda doesn’t explode after this earnings the world is going to end.",
-        "created_at": "2026-08-08T01:13:14Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "char0n",
-        "body": "$NVDA you’re the worst shill i’ve ever seen dumbass",
-        "created_at": "2026-08-08T01:07:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Blanka_",
-        "body": "$AAPL $LAES $NVDA $SPCX \n👀👀👀👀",
-        "created_at": "2026-08-08T00:55:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AK77",
-        "body": "$BB It is a snowball. It is a very small snowball pushed recently over the crest.  \n \nGet in when ya fit in.  \n \nThe little guy&#39;s $NVDA at $9/share . The OS of everything physical ai. ... ubiquitous .  \n \n$SPY $BB.TSX",
-        "created_at": "2026-08-08T00:47:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "LouisWinthorp3",
-        "body": "$NVDA",
-        "created_at": "2026-08-08T00:46:33Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "ResearchTrends09",
+        "body": "$TSLA would you look at that another one just came out today.  So that makes it. 2 today?",
+        "created_at": "2026-08-08T03:01:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BuyTheTopSellTheBottom",
+        "body": "$TSLA wait to buy 150 range",
+        "created_at": "2026-08-08T02:40:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "EconomyEngine",
+        "body": "$QQQ GOOD NEWS 🚨 BlackRock, the second-largest institutional shareholder of Tesla, bolstered its $TSLA stake during Q2 2026 by acquiring 6,028,120 additional shares for $2.535 billion 🔥\n\nThis pushed their total position at the close of Q2 to 214,123,129 shares, carrying a massive valuation of $90.06",
+        "created_at": "2026-08-08T02:28:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Options",
+        "body": "Lockup concerns easing for $SPCX? The stock came roaring back as SpaceX and $PLTR helped power a wild Friday in the options market. \n \nWe break down $SPCX, $PLTR, $TSLA, $NVDA and more on &quot;The Hot Options Report: 08-07-2026 — SpaceX and Palantir Power a Wild Friday.&quot; \n \nCheck out the $SPCX",
+        "created_at": "2026-08-08T02:12:46Z",
+        "sentiment": ""
+      },
       {
         "user": "ByGraceThruFaith",
         "body": "$SPCX $TSLA $GOOGL  \n \n$GOOGL owns 551,189,500 shares of $SPCX",
@@ -99,33 +123,39 @@
         "body": "$SPCX fun fact for all the bears\n\n$AMZN Not Profitable at IPO\n\n$TSLA  Not Profitable at IPO\n\n$NVDA only 4 mil it’s FY leading to IPO\n\nThis company is going to make easy millionaires with a little discipline. No matter what all these lonely broke bears think. ￼",
         "created_at": "2026-08-08T00:32:02Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Catchup9",
-        "body": "$TSLA trump took a page from elon. Teases Iran deal, markets fly, with no deal,,,🥴",
-        "created_at": "2026-08-08T00:18:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bullock3000",
-        "body": "$HTZ is the multiday runner everyone is looking for.  Set it and forget it.  In it&#39;s simplest form it is a repricing event due to sone tactical errors from short sellers.\n\n$TSLA $SPY $BTC.X $AMZN",
-        "created_at": "2026-08-08T00:00:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "PhishTourFunds",
-        "body": "$GOOG $SPCX $TSLA  been talking about that Cursor buyout option since May",
-        "created_at": "2026-08-07T23:49:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MayeMusksBurnerAccount",
-        "body": "$TSLA you idiots are spending money to make a future where everyone is supervised. Constantly tracked. This dude is building the big brother machines and talking about a cashless society. Its gonna be ai surviellance all the way down",
-        "created_at": "2026-08-07T23:30:58Z",
-        "sentiment": "Bearish"
       }
     ],
     "AAPL": [
+      {
+        "user": "ZTRADEZ_LLC",
+        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
+        "created_at": "2026-08-08T03:14:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL",
+        "created_at": "2026-08-08T02:50:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL this is perfect. We had another we just came out going to the WNBA.",
+        "created_at": "2026-08-08T02:49:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "topstockalerts",
+        "body": "Apple temporarily removed Telegram from its App Store in the U.S., India, Australia and Singapore after detecting content that violated its strict policies prohibiting child sexual abuse material. Apple said the decision followed a review of the messaging platform and that Telegram was restored afte",
+        "created_at": "2026-08-08T02:26:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JCJustCharting",
+        "body": "$AAPL $AVGO $AXTI all the gains from\nThe subs in the discord https://x.com/jc_justcharts/status/2085909861049536591?s=46",
+        "created_at": "2026-08-08T02:04:38Z",
+        "sentiment": ""
+      },
       {
         "user": "Diverg3nceGod",
         "body": "$SPY $AAPL 🤫",
@@ -155,39 +185,33 @@
         "body": "$AAPL",
         "created_at": "2026-08-07T22:27:14Z",
         "sentiment": ""
-      },
-      {
-        "user": "sister",
-        "body": "$NKE   Think of this as &quot;the next Intel of the Retail Sector&quot; . . . $80.17 on massive Tariff Refunds and new Defenders already aboard with Board Member Tim Cook.  $SPY $AAPL",
-        "created_at": "2026-08-07T22:26:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bazziggr",
-        "body": "$AAPL $290 after CPI?",
-        "created_at": "2026-08-07T22:23:31Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "OptionsPlayers",
-        "body": "$QQQ $SPY $AAPL Amazing week of gains. Only loss for me this week was my last min 0DTE gamble but I earned the right to play with and I only risked what I expected to lose and sure enough it was an over trade and I lost…it reminds me how solid our systems are and how painful it can be for those that",
-        "created_at": "2026-08-07T21:51:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Chark",
-        "body": "$AAPL     Setting up a beautiful C&amp;H.",
-        "created_at": "2026-08-07T21:23:50Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "HighRewards",
-        "body": "$AAPL GET SOME MONEY BACK \nhttps://x.com/Bb27695972/status/2085830550221140051?s=20",
-        "created_at": "2026-08-07T20:59:32Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "wader2k",
+        "body": "$AMD Another 10lbs of maters cored and destined for freezer in a 2gallon bag. When it comes out for processing it goes straight in a sink of hot water - the skins slip right off.  \nHad an excess of Yellow squash - shredded and ready for freezer.",
+        "created_at": "2026-08-08T02:58:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "flytosky2025",
+        "body": "$AMD heading to under $300 next week",
+        "created_at": "2026-08-08T02:01:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TopWaterSniper",
+        "body": "$AMD $MSTR $BTC.X",
+        "created_at": "2026-08-08T02:00:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "micheln1",
+        "body": "$AMD this is going to tank hard on Monday",
+        "created_at": "2026-08-08T01:53:18Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "alaric_wong89",
         "body": "Noticed $AMD is holding a tight range after the recent move, which usually signals a pause before the next trend leg. Options activity feels like it&#39;s keeping a lid on both sides near current levels.",
@@ -223,33 +247,15 @@
         "body": "$AMD I was promised a finnish in green...",
         "created_at": "2026-08-07T23:55:37Z",
         "sentiment": ""
-      },
-      {
-        "user": "PoundinBurgers",
-        "body": "$AMD $MU $NVDA $SNDK it is so good to see people so vompletely full of schit.  Every day I feel rewarded that I could get a good education and a career that paid for it many many times over.  This guy is so completely full of schit is hard to imagine he can survive from one day to the next.",
-        "created_at": "2026-08-07T23:45:41Z",
-        "sentiment": ""
-      },
-      {
-        "user": "kvaer123",
-        "body": "$MU $AMD $SNDK $NVDA $SKHY I am not a sales engineer lmao, bag holder. SE usually means software engineer, I am not surprised you don&#39;t know this but perhaps learning basics would help you in your investing journey and you&#39;d not be left with heavy bags like you always are. Good luck!  \n \nNo,",
-        "created_at": "2026-08-07T23:31:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tyrantor",
-        "body": "$AMD \n\nHigh China invasion of Taiwan risk event incoming! \n\n&quot;October offers the absolute calmest sea conditions and lowest average wave heights in the Taiwan Strait as the summer monsoons dissipate. Cloud cover is generally low, allowing for clearer visibility for air support and precision-guid",
-        "created_at": "2026-08-07T23:22:28Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "JeffersonCarls",
-        "body": "People are moving to the WYHG squeeze, its starting! \n \n$NVDA $AMD ..",
-        "created_at": "2026-08-07T23:19:08Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "topstockalerts",
+        "body": "Huawei’s top semiconductor scientist, Liao Heng, warned that Nvidia and other chipmakers could soon face physical limits in their drive to build increasingly powerful processors. He argued that decades of shrinking transistors and increasing chip density are approaching a point where further miniatu",
+        "created_at": "2026-08-08T02:26:38Z",
+        "sentiment": ""
+      },
       {
         "user": "vcduzit",
         "body": "$TSM Am considering taking $TSM  private at $420. Funding secured.",
@@ -303,15 +309,45 @@
         "body": "$MU  $SKHY  $DRAM.X $TSM \n \nThis is getting interesting. $META is reportedly preparing for a massive AI infrastructure ramp, with nearly 1M custom ASIC shipments targeted for 2027 and a new AI chip cycle potentially coming every 6 months. \n \nThe near-term story is slower. MTIA shipments were reporte",
         "created_at": "2026-08-07T16:09:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "TrendAlpha",
-        "body": "AI chip demand is about to enter another gear.  \n \nWatching: \n$MU \n$SKHY \n$DRAM.X \n$TSM \n \nThe big headline: \n \n$META is reportedly preparing for a massive ASIC ramp, potentially shipping close to 1 million AI chips in 2027 while pushing toward a new custom AI chip generation every 6 months. \n \nThe ",
-        "created_at": "2026-08-07T15:40:00Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "DoubleUpwithChuck",
+        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
+        "created_at": "2026-08-08T03:07:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Q2 Earnings: Robust Results And Positive Estimate Revisions Validate Market Fundamentals $MSFT $AMZN $GOOGL $MU \nhttps://talkmarkets.com/article/q2-earnings-robust-results-and-positive-estimate-revisions-validate-market-fundamentals-1786158360",
+        "created_at": "2026-08-08T03:06:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Toorichtocare",
+        "body": "$MSFT And yet,  that $24.1 billion accounts for less than 7% to 10% of Microsoft’s total corporate revenue.",
+        "created_at": "2026-08-08T03:05:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TCLutz",
+        "body": "$MSFT $NVDA $PLTR $AMZN $META",
+        "created_at": "2026-08-08T02:55:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "daxiongmao",
+        "body": "$MSFT $PLTR   What&#39;s the inflation report gonna say Wednesday?  Is that going to sink us??",
+        "created_at": "2026-08-08T02:48:19Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "victorgn",
+        "body": "$MSFT back to 440$ soon",
+        "created_at": "2026-08-08T02:13:19Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "MarketScoutTrades",
         "body": "We did the Palantir thing. 📊 \n \nI shared the numbers, and some people actually acted on them. \n \n$PLTR at $110 \n$HIMS at $15 \n$MSFT at $350 \n$HOOD at $68 \n$META at $540 \n \nOver the last five months, we’ve had several corrections that gave buyers a chance to step in at much better levels. \n \nThat’s r",
@@ -335,45 +371,39 @@
         "body": "$MSFT target $415",
         "created_at": "2026-08-07T23:24:43Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "CarmenSD",
-        "body": "$MSFT I need msft 465 or lower next week else im homeless",
-        "created_at": "2026-08-07T23:04:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "dostephe",
-        "body": "@hellodeli the hyperscalers are bleeding money?  Have you seen $MSFT $GOOG and $AMZN ’s earning reports?  These companies print cash with their cloud offerings so even if they have to take on a bit of debt, it’s irrelevant in the grand scheme of things.",
-        "created_at": "2026-08-07T23:00:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$MSFT",
-        "created_at": "2026-08-07T22:55:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$MSFT",
-        "created_at": "2026-08-07T22:55:28Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "#Nebius Stock Tumbles Before #Earnings: What The Options Market Predicts $NBIS Also: $MARA $HIVE $META $MSFT https://talkmarkets.com/article/nebius-stock-tumbles-before-earnings-what-the-options-market-predicts-1786143147",
-        "created_at": "2026-08-07T22:53:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SouthernItUp",
-        "body": "$APPS $MGNI $MSFT $RDW $IOVA",
-        "created_at": "2026-08-07T22:52:58Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "nWhiteface",
+        "body": "$GOOG The recent divergence between Google and the broader AI market isn&#39;t due to a breakdown in Google&#39;s core business, but rather capital allocation anxiety and severe near-term margin pressure.",
+        "created_at": "2026-08-08T03:07:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AdamURAtoFookingNeptune",
+        "body": "$GOOG ah I see why the stock isn’t up much following the last ER report",
+        "created_at": "2026-08-08T03:00:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "jcrsbarb",
+        "body": "$GOOG $GOOGL Berkshire expanded its Alphabet stake by 224% during Abel&#39;s first quarter running the conglomerate, growing from 17.8 million shares at year-end 2025 to nearly 58 million shares by March 31. Separately, Berkshire also joined a $10 billion private placement by Google, with proceeds e",
+        "created_at": "2026-08-08T03:00:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JDKING",
+        "body": "$GOOG $PLTR the King is back!",
+        "created_at": "2026-08-08T01:52:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR MIC 🎤 Drop  EXACTLY!!!  Like  $GOOG  with  their  Dutch  Auction  IPO  at  $100  per  share.  Dropped  to  $80  for  a  month.  Started  creeping  back  to  $100,  then  ER  CC  SENT  THEM  TO  THE  MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONNN!!   \n \nhttps://media.stocktwits-cdn.com/api/3/media",
+        "created_at": "2026-08-08T01:48:20Z",
+        "sentiment": ""
+      },
       {
         "user": "Terzman",
         "body": "$RDDT … $GOOG mmmm",
@@ -403,39 +433,33 @@
         "body": "$GOOG $NBIS $CRWV $IREN Motherfkr it literally says here: \nhttps://uk.investing.com/news/stock-market-news/top-neocloud-stocks-to-watch-as-google-expands-thirdparty-ai-compute-93CH-4788127 \n \nThe Prime Beneficiary: CoreWeave \n \nGTFO",
         "created_at": "2026-08-07T21:47:09Z",
         "sentiment": ""
-      },
-      {
-        "user": "Jeffrey_Flight23",
-        "body": "$GOOG c&#39;est bien!",
-        "created_at": "2026-08-07T21:41:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShibWillow",
-        "body": "$GOOG Seeing insane amounts of Waymo cars in london",
-        "created_at": "2026-08-07T21:40:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jeffrey_Flight23",
-        "body": "$GOOG on verra!",
-        "created_at": "2026-08-07T21:34:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TigerTownError",
-        "body": "$PATH If this hits $20 before the earnings report, I’m gonna buy some OTM puts on it. I’m long on this company with $15 strike LEAPs, but they’re going to have to prove that to me and the broader market that the big dogs couldn’t replicate what they are selling overnight with ease. By the “big dogs”",
-        "created_at": "2026-08-07T21:31:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BullTheory",
-        "body": "Rumors are circulating about $GOOG potentially buying compute capacity from $NBIS. \n \nNormally, I don’t pay much attention to speculation. \n \nBut this one is interesting because it aligns with what Google’s CFO discussed during the earnings call: \n \nGoogle expects to expand its use of third-party co",
-        "created_at": "2026-08-07T21:24:09Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "ZTRADEZ_LLC",
+        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
+        "created_at": "2026-08-08T03:14:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DoubleUpwithChuck",
+        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
+        "created_at": "2026-08-08T03:07:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TCLutz",
+        "body": "$MSFT $NVDA $PLTR $AMZN $META",
+        "created_at": "2026-08-08T02:55:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "In_N__Out",
+        "body": "$META This is just the beginning. All states are going after $META $GOOGL TikTok \n\n$SPY $QQQ",
+        "created_at": "2026-08-08T01:40:55Z",
+        "sentiment": ""
+      },
       {
         "user": "MarketScoutTrades",
         "body": "We did the Palantir thing. 📊 \n \nI shared the numbers, and some people actually acted on them. \n \n$PLTR at $110 \n$HIMS at $15 \n$MSFT at $350 \n$HOOD at $68 \n$META at $540 \n \nOver the last five months, we’ve had several corrections that gave buyers a chance to step in at much better levels. \n \nThat’s r",
@@ -470,30 +494,6 @@
         "user": "TalkMarkets",
         "body": "#Nebius Stock Tumbles Before #Earnings: What The Options Market Predicts $NBIS Also: $MARA $HIVE $META $MSFT https://talkmarkets.com/article/nebius-stock-tumbles-before-earnings-what-the-options-market-predicts-1786143147",
         "created_at": "2026-08-07T22:53:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Chalkstocks",
-        "body": "$AMZN $GOOGL $META $MSFT $ORCL these are insane numbers for META, this is why anyone who is not buying and holding this stock is literally retarded. Th is could be 2000 within 3 years. No problem.",
-        "created_at": "2026-08-07T22:39:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AlphaResearchHQ",
-        "body": "YTD Performance of the Mag 7 📊 \n(Part 2) \n \nA closer look at some of the names currently showing mixed performance: \n \n🟢 $MSFT: +6% \n \n🔴 $META: -8% \n🔴 $TSLA: -25% \n \nThe divergence between these mega-cap names has been one of the more interesting market themes this year. \n \n$MSFT continues to show r",
-        "created_at": "2026-08-07T22:35:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MarketPulsee",
-        "body": "10 stocks I would feel comfortable holding for the next 5 years: \n \n$ZETA \n$BN \n$PLTR \n$ADBE \n$META \n \nThe best investments are not always the stocks with the most hype. \n \nThey are often the companies that continue executing year after year. \n \nFor a 5-year horizon, I’m focused on businesses that c",
-        "created_at": "2026-08-07T22:27:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jeffrey_Flight23",
-        "body": "$META c&#39;est dingue!",
-        "created_at": "2026-08-07T22:07:50Z",
         "sentiment": ""
       }
     ]
