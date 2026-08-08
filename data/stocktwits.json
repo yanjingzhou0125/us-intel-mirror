@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-08 05:42:22",
+  "ts": "2026-08-08 06:52:46",
   "tickers": {
     "NVDA": [
+      {
+        "user": "CoalCapital",
+        "body": "$NVDA",
+        "created_at": "2026-08-08T06:48:39Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "cryptoforecast",
+        "body": "$NVDA Nvidia Stock Price Prediction 2026, 2030, 2040 \n \nhttps://telegaon.com/nvidia-stock-price-prediction/",
+        "created_at": "2026-08-08T06:26:49Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "fanttomas",
         "body": "$NVDA  go go go",
@@ -49,21 +61,15 @@
         "body": "$NVDA \n\nMounting warnings of a tech and AI stock bubble: Does credibility imply certainty...",
         "created_at": "2026-08-08T03:38:37Z",
         "sentiment": ""
-      },
-      {
-        "user": "ZTRADEZ_LLC",
-        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
-        "created_at": "2026-08-08T03:14:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DoubleUpwithChuck",
-        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
-        "created_at": "2026-08-08T03:07:49Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "cryptoforecast",
+        "body": "$TSLA Tesla Stock Price Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/tesla-stock-price-prediction/",
+        "created_at": "2026-08-08T06:30:57Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ELON_DOGE69",
         "body": "$SPY $SPCX $TSLA \n\nThis is pure from selling CC and SP since Jan 2026. My goal is to end the year with $100K. I know it’s lil aggressive but I’ll get there. I’ll be happy with anything between $90K-$100K. Will keep you guys posted. \n\nMajor portion comes from sell Tesla CC and SpaceX SP. Elon is a ge",
@@ -117,15 +123,27 @@
         "body": "$TSLA wait to buy 150 range",
         "created_at": "2026-08-08T02:40:24Z",
         "sentiment": ""
-      },
-      {
-        "user": "EconomyEngine",
-        "body": "$QQQ GOOD NEWS 🚨 BlackRock, the second-largest institutional shareholder of Tesla, bolstered its $TSLA stake during Q2 2026 by acquiring 6,028,120 additional shares for $2.535 billion 🔥\n\nThis pushed their total position at the close of Q2 to 214,123,129 shares, carrying a massive valuation of $90.06",
-        "created_at": "2026-08-08T02:28:30Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "o_0_O_0_o",
+        "body": "$AAPL $MU $SKHY $SSNLF Thst is an interesting development. Gemini has been assuring me this entire time not to expect some flood of cheap Chinese memory, that they are already at about the same or higher pricing as our current memory suppliers. These recent reports about that confirm it.",
+        "created_at": "2026-08-08T06:43:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "cryptoforecast",
+        "body": "$AAPL Apple Stock Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/apple-stock-prediction/",
+        "created_at": "2026-08-08T06:37:38Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MyStockHarbor",
+        "body": "$AAPL attempt to qualify China&#39;s CXMT as a fourth DRAM supplier failed. They wouldn&#39;t discount below Samsung so their usual play to pressure Korean Suppliers didn&#39;t work this time.  \nSo that leaves $SSNLF $SKHY &amp; $MU",
+        "created_at": "2026-08-08T06:14:57Z",
+        "sentiment": ""
+      },
       {
         "user": "my_options_expired",
         "body": "$AAPL",
@@ -167,27 +185,15 @@
         "body": "$AAPL",
         "created_at": "2026-08-08T02:50:02Z",
         "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL this is perfect. We had another we just came out going to the WNBA.",
-        "created_at": "2026-08-08T02:49:57Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Apple temporarily removed Telegram from its App Store in the U.S., India, Australia and Singapore after detecting content that violated its strict policies prohibiting child sexual abuse material. Apple said the decision followed a review of the messaging platform and that Telegram was restored afte",
-        "created_at": "2026-08-08T02:26:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JCJustCharting",
-        "body": "$AAPL $AVGO $AXTI all the gains from\nThe subs in the discord https://x.com/jc_justcharts/status/2085909861049536591?s=46",
-        "created_at": "2026-08-08T02:04:38Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "MyStockHarbor",
+        "body": "$AMD  just bought a chip start-up who&#39;s whole product is $META  &#39;s Liama 3.1 8B etched straight into the transistors. Not AMD&#39;s model, or a generic chip. You can only hardwire weights into Silicon if they&#39;re public. So handy spot for Meta to be in really.",
+        "created_at": "2026-08-08T06:31:51Z",
+        "sentiment": ""
+      },
       {
         "user": "GlobalMarketBulletin",
         "body": "$AMD Advanced Micro Devices, Inc. (NASDAQ: AMD) just suffered a sharp 7.24% drop, but its AI chips, data-center business and growing role as Nvidia’s biggest challenger could make the selloff worth a closer look. https://globalmarketbulletin.com/is-amd-amd-a-smart-alternative-to-nvidia-for-long-term",
@@ -241,12 +247,6 @@
         "body": "$AMD sideways works for covered calls 👌",
         "created_at": "2026-08-08T00:49:40Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "JockoJohnson",
-        "body": "$AMD I really miss when we had proper bears on here that had at least some thought provoking content. Nope, we get mouth breathing knuckle dragers like this guy. Hey, if I want any more crap out of you SE, I&#39;ll squeeze your head - This is the last time I&#39;ll respond this clown..",
-        "created_at": "2026-08-08T00:09:43Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -375,6 +375,12 @@
     ],
     "GOOG": [
       {
+        "user": "10xorbust",
+        "body": "$TNYA yesterday, $GOOG filed its latest form 13F showing that as of the June 30, 2026 reporting date it exited its entire position in $TNYA.  This means that at some point during that quarter ending on June 30, 2026, Google sold all of its $TNYA stock.  No explanation was given (it never is in Form ",
+        "created_at": "2026-08-08T06:48:36Z",
+        "sentiment": ""
+      },
+      {
         "user": "nWhiteface",
         "body": "$GOOG The recent divergence between Google and the broader AI market isn&#39;t due to a breakdown in Google&#39;s core business, but rather capital allocation anxiety and severe near-term margin pressure.",
         "created_at": "2026-08-08T03:07:35Z",
@@ -427,15 +433,15 @@
         "body": "Grok ranked my entire Watchlist. Top 4 - $CI $PYPL $MSFT  $GOOG \nRest in comment\nhttps://www.tradeapes.com/u/stock-king/watchlist",
         "created_at": "2026-08-07T22:10:41Z",
         "sentiment": ""
-      },
-      {
-        "user": "Cogsey",
-        "body": "$GOOG $NBIS $CRWV $IREN Motherfkr it literally says here: \nhttps://uk.investing.com/news/stock-market-news/top-neocloud-stocks-to-watch-as-google-expands-thirdparty-ai-compute-93CH-4788127 \n \nThe Prime Beneficiary: CoreWeave \n \nGTFO",
-        "created_at": "2026-08-07T21:47:09Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "MyStockHarbor",
+        "body": "$AMD  just bought a chip start-up who&#39;s whole product is $META  &#39;s Liama 3.1 8B etched straight into the transistors. Not AMD&#39;s model, or a generic chip. You can only hardwire weights into Silicon if they&#39;re public. So handy spot for Meta to be in really.",
+        "created_at": "2026-08-08T06:31:51Z",
+        "sentiment": ""
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$SPY I was outbidded at 20,000$... $RDDT $META $BTC.X",
@@ -488,12 +494,6 @@
         "user": "In_N__Out",
         "body": "$META This is just the beginning. All states are going after $META $GOOGL TikTok \n\n$SPY $QQQ",
         "created_at": "2026-08-08T01:40:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MarketScoutTrades",
-        "body": "We did the Palantir thing. 📊 \n \nI shared the numbers, and some people actually acted on them. \n \n$PLTR at $110 \n$HIMS at $15 \n$MSFT at $350 \n$HOOD at $68 \n$META at $540 \n \nOver the last five months, we’ve had several corrections that gave buyers a chance to step in at much better levels. \n \nThat’s r",
-        "created_at": "2026-08-08T01:04:59Z",
         "sentiment": ""
       }
     ]
