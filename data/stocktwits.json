@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-08 07:49:56",
+  "ts": "2026-08-08 08:41:00",
   "tickers": {
     "NVDA": [
+      {
+        "user": "VintageCulture",
+        "body": "$NVDA Hot week.",
+        "created_at": "2026-08-08T08:10:07Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JohnElder",
+        "body": "$INKW $NVDA   I invest to make money. Why do I invest in water? It is because I know water is the next massive commodity. I don&#39;t invest in purified water because it is refurbished shit water. I only in invest in natural spring water. Look around the world at all of the water disappearing. Look ",
+        "created_at": "2026-08-08T07:58:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JohnElder",
+        "body": "$NVDA",
+        "created_at": "2026-08-08T07:52:06Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "JohnElder",
         "body": "$INKW $NVDA I invest to make money. Why do I invest in water? It is because I know water is the next massive commodity. I don&#39;t invest in purified water because it is refurbished shit water. I only in invest in natural spring water. Look around the world at all of the water disappearing. Look at",
@@ -43,27 +61,15 @@
         "body": "$NVDA  go go go",
         "created_at": "2026-08-08T05:39:51Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "GlobalMarketBulletin",
-        "body": "$NVDA Jim Cramer remains bullish on Nvidia Corporation (NASDAQ: NVDA), but investors want more than AI hype. With Blackwell demand, Rubin, earnings growth and data-center spending in focus, could NVDA stock be setting up for its next major move? https://globalmarketbulletin.com/is-nvidia-nvda-still-",
-        "created_at": "2026-08-08T04:22:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GlobalMarketBulletin",
-        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
-        "created_at": "2026-08-08T04:00:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Anthonybarnes4",
-        "body": "$RUM $RDDT $ORCL This is a space race for chips and power access to win the AI race. Rumble just acquired 9 data centers, 22k $NVDA GPUs, 300k CPUs and 200 Megawatts of currently unmonetized power access. The 200 MW of power alone has a revnye value of $2 billion per year. RUM should easily be a $10",
-        "created_at": "2026-08-08T03:54:31Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "beestMod516",
+        "body": "$SPY $BTC.X $DJT $TSLA $MU",
+        "created_at": "2026-08-08T08:06:28Z",
+        "sentiment": ""
+      },
       {
         "user": "cryptoforecast",
         "body": "$TSLA Tesla Stock Price Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/tesla-stock-price-prediction/",
@@ -116,12 +122,6 @@
         "user": "ResearchTrends09",
         "body": "$TSLA would you look at that another one just came out today.  So that makes it. 2 today?",
         "created_at": "2026-08-08T03:01:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BuyTheTopSellTheBottom",
-        "body": "$TSLA wait to buy 150 range",
-        "created_at": "2026-08-08T02:40:24Z",
         "sentiment": ""
       }
     ],
@@ -190,6 +190,12 @@
     "AMD": [
       {
         "user": "seaw",
+        "body": "$AMD\ngame changer👇👇👇👇👇",
+        "created_at": "2026-08-08T08:40:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "seaw",
         "body": "$AMD \n30% more tokens per dollar&quot; means you get 30% more AI data processing power for the exact same price.In the tech industry, a token is the basic unit of text that AI models (like GPT-4 or Claude) use to process and generate language. One token is roughly equal to 4 characters or 0.75 words",
         "created_at": "2026-08-08T06:57:01Z",
         "sentiment": ""
@@ -241,12 +247,6 @@
         "body": "$AMD this is going to tank hard on Monday",
         "created_at": "2026-08-08T01:53:18Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "alaric_wong89",
-        "body": "Noticed $AMD is holding a tight range after the recent move, which usually signals a pause before the next trend leg. Options activity feels like it&#39;s keeping a lid on both sides near current levels.",
-        "created_at": "2026-08-08T01:14:25Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "StealthSiren",
+        "body": "$MSFT been paying here.",
+        "created_at": "2026-08-08T08:22:22Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "GlobalMarketBulletin",
         "body": "$MSFT Microsoft Corporation (NASDAQ: MSFT) is under pressure as investors question Copilot and rising AI costs. But with Azure booming and Jim Cramer staying bullish, could MSFT still be one of the smartest AI stocks to watch? https://globalmarketbulletin.com/could-microsoft-msft-continue-winning-th",
         "created_at": "2026-08-08T04:26:23Z",
@@ -365,12 +371,6 @@
         "body": "$MSFT $PLTR   What&#39;s the inflation report gonna say Wednesday?  Is that going to sink us??",
         "created_at": "2026-08-08T02:48:19Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "victorgn",
-        "body": "$MSFT back to 440$ soon",
-        "created_at": "2026-08-08T02:13:19Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
