@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-08 06:52:46",
+  "ts": "2026-08-08 07:49:56",
   "tickers": {
     "NVDA": [
+      {
+        "user": "JohnElder",
+        "body": "$INKW $NVDA I invest to make money. Why do I invest in water? It is because I know water is the next massive commodity. I don&#39;t invest in purified water because it is refurbished shit water. I only in invest in natural spring water. Look around the world at all of the water disappearing. Look at",
+        "created_at": "2026-08-08T07:49:36Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "cooperpan",
+        "body": "$SPCX $NVDA   CHINA &#39;s two &quot;top imitators&quot; - the Chinese version of &quot;Musk&quot; and the Chinese version of &quot;Huang Renxun&quot; met offline in Tongchuan, Shaanxi Province, which caused a heated discussion on the Internet. 😭🤣",
+        "created_at": "2026-08-08T07:48:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ApexRavage",
+        "body": "$NVDA paid me good last week.",
+        "created_at": "2026-08-08T07:44:18Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "alshamiak",
+        "body": "$NVDA #swing",
+        "created_at": "2026-08-08T07:05:27Z",
+        "sentiment": ""
+      },
       {
         "user": "CoalCapital",
         "body": "$NVDA",
@@ -37,30 +61,6 @@
         "body": "$RUM $RDDT $ORCL This is a space race for chips and power access to win the AI race. Rumble just acquired 9 data centers, 22k $NVDA GPUs, 300k CPUs and 200 Megawatts of currently unmonetized power access. The 200 MW of power alone has a revnye value of $2 billion per year. RUM should easily be a $10",
         "created_at": "2026-08-08T03:54:31Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL MSFT META GOOGL TSLA  \n \n3 DTE&#39;s \n \n🙃",
-        "created_at": "2026-08-08T03:50:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Time To Buy Nvidia Or SpaceX Stock After Their AI Partnership? $NVDA $SPCX https://talkmarkets.com/article/time-to-buy-nvidia-or-spacex-stock-after-their-ai-partnership-1786160865",
-        "created_at": "2026-08-08T03:48:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "majls",
-        "body": "$NVDA \n\nNewsNVIDIA may cut Rubin Ultra HBM capacity amid memory shortage\nhttps://www-sammyfans-com.cdn.ampproject.org/v/s/www.sammyfans.com/2026/08/07/nvidia-may-cut-rubin-ultra-hbm-capacity-amid-memory-shortage/amp/?amp_gsa=1&amp;amp_js_v=a9&amp;usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&am",
-        "created_at": "2026-08-08T03:43:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "majls",
-        "body": "$NVDA \n\nMounting warnings of a tech and AI stock bubble: Does credibility imply certainty...",
-        "created_at": "2026-08-08T03:38:37Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "seaw",
+        "body": "$AMD \n30% more tokens per dollar&quot; means you get 30% more AI data processing power for the exact same price.In the tech industry, a token is the basic unit of text that AI models (like GPT-4 or Claude) use to process and generate language. One token is roughly equal to 4 characters or 0.75 words",
+        "created_at": "2026-08-08T06:57:01Z",
+        "sentiment": ""
+      },
+      {
         "user": "MyStockHarbor",
         "body": "$AMD  just bought a chip start-up who&#39;s whole product is $META  &#39;s Liama 3.1 8B etched straight into the transistors. Not AMD&#39;s model, or a generic chip. You can only hardwire weights into Silicon if they&#39;re public. So handy spot for Meta to be in really.",
         "created_at": "2026-08-08T06:31:51Z",
@@ -241,12 +247,6 @@
         "body": "Noticed $AMD is holding a tight range after the recent move, which usually signals a pause before the next trend leg. Options activity feels like it&#39;s keeping a lid on both sides near current levels.",
         "created_at": "2026-08-08T01:14:25Z",
         "sentiment": ""
-      },
-      {
-        "user": "SPD2025",
-        "body": "$AMD sideways works for covered calls 👌",
-        "created_at": "2026-08-08T00:49:40Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
