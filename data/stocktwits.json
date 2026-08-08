@@ -1,7 +1,49 @@
 {
-  "ts": "2026-08-08 03:25:27",
+  "ts": "2026-08-08 04:35:11",
   "tickers": {
     "NVDA": [
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$NVDA Jim Cramer remains bullish on Nvidia Corporation (NASDAQ: NVDA), but investors want more than AI hype. With Blackwell demand, Rubin, earnings growth and data-center spending in focus, could NVDA stock be setting up for its next major move? https://globalmarketbulletin.com/is-nvidia-nvda-still-",
+        "created_at": "2026-08-08T04:22:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
+        "created_at": "2026-08-08T04:00:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Anthonybarnes4",
+        "body": "$RUM $RDDT $ORCL This is a space race for chips and power access to win the AI race. Rumble just acquired 9 data centers, 22k $NVDA GPUs, 300k CPUs and 200 Megawatts of currently unmonetized power access. The 200 MW of power alone has a revnye value of $2 billion per year. RUM should easily be a $10",
+        "created_at": "2026-08-08T03:54:31Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $NVDA $AAPL MSFT META GOOGL TSLA  \n \n3 DTE&#39;s \n \n🙃",
+        "created_at": "2026-08-08T03:50:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Time To Buy Nvidia Or SpaceX Stock After Their AI Partnership? $NVDA $SPCX https://talkmarkets.com/article/time-to-buy-nvidia-or-spacex-stock-after-their-ai-partnership-1786160865",
+        "created_at": "2026-08-08T03:48:22Z",
+        "sentiment": ""
+      },
+      {
+        "user": "majls",
+        "body": "$NVDA \n\nNewsNVIDIA may cut Rubin Ultra HBM capacity amid memory shortage\nhttps://www-sammyfans-com.cdn.ampproject.org/v/s/www.sammyfans.com/2026/08/07/nvidia-may-cut-rubin-ultra-hbm-capacity-amid-memory-shortage/amp/?amp_gsa=1&amp;amp_js_v=a9&amp;usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&am",
+        "created_at": "2026-08-08T03:43:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "majls",
+        "body": "$NVDA \n\nMounting warnings of a tech and AI stock bubble: Does credibility imply certainty...",
+        "created_at": "2026-08-08T03:38:37Z",
+        "sentiment": ""
+      },
       {
         "user": "ZTRADEZ_LLC",
         "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
@@ -19,51 +61,33 @@
         "body": "$MSFT $NVDA $PLTR $AMZN $META",
         "created_at": "2026-08-08T02:55:40Z",
         "sentiment": ""
-      },
-      {
-        "user": "JetJupiter",
-        "body": "$NVDA made 10 grand here today, good way to finish the week.",
-        "created_at": "2026-08-08T02:49:30Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DarkFlowSignals",
-        "body": "Soft July jobs report (-23K, wages cooled to 3.2%) pulled the rate-cut path forward, dropped the dollar and lit up metals, the one clean rotation on the tape today. $SLV $57.5C 9/18 is our fresh silver entry, the cleanest, least-crowded leg of the move. \n \nLive book into the weekend: $GOOGL $330C +1",
-        "created_at": "2026-08-08T02:40:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Huawei’s top semiconductor scientist, Liao Heng, warned that Nvidia and other chipmakers could soon face physical limits in their drive to build increasingly powerful processors. He argued that decades of shrinking transistors and increasing chip density are approaching a point where further miniatu",
-        "created_at": "2026-08-08T02:26:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Options",
-        "body": "Lockup concerns easing for $SPCX? The stock came roaring back as SpaceX and $PLTR helped power a wild Friday in the options market. \n \nWe break down $SPCX, $PLTR, $TSLA, $NVDA and more on &quot;The Hot Options Report: 08-07-2026 — SpaceX and Palantir Power a Wild Friday.&quot; \n \nCheck out the $SPCX",
-        "created_at": "2026-08-08T02:12:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RobertLemire",
-        "body": "$NVDA I don&#39;t think anyone knew back in 1996 when this was the homepage for Nvidia...IO had to use two pics to capture the whole page. \nOne Chip. To rule them all.  \nAlways a kick to find the old web pages.",
-        "created_at": "2026-08-08T01:47:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ericon2",
-        "body": "$NVDA a 52 week high juat around the corner.",
-        "created_at": "2026-08-08T01:41:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tony5885",
-        "body": "$NVDA",
-        "created_at": "2026-08-08T01:36:44Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "moneybag888",
+        "body": "$SPY 3 gaps down or 800+ dejavu 🤔 $TSLA",
+        "created_at": "2026-08-08T04:15:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "earleeretirement",
+        "body": "$TSLA FSD Helz yes.  \n\nGo getcha some.",
+        "created_at": "2026-08-08T04:08:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AngusTickler",
+        "body": "$SPCX +16% $TSLA +3% bad day for a purple haired freak hahahaha",
+        "created_at": "2026-08-08T03:31:17Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "The_Happy_Candle",
+        "body": "$TSLA could push up towards 340, maybe as high as 346, and then pulls back hard",
+        "created_at": "2026-08-08T03:30:36Z",
+        "sentiment": ""
+      },
       {
         "user": "ResearchTrends09",
         "body": "$TSLA would you look at that another one just came out today.  So that makes it. 2 today?",
@@ -99,33 +123,33 @@
         "body": "$TSLA",
         "created_at": "2026-08-08T01:28:20Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "koditrump",
-        "body": "$TSLA $PLTR $SPCX",
-        "created_at": "2026-08-08T00:46:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "CodymanXS",
-        "body": "$TSLA Just added some new $350 Aug 15th Calls. Easy money. Wahoo",
-        "created_at": "2026-08-08T00:42:25Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Bullock3000",
-        "body": "$HTZ repricing event has started with Very High Conviction under enormous volume.  Simple story.  The stock simply got misspriced before earnings by some overzealous shorts.  Unexpectdly, there was a large double-beat and projections of continued high (and increasing) cash flow and net profit for 20",
-        "created_at": "2026-08-08T00:38:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MilhouseVanhouten",
-        "body": "$SPCX fun fact for all the bears\n\n$AMZN Not Profitable at IPO\n\n$TSLA  Not Profitable at IPO\n\n$NVDA only 4 mil it’s FY leading to IPO\n\nThis company is going to make easy millionaires with a little discipline. No matter what all these lonely broke bears think. ￼",
-        "created_at": "2026-08-08T00:32:02Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AAPL Jim Cramer has repeatedly backed Apple Inc. (NASDAQ: AAPL) as an “own it, don’t trade it” investment. But with Apple taking a slower approach to artificial intelligence, is AAPL still worth owning for the long haul? https://globalmarketbulletin.com/could-apple-aapl-deliver-another-decade-of-st",
+        "created_at": "2026-08-08T04:23:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
+        "created_at": "2026-08-08T04:00:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $NVDA $AAPL MSFT META GOOGL TSLA  \n \n3 DTE&#39;s \n \n🙃",
+        "created_at": "2026-08-08T03:50:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL",
+        "created_at": "2026-08-08T03:35:22Z",
+        "sentiment": ""
+      },
       {
         "user": "ZTRADEZ_LLC",
         "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
@@ -161,33 +185,21 @@
         "body": "$SPY $AAPL 🤫",
         "created_at": "2026-08-08T01:29:47Z",
         "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL",
-        "created_at": "2026-08-08T01:16:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Blanka_",
-        "body": "$AAPL $LAES $NVDA $SPCX \n👀👀👀👀",
-        "created_at": "2026-08-08T00:55:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AlphaResearchHQ",
-        "body": "YTD Performance of the Mag 7 📊 \n（Part 1） \nHere’s how the biggest names in tech have performed so far this year: \n🚀 $AMZN: +21% \n🚀 $NVDA: +17% \n🍎 $AAPL: +15% \n🔎 $GOOGL: +12% \n \nThe performance gap across the Mag 7 has been interesting to watch. While AI-related leaders and cloud-focused companies con",
-        "created_at": "2026-08-07T22:28:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "brokin",
-        "body": "$AAPL",
-        "created_at": "2026-08-07T22:27:14Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AMD $ARM $CRWD $GOOGL $INTC Amazon is rebounding, Alphabet is making waves after earnings, and AI stocks remain volatile. Discover Jim Cramer’s top 10 technology stocks and the catalysts investors should be watching. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cram",
+        "created_at": "2026-08-08T04:02:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mountainmannn",
+        "body": "$ABUS up 41% over the phone past year and 19%  the last 6 months... I see why this is a bad investment idea.. and people are upset.. \n \n$PFE  $AMD $MRNA $MRVL",
+        "created_at": "2026-08-08T03:46:38Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "wader2k",
         "body": "$AMD Another 10lbs of maters cored and destined for freezer in a 2gallon bag. When it comes out for processing it goes straight in a sink of hot water - the skins slip right off.  \nHad an excess of Yellow squash - shredded and ready for freezer.",
@@ -234,18 +246,6 @@
         "user": "spacechimp",
         "body": "$AMD",
         "created_at": "2026-08-08T00:07:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "kvaer123",
-        "body": "$MU $AMD MIT PhD. bag holder ahahhaaaaa swing and a miss. You can&#39;t even spell PhD. I&#39;d be very surprised if you went to any uni even the worst public one.. You have no end customers, only fake revenue from DC construction (plus almost all these projects are either delayed or cancelled entir",
-        "created_at": "2026-08-08T00:03:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Iamwillwexler",
-        "body": "$AMD I was promised a finnish in green...",
-        "created_at": "2026-08-07T23:55:37Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,30 @@
     ],
     "MSFT": [
       {
+        "user": "GlobalMarketBulletin",
+        "body": "$MSFT Microsoft Corporation (NASDAQ: MSFT) is under pressure as investors question Copilot and rising AI costs. But with Azure booming and Jim Cramer staying bullish, could MSFT still be one of the smartest AI stocks to watch? https://globalmarketbulletin.com/could-microsoft-msft-continue-winning-th",
+        "created_at": "2026-08-08T04:26:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SuperBigBoss",
+        "body": "$MSFT $SPCX Good analysis. Bullish for both\n\nhttps://x.com/semianalysis_/status/2085821313919472016?s=46",
+        "created_at": "2026-08-08T04:05:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GlobalMarketBulletin",
+        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
+        "created_at": "2026-08-08T04:00:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bulld0zer40k",
+        "body": "$MSFT $PLTR Non-farm sucks, sir.",
+        "created_at": "2026-08-08T03:30:49Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "DoubleUpwithChuck",
         "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
         "created_at": "2026-08-08T03:07:49Z",
@@ -346,30 +370,6 @@
         "user": "victorgn",
         "body": "$MSFT back to 440$ soon",
         "created_at": "2026-08-08T02:13:19Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MarketScoutTrades",
-        "body": "We did the Palantir thing. 📊 \n \nI shared the numbers, and some people actually acted on them. \n \n$PLTR at $110 \n$HIMS at $15 \n$MSFT at $350 \n$HOOD at $68 \n$META at $540 \n \nOver the last five months, we’ve had several corrections that gave buyers a chance to step in at much better levels. \n \nThat’s r",
-        "created_at": "2026-08-08T01:04:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AlphaResearchHQ",
-        "body": "$MSFT  funny how price changes the story. \n \nIf you hated Microsoft at $350, I’m guessing it feels even harder to love it at $500. \n \nThat’s one of the weird things about markets. People often want to buy a great company only after the chart has already proven itself — but by then, the price is high",
-        "created_at": "2026-08-07T23:59:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AlphaResearchHQ",
-        "body": "$MSFT  the long-term numbers are getting interesting. \n \nOne projection I came across has Microsoft at roughly 20% revenue growth and 22% net income growth, with a projected P/E of 28–34. \n \nThe price targets are pretty aggressive: \n2027–2030 \n• Low: $622 → $1,129 \n• High: $755 → $1,371 \n \nObviously",
-        "created_at": "2026-08-07T23:52:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AI_fever",
-        "body": "$MSFT target $415",
-        "created_at": "2026-08-07T23:24:43Z",
         "sentiment": "Bearish"
       }
     ],
@@ -432,68 +432,6 @@
         "user": "Cogsey",
         "body": "$GOOG $NBIS $CRWV $IREN Motherfkr it literally says here: \nhttps://uk.investing.com/news/stock-market-news/top-neocloud-stocks-to-watch-as-google-expands-thirdparty-ai-compute-93CH-4788127 \n \nThe Prime Beneficiary: CoreWeave \n \nGTFO",
         "created_at": "2026-08-07T21:47:09Z",
-        "sentiment": ""
-      }
-    ],
-    "META": [
-      {
-        "user": "ZTRADEZ_LLC",
-        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
-        "created_at": "2026-08-08T03:14:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DoubleUpwithChuck",
-        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
-        "created_at": "2026-08-08T03:07:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TCLutz",
-        "body": "$MSFT $NVDA $PLTR $AMZN $META",
-        "created_at": "2026-08-08T02:55:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "In_N__Out",
-        "body": "$META This is just the beginning. All states are going after $META $GOOGL TikTok \n\n$SPY $QQQ",
-        "created_at": "2026-08-08T01:40:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MarketScoutTrades",
-        "body": "We did the Palantir thing. 📊 \n \nI shared the numbers, and some people actually acted on them. \n \n$PLTR at $110 \n$HIMS at $15 \n$MSFT at $350 \n$HOOD at $68 \n$META at $540 \n \nOver the last five months, we’ve had several corrections that gave buyers a chance to step in at much better levels. \n \nThat’s r",
-        "created_at": "2026-08-08T01:04:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY so fking hot right now. \nhttps://www.ebay.com/itm/287495389936 $BTC.X $NVDA $META",
-        "created_at": "2026-08-07T23:48:49Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY so beautiful $BTC.X $RDDT $META",
-        "created_at": "2026-08-07T23:01:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TrendAlpha",
-        "body": "5 MORE STOCKS I’D COMFORTABLY HOLD FOR THE NEXT 5 YEARS  \n \nRounding out my long-term conviction list: \n \n$ZETA \n$BN \n$PLTR \n$ADBE \n$META \n \nDifferent sectors, different catalysts - but all have the potential to compound over the long run.  \n \nWhich one would you bet on for the next 5 years? \n \nVisi",
-        "created_at": "2026-08-07T22:58:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TresNombre",
-        "body": "$META Revenue growing. Trading at historically low PE \n650+ by end of Aug. 700+ by next earnings. 📈🎯",
-        "created_at": "2026-08-07T22:57:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "#Nebius Stock Tumbles Before #Earnings: What The Options Market Predicts $NBIS Also: $MARA $HIVE $META $MSFT https://talkmarkets.com/article/nebius-stock-tumbles-before-earnings-what-the-options-market-predicts-1786143147",
-        "created_at": "2026-08-07T22:53:53Z",
         "sentiment": ""
       }
     ]
