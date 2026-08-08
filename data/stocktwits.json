@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-08 11:28:10",
+  "ts": "2026-08-08 11:56:06",
   "tickers": {
     "NVDA": [
+      {
+        "user": "AshHydrogen",
+        "body": "$SPY $MU $SNDK $NVDA on the HARDWARE CYCLE!!! There is only $PLTR AIP on the Ai SaaS SUPERCYCLE!!! \n \nhttps://media.stocktwits-cdn.com/api/3/media/366692/medium.png",
+        "created_at": "2026-08-08T11:46:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$NVDA are you kidding me. B?",
+        "created_at": "2026-08-08T11:30:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ClarenceDonahue654",
+        "body": "$NBIS $DOCS $NVDA $AMFN $BTC Nebius is building AI cloud infrastructure, Doximity benefits from physician engagement, NVIDIA remains the dominant AI-computing platform, AMFN remains execution-dependent, and Bitcoin continues attracting institutional capital. I&#39;m watching AI spending, recurring r",
+        "created_at": "2026-08-08T11:29:59Z",
+        "sentiment": ""
+      },
       {
         "user": "Publicola29",
         "body": "$NVDA so Musk says exclusive to NVDA but also says building Terafab? isn&#39;t Tesla/SpaceX making their own chips very bearish for Nvidia?",
@@ -43,27 +61,21 @@
         "body": "$NLST $AVGO $NVDA $GOOG $MU  \nSamsung Just Gave Netlist a New Weapon: Which AI Giants Could Be Next in the Patent Fight? Google, NVIDIA, Broadcom, Super Micro and Micron Are in the Crosshairs (OTCQB: NLST) \n \nhttps://garywallach.substack.com/p/samsung-just-gave-netlist-a-new-weapon?r=3iu9hl&amp;utm_",
         "created_at": "2026-08-08T09:56:57Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "GrowingWealth",
-        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;Trump says: “close to a deal,” while Washington is simultaneously increasing financial pressure on Iran, and the fundamental dispute remains the same. unresolved. \n \n—And the proposed Hormuz arrangement to give Iran significant control over inbound traffic through t",
-        "created_at": "2026-08-08T09:09:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "_JensenHuang___",
-        "body": "$NVDA",
-        "created_at": "2026-08-08T08:55:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$NVDA The market is trapped by the Hormuz situation and won&#39;t return to how it was—just &quot;Donald Pump.&quot; Interesting article.….",
-        "created_at": "2026-08-08T08:52:03Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "SolidSnakeTrades",
+        "body": "$TSLA $400 retest easily",
+        "created_at": "2026-08-08T11:46:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ClarenceDonahue654",
+        "body": "$WEN $DJT $TSLA $CELH $AMD Wendy&#39;s focuses on restaurant efficiency, DJT remains sentiment-driven, Tesla remains focused on EVs and autonomy, Celsius continues gaining beverage share, and AMD continues competing in AI computing. I&#39;m watching margins, consumer demand, and AI adoption.",
+        "created_at": "2026-08-08T11:30:05Z",
+        "sentiment": ""
+      },
       {
         "user": "mightyjuice",
         "body": "$TSLA $1000 dollar is just a matter of time",
@@ -111,21 +123,33 @@
         "body": "$SPY $BTC.X $DJT $TSLA $MU",
         "created_at": "2026-08-08T08:06:28Z",
         "sentiment": ""
-      },
-      {
-        "user": "cryptoforecast",
-        "body": "$TSLA Tesla Stock Price Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/tesla-stock-price-prediction/",
-        "created_at": "2026-08-08T06:30:57Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ELON_DOGE69",
-        "body": "$SPY $SPCX $TSLA \n\nThis is pure from selling CC and SP since Jan 2026. My goal is to end the year with $100K. I know it’s lil aggressive but I’ll get there. I’ll be happy with anything between $90K-$100K. Will keep you guys posted. \n\nMajor portion comes from sell Tesla CC and SpaceX SP. Elon is a ge",
-        "created_at": "2026-08-08T05:32:35Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR get in under $200 AIP for the $AI $AAPL $NOW $MSFT",
+        "created_at": "2026-08-08T11:42:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL lol",
+        "created_at": "2026-08-08T11:34:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ClarenceDonahue654",
+        "body": "$INFQ $CIFR $IBRX $AAOI $AAPL INFQ remains speculative, Cipher Mining benefits from Bitcoin and data-center demand, ImmunityBio depends on commercial execution, Applied Optoelectronics benefits from AI optical networking, and Apple continues strengthening its ecosystem. I&#39;m watching revenue grow",
+        "created_at": "2026-08-08T11:30:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL Rodman. Next!!",
+        "created_at": "2026-08-08T11:28:53Z",
+        "sentiment": ""
+      },
       {
         "user": "IncelBull",
         "body": "$LULU Lululemon is opening its first store in India in the Fall 🍁🍂!!! Wait till you see a big boom 30% rip your face of nose spike $AAPL $AMZN $MSFT $META buy some yogapants to be safe incase the ai bubble pops!!!",
@@ -161,33 +185,45 @@
         "body": "$AAPL",
         "created_at": "2026-08-08T05:30:14Z",
         "sentiment": ""
-      },
-      {
-        "user": "GlobalMarketBulletin",
-        "body": "$AAPL Jim Cramer has repeatedly backed Apple Inc. (NASDAQ: AAPL) as an “own it, don’t trade it” investment. But with Apple taking a slower approach to artificial intelligence, is AAPL still worth owning for the long haul? https://globalmarketbulletin.com/could-apple-aapl-deliver-another-decade-of-st",
-        "created_at": "2026-08-08T04:23:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GlobalMarketBulletin",
-        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
-        "created_at": "2026-08-08T04:00:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL MSFT META GOOGL TSLA  \n \n3 DTE&#39;s \n \n🙃",
-        "created_at": "2026-08-08T03:50:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL",
-        "created_at": "2026-08-08T03:35:22Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SKHY $INTC $SMCI $AMD $DELL This is what AI comes up with first because of Media headlines, check what happens AFTER I correct it.",
+        "created_at": "2026-08-08T11:55:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SKHY $INTC $SMCI $AMD Also as per my whole ranting about the media targeting SMCI and not $DELL despite the exact same risks. \n \nWHY IS $DELL NOT LISTED HERE?",
+        "created_at": "2026-08-08T11:45:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD the weekends are tough for StockTwits influencers like @Mipel - occasionally keep them in your thoughts as you go about your day to day this weekend",
+        "created_at": "2026-08-08T11:43:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SKHY $INTC $SMCI $AMD $MU Samsung likely weighed up the costs to continue with a lengthy trial vs the costs of settling, its chose the latter.",
+        "created_at": "2026-08-08T11:42:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SKHY $INTC $SMCI $AMD $MU Actually I should state after further research that MU did lose already in 2024, so my statement is a little too biased towards the IF for $MU. \n \nThat being said Samsung settled to avoid a similar situation that $MU is currently in, that is it lost a jury trial but is sti",
+        "created_at": "2026-08-08T11:40:19Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ClarenceDonahue654",
+        "body": "$WEN $DJT $TSLA $CELH $AMD Wendy&#39;s focuses on restaurant efficiency, DJT remains sentiment-driven, Tesla remains focused on EVs and autonomy, Celsius continues gaining beverage share, and AMD continues competing in AI computing. I&#39;m watching margins, consumer demand, and AI adoption.",
+        "created_at": "2026-08-08T11:30:05Z",
+        "sentiment": ""
+      },
       {
         "user": "Ub3r5pAnK",
         "body": "$SKHY $INTC $SMCI $AMD Dude you realise with Samsung obtaining the license to use Netlists patents SMCI is not liable for using Samsung products right. \n \nIt may have been an issue if Netlist took Samsung to court, AND Samsung LOST which would then AND ONLY THEN have let them pursue SMCI. \n \n$MU tho",
@@ -211,45 +247,15 @@
         "body": "$AMD Why?  What’s the point of a post like this if you don’t have a rationale?  It would only be more accurate to say “I hope this tanks really hard on Monday”.",
         "created_at": "2026-08-08T10:40:47Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD &quot;Donald Pump&quot; is driving the market, sowing hope among investors—though they will ultimately lose their money. Market and global data are poor; the employment figures factor in World Cup workers.",
-        "created_at": "2026-08-08T10:38:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$SKHY $INTC $SMCI $AMD  \nSamsung Just Gave Netlist a New Weapon: Which AI Giants Could Be Next in the Patent Fight? Google, NVIDIA, Broadcom, Super Micro and Micron Are in the Crosshairs (OTCQB: NLST) \n \nhttps://garywallach.substack.com/p/samsung-just-gave-netlist-a-new-weapon?r=3iu9hl&amp;utm_campa",
-        "created_at": "2026-08-08T09:59:36Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD The market is trapped by the Hormuz situation and won&#39;t return to how it was—just &quot;Donald Pump.&quot; Interesting article.",
-        "created_at": "2026-08-08T08:48:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "seaw",
-        "body": "$AMD\ngame changer👇👇👇👇👇",
-        "created_at": "2026-08-08T08:40:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "seaw",
-        "body": "$AMD \n30% more tokens per dollar&quot; means you get 30% more AI data processing power for the exact same price.In the tech industry, a token is the basic unit of text that AI models (like GPT-4 or Claude) use to process and generate language. One token is roughly equal to 4 characters or 0.75 words",
-        "created_at": "2026-08-08T06:57:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MyStockHarbor",
-        "body": "$AMD  just bought a chip start-up who&#39;s whole product is $META  &#39;s Liama 3.1 8B etched straight into the transistors. Not AMD&#39;s model, or a generic chip. You can only hardwire weights into Silicon if they&#39;re public. So handy spot for Meta to be in really.",
-        "created_at": "2026-08-08T06:31:51Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "HazelHogan435",
+        "body": "$FIGS $LEGN $XERS $TSM $AUTL FIGS benefits from premium healthcare apparel demand, Legend Biotech advances cell therapies, Xeris develops specialty medicines, TSMC remains the leading advanced-chip manufacturer, and Autolus advances engineered T-cell therapies. I&#39;m watching clinical milestones, ",
+        "created_at": "2026-08-08T11:35:41Z",
+        "sentiment": ""
+      },
       {
         "user": "topstockalerts",
         "body": "Huawei’s top semiconductor scientist, Liao Heng, warned that Nvidia and other chipmakers could soon face physical limits in their drive to build increasingly powerful processors. He argued that decades of shrinking transistors and increasing chip density are approaching a point where further miniatu",
@@ -303,15 +309,27 @@
         "body": "$DJIA $TSM is a steal at this price",
         "created_at": "2026-08-07T17:10:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "AlphaWatch_",
-        "body": "$MU  $SKHY  $DRAM.X $TSM \n \nThis is getting interesting. $META is reportedly preparing for a massive AI infrastructure ramp, with nearly 1M custom ASIC shipments targeted for 2027 and a new AI chip cycle potentially coming every 6 months. \n \nThe near-term story is slower. MTIA shipments were reporte",
-        "created_at": "2026-08-07T16:09:30Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "jcrsbarb",
+        "body": "$MSFT Microsoft’s commercial backlog (Remaining Performance Obligations, or RPO) stood at a record $678 billion at the end of fiscal 2026 (ended June 30, 2026), up 84% year-over-year. The backlog provides strong visibility supporting Microsoft’s heavy AI-related capital expenditures.",
+        "created_at": "2026-08-08T11:50:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR get in under $200 AIP for the $AI $AAPL $NOW $MSFT",
+        "created_at": "2026-08-08T11:42:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ClarenceDonahue654",
+        "body": "$AMC $RKLB $NLST $MSFT $INOD AMC remains retail-sentiment driven, Rocket Lab expands launch and space systems, Netlist remains tied to memory technology and IP developments, Microsoft leads enterprise AI, and Innodata benefits from AI data demand. I&#39;m watching cash flow and commercial execution.",
+        "created_at": "2026-08-08T11:30:23Z",
+        "sentiment": ""
+      },
       {
         "user": "HendersonAnalytic",
         "body": "THIS WEEK’S RESULTS\n\n🟢 $SPX 7750C +535%\n🟢 $CRWV 90C 0DTE +45%\n🟢 $SPX 7705P +83%\n🟢 $SPX 7725P +90%\n🟢 $SPY 767C +83%\n🟢 $APP 360C +12%\n🔴 $MSFT 505C -35%\n\n📈 Solid week of setups and execution.",
@@ -353,27 +371,15 @@
         "body": "$MSFT Microsoft Corporation (NASDAQ: MSFT) is under pressure as investors question Copilot and rising AI costs. But with Azure booming and Jim Cramer staying bullish, could MSFT still be one of the smartest AI stocks to watch? https://globalmarketbulletin.com/could-microsoft-msft-continue-winning-th",
         "created_at": "2026-08-08T04:26:23Z",
         "sentiment": ""
-      },
-      {
-        "user": "SuperBigBoss",
-        "body": "$MSFT $SPCX Good analysis. Bullish for both\n\nhttps://x.com/semianalysis_/status/2085821313919472016?s=46",
-        "created_at": "2026-08-08T04:05:20Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GlobalMarketBulletin",
-        "body": "$AAPL $AMZN $META $MSFT $NVDA Amazon, Alphabet, Nvidia, AMD, Microsoft and more made Jim Cramer’s latest top 10 tech stock ranking. See which AI stock landed at No. 1 and why Wall Street is watching these names closely. https://globalmarketbulletin.com/amazon-amzn-and-alphabet-googl-just-made-jim-cr",
-        "created_at": "2026-08-08T04:00:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bulld0zer40k",
-        "body": "$MSFT $PLTR Non-farm sucks, sir.",
-        "created_at": "2026-08-08T03:30:49Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "JoeOlivo958",
+        "body": "$GOOG $COIN $RDDT $RUM $HOOD Alphabet remains a major AI and advertising leader, Coinbase benefits from crypto adoption, Reddit continues improving advertising monetization, Rumble expands its media platform, and Robinhood continues diversifying financial services. I&#39;m watching user growth, trad",
+        "created_at": "2026-08-08T11:31:49Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $AVGO $NVDA $GOOG $MU  \nSamsung Just Gave Netlist a New Weapon: Which AI Giants Could Be Next in the Patent Fight? Google, NVIDIA, Broadcom, Super Micro and Micron Are in the Crosshairs (OTCQB: NLST) \n \nhttps://garywallach.substack.com/p/samsung-just-gave-netlist-a-new-weapon?r=3iu9hl&amp;utm_",
@@ -427,15 +433,27 @@
         "body": "$RDDT … $GOOG mmmm",
         "created_at": "2026-08-08T01:28:18Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "PhishTourFunds",
-        "body": "$GOOG $SPCX $TSLA  been talking about that Cursor buyout option since May",
-        "created_at": "2026-08-07T23:49:37Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "ResearchTrends09",
+        "body": "$META  \nBe careful what you wish for…….",
+        "created_at": "2026-08-08T11:35:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Academia",
+        "body": "$SPCX $META $SPY $QQQ\n\nYou guys REALLY don&#39;t know you history!!!",
+        "created_at": "2026-08-08T11:35:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ClarenceDonahue654",
+        "body": "$META $ORCL $INTC $BB $DKNG Meta continues monetizing AI-enhanced advertising, Oracle expands cloud and AI infrastructure, Intel remains focused on manufacturing recovery, BlackBerry focuses on cybersecurity, and DraftKings benefits from online betting growth. I&#39;m watching AI spending and operat",
+        "created_at": "2026-08-08T11:30:43Z",
+        "sentiment": ""
+      },
       {
         "user": "IncelBull",
         "body": "$LULU Lululemon is opening its first store in India in the Fall 🍁🍂!!! Wait till you see a big boom 30% rip your face of nose spike $AAPL $AMZN $MSFT $META buy some yogapants to be safe incase the ai bubble pops!!!",
@@ -476,24 +494,6 @@
         "user": "severeblast",
         "body": "$META Up on the bad news...ahh for now...",
         "created_at": "2026-08-08T03:26:23Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ZTRADEZ_LLC",
-        "body": "FAANG is old news \n$META $AAPL $NVDA $GOOGL OPAI $SPCX",
-        "created_at": "2026-08-08T03:14:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DoubleUpwithChuck",
-        "body": "$NVDA $META $DELL $MSFT \n\nYou gotta ask the people with the money\nThem ^",
-        "created_at": "2026-08-08T03:07:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TCLutz",
-        "body": "$MSFT $NVDA $PLTR $AMZN $META",
-        "created_at": "2026-08-08T02:55:40Z",
         "sentiment": ""
       }
     ]
