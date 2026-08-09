@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-09 09:39:02",
+  "ts": "2026-08-09 10:34:12",
   "tickers": {
     "NVDA": [
+      {
+        "user": "GrowingWealth",
+        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;Trump and his clan made money saying on August 7, &quot;the sides were close to a deal&quot;; now YouTube just published this Pentagon&#39;s &quot;Ground Action&quot;.... \n \nUS-Iran War LIVE | JUST IN: Pentagon Admits Ground Action After Iran Sites Hit | World News”",
+        "created_at": "2026-08-09T10:21:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BullseyeGains",
+        "body": "$PLTR $NVDA $AMZN $INTC $AMD  \n \n4am. Can&#39;t get back to sleep. What do you do? \n \nDuh! You link your Claude account to the new Stocktwits MCP and a \nmarket data MCP to give yourself a 60-day report card on all of your alerts. \n \n27 of 35 green. 77.1% hit rate. \n+19.4% average if you&#39;re still",
+        "created_at": "2026-08-09T09:50:51Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "JakesFlorida",
         "body": "$NVDA what goes up must come down unfortunately. Examples of amd and sanDisk last week.",
@@ -49,21 +61,15 @@
         "body": "$NVDA \n\nIm kinda hoping, somewhere in a gym in LA, is Karp getting Jensen ready for his earnings call a la Apollo and Rocky in Rocky 3. \n\nStunt on these hoes Jensen.",
         "created_at": "2026-08-09T06:10:35Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "RICHES_TO_RAGS_",
-        "body": "$NVDA wen 10 trillion Market cap???",
-        "created_at": "2026-08-09T05:18:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Moonman321",
-        "body": "$CABA  $NVDA  Years of Conviction vs. Retail Noise 💎\nMost biotech penny stocks fail on unproven science. $CABA is a different breed. The floor here is fundamentally de-risked:\n\n   1. Proven Weapon: CABA targets CD19. We know from multi-billion dollar drugs like Kymriah that CD19 clears B-cells. CABA",
-        "created_at": "2026-08-09T05:02:11Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Hiphoplover",
+        "body": "$TSLA $TSLQ #TS3S #3STS \n \nWhy shouldn&#39;t you buy Tesla stock? \n \nThe major risks to consider before buying Tesla stock include slowing electric vehicle sales growth and intensifying price competition, political and behavioral risks related to Elon Musk, and uncertainty regarding the timing of th",
+        "created_at": "2026-08-09T10:03:39Z",
+        "sentiment": ""
+      },
       {
         "user": "grampagrit",
         "body": "$DJT $TSLA $SPCX https://youtube.com/shorts/kj1x89UsgTM",
@@ -116,12 +122,6 @@
         "user": "PatriciaJimenez414",
         "body": "$SMCI $TSLA $BRK.B $ASTS $SOUN Super Micro benefits from AI-server demand, Tesla remains focused on EVs, autonomy, and energy, Berkshire Hathaway provides diversified earnings and strong capital allocation, AST SpaceMobile advances satellite connectivity, and SoundHound expands voice-AI applications",
         "created_at": "2026-08-09T04:08:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Spanki",
-        "body": "$TSLA you really need to reveal less about yourself in these public forums. Just saying.",
-        "created_at": "2026-08-09T03:50:17Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "BullseyeGains",
+        "body": "$PLTR $NVDA $AMZN $INTC $AMD  \n \n4am. Can&#39;t get back to sleep. What do you do? \n \nDuh! You link your Claude account to the new Stocktwits MCP and a \nmarket data MCP to give yourself a 60-day report card on all of your alerts. \n \n27 of 35 green. 77.1% hit rate. \n+19.4% average if you&#39;re still",
+        "created_at": "2026-08-09T09:50:51Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "ElliottwaveForecast",
         "body": "📢 $AMD  Finds Support in the Blue Box    \n \n💻 AMD pulled back into the Elliott Wave blue box area, where buyers stepped in. The reaction higher signals a potential bullish continuation from this key zone. \n \n📈 AMD bullish reaction underway from equal legs area. Full breakdown 👉 https://elliottwave-f",
         "created_at": "2026-08-09T08:23:24Z",
@@ -241,12 +247,6 @@
         "body": "$MU \n\nThis is how much HBM needed for EACH $NVDA  GPU. \n\n$AMD  needs 60% more HBM than $NVDA. \n\nMU already hand signed legal payment  contracts with hyperscalars for next 3 years",
         "created_at": "2026-08-09T03:28:08Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "holdingbags",
-        "body": "$AMD never have I ever seen a better rounded set of candles at aths. Still long.",
-        "created_at": "2026-08-09T02:50:13Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "GrowingWealth",
+        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;Trump and his clan made money saying on August 7, &quot;the sides were close to a deal&quot;; now YouTube just published this Pentagon&#39;s &quot;Ground Action&quot;.... \n \nUS-Iran War LIVE | JUST IN: Pentagon Admits Ground Action After Iran Sites Hit | World News”",
+        "created_at": "2026-08-09T10:21:41Z",
+        "sentiment": ""
+      },
+      {
         "user": "glintogobby",
         "body": "$MSFT it&#39;s going back to it&#39;s usual 31x p/e or $550. obviously.",
         "created_at": "2026-08-09T08:41:03Z",
@@ -365,15 +371,15 @@
         "body": "The five biggest public companies by market cap right now: \n \n$NVDA $AAPL $GOOGL $MSFT $AMZN \n \nSee the complete, daily-updated ranking: \nhttps://stockanalysis.com/list/biggest-companies/?ref=saveontrading",
         "created_at": "2026-08-09T01:33:22Z",
         "sentiment": ""
-      },
-      {
-        "user": "stockanalysis_",
-        "body": "Which public companies pay the most corporate income tax in America? \n \nAlphabet alone paid about $55 billion over the last 12 months. \n \n$GOOGL $AMZN $MSFT $NVDA $AAPL \n \nSee the full ranking: \nhttps://stockanalysis.com/list/most-taxes-us/?ref=saveontrading",
-        "created_at": "2026-08-09T01:33:17Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "zoey1970",
+        "body": "$SPCX One of the main reasons I felt comfortable building a position here starting at $109  is due to Starlink. This is the moated recurring rev engine funding launch and the AI build which, oh and BTW is exactly $AMZN retail funding AWS or search funding everything at $GOOG. Internal capital alloca",
+        "created_at": "2026-08-09T09:51:04Z",
+        "sentiment": ""
+      },
       {
         "user": "MountCapital",
         "body": "$GOOG Monday, it falls below $350",
@@ -427,12 +433,6 @@
         "body": "$AAPL $GOOG $GOOGL $ORCL $SPCX  you’re confusing Apple’s AI chatbot features with Google’s separate $20 billion annual search engine deal on Safari. Adding Anthropic’s Claude as a third-party AI option on Apple Intelligence would simply expand user choices alongside Google Gemini and ChatGPT, not re",
         "created_at": "2026-08-09T00:34:45Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "stockWare",
-        "body": "$GOOGL  \n \n$GOOG  \n$SPCX  \n \nhttps://www.youtube.com/shorts/7UfDORM9uwg",
-        "created_at": "2026-08-09T00:19:43Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
