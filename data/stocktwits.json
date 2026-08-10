@@ -1,7 +1,49 @@
 {
-  "ts": "2026-08-10 08:26:24",
+  "ts": "2026-08-10 09:58:03",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA",
+        "created_at": "2026-08-10T09:52:09Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Deportivo",
+        "body": "$NVDA TSMC reported July revenue, up 44.7% year-on-year and 5.6% month-on-month, while Foxconn’s July revenue rose 54.2% year-on-year, supported by strong AI server demand. That sounds positive for NVIDIA earnings 2026-08-26 ...",
+        "created_at": "2026-08-10T09:35:00Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "WundagoreWaves",
+        "body": "$QQQ $SLS $XRP $MU $NVDA QQQ remains driven by large-cap technology, SLS depends heavily on oncology clinical milestones, XRP focuses on blockchain-based payments, Micron benefits from AI-driven memory demand, and NVIDIA remains the dominant AI-computing platform. I&#39;m watching AI spending, clini",
+        "created_at": "2026-08-10T09:29:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Camperchik",
+        "body": "$NVDA needing a cpa who specializes in trading. Please message me someone you highly recommend!!! TIA 😊",
+        "created_at": "2026-08-10T09:00:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "John2807",
+        "body": "$NVDA 228 today",
+        "created_at": "2026-08-10T08:58:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "Why Is TSM Stock Rising Premarket?\n\n$TSM $NVDA\n\nhttps://stocktwits.com/news/equity/markets/why-is-tsm-stock-rising-premarket/cZojkOXRJaU",
+        "created_at": "2026-08-10T08:49:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "dumplingbuming",
+        "body": "$NVDA when is to the moon?",
+        "created_at": "2026-08-10T08:39:07Z",
+        "sentiment": ""
+      },
       {
         "user": "SeniorVip",
         "body": "$RUM $RDDT $INTC $NVDA \n\nLet &#39;s invest along the VP. We will win for sure.",
@@ -19,51 +61,39 @@
         "body": "$HYPE $BMNR $NVDA $RDDT $CRVS HYPE remains highly speculative, BMNR remains sensitive to crypto prices and market sentiment, NVIDIA remains a leading AI-computing platform, Reddit continues improving advertising monetization, and Corvus advances oncology therapies. I&#39;m watching crypto liquidity,",
         "created_at": "2026-08-10T08:05:28Z",
         "sentiment": ""
-      },
-      {
-        "user": "PatrikCZ",
-        "body": "$BB $AMD $NVDA",
-        "created_at": "2026-08-10T08:01:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TopTierNewswire",
-        "body": "@Anthonybarnes4 Noticed the Quake AI news about the $NVDA GPUs!",
-        "created_at": "2026-08-10T07:59:40Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ShadowQuants",
-        "body": "$BTC $SLS $MU $NVDA $SMCI Bitcoin continues attracting institutional and speculative capital, SLS remains dependent on oncology clinical milestones, Micron benefits from AI-driven memory demand, NVIDIA remains the dominant AI-computing platform, and Super Micro benefits from AI-server demand. I&#39;",
-        "created_at": "2026-08-10T07:53:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SeniorVip",
-        "body": "$RUM $RDDT $INTC $NVDA if the VP bought it, I must buy it too.",
-        "created_at": "2026-08-10T07:48:44Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "HIMAX_TSM_NVDA_CPO",
-        "body": "&quot;U.S. Stock Theme Weekly&quot; CPO/Silicon Photon Joint Encapsulation - NVDA, AVGO, ALAB - News - MoneyDJ Financial Network $himx $nvda $avgo https://m.moneydj.com/f1a.aspx?a=8e848fcd-881c-467c-a8df-da63c3c1769e",
-        "created_at": "2026-08-10T07:44:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PierceC",
-        "body": "$NVDA $SPY \nKeep pumping",
-        "created_at": "2026-08-10T07:38:35Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$INTC $PLTR $AMD $NVDA $MSFT  \nNetlist’s Samsung Shockwave: 12 Media Headlines That Could Signal a New Era for NLST \nhttps://garywallach.substack.com/p/netlists-samsung-shockwave-12-media?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-10T07:27:24Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "DS10",
+        "body": "$TSLA Is real",
+        "created_at": "2026-08-10T09:53:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "WundagoreWaves",
+        "body": "$SMCI $TSLA $BRK.B $ASTS $SOUN Super Micro benefits from AI-server demand, Tesla remains focused on EVs, autonomy, and energy, Berkshire Hathaway provides diversified earnings and strong capital allocation, AST SpaceMobile advances satellite connectivity, and SoundHound expands voice-AI applications",
+        "created_at": "2026-08-10T09:30:00Z",
+        "sentiment": ""
+      },
+      {
+        "user": "YourfrenPepe420",
+        "body": "$SPCX dips who bought the dip last week… 😂 🎯🔥🔥🚀 $TSLA",
+        "created_at": "2026-08-10T09:26:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "_Thumper_",
+        "body": "$TSLA  \n \n1K \n \nIt&#39;s on its way. \n \n✅",
+        "created_at": "2026-08-10T09:21:13Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MyStockHarbor",
+        "body": "$TSLA and $SPCX drooping $16B on their own chip fab for making silicon for Optimus and Cybercab. \n$INTEL.X is named as the foundry partner, good look for their credibility. Non binding though and no volumes yet that I can see",
+        "created_at": "2026-08-10T08:58:09Z",
+        "sentiment": ""
+      },
       {
         "user": "Blanblun",
         "body": "$SPCX SEC should sue Musk for all the fake statements and lies. Like the Cybertruck lies... 1 million preorders... 250k cybertrucks sale per year.... and all of these were just plain lies. Short sellers will take Friday&#39;s jump as a great short point $TSLA",
@@ -93,39 +123,27 @@
         "body": "$TSLA Optimus is still in the “wait and see” phase for much of the market.\n\nBuilding a prototype may no longer be the biggest challenge.The real test is lowering costs, scaling production, and creating real-world value.\n\nThe gap between “can demo” and “can commercially deploy” is bigger than many pe",
         "created_at": "2026-08-10T07:11:57Z",
         "sentiment": ""
-      },
-      {
-        "user": "mori2024",
-        "body": "$TSLA Tomorrow dont expect much, Iran agreement is in confusion.",
-        "created_at": "2026-08-10T07:10:49Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Shergasmic",
-        "body": "$F $GM $QQQ $SPY $TSLA Ford is the biggest go nowhere dividend trap in existence.",
-        "created_at": "2026-08-10T07:05:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Stealth_market_maker",
-        "body": "$F $GM $QQQ $SPY $TSLA  Ford has dividends pay this week, not bearish",
-        "created_at": "2026-08-10T07:03:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "YourfrenPepe420",
-        "body": "$SPCX $TSLA is",
-        "created_at": "2026-08-10T06:46:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "YourfrenPepe420",
-        "body": "$SPCX I need another 300 shs at $110 🙏 please help me shorts!! $TSLA",
-        "created_at": "2026-08-10T06:29:11Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "JD1124",
+        "body": "$AAPL we touch $320 today? I mean we are clearly oversold",
+        "created_at": "2026-08-10T09:50:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "WundagoreWaves",
+        "body": "$GOOGL $BB $DOGE $USO $AAPL Alphabet continues expanding AI and cloud monetization, BlackBerry focuses on cybersecurity and automotive software, Dogecoin remains highly sentiment-driven, USO tracks crude-oil prices, and Apple benefits from ecosystem strength and services revenue. I&#39;m watching AI",
+        "created_at": "2026-08-10T09:30:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "redsstocktwits",
+        "body": "$URG the$URG reason why this is not following my other Nuclear energy stock is because some big guys like to take over the board of directors... Now that they got what they want hopefully going forward we should start rising up... the new board should let URG fly on its own instead of being acquired",
+        "created_at": "2026-08-10T08:48:39Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Blanblun",
         "body": "$AAPL \n  - APPLE MAY ABSORB IPHONE 18 PRO COST SURGE \n \nApple may limit price hikes for the iPhone 18 Pro despite component costs expected to jump 38%, according to TrendForce. \n \nSoaring memory prices are the main driver, with memory projected to exceed 40% of component costs by early 2027, up from",
@@ -167,27 +185,45 @@
         "body": "$HPIL $AAPL $NVDA almost our time…",
         "created_at": "2026-08-10T04:10:41Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$SPY $tsla $NVDA $AMD $AAPL",
-        "created_at": "2026-08-10T04:10:21Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mnybagz",
-        "body": "$AAPL has been getting love when they hate everyone else. Then They sell to buy other sht. When it starts to rally it’s prob a sign they plan to wreck the rest of them. Idk how to play it. Maybe long. Wall st clearly doesn’t care about whatever issue they preach about day to day. Look at $SPY there ",
-        "created_at": "2026-08-10T03:29:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SpencerF",
-        "body": "$SPY $AAPL $AMZN money tomorrow? Or depression crap?",
-        "created_at": "2026-08-10T03:19:07Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "Fenris007",
+        "body": "$AMD oh well day 3 or 4 trying to open above 500",
+        "created_at": "2026-08-10T09:41:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "WundagoreWaves",
+        "body": "$CRO $INOD $AMD $MSFT $AKBA CRO remains tied to cannabis-market developments, Innodata benefits from AI data demand, AMD continues gaining share in AI computing, Microsoft remains a major enterprise-AI platform, and Akebia advances kidney-disease treatments. I&#39;m watching AI spending, clinical mi",
+        "created_at": "2026-08-10T09:30:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NILGPT",
+        "body": "$AMD It&#39;s real!!",
+        "created_at": "2026-08-10T09:26:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NILGPT",
+        "body": "$AMD",
+        "created_at": "2026-08-10T09:22:54Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NILGPT",
+        "body": "$AMD",
+        "created_at": "2026-08-10T09:21:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BullBuddy2020",
+        "body": "$AMD GO!",
+        "created_at": "2026-08-10T08:35:09Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Flickted",
         "body": "$NVDA $AMD $MU $SMCI $SKHY 4am EST Stuff",
@@ -211,45 +247,21 @@
         "body": "$AMD imagine trading at 3:56am on Christmas Eve this year. Thanks Nasdaq!",
         "created_at": "2026-08-10T07:47:49Z",
         "sentiment": ""
-      },
-      {
-        "user": "Iamwillwexler",
-        "body": "$AMD at first I was like whoa…",
-        "created_at": "2026-08-10T07:46:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GraceNolin871",
-        "body": "$AMD Go!!",
-        "created_at": "2026-08-10T07:46:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ElliottwaveForecast",
-        "body": "$AMD — strong reaction higher unfolding from the 🔵 BlueBox area. Now comes the moment of truth: price can either push to new highs or roll into a double correction lower. Traders should stay nimble as the Elliott Wave structure decides. #Elliottwave #Trading",
-        "created_at": "2026-08-10T07:43:49Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$INTC $PLTR $AMD $NVDA $MSFT  \nNetlist’s Samsung Shockwave: 12 Media Headlines That Could Signal a New Era for NLST \nhttps://garywallach.substack.com/p/netlists-samsung-shockwave-12-media?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-10T07:27:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Iamwillwexler",
-        "body": "$AMD welcome to the board @Asshole333 ! No surprise there are that many of you but welcome anyways…",
-        "created_at": "2026-08-10T06:39:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mykee77",
-        "body": "$AMD $AVGO $MU $NVDA",
-        "created_at": "2026-08-10T06:37:12Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "MidnightMACD",
+        "body": "$SGOV $JNUG $NB $TSM $HNST SGOV provides short-term Treasury exposure, JNUG offers leveraged gold-miner exposure, NB remains highly speculative, TSMC remains critical to advanced semiconductor manufacturing, and Honest Company continues building its consumer-products portfolio. I&#39;m watching inte",
+        "created_at": "2026-08-10T09:35:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "Why Is TSM Stock Rising Premarket?\n\n$TSM $NVDA\n\nhttps://stocktwits.com/news/equity/markets/why-is-tsm-stock-rising-premarket/cZojkOXRJaU",
+        "created_at": "2026-08-10T08:49:48Z",
+        "sentiment": ""
+      },
       {
         "user": "PhantomHedge",
         "body": "$TSM $PL $LUNC $WLFI $RR TSMC remains critical to advanced semiconductor manufacturing, Planet Labs benefits from satellite-imagery demand, LUNC remains highly sentiment-driven, WLFI remains a speculative digital-asset opportunity, and RR remains execution-dependent. I&#39;m watching semiconductor c",
@@ -297,21 +309,15 @@
         "body": "$AMD $AVGO $NVDA $TSM",
         "created_at": "2026-08-10T05:50:58Z",
         "sentiment": ""
-      },
-      {
-        "user": "EpiCRise98",
-        "body": "$TSM updated, trade your plan 🔥🔥",
-        "created_at": "2026-08-10T05:41:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "penny_z",
-        "body": "$NVDA china chip maker...? moore thread ??????\n\nhttps://www.asiae.co.kr/en/article/2026081009371585614\n\n$TSM $AVGO $AMD",
-        "created_at": "2026-08-10T05:23:43Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "WundagoreWaves",
+        "body": "$CRO $INOD $AMD $MSFT $AKBA CRO remains tied to cannabis-market developments, Innodata benefits from AI data demand, AMD continues gaining share in AI computing, Microsoft remains a major enterprise-AI platform, and Akebia advances kidney-disease treatments. I&#39;m watching AI spending, clinical mi",
+        "created_at": "2026-08-10T09:30:23Z",
+        "sentiment": ""
+      },
       {
         "user": "Bear_Trades",
         "body": "$MSFT might see 485 today",
@@ -365,12 +371,6 @@
         "body": "$QQQ $SPY  $NVDA $MSFT  \n \nRippidation \n \nRippaphalia \n \nRippowitz \n \nRippenberger \n \n🙃 👇",
         "created_at": "2026-08-10T06:09:13Z",
         "sentiment": ""
-      },
-      {
-        "user": "SumSumGooo",
-        "body": "$MSFT this is going to boom baby",
-        "created_at": "2026-08-10T04:09:21Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
@@ -437,6 +437,18 @@
     ],
     "META": [
       {
+        "user": "SerpentSqueezes",
+        "body": "$POET $CRWV $INTC $ALT $META POET develops optical interconnects for AI infrastructure, CRWV remains execution-dependent, Intel continues its semiconductor manufacturing turnaround, Altimmune advances metabolic therapies, and Meta benefits from AI-enhanced advertising. I&#39;m watching AI infrastruc",
+        "created_at": "2026-08-10T09:31:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "rami1609",
+        "body": "@NordVPN2 They missed revenue target by less than 1%. LLMs and Applovin do seperate things. What you are saying is like saying LLMs will replace $META",
+        "created_at": "2026-08-10T08:47:04Z",
+        "sentiment": ""
+      },
+      {
         "user": "ShadowQuants",
         "body": "$META $AMZN $GOOGL $INTC $IREN Meta continues monetizing AI-enhanced advertising, Amazon benefits from AWS and e-commerce scale, Alphabet continues expanding AI and cloud monetization, Intel remains focused on semiconductor manufacturing recovery, and IREN combines Bitcoin mining with AI infrastruct",
         "created_at": "2026-08-10T07:54:36Z",
@@ -483,18 +495,6 @@
         "body": "$META is pulling aggressive institutional volume as Meta Platforms accelerates its massive investments in custom AI silicon, Llama model monetization, and next-generation smart glasses infrastructure. As heavy options sweep and block activity hits the tape—including a massive $2.3M LEAP block and re",
         "created_at": "2026-08-10T00:49:41Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "23bobsmith23",
-        "body": "$META still waiting for my tendies",
-        "created_at": "2026-08-10T00:49:40Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$NVDA $NTDOY no1 will pay 30,000$ for a card $RDDT $META",
-        "created_at": "2026-08-10T00:24:31Z",
-        "sentiment": ""
       }
     ]
   }
