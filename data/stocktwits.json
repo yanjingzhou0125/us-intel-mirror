@@ -1,69 +1,117 @@
 {
-  "ts": "2026-08-10 11:13:57",
+  "ts": "2026-08-10 12:08:22",
   "tickers": {
     "NVDA": [
       {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY 7am EST kind of stuff.",
-        "created_at": "2026-08-10T11:05:08Z",
+        "user": "PatrikCZ",
+        "body": "$BB $AMD $NVDA",
+        "created_at": "2026-08-10T12:06:34Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Buyingmore325",
-        "body": "$OPEAZZX.P $SPCX $NVDA $AMD \n\n$ORBS \n This is the kind of price you’ll look back on and say, “Damn, I wish I would’ve bought more.”\n\nDon’t wait until the price takes off to wish you had gotten in earlier. Get in while the opportunity is still here. Orbs hit $82 last year!",
-        "created_at": "2026-08-10T11:01:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FakinEl",
-        "body": "$NVDA Massive things keep coming up\n250 inevitable by xmass",
-        "created_at": "2026-08-10T10:57:26Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Crakerjac",
-        "body": "$NVDA The march back to the ATH began last week. Up and down we go but upward overall to a new ATH. ER has us rolling up hill as usual.(It is never easy and at least the bike is kind of green but going to the left oh well best I could find 4 now)",
-        "created_at": "2026-08-10T10:56:47Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "jliebs12",
-        "body": "$NVDA $225 is resistance!! Things will get interesting now !!",
-        "created_at": "2026-08-10T10:54:30Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mipel",
-        "body": "$NVDA -Continuing to humiliate Trump",
-        "created_at": "2026-08-10T10:51:14Z",
+        "user": "ycdctx",
+        "body": "$SNDK $MU $NVDA $INTC  \npotentially critical days THIS week (correct me if wrong):  \n-monday morning early: TSM monthly update on revs and orders  \nreported: TSMC sees 45% sales surge as AI demand stays strong! \n-Tuesday: SMCI and CRWV report earnings AH, both known for extensive chip use in their r",
+        "created_at": "2026-08-10T12:03:31Z",
         "sentiment": ""
       },
       {
-        "user": "Crakerjac",
-        "body": "$NVDA The huge takeaway on the chart May 29th to May 14th because that was some sweet rising and I have to give credit where credit is due. We were far down you know? The king of volatility that is Nvidia and don&#39;t you forget it.(I am speaking to myself on the last sentence as a reminder to the ",
-        "created_at": "2026-08-10T10:49:21Z",
+        "user": "itsfloridaking",
+        "body": "$NVDA when will you idiots learn as an option trader after hours and pre market MEAN NOTHING .",
+        "created_at": "2026-08-10T12:03:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR is replacing $MSFT at $DELL for the new Ai Sovereign  and Enterprise STACK!!! \n \n$SPY $NVDA on the Chips!!! \n \nhttps://www.dell.com/en-us/blog/dell-and-palantir-introduce-an-on-premises-ai-operating-system/",
+        "created_at": "2026-08-10T12:02:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TMFMike12",
+        "body": "$NVDA",
+        "created_at": "2026-08-10T11:59:58Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Makkaz",
-        "body": "$AAPL is being pushed down so it loooks like they want $NVDA up now",
-        "created_at": "2026-08-10T10:48:03Z",
+        "user": "Lexusread",
+        "body": "$NVDA",
+        "created_at": "2026-08-10T11:59:11Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$SMCI 🚨😂 Barron’s credibility check:\n\nThey published an article THIS MORNING claiming SMCI earnings are Thursday.\n\nThere’s just one little problem…\n\nEARNINGS ARE TOMORROW — TUESDAY, AUGUST 11. 🤦‍♂️\n\nIf a major financial publication can’t verify something as basic as the earnings DATE, maybe investor",
+        "created_at": "2026-08-10T11:55:36Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Crakerjac",
-        "body": "$NVDA Title: NVDA Price Action In Recovery Mode Before Next ER.      March 29th to middle of May was my lion share of gain this year so far I guess. I think I accidentally said Jan-Mar but that wasn&#39;t near the gain in my long holding machine. The chart is just the NVDA heartbeat for you and I th",
-        "created_at": "2026-08-10T10:46:55Z",
+        "user": "YouVSYou",
+        "body": "Cantor says the semiconductor selloff is overdone and the AI infrastructure cycle remains strong—time to selectively buy the weakness. Top 5: $MU, $SNDK, $NVDA, $AVGO, $AMD, with memory/storage favored first, followed by AI compute. \nAMAT earnings and SNDK Investor Day are the next major catalysts.",
+        "created_at": "2026-08-10T11:53:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BashNew",
+        "body": "$NVDA 225 premarket wait for the morning pop",
+        "created_at": "2026-08-10T11:53:02Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "PatrikCZ",
-        "body": "$BB $AMD $NVDA $QCOM 🤲",
-        "created_at": "2026-08-10T10:40:33Z",
+        "user": "jon1234567890",
+        "body": "$NVDA $230 today",
+        "created_at": "2026-08-10T11:41:58Z",
         "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "ResearchTrends09",
+        "body": "$TSLA",
+        "created_at": "2026-08-10T12:00:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MESSPAC",
+        "body": "$TSLA Looks like Tezzla will b/e on the annual. So 40% upside from here. Merry Christmas 🎁",
+        "created_at": "2026-08-10T11:54:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "stockpivot",
+        "body": "Stop staring at damn charts and start trading real data.  \n \n$SPY  $TSLA Learn how Level 3 data actually moves the market—Spoofing, Iceberg Orders, and Layering exposed. \n \nJoin our Discord and level up your trading 👇",
+        "created_at": "2026-08-10T11:54:00Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PatienceRise",
+        "body": "$SPCX hopefully it starts to behave like $TSLA  back in the day.. when every week it used to run lol",
+        "created_at": "2026-08-10T11:48:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "45King1978",
+        "body": "$TSLA  GOING UP $400 $$$",
+        "created_at": "2026-08-10T11:46:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "YourMoneyCoach365",
+        "body": "$TSLA  Hang tight.",
+        "created_at": "2026-08-10T11:36:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "REALALOY",
+        "body": "$BB $BB.TSX $NVDA $SPCX $TSLA \nPhysical AI,  needs secure communication for Robotaxis,  Humanoid robots... anything critical and is managed remotely....",
+        "created_at": "2026-08-10T11:27:12Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Spanki",
+        "body": "$TSLA eTards forgetting that Bozo is losing a war while the Democrats prepare to destroy and jail the pig living rent free in their heads.",
+        "created_at": "2026-08-10T11:16:45Z",
+        "sentiment": ""
+      },
       {
         "user": "eabeyta7",
         "body": "$TSLA  \nThe buzz about ELECTRIC VEHICLES has died down in the USA but internationally they are starting to take BIG market share of new vehicles sales.  \n \nThis chart from the @WSj shows they now make up more than HALF of new car sales in China and more than 1/3rd in major European countries.",
@@ -75,181 +123,157 @@
         "body": "$TSLA approaching pivot/resistance for breakout at 337 \ngood luck either way",
         "created_at": "2026-08-10T10:42:26Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "onlythebestcompanies",
-        "body": "$TSLA $520 soon.",
-        "created_at": "2026-08-10T10:07:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DS10",
-        "body": "$TSLA Is real",
-        "created_at": "2026-08-10T09:53:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "YourfrenPepe420",
-        "body": "$SPCX dips who bought the dip last week… 😂 🎯🔥🔥🚀 $TSLA",
-        "created_at": "2026-08-10T09:26:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "_Thumper_",
-        "body": "$TSLA  \n \n1K \n \nIt&#39;s on its way. \n \n✅",
-        "created_at": "2026-08-10T09:21:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MyStockHarbor",
-        "body": "$TSLA and $SPCX drooping $16B on their own chip fab for making silicon for Optimus and Cybercab. \n$INTEL.X is named as the foundry partner, good look for their credibility. Non binding though and no volumes yet that I can see",
-        "created_at": "2026-08-10T08:58:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Blanblun",
-        "body": "$SPCX SEC should sue Musk for all the fake statements and lies. Like the Cybertruck lies... 1 million preorders... 250k cybertrucks sale per year.... and all of these were just plain lies. Short sellers will take Friday&#39;s jump as a great short point $TSLA",
-        "created_at": "2026-08-10T08:12:24Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Jordan_Markets",
-        "body": "$TSLA $345  $SPY $777",
-        "created_at": "2026-08-10T08:08:44Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "vaccigen",
-        "body": "$TSLA Is it reversing 50$ down day?",
-        "created_at": "2026-08-10T07:44:59Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
       {
-        "user": "notreload_ai",
-        "body": "$AAPL scraps planned 20th-anniversary all-glass iPhone over production issues. Jefferies cuts rating and EPS estimates. https://notreload.xyz/jefferies-downgrades-apple-over-cancelled-all-glass-iphone/",
-        "created_at": "2026-08-10T11:12:14Z",
+        "user": "OpenOutcrier",
+        "body": "$AAPL (-1.2% pre) Apple tests China&#39;s CXMT memory chips for iPhones and MacBooks, WSJ reports \n \nhttps://ooc.bz/l/110557",
+        "created_at": "2026-08-10T12:07:57Z",
         "sentiment": ""
       },
       {
-        "user": "Snoopster01",
-        "body": "$AAPL Edison Lee is the prick from Jefferies",
-        "created_at": "2026-08-10T11:10:49Z",
+        "user": "OpenOutcrier",
+        "body": "$AAPL (-1.2% pre) Apple&#39;s iPhone 18 Pro costs expected to surge by nearly 40%: TrendForce \n \nhttps://ooc.bz/l/110555",
+        "created_at": "2026-08-10T12:07:46Z",
         "sentiment": ""
       },
       {
-        "user": "AppleKING1",
-        "body": "$AAPL exdivedend day! Wonder why Jeffries is still learning 🤯⚠️🚀‼️🤣🤷‍♂️👑🍏✅📈📈📈🍏🍏🍏🍏",
-        "created_at": "2026-08-10T11:07:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "nappydrew",
-        "body": "$AAPL It&#39;s one thing to be bearish, but calling one of the most succesful companies of all time a POS is next level stupidity. Take your meds. 😂🤦‍♂️🤡",
-        "created_at": "2026-08-10T11:06:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JD1124",
-        "body": "$AAPL here comes the very knowledgeable TrendForce! \nWe are talking $155 increase so instead of $1099 it will be $1249 starting price. I think if they make it 512gb starting size (which is likely needed for AI) its a very viable option and an actual discount! Its that simple for apple to be competit",
-        "created_at": "2026-08-10T11:06:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "updowninandout",
-        "body": "$AAPL hahah oh I’m buying. Jeff clowns… they’re brewing something. The only platform you could actually drop in a network operation center and run kimi3 or other available LLM token. Architecture is going to be more important than brute force GPU purchases.",
-        "created_at": "2026-08-10T11:04:15Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Blanblun",
-        "body": "$AAPL shorting it, target 295$",
-        "created_at": "2026-08-10T11:01:41Z",
+        "user": "ResearchTrends09",
+        "body": "$AAPL   Jeffries!!!!  Has it for TIM COOK.  Bearish.",
+        "created_at": "2026-08-10T12:00:42Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "Snoopster01",
-        "body": "$AAPL scumBa5",
-        "created_at": "2026-08-10T11:00:27Z",
+        "user": "apppro",
+        "body": "$AAPL Expect a strong next 12 months from Apple, says Deepwater&#39;s Gene Munster https://cnb.cx/4wnGmjN",
+        "created_at": "2026-08-10T12:00:22Z",
         "sentiment": ""
       },
       {
-        "user": "jujets",
-        "body": "$AAPL Jeffries been wrong on Apple for long time , scare tactic, do your own DD people",
-        "created_at": "2026-08-10T10:58:02Z",
+        "user": "Napoliblue",
+        "body": "$AAPL Jefferies downgrade $263 🔻",
+        "created_at": "2026-08-10T11:59:12Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "JamesMerser",
+        "body": "WHAT IS $MELI’S DATA WORTH TO AI? 🤖🌎\n\n$GOOGL, $META, $AMZN and $AAPL are spending billions building the next generation of AI.\n\nBut powerful AI needs something incredibly valuable: real-world outcomes.\n\n$MELI has spent decades building an economic data engine across Latin America:\n\n🔎 Search behavior",
+        "created_at": "2026-08-10T11:58:58Z",
         "sentiment": ""
       },
       {
-        "user": "updowninandout",
-        "body": "$AAPL Apple is the AI quite giant that will again blow us all away with innovations. Putting my money down.",
-        "created_at": "2026-08-10T10:57:25Z",
+        "user": "Iorgi",
+        "body": "$AAPL   Munster is an AAPL cheerleader, he&#39;s doing investors a disservice with his lack of objectivity.",
+        "created_at": "2026-08-10T11:49:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Franking71",
+        "body": "$AAPL big drop coming. Price target under $290.00. Not good at all.",
+        "created_at": "2026-08-10T11:48:07Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Ferrari168",
+        "body": "$AAPL chinese in China will likely not purchase apple products in future if using cxmt chips. Huawei,  Honor or Oppo will be better to buy with china chips phone",
+        "created_at": "2026-08-10T11:48:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Huddy22",
+        "body": "$AAPL",
+        "created_at": "2026-08-10T11:46:56Z",
         "sentiment": "Bullish"
       }
     ],
     "AMD": [
       {
+        "user": "PatrikCZ",
+        "body": "$BB $AMD $NVDA",
+        "created_at": "2026-08-10T12:06:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD",
+        "created_at": "2026-08-10T12:05:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$SMCI 🚨😂 Barron’s credibility check:\n\nThey published an article THIS MORNING claiming SMCI earnings are Thursday.\n\nThere’s just one little problem…\n\nEARNINGS ARE TOMORROW — TUESDAY, AUGUST 11. 🤦‍♂️\n\nIf a major financial publication can’t verify something as basic as the earnings DATE, maybe investor",
+        "created_at": "2026-08-10T11:55:36Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "YouVSYou",
+        "body": "Cantor says the semiconductor selloff is overdone and the AI infrastructure cycle remains strong—time to selectively buy the weakness. Top 5: $MU, $SNDK, $NVDA, $AVGO, $AMD, with memory/storage favored first, followed by AI compute. \nAMAT earnings and SNDK Investor Day are the next major catalysts.",
+        "created_at": "2026-08-10T11:53:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CJJay",
+        "body": "$ALOY  may hit $15 today... $20 by end of week   ✌️  $AMD   $INTC   $USAR",
+        "created_at": "2026-08-10T11:51:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Chipbaby",
+        "body": "$AMD",
+        "created_at": "2026-08-10T11:42:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mipel",
+        "body": "$AMD -",
+        "created_at": "2026-08-10T11:26:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Pradeep83",
+        "body": "$AMD $450 ..?",
+        "created_at": "2026-08-10T11:25:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$AMD US President Donald Trump has signaled he is willing to let economic pressure take its toll on Iran rather than carry out further military strikes, while Tehran insists the Strait of Hormuz will only reopen if Washington agrees to a number of conditions.\n\nTrump, who last week expressed confiden",
+        "created_at": "2026-08-10T11:17:47Z",
+        "sentiment": ""
+      },
+      {
         "user": "ShortKing8figs",
         "body": "$AMD another dump incoming!",
         "created_at": "2026-08-10T11:11:35Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY 7am EST kind of stuff.",
-        "created_at": "2026-08-10T11:05:08Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Buyingmore325",
-        "body": "$OPEAZZX.P $SPCX $NVDA $AMD \n\n$ORBS \n This is the kind of price you’ll look back on and say, “Damn, I wish I would’ve bought more.”\n\nDon’t wait until the price takes off to wish you had gotten in earlier. Get in while the opportunity is still here. Orbs hit $82 last year!",
-        "created_at": "2026-08-10T11:01:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "micheln1",
-        "body": "$AMD should at least see 465 today",
-        "created_at": "2026-08-10T10:58:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD Continuing to humiliate Trump",
-        "created_at": "2026-08-10T10:50:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD 🙋‍♂️",
-        "created_at": "2026-08-10T10:47:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PatrikCZ",
-        "body": "$BB $AMD $NVDA $QCOM 🤲",
-        "created_at": "2026-08-10T10:40:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "xxxfactor",
-        "body": "$AMD It&#39;s not about going up right now, it&#39;s more about holding it&#39;s line above 450. All the energy will now be going towards NVDA as it&#39;s ER is next. AI  chip valuations are now and have been constricting. The parabolic moves are over for now. If you missed the 200-500 move, you F&#",
-        "created_at": "2026-08-10T10:37:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bos_c",
-        "body": "$AMD matter of time before we&#39;re upper 500s",
-        "created_at": "2026-08-10T10:13:27Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "seaw",
-        "body": "$AMD \nThe price holding at this level continues after a very good 2Q26 ER report. How much longer this price suppression will last, we will see. I do not believe it will last much longer. I would not be surprised if the price jumps well over $600 within a few days after that.",
-        "created_at": "2026-08-10T10:01:04Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "OpenOutcrier",
+        "body": "$SONY (+1.0% pre) Sony, $TSM TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says \n \nhttps://ooc.bz/l/110552",
+        "created_at": "2026-08-10T12:05:54Z",
+        "sentiment": ""
+      },
+      {
+        "user": "dansheehan",
+        "body": "$QQQ $SPY $SPCX $TSM $SOXX\n\nThe market comes into this week at records, and it earned its way there. The reset flushed out the leverage that made summer so rocky, tech broke back to life, breadth improved, and the jobs surprise eased the rate pressure into the bargain. The earnings underneath remain",
+        "created_at": "2026-08-10T11:28:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM",
+        "created_at": "2026-08-10T11:26:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM :-:US President Donald Trump has signaled he is willing to let economic pressure take its toll on Iran rather than carry out further military strikes, while Tehran insists the Strait of Hormuz will only reopen if Washington agrees to a number of conditions.\n\nTrump, who last week expressed confi",
+        "created_at": "2026-08-10T11:18:24Z",
+        "sentiment": ""
+      },
       {
         "user": "Mipel",
         "body": "$TSM -:Continuing to humiliate Trump",
@@ -285,33 +309,27 @@
         "body": "$TSM",
         "created_at": "2026-08-10T06:57:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "kindness123",
-        "body": "$TSM https://finance.yahoo.com/technology/articles/sony-tsmc-spend-6-3-031506727.html",
-        "created_at": "2026-08-10T06:56:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "mrpocket",
-        "body": "$TSM $SMH",
-        "created_at": "2026-08-10T06:28:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "mrpocket",
-        "body": "$SMH $SOXL $TSM",
-        "created_at": "2026-08-10T06:24:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "WallStJesus",
-        "body": "$TSM $SMH $SOXL  -",
-        "created_at": "2026-08-10T06:21:08Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR is replacing $MSFT at $DELL for the new Ai Sovereign  and Enterprise STACK!!! \n \n$SPY $NVDA on the Chips!!! \n \nhttps://www.dell.com/en-us/blog/dell-and-palantir-introduce-an-on-premises-ai-operating-system/",
+        "created_at": "2026-08-10T12:02:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "burchrealtync",
+        "body": "$MSFT laugh!",
+        "created_at": "2026-08-10T11:51:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$MSFT /:US President Donald Trump has signaled he is willing to let economic pressure take its toll on Iran rather than carry out further military strikes, while Tehran insists the Strait of Hormuz will only reopen if Washington agrees to a number of conditions.\n\nTrump, who last week expressed confi",
+        "created_at": "2026-08-10T11:19:08Z",
+        "sentiment": ""
+      },
       {
         "user": "Mipel",
         "body": "$MSFT -:.Continuing to humiliate Trump",
@@ -353,24 +371,6 @@
         "body": "Can Microsoft Out-AI OpenAI And Anthropic? SemiAnalysis Says Yes,  Points To $100B-Per-GW Inference Opportunity\n\n$MSFT $SPCX $OPEAZZX.P $ANTHZZX.P\n\nhttps://stocktwits.com/news/equity/markets/can-microsoft-out-ai-open-ai-and-anthropic-semi-analysis-says-yes-points-to-100-b-per-gw-inference-opportunit",
         "created_at": "2026-08-10T07:22:20Z",
         "sentiment": ""
-      },
-      {
-        "user": "jcrsbarb",
-        "body": "$MSFT $META $GOOG $GOOGL $AMZN Continued evidence that AI is driving incremental high-margin revenue, backlog conversion, and operating leverage makes new all-time highs for the hyper scaler group a reasonable base case over a multi-year horizon. Near-term, expect choppiness around earnings, capex u",
-        "created_at": "2026-08-10T07:14:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Squiddly_Diddly",
-        "body": "$MSFT pre-market is a fickle mistress",
-        "created_at": "2026-08-10T06:18:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Heyshishito",
-        "body": "$MSFT",
-        "created_at": "2026-08-10T06:14:03Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
@@ -437,63 +437,63 @@
     ],
     "META": [
       {
-        "user": "DonCorleone77",
-        "body": "$META Meta CEO Zuckerberg writes letter on future of AI, intentions of company \n \nOn Meta, CEO Mark Zuckerberg wrote, &quot;We are fortunate to live at an incredible moment in history. In the next few years, people will be able to use superintelligence beyond human capacity to create and discover ex",
-        "created_at": "2026-08-10T10:57:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "I_HODL_GOLD",
-        "body": "$BTC.X Want to see something crazy go watch Adam-12 – Season 2, Episode 15\nWhen the car chase is going on they do a in the car shot twice that shows the cops using a laptop PC to run the license plates and this tv show was made in 1970 \n(image is not from the show) $SOL.X $ETH.X $META",
-        "created_at": "2026-08-10T10:15:20Z",
-        "sentiment": ""
-      },
-      {
-        "user": "flychicken1991",
-        "body": "$META Positive (74%): shares could receive light upward support as the launch strengthens perceptions of Meta&#39;s AI capabilities and the potential usefulness of its AI investment, although the absence of disclosed economics limits the likely repricing. Full AI impact map, source, and watch-next d",
-        "created_at": "2026-08-10T10:11:05Z",
+        "user": "LezFinz",
+        "body": "$META next stop is around 625$",
+        "created_at": "2026-08-10T12:08:00Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "SerpentSqueezes",
-        "body": "$POET $CRWV $INTC $ALT $META POET develops optical interconnects for AI infrastructure, CRWV remains execution-dependent, Intel continues its semiconductor manufacturing turnaround, Altimmune advances metabolic therapies, and Meta benefits from AI-enhanced advertising. I&#39;m watching AI infrastruc",
-        "created_at": "2026-08-10T09:31:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "rami1609",
-        "body": "@NordVPN2 They missed revenue target by less than 1%. LLMs and Applovin do seperate things. What you are saying is like saying LLMs will replace $META",
-        "created_at": "2026-08-10T08:47:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jcrsbarb",
-        "body": "$MSFT $META $GOOG $GOOGL $AMZN Continued evidence that AI is driving incremental high-margin revenue, backlog conversion, and operating leverage makes new all-time highs for the hyper scaler group a reasonable base case over a multi-year horizon. Near-term, expect choppiness around earnings, capex u",
-        "created_at": "2026-08-10T07:14:16Z",
+        "user": "LezFinz",
+        "body": "$META anyone has the link to the news ?",
+        "created_at": "2026-08-10T12:05:39Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "cubie",
-        "body": "@Delu_and_Sons $META well look oi now and compare wen oi refreshes at 6am central,  cubie teaches",
-        "created_at": "2026-08-10T03:59:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "theoptionsplug",
-        "body": "$META&#39;s weekly chart setup is a long period of consolidation. We have once again defended the lower trendline and could see about ~$50 of room up before price runs into the 50 week moving average, which could act as resistance.",
-        "created_at": "2026-08-10T03:58:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Turnthemachinesbackon",
-        "body": "$CLSK + $META = Sanderville would send it to the PT of $26 no problem.",
-        "created_at": "2026-08-10T03:42:00Z",
+        "user": "Chalkstocks",
+        "body": "$META 20 and 50 day breached. Next stop 200. No one expected this news. Extremely",
+        "created_at": "2026-08-10T12:05:29Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "ResearchTrends09",
-        "body": "$META  please somebody make it make sense!!",
-        "created_at": "2026-08-10T02:24:57Z",
+        "user": "rxptgh",
+        "body": "$META yep 👍",
+        "created_at": "2026-08-10T12:00:43Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JamesMerser",
+        "body": "WHAT IS $MELI’S DATA WORTH TO AI? 🤖🌎\n\n$GOOGL, $META, $AMZN and $AAPL are spending billions building the next generation of AI.\n\nBut powerful AI needs something incredibly valuable: real-world outcomes.\n\n$MELI has spent decades building an economic data engine across Latin America:\n\n🔎 Search behavior",
+        "created_at": "2026-08-10T11:58:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "OpenOutcrier",
+        "body": "$META (+1.9% pre) Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay - WSJ \n \nhttps://ooc.bz/l/110538",
+        "created_at": "2026-08-10T11:58:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "OpenOutcrier",
+        "body": "$META (+1.9% pre) Meta unveils open-source AI model Muse Glimmer amid open-weight push \n \nhttps://ooc.bz/l/110536",
+        "created_at": "2026-08-10T11:58:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bumbaclot",
+        "body": "$META consolidated for 4 days looks clean",
+        "created_at": "2026-08-10T11:56:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Southwestern_Capital",
+        "body": "$META gives me offering is coming vibes",
+        "created_at": "2026-08-10T11:50:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "kindness123",
+        "body": "$META \n\nIntroducing Muse Glimmer: An Open Agentic Model That Runs on Your Device | Meta AI Research https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "created_at": "2026-08-10T11:46:36Z",
         "sentiment": ""
       }
     ]
