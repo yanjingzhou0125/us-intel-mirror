@@ -1,69 +1,111 @@
 {
-  "ts": "2026-08-12 10:04:17",
+  "ts": "2026-08-12 11:22:36",
   "tickers": {
     "NVDA": [
       {
-        "user": "Money247_com",
-        "body": "$NVDA $SPY  \nearly bird gets the worm \nbought 500 nvda at $218 yesterday \nsold 300 nvda at 220 \nwill sell 100 more at $222. \nand last 100 at $224. \nthanks for beer money",
-        "created_at": "2026-08-12T10:02:07Z",
+        "user": "BuySellHoldFinance",
+        "body": "$NVDA Even fucking cava is doing better than nvidia",
+        "created_at": "2026-08-12T11:21:44Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA It has been very low volume for this stock and it still has been going up.",
+        "created_at": "2026-08-12T11:20:41Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "gogo1927",
-        "body": "$NVDA still believe $300 by eoy 😀🚀",
-        "created_at": "2026-08-12T09:58:31Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Big_Timer",
-        "body": "@fanttomas @Big_Timer That’s like saying AWS wouldn’t make money if nobody needed cloud computing. 😂\n\n$NVDA builds the engines. SMCI builds and deploys the AI factories around them. Nvidia’s booming business isn’t a weakness for SMCI, it’s the demand engine.\n\n$60B+ in new orders says customers need ",
-        "created_at": "2026-08-12T09:47:40Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "funkymonkey_",
-        "body": "$NVDA monkey will not loose on this trade… $NOW is my second home.. made a lot of 🍌🍌, $RDW i told yall.. sorry for the Ls, make some dough in the sleeping giant 🫶❤️ $MU",
-        "created_at": "2026-08-12T09:36:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ycdctx",
-        "body": "$SNDK $MU $INTC $NVDA  \nCRWV backlog has more than tripled YoY to ~$104B, and that still excludes $25B of new customer commitments added in just the first few weeks of Q3 - believe it or not, their backlog is now at least TWICE their current market cap! \n \nhttps://x.com/StockSavvyShay/status/2087281",
-        "created_at": "2026-08-12T09:31:43Z",
+        "user": "Patpsrsons99",
+        "body": "$NVDA bagholders",
+        "created_at": "2026-08-12T11:20:17Z",
         "sentiment": ""
       },
       {
-        "user": "John2807",
-        "body": "$NVDA 🚀🚀🚀",
-        "created_at": "2026-08-12T09:30:17Z",
+        "user": "Crakerjac",
+        "body": "$NVDA As soon as I get enough coin to buy 1 more share I will buy that share no matter what the price. I always do that. Its been working for me. I hold the new gold NVDA.      :)",
+        "created_at": "2026-08-12T11:19:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "shanegeano",
+        "body": "$NVDA See what happens when the bell rings? 🤔",
+        "created_at": "2026-08-12T11:17:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "dostephe",
+        "body": "@MWM @Malmish $APP is special. They have the highest revenue per employee in the entire market at $6.1 million. $NVDA is $5.1 million and then it scales down by several million for $AAPL and $GOOG amd others. They are extraordinarily capital efficient. The reason they missed revenue estimates by a m",
+        "created_at": "2026-08-12T11:16:57Z",
         "sentiment": ""
+      },
+      {
+        "user": "MultimanMV",
+        "body": "$NVDA this one eyed loser burry just cant keep  his mouth shut. Big tech is  crushing it and showing serious ROI. Burry is so fooked, no amount of lies he spews will save his ill fated shorts. Good riddence.",
+        "created_at": "2026-08-12T11:13:53Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "pmcapitaltrading",
-        "body": "$SPY AI trading today $GOOGL $NVDA  \nhttps://www.youtube.com/watch?v=35pszmj3jdE",
-        "created_at": "2026-08-12T09:21:02Z",
+        "body": "$NVDA https://www.youtube.com/watch?v=z-bPtSR_FKk $GOOGL",
+        "created_at": "2026-08-12T11:09:29Z",
         "sentiment": ""
       },
       {
-        "user": "ycdctx",
-        "body": "$SNDK $MU $INTC $NVDA  \nall we now need is a CPI lower than the consensus estimate, for the rally to continue today. perhaps even an in-line report would be considered benign by the markets, and stave off interest rate hikes next month",
-        "created_at": "2026-08-12T09:16:40Z",
+        "user": "Crakerjac",
+        "body": "$NVDA when partyman calls Ed Yardeni stupid you get a free block and mute. If I am in error and you where calling me stupid even better but either way I win with a block and mute. The haters are coming out now just before ER. It is going to be huge!!!",
+        "created_at": "2026-08-12T11:09:00Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Big_Timer",
-        "body": "$SMCI 🚨 — THIS REPORT IS ABSOLUTELY MASSIVE. 🚨\n\nForget the noise and LOOK AT THE NUMBERS:\n\n🔥 FY2027 revenue guidance: $65B–$72B vs. Wall Street at just $52.99B — midpoint is nearly $16B ABOVE consensus!\n\n🔥 $60B+ in NEW ORDERS + RECORD BACKLOG entering FY27.\n\n🔥 Q4 sales nearly DOUBLED YoY: $11.12B vs",
-        "created_at": "2026-08-12T09:10:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JohnElder",
-        "body": "$NVDA",
-        "created_at": "2026-08-12T09:07:39Z",
-        "sentiment": "Bullish"
+        "user": "dostephe",
+        "body": "@Legitimate @rogerrogers First of all, the buildout is going to continue for years. They are borrowing money now but will be using proceeds from AI profits to fund ongoing expansions and upgrades. Too many investors are discounting the productivity boom that AI is going to generate which is going to",
+        "created_at": "2026-08-12T11:08:44Z",
+        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "itsfloridaking",
+        "body": "$TSLA lots of bulls , going red for sure ..",
+        "created_at": "2026-08-12T11:21:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "15fingers",
+        "body": "$TSLA $SPCX https://youtu.be/e3kLo26TfnQ?is=a313c7mcIgl0PO6j",
+        "created_at": "2026-08-12T11:15:12Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "EV_Report",
+        "body": "Tesla Model 3 Delivery Estimates Stretch Into 2027 After California Rebate Rush $TSLA  \nhttps://eletric-vehicles.com/tesla/teslas-34990-model-3-backlog-stretches-to-2027-after-california-rebate-rush/",
+        "created_at": "2026-08-12T11:09:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Lord_Burglekutt",
+        "body": "$HTZ Start of another insane volume day. All the makings of the next mega gamma squeeze. $SPY $TSLA $GME $BTC.X Everyone getting rich. 🤑",
+        "created_at": "2026-08-12T10:52:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "tkstockpicker",
+        "body": "$TSLA 👀",
+        "created_at": "2026-08-12T10:33:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Baring",
+        "body": "$TSLA Big baller detected",
+        "created_at": "2026-08-12T10:32:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AlphaAndOmega",
+        "body": "$SPCX $TSLA  🚀 🚀",
+        "created_at": "2026-08-12T10:15:56Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "CNBCTV18",
         "body": "$TSLA  launches Refer and Earn in India, offers ₹11,000 per referral \n \nhttps://www.cnbctv18.com/auto/tesla-refer-and-earn-programme-india-thane-charging-station-model-y-model-y-l-supercharger-19967589.htm",
@@ -81,109 +123,67 @@
         "body": "$SPY $ASTS $TSLA  \n \n$SPCX  \n \nElon Musk: ~11–12% of shares but controls 82% of total voting power.      Elon the Dictator!  😂  \n  \nMajor institutional and strategic investors: include Alphabet Inc. (~7.36%), Valor Management LLC (~6.72%), and Baillie Gifford (~0.69%) among others   \n  \nEmployee own",
         "created_at": "2026-08-12T08:57:49Z",
         "sentiment": ""
-      },
-      {
-        "user": "PermianTrader",
-        "body": "$SPY $ASTS $TSLA  \n \n$SPCX  \nShares Outstanding: 13.18 billion shares  \n \nClass A (public float at IPO): approximately 5% of total shares available to public investors, with a 70:30 split between institutional and retail buyers  \n \nClass B: Majority held by Elon Musk and other insiders. Musk persona",
-        "created_at": "2026-08-12T08:40:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Winter_Haydn",
-        "body": "$TSLA",
-        "created_at": "2026-08-12T08:27:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ProtonMarkets",
-        "body": "$BTC $PLUG $NLST $BB $TSLA Bitcoin remains the primary driver of crypto-market liquidity, Plug Power remains focused on hydrogen commercialization, Netlist remains highly litigation- and execution-dependent, BlackBerry continues its transition toward software and cybersecurity, and Tesla remains tie",
-        "created_at": "2026-08-12T08:13:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Boomskitothemoonski",
-        "body": "$TSLA Florida wants to be the first all state RoboTaxi market!",
-        "created_at": "2026-08-12T08:09:27Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "deeprocks",
-        "body": "$TSLA excited to be onboard here with 100 shares",
-        "created_at": "2026-08-12T07:47:48Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "YourfrenPepe420",
-        "body": "$SPCX $TSLA don’t get left behind..",
-        "created_at": "2026-08-12T07:46:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "YourfrenPepe420",
-        "body": "$SPCX $TSLA the future is Elon musk…🔥🔥🚀🚀\n\nhttps://x.com/xfreeze/status/2087437119245471814?s=46",
-        "created_at": "2026-08-12T07:39:35Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
       {
-        "user": "stockzforlife",
-        "body": "$AAPL loaded up on many puts. Super easy to 290",
-        "created_at": "2026-08-12T08:50:00Z",
-        "sentiment": "Bearish"
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-12T11:18:02.583Z in-page fetch $AAPL",
+        "created_at": "2026-08-12T11:18:13Z",
+        "sentiment": ""
       },
       {
-        "user": "updowninandout",
-        "body": "$AAPL $GOOGL Trader scan.. the guy is legit. The post is simple. His history demonstrates rational safe company trades. It’s refreshing to see on Stocktwits ;)",
-        "created_at": "2026-08-12T08:40:26Z",
+        "user": "dostephe",
+        "body": "@MWM @Malmish $APP is special. They have the highest revenue per employee in the entire market at $6.1 million. $NVDA is $5.1 million and then it scales down by several million for $AAPL and $GOOG amd others. They are extraordinarily capital efficient. The reason they missed revenue estimates by a m",
+        "created_at": "2026-08-12T11:16:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-12T11:07:58.190Z in-page fetch $AAPL",
+        "created_at": "2026-08-12T11:08:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Skimman",
+        "body": "$AAPL are they done TRASHING this now ?",
+        "created_at": "2026-08-12T11:07:39Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "updowninandout",
-        "body": "$AAPL welcome to the next $MSFT Boom cycle bitches!!!!\nMade so much on those LEAPS, pushing to $AAPL because like $MSFT their not going out of business, the street is looking at the balance sheet near term and the analysts are fucking everyone as they always do, accumulating for the big score and ea",
-        "created_at": "2026-08-12T08:30:45Z",
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-12T11:05:25.727Z in-page fetch $AAPL",
+        "created_at": "2026-08-12T11:05:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Nobodycares777",
+        "body": "$PLAG $AAPL $SPCX $GME $NVDA \n\nthe first resistance to watch is around 1.50 to 1.60, since that’s roughly where it broke down right after the initial spike. If it pushes through that, the next real resistance is up around 2.00 to 2.30, which lines up with the shelf where it sat for a while after the",
+        "created_at": "2026-08-12T11:04:50Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Teslapermabear",
-        "body": "$AAPL buyer here at 50 bucks",
-        "created_at": "2026-08-12T08:28:06Z",
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-12T11:00:14.190Z in-page fetch $AAPL",
+        "created_at": "2026-08-12T11:00:24Z",
         "sentiment": ""
       },
       {
-        "user": "ProtonMarkets",
-        "body": "$INTC $AAPL $APP $NIO $GOOGL Intel remains focused on manufacturing and foundry execution, Apple benefits from a broad hardware and services ecosystem, AppLovin benefits from mobile advertising and software monetization, NIO remains tied to Chinese EV demand, and Alphabet benefits from advertising, ",
-        "created_at": "2026-08-12T08:13:16Z",
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-12T10:56:05.440Z in-page fetch $AAPL",
+        "created_at": "2026-08-12T10:56:15Z",
         "sentiment": ""
       },
       {
-        "user": "MyTESLA21",
-        "body": "$AAPL",
-        "created_at": "2026-08-12T08:08:54Z",
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-12T10:50:54.267Z in-page fetch $AAPL",
+        "created_at": "2026-08-12T10:51:04Z",
         "sentiment": ""
       },
       {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL MSFT AMZN TSLA GOOGL \n \n0 DTE&#39;s \n \n🙃",
-        "created_at": "2026-08-12T07:47:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LiquidityFinder",
-        "body": "Full article: https://liquidityfinder.com/news/cryptocom-launches-tokenized-stocks-offering-247-access-to-us-equities-and-etfs \n \nCrypto.com has launched Tokenized Stocks, offering 24/7 trading access to 1,500 US equities and ETFs from as little as $1 📈 \n \nInstruments referencing $NVDA $TSLA $AAPL p",
-        "created_at": "2026-08-12T07:19:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mike360wwe",
-        "body": "$AAPL this goes down to 290 by end of aug prove me wrong",
-        "created_at": "2026-08-12T05:25:15Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BarringtonKing",
-        "body": "$AAPL something telling me this is gonna rip face tmrw",
-        "created_at": "2026-08-12T05:00:45Z",
+        "user": "Snoopster01",
+        "body": "$AAPL something is broken  in the stock",
+        "created_at": "2026-08-12T10:49:53Z",
         "sentiment": ""
       }
     ],
@@ -237,7 +237,7 @@
         "sentiment": ""
       },
       {
-        "user": "PatrikCZ",
+        "user": "BB_BOY",
         "body": "$BB $AMD $NVDA $QCOM",
         "created_at": "2026-08-12T08:57:22Z",
         "sentiment": "Bullish"
@@ -250,6 +250,12 @@
       }
     ],
     "TSM": [
+      {
+        "user": "86753O9",
+        "body": "$TSM looks ready to bust out... but waiting for cpi to get involved",
+        "created_at": "2026-08-12T11:12:54Z",
+        "sentiment": ""
+      },
       {
         "user": "ycdctx",
         "body": "$SNDK $NVDA $INTC $TSM $MU  \ntold yall yesterday...those earnings were critical to the semi sector stocks!",
@@ -303,15 +309,45 @@
         "body": "$TSM",
         "created_at": "2026-08-11T15:48:32Z",
         "sentiment": ""
-      },
-      {
-        "user": "2kmagnix2k",
-        "body": "$TSM premium of the contract arent even moving?!",
-        "created_at": "2026-08-11T14:58:51Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "Squiddly_Diddly",
+        "body": "$MSFT  $700/sh on the horizon as I said two days ago being the thought leader that I am",
+        "created_at": "2026-08-12T11:02:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Linds_Erik",
+        "body": "One practical way to think about AI ROI at $MSFT is split spend into training vs inference. Even when capex gets the headlines, the margin story often hinges on how much cost per token drops and how consistently that inference runs in production across Azure workloads.",
+        "created_at": "2026-08-12T10:37:00Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SerinTech",
+        "body": "What is AI inference?\n\nTraining a model is like teaching a student for years.\n\nInference is the student taking the test every day — answering questions, generating text, running in apps.\n\nCompanies like $NVDA, $MSFT, and $GOOGL are all racing to make inference faster and cheaper, because that’s wher",
+        "created_at": "2026-08-12T10:31:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SuperBigBoss",
+        "body": "$MSFT Wells Fargo raised Microsoft’s price target from $650 to $700 while maintaining its Overweight rating. \n\nThe firm is more confident in Azure and AI growth, with AI spending increasingly translating into real revenue. It also sees improving visibility into the returns from Microsoft’s large AI ",
+        "created_at": "2026-08-12T10:29:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "eabeyta7",
+        "body": "$MSFT $AMZN $META $GOOG $ORCL  \nInvestment in AI INFRASTRUCTURE is now BLOWING away the levels of investment made by telecom companies in the Internet Bubble. \n \nSugar high for now but the CRASH is going to suck! \n$MSFT $META $GOOG $AMZN $ORCL \n \n(via Prof Scott Galloway)",
+        "created_at": "2026-08-12T10:25:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NetflixUser",
+        "body": "$MSFT should see $490 today!!",
+        "created_at": "2026-08-12T10:22:36Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "NetflixUser",
         "body": "$MSFT timberrrrrrrr bears are back! Bear flag confirmed. PUTS AT OPEN!!!!",
@@ -335,107 +371,107 @@
         "body": "$ORCL  $META  $MSFT  $GOOG  \n A very interesting article written perhaps with a bit of dramatic flair but a behind the scenes  eye opener. \n \nI especially liked the following: The competitive dynamics of AI development create a classic prisoner’s dilemma: no single actor can afford to pause or slow ",
         "created_at": "2026-08-12T08:40:37Z",
         "sentiment": ""
-      },
-      {
-        "user": "updowninandout",
-        "body": "$AAPL welcome to the next $MSFT Boom cycle bitches!!!!\nMade so much on those LEAPS, pushing to $AAPL because like $MSFT their not going out of business, the street is looking at the balance sheet near term and the analysts are fucking everyone as they always do, accumulating for the big score and ea",
-        "created_at": "2026-08-12T08:30:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "wizeinvesting",
-        "body": "$SPCX $RYTM $MSFT $AMZN $NVDA\n\nSpaceX has already reached a staggering $1.75 trillion valuation, making the question of future upside far more complicated than simply betting on rockets or Starlink. The bigger opportunity—and risk—may now come from its rapidly expanding AI infrastructure business, w",
-        "created_at": "2026-08-12T08:30:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "VictorTwits",
-        "body": "$DIA $DJT $MSFT $SPY $VTIP this is an comminist bot either rcanadian ir iranian. BLOCK 👇",
-        "created_at": "2026-08-12T08:27:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$MSFT lol NOW what? \n \n🤣",
-        "created_at": "2026-08-12T08:26:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "flywithfitz81",
-        "body": "$DJT $SPY $DIA $MSFT $VTIP\n\nAI (the business) is a computational ponzi scheme.\n\nAI the tool is cool and way ahead of it&#39;s time.  But, it is far from a mature business solution.\n\nhttps://youtu.be/4xztOygLnNk?is=7JzDuLVazs4Paz-A",
-        "created_at": "2026-08-12T08:25:08Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Bear_Trades",
-        "body": "$MSFT I don’t wanna spook it\nI need 490",
-        "created_at": "2026-08-12T08:21:51Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
       {
-        "user": "Marin123",
-        "body": "$GOOGL $GOOG put the crack pipe down",
-        "created_at": "2026-08-12T09:27:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$GOOGL $GOOG $387 today eod",
-        "created_at": "2026-08-12T09:09:00Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$GOOGL $GOOG Apparently they just picked up a few leading AI engineers to lead. This should pop it $30-$40 tomorrow.  $SPY $VOO $QQQ",
-        "created_at": "2026-08-12T09:02:28Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "KauaiTrader",
-        "body": "$ORCL  $META  $MSFT  $GOOG  \n A very interesting article written perhaps with a bit of dramatic flair but a behind the scenes  eye opener. \n \nI especially liked the following: The competitive dynamics of AI development create a classic prisoner’s dilemma: no single actor can afford to pause or slow ",
-        "created_at": "2026-08-12T08:40:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tahmido7",
-        "body": "$GOOG Gemini could not have signed a better face to reach masses in India.  \n\nGoogle has launched a new Google Gemini campaign featuring Shah Rukh Khan, highlighting how Al can become more approachable by letting people interact in their own languages.\nDeveloped with McCann India and Nirvana Films, ",
-        "created_at": "2026-08-12T07:22:03Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$GOOGL $GOOG Apparently they just picked up a few leading AI engineers to lead. This should pop it $30-$40 tomorrow.  $SPY $QQQ $VTI Tomorrow is going to be gig. Hope the news comes out soon.",
-        "created_at": "2026-08-12T07:19:15Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Marin123",
-        "body": "$GOOGL $GOOG New day and a new chance to short",
-        "created_at": "2026-08-12T07:02:27Z",
+        "user": "bernieec",
+        "body": "$GOOG this stock is completly broke",
+        "created_at": "2026-08-12T11:19:23Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "Mooney_Maker",
-        "body": "$GOOG $SPCX \n\nwow ✅🟢",
-        "created_at": "2026-08-12T05:52:27Z",
+        "user": "THE_TRADE",
+        "body": "$GOOG $GOOGL \n\nTop 10 holding in Berkshire Hathaway and I won&#39;t be surprised it becomes their largest holding \n\nAlphabet 🐂",
+        "created_at": "2026-08-12T11:17:51Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "YourfrenPepe420",
-        "body": "$spcx $goog",
-        "created_at": "2026-08-12T05:00:33Z",
+        "user": "dostephe",
+        "body": "@MWM @Malmish $APP is special. They have the highest revenue per employee in the entire market at $6.1 million. $NVDA is $5.1 million and then it scales down by several million for $AAPL and $GOOG amd others. They are extraordinarily capital efficient. The reason they missed revenue estimates by a m",
+        "created_at": "2026-08-12T11:16:57Z",
         "sentiment": ""
       },
       {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$GOOGL $GOOG Apparently they just picked up a few leading AI engineers to lead. This should pop it $30-$40 tomorrow.  $SPY $VOO $QQQ",
-        "created_at": "2026-08-12T04:48:48Z",
+        "user": "THE_TRADE",
+        "body": "$GOOG $GOOGL",
+        "created_at": "2026-08-12T11:16:26Z",
         "sentiment": "Bullish"
+      },
+      {
+        "user": "Marin123",
+        "body": "$GOOGL $GOOG congrats bears for another red day",
+        "created_at": "2026-08-12T11:15:53Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Woodmont",
+        "body": "$GOOG Down almost $13 in a day and it struggles to gain $1.50 of which will continue to get sold off premarket, this is comical now",
+        "created_at": "2026-08-12T11:15:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bernieec",
+        "body": "$GOOG Looks ugly",
+        "created_at": "2026-08-12T11:09:23Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Woodmont",
+        "body": "$GOOG Don’t worry it will selloff like it usually does premarket and get pushed further down the rabbit hole",
+        "created_at": "2026-08-12T11:01:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "THE_TRADE",
+        "body": "$GOOG $GOOGL",
+        "created_at": "2026-08-12T10:42:01Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "eabeyta7",
+        "body": "$MSFT $AMZN $META $GOOG $ORCL  \nInvestment in AI INFRASTRUCTURE is now BLOWING away the levels of investment made by telecom companies in the Internet Bubble. \n \nSugar high for now but the CRASH is going to suck! \n$MSFT $META $GOOG $AMZN $ORCL \n \n(via Prof Scott Galloway)",
+        "created_at": "2026-08-12T10:25:04Z",
+        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "DonS100",
+        "body": "$META - The weekly chart looks so strange, every bounce gets corrected",
+        "created_at": "2026-08-12T11:16:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "#Zuckerberg’s AI Future Is For Everyone—But Who Owns It? $META \nhttps://talkmarkets.com/article/zuckerbergs-ai-future-is-for-everyonebut-who-owns-it-1786532878",
+        "created_at": "2026-08-12T11:08:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Billionaire2025",
+        "body": "$META open above $604 today 🤔",
+        "created_at": "2026-08-12T11:03:05Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Billionaire2025",
+        "body": "$META lets watch this POS again 😂",
+        "created_at": "2026-08-12T10:57:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ad2345",
+        "body": "$META do we give up 600 again",
+        "created_at": "2026-08-12T10:56:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "eabeyta7",
+        "body": "$MSFT $AMZN $META $GOOG $ORCL  \nInvestment in AI INFRASTRUCTURE is now BLOWING away the levels of investment made by telecom companies in the Internet Bubble. \n \nSugar high for now but the CRASH is going to suck! \n$MSFT $META $GOOG $AMZN $ORCL \n \n(via Prof Scott Galloway)",
+        "created_at": "2026-08-12T10:25:04Z",
+        "sentiment": ""
+      },
       {
         "user": "KauaiTrader",
         "body": "$ORCL  $META  $MSFT  $GOOG  \n A very interesting article written perhaps with a bit of dramatic flair but a behind the scenes  eye opener. \n \nI especially liked the following: The competitive dynamics of AI development create a classic prisoner’s dilemma: no single actor can afford to pause or slow ",
@@ -458,42 +494,6 @@
         "user": "Mark_Hayes",
         "body": "$2B one way, $2B back. \n \nThe Manus story is getting interesting.The deal with Meta is being unwound, with the original investors reportedly buying the company back. \n \nIt’s hard to ignore how much regulatory policy can change the path of an AI company.$META",
         "created_at": "2026-08-12T06:50:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MatL2",
-        "body": "$META interesting question is not “will AI spending scale,” it is “does ad demand at least keep pace with capex.” If Reality Labs and infrastructure remain cash flow negatives for longer, multiple support will be fragile even with revenue growth, because the market will treat it like an earnings dur",
-        "created_at": "2026-08-12T05:35:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Michaelwantstoretire",
-        "body": "$META overnight clockwork.. run up til 10am again and slowly drop into the afternoon. I’ll take it",
-        "created_at": "2026-08-12T04:53:15Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Jack90",
-        "body": "If $META has negative cash flow for AI-spending, why $META hold $1.5 Trillion market cap ? Cannot drop like $PYPL $SQ or $SNAP $PINS $RBLX ?",
-        "created_at": "2026-08-12T04:09:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JohnAnthony_",
-        "body": "$MU $INTC $SPY $META $MSFT they gonna run chips/memory up til 7:30est then drop it like its Hot just watch folks 🤣🍿🤫",
-        "created_at": "2026-08-12T03:29:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "A U.S. appeals court ruled that thousands of lawsuits can proceed against Meta, Alphabet’s Google, ByteDance’s TikTok and Snap over allegations that their platforms were deliberately designed to be addictive to young users. \nThe Ninth Circuit Court of Appeals rejected an appeal by Meta and TikTok ch",
-        "created_at": "2026-08-12T02:25:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Meta and TikTok have agreed with the European Union to strengthen fact-checking of content about border crossings into Spain following a deadly surge in Ceuta on July 30 that reportedly killed nearly 100 people. \nThe platforms will establish a special escalation and cooperation mechanism with fact-c",
-        "created_at": "2026-08-12T02:20:49Z",
         "sentiment": ""
       }
     ]
