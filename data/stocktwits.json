@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-14 23:20:49",
+  "ts": "2026-08-14 23:47:59",
   "tickers": {
     "NVDA": [
       {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA told ya dummies, red eod",
-        "created_at": "2026-08-14T23:14:52Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA Jensen would never do this $INTC",
-        "created_at": "2026-08-14T23:12:32Z",
+        "user": "Dontknowwhentoexit",
+        "body": "$SPCX $GOOGL holds almost 100 billion, $NVDA over 20 billion, and $BLK almost 10 billion. Stocktwit bears say short it, it&#39;s only worth $50 a share. Hmmmmmm which side do I want to be on LOL",
+        "created_at": "2026-08-14T23:46:36Z",
         "sentiment": ""
       },
       {
         "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $SPY $QQQ",
-        "created_at": "2026-08-14T23:10:46Z",
+        "body": "$AMD $NVDA $INTC $SPY $QQQ",
+        "created_at": "2026-08-14T23:46:25Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "SmellsLikeSPO",
-        "body": "$NVDA Hopefully this starts to climb starting next week in anticipation of earnings. \nI doubt I will hold thru ER. Wallstreet has not been kind to anyone after posting earnings..",
-        "created_at": "2026-08-14T23:06:04Z",
+        "user": "rahod",
+        "body": "$NVDA \nHere’s three stocks that are partners with NVDA and just reported. Huge gains on ERs.",
+        "created_at": "2026-08-14T23:42:31Z",
         "sentiment": "Bullish"
+      },
+      {
+        "user": "Bazziggr",
+        "body": "$NVDA glad moved to AVGO before ER",
+        "created_at": "2026-08-14T23:42:02Z",
+        "sentiment": "Bearish"
       },
       {
         "user": "techvested",
-        "body": "$SPY $QQQ $CRWV $NVDA  \nS&amp;P now trades at a higher book value multiple than during Dot Com peak.  \n \nMore alarmingly, $1.5 TRN margin debt bet on the losing horse in the AI race.  \n \nDomestically, ROI has never been proven. $CRWV as an ex quadrupled net loss (dilution) to achive 2x rev growth. G",
-        "created_at": "2026-08-14T23:00:17Z",
+        "body": "$SPY $QQQ $NVDA $SOXX $SPX  \nThe AI customers migration to Chinese AI models &amp; margin debt on $SPY $QQQ should not in any universe both be going parabolic at the same time.  \n \nGLTA  \nI&#39;ve been off Stocktwits for awhile. Back now to get retail out of this alarmingly empty US stock market bub",
+        "created_at": "2026-08-14T23:37:11Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "ccioli90",
-        "body": "$SPCX &quot;Achieving SpaceX’s 10 GW compute target will require an estimated $323 billion to $360 billion spent purely on Nvidia vertically integrated hardware. When factoring in real estate, physical structures, and electrical grids, the full-stack data center capital expenditure scales to between",
-        "created_at": "2026-08-14T22:59:53Z",
+        "user": "pmcapitaltrading",
+        "body": "$SPY $RDDT how to ruin something for somebody? $META $NVDA $BTC.X",
+        "created_at": "2026-08-14T23:35:36Z",
         "sentiment": ""
       },
       {
-        "user": "BlueFir",
-        "body": "$AMD $NVDA $SPY $QQQ $VOO",
-        "created_at": "2026-08-14T22:55:38Z",
+        "user": "AngryElf",
+        "body": "$NVDA $QQQ $SPY Thank you StockDoc, you are obviously someone who appreciates close up Emu content .",
+        "created_at": "2026-08-14T23:33:40Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "_StockDoc_",
+        "body": "$NVDA $QQQ $SPY  \n \nThe day AMD would ever touch, I will go all in shorting that.     That would be a 250 multiple!  I am dying",
+        "created_at": "2026-08-14T23:25:24Z",
         "sentiment": ""
       },
       {
-        "user": "ZenInvestor3",
-        "body": "$VUZI DATA CENTERS will be utilizing VUZIX Optical interconnect technology? Whoa\n$AMD $NVDA $META $MSFT",
-        "created_at": "2026-08-14T22:51:26Z",
-        "sentiment": "Bullish"
+        "user": "M1LLION",
+        "body": "$SPAI $CAPR $NVDA Keep your eye on SPAI, revenue up 1300 percent, could test ath",
+        "created_at": "2026-08-14T23:24:56Z",
+        "sentiment": ""
       },
       {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $SPY $QQQ $VOO\n\nBaird maintains its price target for AMD of 1250, up from 625",
-        "created_at": "2026-08-14T22:49:37Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "charliesdollar",
-        "body": "$SPY I WILL PRINT THIS AND HANG IT UP\nON MY WALL LOL HES CALLING FOR AMD $1000 😆🤣🤣🤣😂😆😆😆🤣 $QQQ $AMD $NVDA",
-        "created_at": "2026-08-14T22:49:22Z",
-        "sentiment": "Bearish"
+        "user": "_StockDoc_",
+        "body": "$AMD so a 1250 price would put this at what a 320 multiple!   A 320 multiple.    This is such a clown show market.    $NVDA is 34 right now.    \n \n$SPY $QQQ $DIA",
+        "created_at": "2026-08-14T23:21:14Z",
+        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "pjsoul",
+        "body": "$TSLA  Undervalued based on narrative.. Over valued based on fundamentals.. Are you a dreamer or a number cruncher?",
+        "created_at": "2026-08-14T23:45:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StonkProwler",
+        "body": "$TSLA um um um wha-wha-what a c-c-c-clown 🤣🤣🤣",
+        "created_at": "2026-08-14T23:40:51Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "_Thumper_",
+        "body": "$TSLA /  $SPCX   \n \nOh, \n \nThe plans are so vast, \n \nYou have no idea. \n \n👨‍🚀  🤖  ✅",
+        "created_at": "2026-08-14T23:38:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$AIXI\n$TSLA \n$SPY \n$DJT \n$AMC \nThe FiB 🔺",
+        "created_at": "2026-08-14T23:36:32Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ccioli90",
         "body": "$TSLA",
@@ -99,30 +123,6 @@
         "body": "$SPCX $TSLA",
         "created_at": "2026-08-14T22:29:32Z",
         "sentiment": ""
-      },
-      {
-        "user": "ToxicFlow",
-        "body": "$TSLA was pretty funny to watch the $435 puts gain 1000% today around opening. Taking note for the next fraud pump 📝",
-        "created_at": "2026-08-14T22:24:59Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "AvocadoKitty",
-        "body": "$TSLA lol",
-        "created_at": "2026-08-14T22:22:00Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Trading105",
-        "body": "$MU $QQQ $SNDK $SPY $TSLA sure but when and how much?",
-        "created_at": "2026-08-14T22:20:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$WETO 🔺😈 that this point there no real reason for me to post.. most people are satisfied with a 10 % gain.  But I&#39;ve given them way more then expected.. only greed will liquid you now .. know when to sell.. we are aiming for the moon🐇\nThe FiB 🔺\n$AIXI\n$TSLA\n$DJT\n$AMC\n🔺",
-        "created_at": "2026-08-14T22:18:39Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
@@ -190,6 +190,36 @@
     "AMD": [
       {
         "user": "investing_dans_valeur",
+        "body": "$AMD $NVDA $INTC $SPY $QQQ",
+        "created_at": "2026-08-14T23:46:25Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "_StockDoc_",
+        "body": "$META helping $AMD be up 200% in a year, while it is down 26% \n \nJust can&#39;t own the spenders \n \n$SPY $DIA $QQQ",
+        "created_at": "2026-08-14T23:34:18Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "hellodeli",
+        "body": "$AMD 2 week old news https://finance.yahoo.com/markets/stocks/articles/why-analyst-betting-amd-stock-203845278.html",
+        "created_at": "2026-08-14T23:34:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "WealthMaster",
+        "body": "@CaptainsLogs my understanding is there is AI fear in the market and large bear sentiment specifically on $AMD.  Based on you logic, you should be loading up the Brinks Truck.  I concur...Vamos!",
+        "created_at": "2026-08-14T23:24:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "_StockDoc_",
+        "body": "$AMD so a 1250 price would put this at what a 320 multiple!   A 320 multiple.    This is such a clown show market.    $NVDA is 34 right now.    \n \n$SPY $QQQ $DIA",
+        "created_at": "2026-08-14T23:21:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
         "body": "$AMD $NVDA $SPY $QQQ",
         "created_at": "2026-08-14T23:10:46Z",
         "sentiment": "Bullish"
@@ -216,36 +246,6 @@
         "user": "BlueFir",
         "body": "$AMD  \nhttps://247wallst.com/investing/2026/08/14/amds-massive-upside-why-one-analyst-sees-160-price-appreciation-ahead-following-a-tough-month/",
         "created_at": "2026-08-14T23:00:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BlueFir",
-        "body": "$AMD $NVDA $SPY $QQQ $VOO",
-        "created_at": "2026-08-14T22:55:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BlueFir",
-        "body": "$AMD",
-        "created_at": "2026-08-14T22:54:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BlueFir",
-        "body": "$AMD",
-        "created_at": "2026-08-14T22:52:44Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AMD_to_610_SOFI_to_71",
-        "body": "$AMD Dont get me wrong I am a shareholder with most of my portfolio in this. I want it to do well but knowing how this stock goes i am fully expecting to see 450s. Should be $30,000 per share but the market dont care",
-        "created_at": "2026-08-14T22:51:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ZenInvestor3",
-        "body": "$VUZI DATA CENTERS will be utilizing VUZIX Optical interconnect technology? Whoa\n$AMD $NVDA $META $MSFT",
-        "created_at": "2026-08-14T22:51:26Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "A4apple",
+        "body": "$MSFT closed the long call today due to a lot of factors. Will revisit in a couple of weeks for a better entry point",
+        "created_at": "2026-08-14T23:34:55Z",
+        "sentiment": ""
+      },
+      {
         "user": "ZenInvestor3",
         "body": "$VUZI DATA CENTERS will be utilizing VUZIX Optical interconnect technology? Whoa\n$AMD $NVDA $META $MSFT",
         "created_at": "2026-08-14T22:51:26Z",
@@ -365,15 +371,15 @@
         "body": "$MSFT let’s go",
         "created_at": "2026-08-14T20:42:15Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "4years_2_retirement",
-        "body": "$NOW $SNOW $CRM $MSFT \n\nSNOW reports Sept. 2 AH — and after what happened last quarter, this could be a major catalyst for the entire software sector.\n\nLast earnings, Snowflake didn’t just beat — it shattered expectations, sending the stock roughly 36% higher and helping reignite the software trade.",
-        "created_at": "2026-08-14T20:32:39Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "ZenInvestor3",
+        "body": "$VUZI DATA CENTER makers and hyperscalers engaging with Vuzix for use of their Optical interconnect technology ?\nWOW!\n$NBIS $CRWV $MU $GOOG",
+        "created_at": "2026-08-14T23:22:18Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Tfizzle",
         "body": "$GOOG should rally next week on $BRK.B purchasing $OMAH",
@@ -427,15 +433,33 @@
         "body": "$GOOG load up this shit before is to late",
         "created_at": "2026-08-14T21:42:24Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$GOOG $GOOGL $SPCX \n\nBerkshire buys more Alphabet, which becomes its third-largest stock investment - AOL https://share.google/G9iTjJ8hFBNhccZFI",
-        "created_at": "2026-08-14T21:38:52Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "Garp10",
+        "body": "@jackedmund99 Isn&#39;t the customer $META ? Not going thru a merger",
+        "created_at": "2026-08-14T23:36:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $RDDT how to ruin something for somebody? $META $NVDA $BTC.X",
+        "created_at": "2026-08-14T23:35:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "_StockDoc_",
+        "body": "$META helping $AMD be up 200% in a year, while it is down 26% \n \nJust can&#39;t own the spenders \n \n$SPY $DIA $QQQ",
+        "created_at": "2026-08-14T23:34:18Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MilhouseVanhouten",
+        "body": "$META these hit pieces are insane. It’s amazing how they can literally say whatever they want.",
+        "created_at": "2026-08-14T23:30:26Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ZenInvestor3",
         "body": "$VUZI DATA CENTERS will be utilizing VUZIX Optical interconnect technology? Whoa\n$AMD $NVDA $META $MSFT",
@@ -470,30 +494,6 @@
         "user": "LUV2DAY",
         "body": "$META next week i expect strong rally.fingers crossed",
         "created_at": "2026-08-14T21:59:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mister_Adventure",
-        "body": "@zoomlik I dont&#39; know. Debt is expensive for a contracting business. Sales volume much too low for an $AAPL or $META , I don&#39;t know who would pick it up as a camera business.  \n \nNothing defense or military related there (again, no drone IP anymore).  \n \nAnyone else would want pieces. Not th",
-        "created_at": "2026-08-14T21:13:10Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Jasmy4lyfe",
-        "body": "$META holding $600 calls expiring Monday is risky as hell lol but I got them super cheap so let’s see",
-        "created_at": "2026-08-14T20:50:47Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Kingrgv",
-        "body": "$AAPL $META $GOOG $SPY that’s all the manipulation for this week. Come back Monday for more!",
-        "created_at": "2026-08-14T20:01:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GlocksUp",
-        "body": "$META QQQ went from -0.6% to -0.1 \n\nMeanwhile meta the shittiest stock on the market somehow ended the day at its low",
-        "created_at": "2026-08-14T20:01:18Z",
         "sentiment": ""
       }
     ]
