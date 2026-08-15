@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-15 23:19:54",
+  "ts": "2026-08-15 23:45:14",
   "tickers": {
     "NVDA": [
+      {
+        "user": "rahod",
+        "body": "$NVDA \nThe 500B deal with Wall Street and the recent 150B revision on NVDA’s commitment to Open AI are &gt;&gt;RELATED&lt;&lt;&lt; and provide a much more RATIONAL solution than the original “plan” for NVDA to commit hundreds of billions up front.\n👇👇👇👇👇\nNvidia&#39;s $500 billion financing initiative",
+        "created_at": "2026-08-15T23:43:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "igli1234",
+        "body": "$NVDA I am a long term Nvda bull and going out on a limb against Burros prediction .. my prediction is Nvda 10T by 2030 Nvda is a sector of the market from now on lol saw that on youtube and here is Burros spiderweb of circular financing which I think he is totally misinterpreting",
+        "created_at": "2026-08-15T23:43:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "dostephe",
+        "body": "@EconomyEngine Amazon laid out the math behind AI data centers.  They typically make a profit after their first 2 to 3 years and then great margins for another 27.  CRWV just signed a contract to 2030 with a customer to use $NVDA chips from 2021 indicating a 9 year lifespan. The amount of money that",
+        "created_at": "2026-08-15T23:22:32Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "everevolving09",
         "body": "$NVDA compute demand is through lets reduce risks here okay",
@@ -43,27 +61,27 @@
         "body": "$SPCX https://finance.yahoo.com/technology/ai/articles/spacex-officially-closes-cursor-acquisition-163000243.html they finalized this deal with Cursor so fast.. no longer just a space company. now has AI computing and coding to keep up with $NVDA",
         "created_at": "2026-08-15T21:58:28Z",
         "sentiment": ""
-      },
-      {
-        "user": "JohnElder",
-        "body": "$NVDA $SPCX All in the AI race know that only a couple will survive. NVIDIA knows Musk has promised Trump he will win the AI race against China. And he will.",
-        "created_at": "2026-08-15T21:47:14Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mooney_Maker",
-        "body": "$NVDA $SPCX \n\n🛰️🤩🙌🏻",
-        "created_at": "2026-08-15T21:39:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Californiaplastics1980",
-        "body": "$NVDA 260 post earnings next stop 300",
-        "created_at": "2026-08-15T21:28:02Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "EconomyEngine",
+        "body": "$QQQ $SPY $UBER $LYFT $TSLA California Uber driver reveals Tesla’s Full Self-Driving now handles 95% of his driving, with his Uber safety score rising from 70% to 98%.😳😳",
+        "created_at": "2026-08-15T23:38:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mighty_Maven",
+        "body": "$TSLA looking forward to robo taxi rollout. Not only will the company make $5K on selling a sub $30K robo taxi but it will make $40K a year on what is effectively royalties for the taxi service. 1M mileage life means 40k per year over 15-20 years at 2m units deployed per year. So undervalued. Thanks",
+        "created_at": "2026-08-15T23:38:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mighty_Maven",
+        "body": "$ABAT $SPCX $TSLA   next $60B acquisition for Musk is ABAT. I suppose I could live with an ABAT $441 PPS  buyout. Mighty",
+        "created_at": "2026-08-15T23:26:57Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Joe_Mama",
         "body": "$TSLA It’s best when even Bears are calling for it to go higher. Denial can be costly.",
@@ -105,27 +123,15 @@
         "body": "$TSLA — A major long-term High Frequency buying opportunity is approaching soon. \nThe latest weekly chart reveals the expected path. \n \nTrade the Blue Boxes, High Frequency areas. \n \n#elliottwave #ElliottWave #trading #TSLA #Tesla #Stocks #HighFrequency #BlueBox",
         "created_at": "2026-08-15T22:01:23Z",
         "sentiment": ""
-      },
-      {
-        "user": "PAHANA",
-        "body": "Monday morning long positions \nRecession proof \n$DG 380 dollar price target 36 months \n$TLT 180 dollar target 5 years \n$PFE 60 dollar target 30 months \n$GIS 90 dollars 24 months \n$TSLA 180 dollars 20 months \nprotect your self before you wreck your self,  \nmark it  \na new day a new trade, see you Mon",
-        "created_at": "2026-08-15T21:48:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DIRTYCASH",
-        "body": "$TSLA  $SPCX \n\nSO IRAN HAS WON!\n\nTRUMP WANTS TO DECLARE HORMUZ A US TERRITORY \n\nHE NEVER HAD AN IDEA AND NOW HES REALLY OUT OF IDEAS SO…\n\nIRAN HAS WON",
-        "created_at": "2026-08-15T21:39:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ITL_HTWP",
-        "body": "$TSLA The Slow-Compounding Engine vs. The $0 Rollercoaster \n \nMost retail traders hunt for that one massive trade to erase months of losses. Instead, they get hit by another massive loss that wipes out all their recent small wins. \n \n💬Is it possible to turn $1K into $20K or $30K? Yes. \n \nIs it going",
-        "created_at": "2026-08-15T20:27:28Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL all over the globe. Send them to America. Give them everything for free and the right to vote. Democrats need to win back the election and they’re in trouble because they’re losing the BLM vote.",
+        "created_at": "2026-08-15T23:42:14Z",
+        "sentiment": ""
+      },
       {
         "user": "ResearchTrends09",
         "body": "$AAPL 🛑🛑🛑 wake up America.  Wake up.!!!!!!",
@@ -178,12 +184,6 @@
         "user": "redsstocktwits",
         "body": "$DJT PART TWO of my todays post.  In my 1st part i said Russia and USA should make a deal let Russia took over  HALF of China 😍 \n \nChina promise of ALL OUT SUPPORT for Russia but not REALLY full filled🤣 ITS A TRAP  🤣 \n \nCommunist China real agenda... \n \n1st--- To divert attention of the west put res",
         "created_at": "2026-08-15T18:17:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ivijay237",
-        "body": "$AAPL heard stock options trading hours is going to change from Monday .. is it true?",
-        "created_at": "2026-08-15T18:05:51Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "LeonardoBonacci",
+        "body": "$MSFT 🤔",
+        "created_at": "2026-08-15T23:28:12Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "Alloptionsn",
         "body": "$MSFT get medication",
         "created_at": "2026-08-15T22:27:44Z",
@@ -365,15 +371,15 @@
         "body": "$DJT Trump will Take STRAIGHT of Hormuz IS GENIUS idea. as i just said before Control of straight of Hormuz is a Communist China idea NOT IRAN, To test how the world react to China taking control of South China sea. Communist China is changing the status quo &quot;IF YOU BECOME POWERFUL YOU CAN TAKE",
         "created_at": "2026-08-15T17:10:50Z",
         "sentiment": ""
-      },
-      {
-        "user": "4years_2_retirement",
-        "body": "$CRM $MSFT $NOW $SNOW \nNext Earning Dates \nSNOW Sept 2nd\nNOW Oct 28th\nMSFT Oct 28th also\nCRM Aug 26th\nGoing to be a fun 2 months ahead starting with CRM…",
-        "created_at": "2026-08-15T17:04:52Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "MountCapital",
+        "body": "$GOOG $300 is coming, like it or not",
+        "created_at": "2026-08-15T23:44:59Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "THE_TRADE",
         "body": "$GOOGL $GOOG \n\nAlphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger https://share.google/UqsByZAlo03lS6avV",
@@ -427,12 +433,6 @@
         "body": "$GOOG next week?",
         "created_at": "2026-08-15T18:24:22Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "ALPHAROGER",
-        "body": "$GOOG $NVDA $SPCX $SPY $TSLA when it hits $200 plus",
-        "created_at": "2026-08-15T17:54:03Z",
-        "sentiment": ""
       }
     ],
     "META": [
