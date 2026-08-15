@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-15 20:48:34",
+  "ts": "2026-08-15 21:20:37",
   "tickers": {
     "NVDA": [
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA sub 200 next week",
+        "created_at": "2026-08-15T21:06:18Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA Powered by Ai $GOOGL $MSFT",
+        "created_at": "2026-08-15T21:04:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DARKAGE_IS_HERE",
+        "body": "$DJT $SPY $NVDA $NDAQ  \n \nhttps://www.youtube.com/watch?v=mF6uk7UOHBM",
+        "created_at": "2026-08-15T21:02:30Z",
+        "sentiment": ""
+      },
       {
         "user": "NicholasABrown",
         "body": "$NVDA - NVIDIA In Talks To Invest $3 Billion In SB Energy As Part Of OpenAI Data Center Deal - The Information  \n \nhttps://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
@@ -42,24 +60,6 @@
         "user": "TopTierNewswire",
         "body": "$NVDA lots of bullish coverage on Nvidia hitting the wire right now: \n \n&quot;🚨 RETAIL INVESTORS BOUGHT $27B OF NVIDIA STOCK OVER PAST YEAR, MOST AMONG MAGNIFICENT 7 &quot;",
         "created_at": "2026-08-15T20:11:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "tradernomad",
-        "body": "$NVDA August levels  https://prosignaltrades.com/nvda-support-levels-193-184-weekly-august-2026/",
-        "created_at": "2026-08-15T19:56:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "chandra11pp",
-        "body": "@Gemjwel $NVDA  er date is 08/26… it means $INTC will around d 150 in next 2 weeks",
-        "created_at": "2026-08-15T19:53:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "legitotcstocks52",
-        "body": "🚨🚨 $NVDA cutting the OpenAI guarantee from $250B to under $120B isn’t Nvidia backing away — it’s Nvidia getting smarter about who carries the risk. Same AI buildout, same massive compute demand, dramatically less exposure. KEEP THE UPSIDE. SHARE THE RISK. THAT’S HOW YOU SCALE AN EMPIRE. 🚀 🚨🚨",
-        "created_at": "2026-08-15T19:49:45Z",
         "sentiment": ""
       }
     ],
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "charliesdollar",
+        "body": "$SPY THIS IS THE TYPE OF BRAINWASHED MORON DRINKING FOX NEWS KOOL AID ALL DAY. IRGC LITERALLY CONTROL INBOUND AND OUTBOUND HORMUZ TRAFFIC BUT THIS GUY BELIEVES EVERY SINGLE WORD COMING OUT OUT OF THE PSYCHOPATH CYNICAL LYING TRUMPS MOUTH $QQQ $IWM $AAPL $AMD",
+        "created_at": "2026-08-15T20:53:27Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "matrixman68",
         "body": "$AAPL Reebok is a strong sell!",
         "created_at": "2026-08-15T18:51:45Z",
@@ -179,15 +185,15 @@
         "body": "$AAPL",
         "created_at": "2026-08-15T17:06:35Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Buyporksellbellys",
-        "body": "$AAPL https://finance.yahoo.com/markets/stocks/articles/fbi-seized-phones-mark-walter-152321462.html",
-        "created_at": "2026-08-15T16:55:21Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "charliesdollar",
+        "body": "$SPY THIS IS THE TYPE OF BRAINWASHED MORON DRINKING FOX NEWS KOOL AID ALL DAY. IRGC LITERALLY CONTROL INBOUND AND OUTBOUND HORMUZ TRAFFIC BUT THIS GUY BELIEVES EVERY SINGLE WORD COMING OUT OUT OF THE PSYCHOPATH CYNICAL LYING TRUMPS MOUTH $QQQ $IWM $AAPL $AMD",
+        "created_at": "2026-08-15T20:53:27Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Hallu",
         "body": "@AVGOmysugardaddy @gigafactory right, but who cares about facts when its easier to hit sell button.  \nmarket took the $AMD news , next to the TPU downward revisions (likely supply constraints) and linked them together.",
@@ -240,12 +246,6 @@
         "user": "MacroHard26",
         "body": "$SPCX $TSLA $NVDA $AMD $SPY \nSPCX plans for 12 months",
         "created_at": "2026-08-15T17:58:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StockTech7",
-        "body": "$SPY $QQQ $IWM $AMD $NVDA \n\nThey&#39;ll blockade I ran and say theyre winning, theyll import oil with taxpayer money to keep the SPR filled enough, the wealthy consumers will pay higher prices to offset the low end, layoffs will increaese profits, and inflationa will inflate earnings.  \n\nAnything el",
-        "created_at": "2026-08-15T17:53:01Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA Powered by Ai $GOOGL $MSFT",
+        "created_at": "2026-08-15T21:04:48Z",
+        "sentiment": ""
+      },
+      {
         "user": "GrowingWealth",
         "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;&lt;Weekend New Development: &quot;Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations&quot;  \n \n—6 PM ET Sunday, keep an eye on Oil + MNQ/NQ + Dow futures: the first real market reaction to the weekend Iran/Hormuz",
         "created_at": "2026-08-15T20:20:48Z",
@@ -365,15 +371,15 @@
         "body": "$MSFT",
         "created_at": "2026-08-15T15:54:38Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Austinhilton",
-        "body": "One statistic that should make investors think twice:\n\nNvidia, $NVDA, has contributed 10+ percentage points to the S&amp;P 500’s impressive 84% total return over the past five years.\n\nThat means Nvidia alone is responsible for roughly 12% of the index’s entire gain.\n\nApple, $AAPL, contributed around",
-        "created_at": "2026-08-15T15:48:51Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "pocketmoney",
+        "body": "$BABA $GOOG $META 🧐",
+        "created_at": "2026-08-15T21:13:30Z",
+        "sentiment": ""
+      },
       {
         "user": "BearBoB",
         "body": "$GOOG Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
@@ -427,15 +433,15 @@
         "body": "$GOOG Sitting tight. 🚂",
         "created_at": "2026-08-15T16:27:37Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "JoeB07",
-        "body": "$SIMO is now the newest memory storage name. Just borrowed $1B to buy NAND and to fund their 30% QoQ growth. Their boot drives now account for 30% of overall revenue after doubling rev in Q2. They shipping to $GOOG $NVDA among others. Operating margins currently growing 5% each quarter this year. Ti",
-        "created_at": "2026-08-15T16:20:42Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "pocketmoney",
+        "body": "$BABA $GOOG $META 🧐",
+        "created_at": "2026-08-15T21:13:30Z",
+        "sentiment": ""
+      },
       {
         "user": "Ep1219",
         "body": "$META 🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉HUGE COME MONDAY🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉",
@@ -488,12 +494,6 @@
         "user": "chursinow62",
         "body": "$META Fed might raise interest rates September. This is cooked",
         "created_at": "2026-08-15T16:45:38Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "chursinow62",
-        "body": "$META All the lawsuits and spend this is going back to all time lows",
-        "created_at": "2026-08-15T16:43:28Z",
         "sentiment": "Bearish"
       }
     ]
