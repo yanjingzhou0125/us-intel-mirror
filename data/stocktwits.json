@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-15 15:19:43",
+  "ts": "2026-08-15 15:45:26",
   "tickers": {
     "NVDA": [
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA I want him to know it was me $GOOGL $BTC.X",
+        "created_at": "2026-08-15T15:41:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Lizette1",
+        "body": "$BTC.X $AEM $NVDA $AAPL $SPY  \nIt&#39;s so obvious that there is no point in comparing ..... \nhttps://x.com/BullTheoryio/status/2087952160860283206?s=20",
+        "created_at": "2026-08-15T15:36:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "pallasreg",
+        "body": "My prediction stemmed from the idea that if $NVDA&#39;s upcoming earnings beats expectations (and I&#39;m sure it will 😏), $AMD will also move up.",
+        "created_at": "2026-08-15T15:26:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AlphaTrader8",
+        "body": "$NVDA Less than 5% from ATH 236.54\n\n$QQQ $SPY $AMD $MU",
+        "created_at": "2026-08-15T15:25:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "urmybluesky",
+        "body": "$NVDA https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-hit-300-133500308.html \n \nIn addition, the next week or two could be a great setup on the weekly, and I think that that will be the case. Pay attention 😉",
+        "created_at": "2026-08-15T15:23:17Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "MakThreeThree",
         "body": "$NVDA $AAPL",
@@ -31,36 +61,6 @@
         "body": "@Rational_Skeptic all the top companies in the world are loading, all the top rated financial analyst have much higher than IOP valuations. $NVDA just bought 21 BILLION worth. $GOOGL owns a metric ton of shares. But you’ve got it all figured out? None of these people thought about ANYTHING you just ",
         "created_at": "2026-08-15T15:08:53Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Sleepy_Don",
-        "body": "$DJT $TSLA $SPCX $NVDA  $QQQ \n\nDeportation and returning his criminally stolen wealth back to the American Citizens would be good enough, Mr. Grok.",
-        "created_at": "2026-08-15T15:03:18Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nIn a scenario drafted by Morgan Stanley, if a collection of neoclouds can bring 25GW of compute online by the end of 2027, monetizing it at $20M per MW, it would generate $500B of annual revenue. \n&quot;If Nvidia captured 1/4th of that as 100% margin revenue, it would drive 60% upside to our ",
-        "created_at": "2026-08-15T15:02:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TradeForLifeKing",
-        "body": "$AKAN $AMC $SPCX $GME $NVDA let me share some of DD work on AKAN stock. Sharing only so yu all  an buy and not miss possible triple digits hit next week. Here’s why!\n👇👇👇👇👇👇Only few highlights of News, more than on the way, thank us later for sharing this to yu all.",
-        "created_at": "2026-08-15T15:02:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TwoToesTrading",
-        "body": "$AAPL $AMZN $NVDA $QQQ $SPY \n\nLooks like another delay for now",
-        "created_at": "2026-08-15T14:56:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Wake44",
-        "body": "$NVDA Amd is doing a debt raise and they go up 31 points...This market can&#39;t be more corrupt can it!!!!",
-        "created_at": "2026-08-15T14:56:10Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "Lizette1",
+        "body": "$BTC.X $AEM $NVDA $AAPL $SPY  \nIt&#39;s so obvious that there is no point in comparing ..... \nhttps://x.com/BullTheoryio/status/2087952160860283206?s=20",
+        "created_at": "2026-08-15T15:36:42Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "MakThreeThree",
         "body": "$NVDA $AAPL",
         "created_at": "2026-08-15T15:17:32Z",
@@ -179,15 +185,27 @@
         "body": "$NLST if your phone is full….buy\n\n$AAPL $GOOG $TSLA",
         "created_at": "2026-08-15T14:05:49Z",
         "sentiment": ""
-      },
-      {
-        "user": "Higreg",
-        "body": "$AAPL $DRAM.X $MU",
-        "created_at": "2026-08-15T13:39:52Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Blueville",
+        "body": "$AMD $GOOG $INTC $META et al. This week&#39;s lotto trades and results for Aug 10 - 14. #consistentprofits #bluevillecapital",
+        "created_at": "2026-08-15T15:27:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pallasreg",
+        "body": "My prediction stemmed from the idea that if $NVDA&#39;s upcoming earnings beats expectations (and I&#39;m sure it will 😏), $AMD will also move up.",
+        "created_at": "2026-08-15T15:26:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AlphaTrader8",
+        "body": "$NVDA Less than 5% from ATH 236.54\n\n$QQQ $SPY $AMD $MU",
+        "created_at": "2026-08-15T15:25:03Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "pallasreg",
         "body": "$AMD",
@@ -228,24 +246,6 @@
         "user": "ZenInvestor3",
         "body": "$VUZI has received significant INBOUND interest for their Optical Interconnect\nfor use in AI DATA CENTERS\nMassive B2B infrastructure opportunity potential\n$AMD $NVDA $MU $NBIS",
         "created_at": "2026-08-15T13:13:27Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GrandpaJaiKrishen",
-        "body": "Bought $AMD right back dont follow Zacks anymore",
-        "created_at": "2026-08-15T12:43:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DODDINATOR",
-        "body": "$MSFT $PLTR $INTC $AMD $TSEM \nAnother great article from Gary.",
-        "created_at": "2026-08-15T12:40:01Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "PashaGainz",
-        "body": "$AMD maybe for now… short term wouldn’t be surprised to see longer consolidation around the 450-500 range UNTIL next ER where I think we see th next leg up. Till then chilling. I think yesterday’s pump into close is a massive trap for fomo retail and call buyers.",
-        "created_at": "2026-08-15T11:46:26Z",
         "sentiment": "Bullish"
       }
     ],
@@ -375,6 +375,12 @@
     ],
     "GOOG": [
       {
+        "user": "Blueville",
+        "body": "$AMD $GOOG $INTC $META et al. This week&#39;s lotto trades and results for Aug 10 - 14. #consistentprofits #bluevillecapital",
+        "created_at": "2026-08-15T15:27:52Z",
+        "sentiment": ""
+      },
+      {
         "user": "om86baig",
         "body": "$GOOGL $GOOG honestly i just don&#39;t like how the Berkshire news came out Friday after hrs. Seems too trappy to me. They&#39;ll likely drop it first and wait til later in the week to run it cuz retail is gonna chase on Monday.",
         "created_at": "2026-08-15T14:57:23Z",
@@ -427,15 +433,15 @@
         "body": "$BRK.B $GOOG Aug 14 (Reuters) - Alphabet&#39;s (GOOGL.O), opens new tab early bet on SpaceX (SPCX.O), opens new tab has multiplied more than 100-fold, with the Google parent disclosing a stake worth about $94 billion at the end of June, up from a $900 million investment in Elon Musk&#39;s rocket com",
         "created_at": "2026-08-15T09:26:09Z",
         "sentiment": ""
-      },
-      {
-        "user": "THIS_TIME_IS_DIFFERENT",
-        "body": "$GOOG $GOOGL WHERE IS THE BUFFETT BUMP. BANISHED TO OBLIVION. SMH",
-        "created_at": "2026-08-15T08:56:43Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "Blueville",
+        "body": "$AMD $GOOG $INTC $META et al. This week&#39;s lotto trades and results for Aug 10 - 14. #consistentprofits #bluevillecapital",
+        "created_at": "2026-08-15T15:27:52Z",
+        "sentiment": ""
+      },
       {
         "user": "cor1",
         "body": "$META Porter rips the Zuck apart.  Worst CEO in tech. https://members.porterandcompanyresearch.com/how-ai-will-end-zuck/",
@@ -489,12 +495,6 @@
         "body": "Added to $META long position at $547.27.",
         "created_at": "2026-08-15T10:41:11Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY you can&#39;t use Ai to beat original traders, No you can&#39;t $META $NVDA $GOOGL",
-        "created_at": "2026-08-15T10:09:59Z",
-        "sentiment": ""
       }
     ]
   }
