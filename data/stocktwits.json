@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15 10:48:26",
+  "ts": "2026-08-15 11:20:14",
   "tickers": {
     "NVDA": [
       {
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "sfolporone",
+        "body": "$AAPL $BLIN $JRSH",
+        "created_at": "2026-08-15T11:01:22Z",
+        "sentiment": ""
+      },
+      {
         "user": "Lodochka",
         "body": "[TEST] 2026-08-15T09:10:53.116Z in-page fetch $AAPL",
         "created_at": "2026-08-15T09:11:04Z",
@@ -178,12 +184,6 @@
         "user": "Philly12684",
         "body": "@Feroce_Research $AAPL is going to get a surprise audit Monday morning. 🧐",
         "created_at": "2026-08-15T06:36:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadyAggie40",
-        "body": "$AAPL fold iphone design looks the same as a IPAD mini",
-        "created_at": "2026-08-15T06:23:59Z",
         "sentiment": ""
       }
     ],
@@ -375,6 +375,12 @@
     ],
     "GOOG": [
       {
+        "user": "investorboy7688",
+        "body": "$GOOG 👀👀",
+        "created_at": "2026-08-15T11:04:18Z",
+        "sentiment": ""
+      },
+      {
         "user": "ggoggo",
         "body": "$BRK.B $GOOG Aug 14 (Reuters) - Alphabet&#39;s (GOOGL.O), opens new tab early bet on SpaceX (SPCX.O), opens new tab has multiplied more than 100-fold, with the Google parent disclosing a stake worth about $94 billion at the end of June, up from a $900 million investment in Elon Musk&#39;s rocket com",
         "created_at": "2026-08-15T09:26:09Z",
@@ -427,15 +433,15 @@
         "body": "$GOOG buffet is full tilt he knows its a cash cow in a year or two once the money rolls in",
         "created_at": "2026-08-15T03:41:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "kcphaeton",
-        "body": "$GOOG $BRK.B definitely going to see some movement next week on Google.  \nhttps://www.cnbc.com/amp/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
-        "created_at": "2026-08-15T03:17:05Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "peter",
+        "body": "Added to $META long position at $547.27. ACB is $584.36.",
+        "created_at": "2026-08-15T10:51:41Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "peter",
         "body": "Added to $META long position at $547.27.",
@@ -488,12 +494,6 @@
         "user": "ZenInvestor3",
         "body": "$VUZI Investors reacted strongly to Mgt’s announcement that they are receiving significant inbound industry interest for their planar waveguides to be used as optical interconnects in AI DATA CENTERS. This opens a massive new B2B infrastructure market. The Co. also highlighted key technical mileston",
         "created_at": "2026-08-15T02:20:48Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MilhouseVanhouten",
-        "body": "$AMZN $GOOGL $META $NVDA $QQQ i smell desperation.",
-        "created_at": "2026-08-15T01:54:06Z",
         "sentiment": "Bullish"
       }
     ]
