@@ -1,69 +1,117 @@
 {
-  "ts": "2026-08-14 23:47:59",
+  "ts": "2026-08-15 01:12:44",
   "tickers": {
     "NVDA": [
       {
-        "user": "Dontknowwhentoexit",
-        "body": "$SPCX $GOOGL holds almost 100 billion, $NVDA over 20 billion, and $BLK almost 10 billion. Stocktwit bears say short it, it&#39;s only worth $50 a share. Hmmmmmm which side do I want to be on LOL",
-        "created_at": "2026-08-14T23:46:36Z",
+        "user": "SteveStachion",
+        "body": "$NVDA will invest in anything and everything lol.. $SPCX",
+        "created_at": "2026-08-15T01:06:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MilhouseVanhouten",
+        "body": "$SPCX wouldnt $NVDA have just waited for $60?.. why would they make such a gigantic position at $170? 🤔 🤣 \n\n🐻 😵 💀 on Monday.",
+        "created_at": "2026-08-15T01:04:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY $QQQ $IWM $NVDA \n\nX Traders will need to tune up their bots this weekend",
+        "created_at": "2026-08-15T01:01:35Z",
         "sentiment": ""
       },
       {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $INTC $SPY $QQQ",
-        "created_at": "2026-08-14T23:46:25Z",
+        "user": "NBman1988",
+        "body": "$NVDA $RR",
+        "created_at": "2026-08-15T00:50:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Shutking",
+        "body": "$NVDA So as I see it as of SpaceX close today Nvidia’s investment in SpaceX is down $4 billion. RIGHT?",
+        "created_at": "2026-08-15T00:47:15Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "kindness123",
+        "body": "$SPCX $NVDA",
+        "created_at": "2026-08-15T00:35:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Sieppo",
+        "body": "$AMD $NVDA $SPY $QQQ $VOO Helios will be shipping in a few weeks if not already..",
+        "created_at": "2026-08-15T00:26:17Z",
         "sentiment": "Bullish"
       },
       {
         "user": "rahod",
-        "body": "$NVDA \nHere’s three stocks that are partners with NVDA and just reported. Huge gains on ERs.",
-        "created_at": "2026-08-14T23:42:31Z",
+        "body": "$NVDA \nNvidia treats its multi-billion dollar investment portfolio—which includes stakes in companies like Intel, CoreWeave, Arm Holdings, and Applied Digital—through distinct mechanisms during earnings",
+        "created_at": "2026-08-15T00:21:52Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Bazziggr",
-        "body": "$NVDA glad moved to AVGO before ER",
-        "created_at": "2026-08-14T23:42:02Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "techvested",
-        "body": "$SPY $QQQ $NVDA $SOXX $SPX  \nThe AI customers migration to Chinese AI models &amp; margin debt on $SPY $QQQ should not in any universe both be going parabolic at the same time.  \n \nGLTA  \nI&#39;ve been off Stocktwits for awhile. Back now to get retail out of this alarmingly empty US stock market bub",
-        "created_at": "2026-08-14T23:37:11Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $RDDT how to ruin something for somebody? $META $NVDA $BTC.X",
-        "created_at": "2026-08-14T23:35:36Z",
+        "user": "Big_Dirk",
+        "body": "$MSFT $NVDA $QQQ $SMH $SPY \n\nI can fix her",
+        "created_at": "2026-08-15T00:10:50Z",
         "sentiment": ""
       },
       {
-        "user": "AngryElf",
-        "body": "$NVDA $QQQ $SPY Thank you StockDoc, you are obviously someone who appreciates close up Emu content .",
-        "created_at": "2026-08-14T23:33:40Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$NVDA $QQQ $SPY  \n \nThe day AMD would ever touch, I will go all in shorting that.     That would be a 250 multiple!  I am dying",
-        "created_at": "2026-08-14T23:25:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "M1LLION",
-        "body": "$SPAI $CAPR $NVDA Keep your eye on SPAI, revenue up 1300 percent, could test ath",
-        "created_at": "2026-08-14T23:24:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$AMD so a 1250 price would put this at what a 320 multiple!   A 320 multiple.    This is such a clown show market.    $NVDA is 34 right now.    \n \n$SPY $QQQ $DIA",
-        "created_at": "2026-08-14T23:21:14Z",
+        "user": "Jvelez23",
+        "body": "$NVDA $SPCX",
+        "created_at": "2026-08-15T00:07:13Z",
         "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "ALPHAROGER",
+        "body": "$SPCX $TSLA  He probably knows it’s as bad as the Covid shot.  I TrUst tHe sCiEncE!",
+        "created_at": "2026-08-15T01:05:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Plankeye",
+        "body": "$TSLA I heard Elon is making flying cars now",
+        "created_at": "2026-08-15T01:03:36Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BMakingMoney",
+        "body": "$SPCX $TSLA does the richest man in the world not have access to Ozempic?",
+        "created_at": "2026-08-15T00:52:02Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "TslaGroupie",
+        "body": "$TSLA https://youtu.be/xXNDf4GkPcw?is=jbRJyhOImVFaOc2O",
+        "created_at": "2026-08-15T00:31:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Psychosphere_Desk",
+        "body": "▲ $TSLA · reads bullish \n \nTSLA&#39;s had a rough month but it&#39;s trying to quietly build something. Floors are rising, calls are stacking up, and the structure&#39;s leaning the right way. The problem is volume&#39;s fading into it. That&#39;s not conviction, that&#39;s hope. Could still work, b",
+        "created_at": "2026-08-15T00:22:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Towjoe",
+        "body": "$TSLA Elon Musk earned 2.5 million times more than a Tesla worker’s median pay in 2025, despite revenue and sales declines. 86",
+        "created_at": "2026-08-15T00:09:32Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "XPeng Vs Tesla: Race To Own The Future Of Cars, Robots, And Flying Machines  \n\n$XPEV $TSLA\n\nhttps://stocktwits.com/news/equity/markets/x-peng-vs-tesla-race-to-own-the-future-of-cars-robots-and-flying-machines/cZov3C0RJK5",
+        "created_at": "2026-08-15T00:01:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$WETO 🔺 @Matrix1989 🐇\nFeels familiar \nThe FiB 🔺 \n$AIXI\n$DJT\n$AMC\n$TSLA",
+        "created_at": "2026-08-14T23:54:35Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "pjsoul",
         "body": "$TSLA  Undervalued based on narrative.. Over valued based on fundamentals.. Are you a dreamer or a number cruncher?",
@@ -75,57 +123,15 @@
         "body": "$TSLA um um um wha-wha-what a c-c-c-clown 🤣🤣🤣",
         "created_at": "2026-08-14T23:40:51Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "_Thumper_",
-        "body": "$TSLA /  $SPCX   \n \nOh, \n \nThe plans are so vast, \n \nYou have no idea. \n \n👨‍🚀  🤖  ✅",
-        "created_at": "2026-08-14T23:38:03Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$AIXI\n$TSLA \n$SPY \n$DJT \n$AMC \nThe FiB 🔺",
-        "created_at": "2026-08-14T23:36:32Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ccioli90",
-        "body": "$TSLA",
-        "created_at": "2026-08-14T23:16:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BrianSJKim",
-        "body": "Good evening\n\nWeekend swing\nSPX 8/19 7800c $17.6\n\nEnjoy your weekend\n\n$SPY $TSLA $MU $NBIS $AAOI",
-        "created_at": "2026-08-14T23:15:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BOGGLE69",
-        "body": "$FAMI Been adding to  \nwhile it’s still quiet and I’m holding through the weekend. \n \n45.57% of the float short with 1.72 days to cover is definitely worth watching, especially with the tiny market cap and expansion news. \n \nThese are the days I like getting positioned before volume. \n \n$STKH $CGTL ",
-        "created_at": "2026-08-14T23:05:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "inspector_gadget86",
-        "body": "$TSLA Tesla owners in California have until Sept. 25 to claim this settlement money $SPCX",
-        "created_at": "2026-08-14T23:01:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jsnipes401",
-        "body": "$TSLA bought puts today right at 349.50. I really thought it was going a little higher before the dump. But good lordy that was a beautiful quick bag to make today 🤣",
-        "created_at": "2026-08-14T22:35:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FRONT",
-        "body": "$SPCX $TSLA",
-        "created_at": "2026-08-14T22:29:32Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "prka",
+        "body": "$AAPL $SPY $QQQ Starting Monday you can trade certain options starting at 715am EST!!",
+        "created_at": "2026-08-15T00:28:06Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "LoneBroker",
         "body": "$AMAT $AAPL $ALTO",
@@ -179,74 +185,68 @@
         "body": "$AAPL time to dump Apple stocks",
         "created_at": "2026-08-14T20:45:41Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "TraderYong",
-        "body": "$AAPL apple is done. No memory no screen. They cannot make iPhones on time and price will be insanely high.  Time to dump asap.",
-        "created_at": "2026-08-14T20:44:34Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
       {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $INTC $SPY $QQQ",
-        "created_at": "2026-08-14T23:46:25Z",
+        "user": "SPD2025",
+        "body": "$AMD enjoy the weekend everyone! We finally closed good!",
+        "created_at": "2026-08-15T01:04:31Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "_StockDoc_",
-        "body": "$META helping $AMD be up 200% in a year, while it is down 26% \n \nJust can&#39;t own the spenders \n \n$SPY $DIA $QQQ",
-        "created_at": "2026-08-14T23:34:18Z",
+        "user": "dbatech99",
+        "body": "$AMD we will let you know when you unassume the position, if you know what I mean 😂",
+        "created_at": "2026-08-15T00:47:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "dbatech99",
+        "body": "$AMD long traders love the short term hate. It&#39;s like the &quot;know it alls that don&#39;t know shit&quot; due every couple days. Rinse, repeat. 🫢😏😂",
+        "created_at": "2026-08-15T00:46:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD google - something knows somebody",
+        "created_at": "2026-08-15T00:46:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "onehundredon12",
+        "body": "$AMD 😬",
+        "created_at": "2026-08-15T00:39:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "kindness123",
+        "body": "$AMD $SPCX $NTNX",
+        "created_at": "2026-08-15T00:37:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Sieppo",
+        "body": "$AMD $NVDA $SPY $QQQ $VOO Helios will be shipping in a few weeks if not already..",
+        "created_at": "2026-08-15T00:26:17Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JoeDirtay3",
+        "body": "$AMD I&#39;ll admit you&#39;d have to be an absolute psycho to hold this. Much respect!! I&#39;ll even put a bullish tag on it for you !!",
+        "created_at": "2026-08-15T00:17:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD GOOGLE steam - oh baby! Bing it... \n \nhttps://x.com/sean_________/status/2088311185791660061?s=20",
+        "created_at": "2026-08-15T00:17:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "daytrader0",
+        "body": "$AMD $NVDA $SPY $QQQ $DIA thats the whole point none of these names are following their real &quot;value&quot; and what their earning and what they are selling.. they are all way way way over that.. they make how many billions and current market cap is what exactly? yah it&#39;s already f-ed up and ",
+        "created_at": "2026-08-15T00:06:00Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "hellodeli",
-        "body": "$AMD 2 week old news https://finance.yahoo.com/markets/stocks/articles/why-analyst-betting-amd-stock-203845278.html",
-        "created_at": "2026-08-14T23:34:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "WealthMaster",
-        "body": "@CaptainsLogs my understanding is there is AI fear in the market and large bear sentiment specifically on $AMD.  Based on you logic, you should be loading up the Brinks Truck.  I concur...Vamos!",
-        "created_at": "2026-08-14T23:24:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$AMD so a 1250 price would put this at what a 320 multiple!   A 320 multiple.    This is such a clown show market.    $NVDA is 34 right now.    \n \n$SPY $QQQ $DIA",
-        "created_at": "2026-08-14T23:21:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $NVDA $SPY $QQQ",
-        "created_at": "2026-08-14T23:10:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Muhannedb",
-        "body": "$AMD glad i didn’t short this",
-        "created_at": "2026-08-14T23:09:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mikow",
-        "body": "$AMD 🤫 I don’t want to hear it. Those who believe recieve the rewards!",
-        "created_at": "2026-08-14T23:08:26Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $MU $TSM $SPY $QQQ",
-        "created_at": "2026-08-14T23:07:56Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BlueFir",
-        "body": "$AMD  \nhttps://247wallst.com/investing/2026/08/14/amds-massive-upside-why-one-analyst-sees-160-price-appreciation-ahead-following-a-tough-month/",
-        "created_at": "2026-08-14T23:00:45Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,36 @@
     ],
     "MSFT": [
       {
+        "user": "techvested",
+        "body": "$SPY $QQQ $MSFT $GOOGL $AMZN  \nLook under the hood before others do or you will get caught flat-footed when the bubble begins bursting.  \n \nWarned earlier today about hyperscalers&#39; &quot;other investments&quot; inflating earnings. Then randomly came across WSJ article. Those values are coming do",
+        "created_at": "2026-08-15T00:43:36Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "AZZ_MAN",
+        "body": "$MSFT $500+ next week.  Hope you got in today or this week!",
+        "created_at": "2026-08-15T00:20:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Big_Dirk",
+        "body": "$MSFT $NVDA $QQQ $SMH $SPY \n\nI can fix her",
+        "created_at": "2026-08-15T00:10:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "techvested",
+        "body": "$GOOGL $AMZN $MSFT $SPY $QQQ  \nMost of hyperscaler &quot;other income&quot; comes from marking up investments (and during a stock market bubble).   \n \nOpenAI is worthless. Anthropic not worth 50% of marked up values.  \nNeither Anthropic nor OpenAI will be competitive enough with Chinese models - bc ",
+        "created_at": "2026-08-15T00:10:37Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "CUPandHANDLE_CHARTS",
+        "body": "$QQQ ~ 😂 This was my favorite news story this week. This kind of thing involving the rich kids of silicone valley luminaries is what you would expect to see at the peak of an economic cycle. Even uber rich nepo babies can’t resist the siren call of “fudging the numbers” to prove they are a successfu",
+        "created_at": "2026-08-15T00:04:23Z",
+        "sentiment": ""
+      },
+      {
         "user": "A4apple",
         "body": "$MSFT closed the long call today due to a lot of factors. Will revisit in a couple of weeks for a better entry point",
         "created_at": "2026-08-14T23:34:55Z",
@@ -341,39 +371,21 @@
         "body": "The #AI Giants Are Making Themselves Replaceable $MSFT $GOOGL Also: $AAPL $AMZN $NET https://talkmarkets.com/article/the-ai-giants-are-making-themselves-replaceable-1786737026",
         "created_at": "2026-08-14T21:31:14Z",
         "sentiment": ""
-      },
-      {
-        "user": "ItsAGreatDay",
-        "body": "$MSFT This is one sick puppy!",
-        "created_at": "2026-08-14T21:20:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cubie",
-        "body": "@judgeyoung2 @itsphd @Jeremymartin007 @Idiamondw @jenbunn @ZY786 @Tradermikes40 @TraderRapp @tonyctl @zuby34 \n\n☝️☝️ Buffet diverted money away, he will tell $BRK.B not to invest in $MSFT even if hes gone!",
-        "created_at": "2026-08-14T21:11:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cubie",
-        "body": "@jenbunn @itsphd @Jeremymartin007 @Idiamondw @judgeyoung2 @ZY786 @Tradermikes40 @TraderRapp @tonyctl @zuby34 \n$MSFT $BRK.B \n\nJudge,   gates got cooties now. So why would buffet give him money anymore",
-        "created_at": "2026-08-14T20:59:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "itsfloridaking",
-        "body": "$MSFT bot",
-        "created_at": "2026-08-14T20:58:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Luckyskills007",
-        "body": "$MSFT let’s go",
-        "created_at": "2026-08-14T20:42:15Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "ERTcapital",
+        "body": "$GOOG will pamp next week.  In after hours with a large position",
+        "created_at": "2026-08-15T00:26:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Daytrader326",
+        "body": "$GOOG $GOOGL shorts are fighting Berkshire and Google.  I know where my money is",
+        "created_at": "2026-08-15T00:19:37Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ZenInvestor3",
         "body": "$VUZI DATA CENTER makers and hyperscalers engaging with Vuzix for use of their Optical interconnect technology ?\nWOW!\n$NBIS $CRWV $MU $GOOG",
@@ -421,21 +433,15 @@
         "body": "$GOOGL $GOOG $SPY $QQQ BUFFET BUYS MORE GOOGLE-no brainer long here anything under $400 is free money",
         "created_at": "2026-08-14T22:01:57Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Khaleesi_Rekindled",
-        "body": "$GOOG",
-        "created_at": "2026-08-14T21:51:29Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Martinb1",
-        "body": "$GOOG load up this shit before is to late",
-        "created_at": "2026-08-14T21:42:24Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "Gils426",
+        "body": "$META next two weeks 670.",
+        "created_at": "2026-08-14T23:49:29Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Garp10",
         "body": "@jackedmund99 Isn&#39;t the customer $META ? Not going thru a merger",
@@ -488,12 +494,6 @@
         "user": "lind0",
         "body": "$META Another unattractive chart w SPX at all time  highs",
         "created_at": "2026-08-14T22:19:27Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LUV2DAY",
-        "body": "$META next week i expect strong rally.fingers crossed",
-        "created_at": "2026-08-14T21:59:18Z",
         "sentiment": ""
       }
     ]
