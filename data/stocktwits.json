@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-15 18:58:18",
+  "ts": "2026-08-15 19:26:57",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA There are a lot of good reads on this company but get the calculator out to double check and verify the numbers. Do not be afraid of the number of zeros. Between you and me and the fence when that guy who does the FinVid videos on youtube for Nvidia starts talking the large numbers and he beli",
+        "created_at": "2026-08-15T19:25:53Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "lakeloon123",
+        "body": "$NVDA https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly9jaXRpemVuZnJlZXByZXNzLmNvbS8&amp;guce_referrer_sig=AQAAAKwMYkRoEsMzwk4Fxb1QdeoHjhKEz1NnXWpfbixE8OppNaH6ag3qtH1CW7g9QQSdeH7t8eIY-Skuwnz6S_ghqh01af9Q185avLZqgm",
+        "created_at": "2026-08-15T19:13:17Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$NVDA the good Sh*t $BTC.X",
@@ -49,21 +61,15 @@
         "body": "$NVDA  stock options trading hours is going to change from Monday .. is it true?",
         "created_at": "2026-08-15T18:07:36Z",
         "sentiment": ""
-      },
-      {
-        "user": "legitotcstocks52",
-        "body": "$NVDA - Sometimes the biggest moves happen when expectations are already high and the company STILL finds another gear.\n\n$81.6B last quarter. $91B guided for this one. Earnings August 26. The question isn’t whether AI is growing anymore - it’s whether NVIDIA is about to remind everyone just how fast",
-        "created_at": "2026-08-15T17:58:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MacroHard26",
-        "body": "$SPCX $TSLA $NVDA $AMD $SPY \nSPCX plans for 12 months",
-        "created_at": "2026-08-15T17:58:05Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Blueviking",
+        "body": "$NWBO $GNS $TSLA $PFE $SPCX",
+        "created_at": "2026-08-15T19:01:16Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "MacroHard26",
         "body": "$SPY $AMZN $TSLA $NBIS $CRWV \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia Al hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
@@ -117,12 +123,6 @@
         "body": "$GOOG $NVDA $SPCX $SPY $TSLA when it hits $200 plus",
         "created_at": "2026-08-15T17:54:03Z",
         "sentiment": ""
-      },
-      {
-        "user": "Sleepy_Don",
-        "body": "$DJT $QQQ $TSLA $DJIA $NVDA \n\nWhen the artificial prop and AI bubbles burst, the retail trader wasteland will be a sad sad place.",
-        "created_at": "2026-08-15T17:52:56Z",
-        "sentiment": "Bearish"
       }
     ],
     "AAPL": [
@@ -190,6 +190,18 @@
     "AMD": [
       {
         "user": "wader2k",
+        "body": "$MU #3, $MRVL #7, and $AMD #10 on the NAS 100 top 25 list",
+        "created_at": "2026-08-15T19:20:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$MU #4, $MRVL #7, and $AMD #10 on the S&amp;P top 25 list",
+        "created_at": "2026-08-15T19:18:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
         "body": "$AMD todays harvest....",
         "created_at": "2026-08-15T18:54:24Z",
         "sentiment": ""
@@ -235,18 +247,6 @@
         "body": "$SPCX $TSLA $NVDA $AMD $SPY",
         "created_at": "2026-08-15T17:35:58Z",
         "sentiment": ""
-      },
-      {
-        "user": "MacroHard26",
-        "body": "$SPCX $TSLA $NVDA $AMD $SPY",
-        "created_at": "2026-08-15T17:22:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "REDWIR",
-        "body": "$APP $RDW $APLD $AMD $HUT let’s have a great week of gains 🎉👍",
-        "created_at": "2026-08-15T16:33:49Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,24 @@
     ],
     "MSFT": [
       {
+        "user": "TalkMarkets",
+        "body": "Record Highs: Should You Chase The Rally? Mentions: $MSFT $SPY $VIX https://talkmarkets.com/article/record-highs-should-you-chase-the-rally-1786818399",
+        "created_at": "2026-08-15T19:03:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "#AI Panic Around Software Has It Backwards $PLTR $MSFT $BTC.X https://talkmarkets.com/article/ai-panic-around-software-has-it-backwards-1786804058",
+        "created_at": "2026-08-15T19:01:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "altovarf",
+        "body": "$MSFT oh oh",
+        "created_at": "2026-08-15T18:58:35Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "redsstocktwits",
         "body": "$DJT PART TWO of my todays post.  In my 1st part i said Russia and USA should make a deal let Russia took over  HALF of China 😍 \n \nChina promise of ALL OUT SUPPORT for Russia but not REALLY full filled🤣 ITS A TRAP  🤣 \n \nCommunist China real agenda... \n \n1st--- To divert attention of the west put res",
         "created_at": "2026-08-15T18:17:35Z",
@@ -352,24 +370,6 @@
         "user": "AlphaTrader8",
         "body": "$NVDA  $225 Confirmation/Pivot = UP\n$SPY \n\nNvidia Earnings are on AMC August 26 \n\nAnticipation Catalyst as IV increases this     coming week \n\n$QQQ $MSFT $AMD",
         "created_at": "2026-08-15T14:31:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$GOOGL $GOOG $MSFT $AMZN $META  \n \nStill not growing enough to cover the money they are spending though is the problem",
-        "created_at": "2026-08-15T14:07:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jameshallet",
-        "body": "$MSFT $620-$650    By mid 2027. No doubt in my mind. My largest Roth IRA retirement position",
-        "created_at": "2026-08-15T13:14:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DODDINATOR",
-        "body": "$MSFT $PLTR $INTC $AMD $TSEM \nAnother great article from Gary.",
-        "created_at": "2026-08-15T12:40:01Z",
         "sentiment": "Bullish"
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "bescom",
+        "body": "$META this is 600$ stock that generates a lot money selling covered calls so is very manipulated by wallstreet  they need to split the stock .",
+        "created_at": "2026-08-15T19:17:23Z",
+        "sentiment": ""
+      },
+      {
         "user": "MilhouseVanhouten",
         "body": "$META $RDDT this honestly may be the dumbest comment I’ve ever read on this site in seven years of being on it.￼",
         "created_at": "2026-08-15T18:45:35Z",
@@ -489,12 +495,6 @@
         "body": "$META Porter rips the Zuck apart.  Worst CEO in tech. https://members.porterandcompanyresearch.com/how-ai-will-end-zuck/",
         "created_at": "2026-08-15T14:19:38Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$GOOGL $GOOG $MSFT $AMZN $META  \n \nStill not growing enough to cover the money they are spending though is the problem",
-        "created_at": "2026-08-15T14:07:31Z",
-        "sentiment": ""
       }
     ]
   }
