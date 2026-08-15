@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-15 13:29:52",
+  "ts": "2026-08-15 13:54:30",
   "tickers": {
     "NVDA": [
+      {
+        "user": "DoubleUpwithChuck",
+        "body": "$NBIS $NVDA $PLTR $SMCI 😂😂😂🤣",
+        "created_at": "2026-08-15T13:42:00Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Meatballtrades",
+        "body": "$SPY $VIX $NVDA",
+        "created_at": "2026-08-15T13:38:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TwoToesTrading",
+        "body": "$NBIS $NVDA $PLTR $SMCI \n\nAnyone want donuts this morning? The drive thru dude was mumbling some pretty dark stuff under his breath to himself..  must be going thru some things. I tipped him an extra $10 and he said I have no idea how much this means to him right now.",
+        "created_at": "2026-08-15T13:37:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Higreg",
+        "body": "$NVDA $QQQ - $NVDA is compressing fir something BIG!!",
+        "created_at": "2026-08-15T13:33:11Z",
+        "sentiment": ""
+      },
       {
         "user": "TwoToesTrading",
         "body": "$AAPL $AMZN $NVDA $QQQ $SPY \n\nHey y’all, I was reminded about this in discord this morning…\n\nit’s already been a month .. \n\nI haven’t confirmed yet if it’s happening this time for sure… but pay attn Monday \n\nI’ll update when I get confirmation",
@@ -37,30 +61,6 @@
         "body": "$SPY It&#39;s all aligning, indices gapping up on stop and $VIX is selling off to historic lows &quot;right  into $NVDA earnings&quot;, this is right before the worst performing month of the year...",
         "created_at": "2026-08-15T13:04:49Z",
         "sentiment": ""
-      },
-      {
-        "user": "TwoToesTrading",
-        "body": "$NBIS $NVDA $PLTR $SMCI \n\nOne more thing… if you ever get blown up like this… own it 😂\n\nDon’t go on social media and brag about the number of subscribers rising every month blowing up alongside you  (then delete your post)  🤦‍♂️🤦‍♂️\n\nWhatr we doing ?! \nChristian Bale needs to intervene.",
-        "created_at": "2026-08-15T13:04:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA hello ugly losers. Rest for now because you will be crying next week when it goes sub 200. 🖕",
-        "created_at": "2026-08-15T12:57:17Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA",
-        "created_at": "2026-08-15T12:47:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JohnElder",
-        "body": "$NVDA The truth not being told. Iran is broken. The Regime has collapsed and the IRGC running to escape. Trump putting the final financial nail in their coffin this upcoming week. Iran will soon be returned to the people. Markets will soar as the truth unfolds.",
-        "created_at": "2026-08-15T12:38:46Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "Higreg",
+        "body": "$AAPL $DRAM.X $MU",
+        "created_at": "2026-08-15T13:39:52Z",
+        "sentiment": ""
+      },
+      {
         "user": "TwoToesTrading",
         "body": "$AAPL $AMZN $NVDA $QQQ $SPY \n\nHey y’all, I was reminded about this in discord this morning…\n\nit’s already been a month .. \n\nI haven’t confirmed yet if it’s happening this time for sure… but pay attn Monday \n\nI’ll update when I get confirmation",
         "created_at": "2026-08-15T13:20:23Z",
@@ -178,12 +184,6 @@
         "user": "Bobozak",
         "body": "[TEST] 2026-08-15T08:43:48.244Z playwright browser $AAPL",
         "created_at": "2026-08-15T08:44:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "EVBatteryCapital",
-        "body": "$LUNR $AAPL $CSCO $CRWV Intuitive Machines advances commercial lunar infrastructure, Apple benefits from its ecosystem and services, Cisco benefits from networking and AI infrastructure, and CoreWeave benefits from AI-cloud demand. I&#39;m watching lunar contracts, product demand, networking capex, ",
-        "created_at": "2026-08-15T08:36:12Z",
         "sentiment": ""
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "_StockDoc_",
+        "body": "$META you mean where it was a year ago?\n\n$SPY $QQQ",
+        "created_at": "2026-08-15T13:41:41Z",
+        "sentiment": ""
+      },
+      {
         "user": "KevyMarketMoves",
         "body": "$META how long until this is back at $750?",
         "created_at": "2026-08-15T12:06:34Z",
@@ -470,12 +476,6 @@
         "user": "FlexLuthor",
         "body": "$META $RDDT Room temperature IQ take to think politicians would ever listen to anyone other than their corporate donors that line their pockets. Btw, META is a cash cow and RDDT keeps bumping revenues higher and higher. They&#39;re both fine.",
         "created_at": "2026-08-15T09:22:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SemiconductorTrading",
-        "body": "$SOFI $NFLX $QXO $META SoFi benefits from financial-product growth, Netflix benefits from streaming engagement and advertising, QXO remains focused on building-products distribution, and Meta benefits from advertising and AI-driven engagement. I&#39;m watching customer growth, subscriber trends, acq",
-        "created_at": "2026-08-15T08:37:11Z",
         "sentiment": ""
       },
       {
