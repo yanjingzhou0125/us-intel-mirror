@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-15 10:22:08",
+  "ts": "2026-08-15 10:48:26",
   "tickers": {
     "NVDA": [
+      {
+        "user": "BullDesk",
+        "body": "$NBIS https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3 $NVDA",
+        "created_at": "2026-08-15T10:36:59Z",
+        "sentiment": ""
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$SPY you can&#39;t use Ai to beat original traders, No you can&#39;t $META $NVDA $GOOGL",
@@ -55,12 +61,6 @@
         "body": "$NVDA $GS $BX $APO $SPY\n\nBloomberg exposes the truth behind Jensen Huang’s &quot;$500 Billion AI Financing&quot; headline:\n\n• Slow Progress: Goldman, Blackstone &amp; Apollo were struggling for months to structure complex AI debt deals due to massive credit risks.\n• The Desperate Bluff: Frustrated b",
         "created_at": "2026-08-15T07:24:26Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Mooney_Maker",
-        "body": "$NVDA $SPCX \n\nMonday = Moonday 👨🏻‍🚀🚀\n\n🟢🟢🟢",
-        "created_at": "2026-08-15T07:07:02Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "peter",
+        "body": "Added to $META long position at $547.27.",
+        "created_at": "2026-08-15T10:41:11Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "pmcapitaltrading",
         "body": "$SPY you can&#39;t use Ai to beat original traders, No you can&#39;t $META $NVDA $GOOGL",
         "created_at": "2026-08-15T10:09:59Z",
@@ -489,12 +495,6 @@
         "body": "$AMZN $GOOGL $META $NVDA $QQQ i smell desperation.",
         "created_at": "2026-08-15T01:54:06Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ “Out of Touch” Billionaire Tech Bro Mark Zuckerberg Is Finally Paying for Meta&#39;s AI Disaster. The Zuck &quot;Manifesto&quot;. Aug 2026. $META $AMZN $GOOGL $NVDA",
-        "created_at": "2026-08-15T01:49:07Z",
-        "sentiment": "Bearish"
       }
     ]
   }
