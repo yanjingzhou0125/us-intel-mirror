@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-15 08:56:50",
+  "ts": "2026-08-15 09:28:56",
   "tickers": {
     "NVDA": [
+      {
+        "user": "cooperpan",
+        "body": "$SPY $NVDA markets paused at highs on soft consumer data. Oil &amp; Middle East noise still in play. Bulls: “earnings + AI still intact”. Bears: “consumer cracking”.\nVote: Next week higher or lower? 📈 or 📉",
+        "created_at": "2026-08-15T09:22:28Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "RICHES_TO_RAGS_",
         "body": "",
@@ -55,15 +61,15 @@
         "body": "$INTC $NVDA lol, Jensen doesn’t have to…he’s the MF GODFATHER OF AI.",
         "created_at": "2026-08-15T06:34:58Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "AlphaTrader8",
-        "body": "$SPY BULLISH CONT. / B/O -MARKUP \n$MU $NVDA  $QQQ $SMH",
-        "created_at": "2026-08-15T06:33:43Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Holdmybagz",
+        "body": "$TSLA  flying tesla $SPY",
+        "created_at": "2026-08-15T09:10:11Z",
+        "sentiment": ""
+      },
       {
         "user": "RICHES_TO_RAGS_",
         "body": "",
@@ -117,15 +123,27 @@
         "body": "$TSLA ENJOY YOUR WEEKEND 🥂",
         "created_at": "2026-08-15T03:21:38Z",
         "sentiment": ""
-      },
-      {
-        "user": "vaccigen",
-        "body": "$TSLA &quot;roadster news&quot; for next week&#39;s pump and dump? 😄",
-        "created_at": "2026-08-15T02:58:18Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-15T09:10:53.116Z in-page fetch $AAPL",
+        "created_at": "2026-08-15T09:11:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Lodochka",
+        "body": "[TEST] 2026-08-15T09:05:40.762Z in-page fetch $AAPL",
+        "created_at": "2026-08-15T09:05:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Bobozak",
+        "body": "[TEST] 2026-08-15T08:59:40.902Z playwright browser $AAPL",
+        "created_at": "2026-08-15T08:59:53Z",
+        "sentiment": ""
+      },
       {
         "user": "Bobozak",
         "body": "[TEST] 2026-08-15T08:54:23.585Z playwright browser $AAPL",
@@ -167,27 +185,15 @@
         "body": "$AAPL fold iphone design looks the same as a IPAD mini",
         "created_at": "2026-08-15T06:23:59Z",
         "sentiment": ""
-      },
-      {
-        "user": "juanagustin2086",
-        "body": "$AAPL",
-        "created_at": "2026-08-15T06:21:48Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Grinder247",
-        "body": "$AAPL $MU $SKHY $SMCI $WDC Exactly! I have made this very argument a couple of times here…Apple has gouged the consumer for years with ridiculous pricing for phones, headphones and the most expensive laptops on the planet that was just fine. Now someone else has pricing power and it’s not fair. Miss",
-        "created_at": "2026-08-15T05:56:38Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Swibhoo",
-        "body": "$AAPL $DRAM.X $MU",
-        "created_at": "2026-08-15T05:01:11Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "VegasTrader13",
+        "body": "$AMD Typical post earnings move. 600+ before next earnings.",
+        "created_at": "2026-08-15T09:27:40Z",
+        "sentiment": ""
+      },
       {
         "user": "RICHES_TO_RAGS_",
         "body": "",
@@ -240,12 +246,6 @@
         "user": "investing_dans_valeur",
         "body": "$AMD $MRVL $AVGO $SPY $GOOG",
         "created_at": "2026-08-15T05:29:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sp122809",
-        "body": "$AMD $AVGO they webt in reverse direction today",
-        "created_at": "2026-08-15T04:36:49Z",
         "sentiment": "Bullish"
       }
     ],
@@ -375,6 +375,12 @@
     ],
     "GOOG": [
       {
+        "user": "ggoggo",
+        "body": "$BRK.B $GOOG Aug 14 (Reuters) - Alphabet&#39;s (GOOGL.O), opens new tab early bet on SpaceX (SPCX.O), opens new tab has multiplied more than 100-fold, with the Google parent disclosing a stake worth about $94 billion at the end of June, up from a $900 million investment in Elon Musk&#39;s rocket com",
+        "created_at": "2026-08-15T09:26:09Z",
+        "sentiment": ""
+      },
+      {
         "user": "THIS_TIME_IS_DIFFERENT",
         "body": "$GOOG $GOOGL WHERE IS THE BUFFETT BUMP. BANISHED TO OBLIVION. SMH",
         "created_at": "2026-08-15T08:56:43Z",
@@ -427,15 +433,15 @@
         "body": "$GOOG $BRK.B definitely going to see some movement next week on Google.  \nhttps://www.cnbc.com/amp/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
         "created_at": "2026-08-15T03:17:05Z",
         "sentiment": ""
-      },
-      {
-        "user": "Georgejj",
-        "body": "$GOOG Alphabet’s Early SpaceX Investment Grows More Than 100-Fold to $94 Billion \n \nAugust 14, 2026 6:59 AM \nIH Market News \n \nAlphabet (NASDAQ:GOOG) has generated an extraordinary paper return from its early investment in SpaceX (NASDAQ:SPCX), with its disclosed holding valued at approximately $94 ",
-        "created_at": "2026-08-15T01:56:25Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "FlexLuthor",
+        "body": "$META $RDDT Room temperature IQ take to think politicians would ever listen to anyone other than their corporate donors that line their pockets. Btw, META is a cash cow and RDDT keeps bumping revenues higher and higher. They&#39;re both fine.",
+        "created_at": "2026-08-15T09:22:34Z",
+        "sentiment": ""
+      },
       {
         "user": "SemiconductorTrading",
         "body": "$SOFI $NFLX $QXO $META SoFi benefits from financial-product growth, Netflix benefits from streaming engagement and advertising, QXO remains focused on building-products distribution, and Meta benefits from advertising and AI-driven engagement. I&#39;m watching customer growth, subscriber trends, acq",
@@ -489,12 +495,6 @@
         "body": "Bank of America analysts see the recent selloff in AI-linked stocks as an opportunity to buy companies whose valuations have been hit despite continued exposure to the long-term AI boom. The analysts screened companies across hardware, internet and energy, focusing on stocks that had fallen at least",
         "created_at": "2026-08-15T01:46:29Z",
         "sentiment": ""
-      },
-      {
-        "user": "Gils426",
-        "body": "$META next two weeks 670.",
-        "created_at": "2026-08-14T23:49:29Z",
-        "sentiment": "Bullish"
       }
     ]
   }
