@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15 08:27:59",
+  "ts": "2026-08-15 08:56:50",
   "tickers": {
     "NVDA": [
       {
@@ -127,6 +127,36 @@
     ],
     "AAPL": [
       {
+        "user": "Bobozak",
+        "body": "[TEST] 2026-08-15T08:54:23.585Z playwright browser $AAPL",
+        "created_at": "2026-08-15T08:54:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Bobozak",
+        "body": "[TEST] 2026-08-15T08:49:05.936Z playwright browser $AAPL",
+        "created_at": "2026-08-15T08:49:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Bobozak",
+        "body": "[TEST] 2026-08-15T08:43:48.244Z playwright browser $AAPL",
+        "created_at": "2026-08-15T08:44:00Z",
+        "sentiment": ""
+      },
+      {
+        "user": "EVBatteryCapital",
+        "body": "$LUNR $AAPL $CSCO $CRWV Intuitive Machines advances commercial lunar infrastructure, Apple benefits from its ecosystem and services, Cisco benefits from networking and AI infrastructure, and CoreWeave benefits from AI-cloud demand. I&#39;m watching lunar contracts, product demand, networking capex, ",
+        "created_at": "2026-08-15T08:36:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "o_0_O_0_o",
+        "body": "$AAPL $SNDK $SKHY $SOXX Lutnik is saying they need other solutions to memory, but aren’t saying what those are. Maybe they don’t yet know. \n\nI get the feeling we will benefit from the exclusion of Chinese memory, but they will cook up something else to torture us later.",
+        "created_at": "2026-08-15T08:28:20Z",
+        "sentiment": ""
+      },
+      {
         "user": "Philly12684",
         "body": "@Feroce_Research $AAPL is going to get a surprise audit Monday morning. 🧐",
         "created_at": "2026-08-15T06:36:46Z",
@@ -155,39 +185,15 @@
         "body": "$AAPL $DRAM.X $MU",
         "created_at": "2026-08-15T05:01:11Z",
         "sentiment": ""
-      },
-      {
-        "user": "WorldwideWesley",
-        "body": "$AAPL why is my iPhone 17 slower and Siri somehow less helpful than my iPhone 3 gens prior 🤔",
-        "created_at": "2026-08-15T04:21:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Austinhilton",
-        "body": "The U.S. government is reportedly urging $AAPL  to avoid buying Chinese memory chips.\n\n$MU, $SKHY, and Samsung won’t be complaining.\n\nIronically, CXMT and YMTC are hiking prices too so this isn’t exactly a case of “cheap Chinese memory flooding the market.”\n\nApple once had serious supplier leverage.",
-        "created_at": "2026-08-15T04:09:40Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SwansLake14",
-        "body": "$AAPL https://gofund.me/37ec4dbb3 appreciate yall for real. 🙏🏾 social experiment.  Would show my colleagues that folks here really aren&#39;t bad folk",
-        "created_at": "2026-08-15T03:24:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "saijaz1207",
-        "body": "$AAPL $ALTO $AMAT why not 680s",
-        "created_at": "2026-08-15T02:51:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadyAggie40",
-        "body": "@howardlindzon $AAPL will do whats in its best interest from a business standpoint. US gov. should interfere in the business affairs in any US corporation. It sets a dangerous precedent going forward… $MU",
-        "created_at": "2026-08-15T02:45:36Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "RICHES_TO_RAGS_",
+        "body": "",
+        "created_at": "2026-08-15T08:34:24Z",
+        "sentiment": ""
+      },
       {
         "user": "Bucswin",
         "body": "$NKE  we need Nike Ai, or put an intel chip in the sneakers.  that wiil get us to 200 PE like $AMD.   and they will say NKE is  BARGAIN at $500    GLTA",
@@ -240,12 +246,6 @@
         "user": "sp122809",
         "body": "$AMD $AVGO they webt in reverse direction today",
         "created_at": "2026-08-15T04:36:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$MSFT $PLTR $INTC $AMD $TSEM  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;s",
-        "created_at": "2026-08-15T04:23:54Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "BlockchainTradingCo",
+        "body": "$MSFT $ACHR $GRRR $HOOD Microsoft benefits from cloud and AI spending, Archer advances electric vertical-takeoff aircraft, GRRR remains speculative, and Robinhood benefits from trading and crypto activity. I&#39;m watching Azure growth, certification milestones, contracts, and trading volumes.",
+        "created_at": "2026-08-15T08:37:31Z",
+        "sentiment": ""
+      },
+      {
         "user": "Mitchell22",
         "body": "$MSFT https://www.benzinga.com/markets/equities/26/08/61203409/msft-could-emerge-as-big-techs-free-cash-flow-king-in-2027-while-googl-meta-stay-negative-analyst",
         "created_at": "2026-08-15T04:49:15Z",
@@ -365,15 +371,15 @@
         "body": "$QQQ ~ 😂 This was my favorite news story this week. This kind of thing involving the rich kids of silicone valley luminaries is what you would expect to see at the peak of an economic cycle. Even uber rich nepo babies can’t resist the siren call of “fudging the numbers” to prove they are a successfu",
         "created_at": "2026-08-15T00:04:23Z",
         "sentiment": ""
-      },
-      {
-        "user": "A4apple",
-        "body": "$MSFT closed the long call today due to a lot of factors. Will revisit in a couple of weeks for a better entry point",
-        "created_at": "2026-08-14T23:34:55Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "THIS_TIME_IS_DIFFERENT",
+        "body": "$GOOG $GOOGL WHERE IS THE BUFFETT BUMP. BANISHED TO OBLIVION. SMH",
+        "created_at": "2026-08-15T08:56:43Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "AVGOmysugardaddy",
         "body": "$AMD $AVGO $GOOG $MRVL $SPY Learn to read the fine print. They can’t replace Broadcom with a contract in place until 2031. Google had rumored  discussions with Marvel too which did not happen.",
@@ -427,15 +433,15 @@
         "body": "$GOOG Alphabet’s Early SpaceX Investment Grows More Than 100-Fold to $94 Billion \n \nAugust 14, 2026 6:59 AM \nIH Market News \n \nAlphabet (NASDAQ:GOOG) has generated an extraordinary paper return from its early investment in SpaceX (NASDAQ:SPCX), with its disclosed holding valued at approximately $94 ",
         "created_at": "2026-08-15T01:56:25Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Georgejj",
-        "body": "$GOOG Berkshire Hathaway boosts Alphabet to a top three holding \n \n“.,, Berkshire, now operating under CEO Greg Abel, owned about 106 million Alphabet shares worth $37.9 billion at the end of June. \nShares held in Alphabet jumped 83% in the second quarter, making Alphabet Berkshire’s third-largest U",
-        "created_at": "2026-08-15T01:53:51Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "SemiconductorTrading",
+        "body": "$SOFI $NFLX $QXO $META SoFi benefits from financial-product growth, Netflix benefits from streaming engagement and advertising, QXO remains focused on building-products distribution, and Meta benefits from advertising and AI-driven engagement. I&#39;m watching customer growth, subscriber trends, acq",
+        "created_at": "2026-08-15T08:37:11Z",
+        "sentiment": ""
+      },
       {
         "user": "ShadyAggie40",
         "body": "$META would be better off killing instagram and Facebook - two big liabilities, it does no good for society as a whole.  Buy $RDDT and improve whatsapp to use it as a forum where politicians will start listening to average Americans.  They should focus more pushing and investing their glasses.",
@@ -489,12 +495,6 @@
         "body": "$META next two weeks 670.",
         "created_at": "2026-08-14T23:49:29Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Garp10",
-        "body": "@jackedmund99 Isn&#39;t the customer $META ? Not going thru a merger",
-        "created_at": "2026-08-14T23:36:45Z",
-        "sentiment": ""
       }
     ]
   }
