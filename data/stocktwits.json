@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-15 04:30:18",
+  "ts": "2026-08-15 04:59:27",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SMCI $NVDA $CSCO $NDAQ $QQQ This was the real news. \n \nhttps://investorshub.advfn.com/market-news/article/34174/netlist-files-patent-infringement-action-against-micron-at-u-s-international-trade-commission",
+        "created_at": "2026-08-15T04:45:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "RL29",
+        "body": "$NBIS $NVDA Trump appears to be mocking Burry and the other short sellers, suggesting that his friends Larry Fink, David Salomon, and others at Goldman Sachs, Blackstone, BlackRock, and other Wall Street heavyweights were all there on Friday.\nHe even referred to the short sellers as “poor bastards” ",
+        "created_at": "2026-08-15T04:38:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$SMCI $NVDA $CSCO $NDAQ $QQQ Also to note, it seems shorts are desperate, the ITC is against Micron not SMCI.  \n \nTheir just using FUD to accumulate and cover.  \n \nBUY their Desperation.",
+        "created_at": "2026-08-15T04:38:09Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "holdingbags",
         "body": "$NVDA",
@@ -43,24 +61,6 @@
         "body": "$SMCI $CSCO $NVDA $QQQ $NDAQ This one is actually quite similar to SMCI&#39;s current situation, yet SMCI is hardly in the same situation.",
         "created_at": "2026-08-15T04:10:52Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "PSM_EmpowerTrading",
-        "body": "$NVDA $AMD $GOOGL Harvard University disclosed billion stake in $SPCX . Dip opportunity",
-        "created_at": "2026-08-15T04:06:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ub3r5pAnK",
-        "body": "$SMCI $CSCO $NVDA $QQQ $NDAQ Will you buy the dip in SMCI (yes its a dip, look at the chart) or&quot;wait for confirmation&quot;. \n \nCisco at the time had MASSIVE regulatory, legal and media risks it had to unwind from. Bears and media were attacking it non stop.  \n \nThe only difference is their val",
-        "created_at": "2026-08-15T04:04:38Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "PSM_EmpowerTrading",
-        "body": "$NVDA and now Harvard university with Billions stake in $SPCX  🚀🚀",
-        "created_at": "2026-08-15T04:03:48Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "sp122809",
+        "body": "$AMD $AVGO they webt in reverse direction today",
+        "created_at": "2026-08-15T04:36:49Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$MSFT $PLTR $INTC $AMD $TSEM  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;s",
         "created_at": "2026-08-15T04:23:54Z",
@@ -241,12 +247,6 @@
         "body": "$AVGO WTF happened today money went from here to $AMD",
         "created_at": "2026-08-15T03:43:01Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "allen4prez",
-        "body": "$AMD this such nonsense. All bubble mentality. Amd now selling bonds to generate cash and probably cash in on this stock move higher. I saw $1.5b sold last yr now $5B  they just adding payments. I wonder what rate they giving.",
-        "created_at": "2026-08-15T03:42:15Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "Mitchell22",
+        "body": "$MSFT https://www.benzinga.com/markets/equities/26/08/61203409/msft-could-emerge-as-big-techs-free-cash-flow-king-in-2027-while-googl-meta-stay-negative-analyst",
+        "created_at": "2026-08-15T04:49:15Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$MSFT $PLTR $INTC $AMD $TSEM  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;s",
         "created_at": "2026-08-15T04:23:54Z",
@@ -365,15 +371,15 @@
         "body": "$MSFT closed the long call today due to a lot of factors. Will revisit in a couple of weeks for a better entry point",
         "created_at": "2026-08-14T23:34:55Z",
         "sentiment": ""
-      },
-      {
-        "user": "ZenInvestor3",
-        "body": "$VUZI DATA CENTERS will be utilizing VUZIX Optical interconnect technology? Whoa\n$AMD $NVDA $META $MSFT",
-        "created_at": "2026-08-14T22:51:26Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "sp122809",
+        "body": "$AVGO drop was overdone, manipulated \n\nAdded 600 more, both $GOOG $META spent too much on avgo chips \n\nEarnings going to be great 😍",
+        "created_at": "2026-08-15T04:38:42Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $MU $GOOG $SKHY $NVDA  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;sh",
@@ -427,15 +433,21 @@
         "body": "$LCID by way of this message I am asking $GOOG $NVDA $AMD , Harvard, Norway to invest in LCID. Also asking PIF to increase their investment in this HIGH quality EVS.",
         "created_at": "2026-08-15T01:48:38Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "ERTcapital",
-        "body": "$GOOG will pamp next week.  In after hours with a large position",
-        "created_at": "2026-08-15T00:26:45Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "ShadyAggie40",
+        "body": "$META would be better off killing instagram and Facebook - two big liabilities, it does no good for society as a whole.  Buy $RDDT and improve whatsapp to use it as a forum where politicians will start listening to average Americans.  They should focus more pushing and investing their glasses.",
+        "created_at": "2026-08-15T04:50:05Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "sp122809",
+        "body": "$AVGO drop was overdone, manipulated \n\nAdded 600 more, both $GOOG $META spent too much on avgo chips \n\nEarnings going to be great 😍",
+        "created_at": "2026-08-15T04:38:42Z",
+        "sentiment": ""
+      },
       {
         "user": "SwingPlay",
         "body": "$META $GOOG $APP $AVGO bitches you better run next week. Enough of bullshit",
@@ -483,18 +495,6 @@
         "body": "@jackedmund99 Isn&#39;t the customer $META ? Not going thru a merger",
         "created_at": "2026-08-14T23:36:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $RDDT how to ruin something for somebody? $META $NVDA $BTC.X",
-        "created_at": "2026-08-14T23:35:36Z",
-        "sentiment": ""
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$META helping $AMD be up 200% in a year, while it is down 26% \n \nJust can&#39;t own the spenders \n \n$SPY $DIA $QQQ",
-        "created_at": "2026-08-14T23:34:18Z",
-        "sentiment": "Bearish"
       }
     ]
   }
