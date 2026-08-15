@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-15 09:28:56",
+  "ts": "2026-08-15 09:51:27",
   "tickers": {
     "NVDA": [
+      {
+        "user": "chinaliesandsteals",
+        "body": "$NVDA what a waste of my $ rotting here this year on my 9400 shares fml 🤦",
+        "created_at": "2026-08-15T09:46:29Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "cooperpan",
         "body": "$SPY $NVDA markets paused at highs on soft consumer data. Oil &amp; Middle East noise still in play. Bulls: “earnings + AI still intact”. Bears: “consumer cracking”.\nVote: Next week higher or lower? 📈 or 📉",
@@ -55,12 +61,6 @@
         "body": "$NVDA \n\nIs this real ???",
         "created_at": "2026-08-15T06:39:26Z",
         "sentiment": ""
-      },
-      {
-        "user": "Grinder247",
-        "body": "$INTC $NVDA lol, Jensen doesn’t have to…he’s the MF GODFATHER OF AI.",
-        "created_at": "2026-08-15T06:34:58Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
