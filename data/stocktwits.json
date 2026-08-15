@@ -1,4 +1,501 @@
 {
-  "ts": "2026-08-15 20:21:41",
-  "tickers": {}
+  "ts": "2026-08-15 20:48:34",
+  "tickers": {
+    "NVDA": [
+      {
+        "user": "NicholasABrown",
+        "body": "$NVDA - NVIDIA In Talks To Invest $3 Billion In SB Energy As Part Of OpenAI Data Center Deal - The Information  \n \nhttps://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
+        "created_at": "2026-08-15T20:44:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BashNew",
+        "body": "$NVDA they really trying to pump",
+        "created_at": "2026-08-15T20:31:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Alfafikemoxtrot",
+        "body": "$NBIS $NVDA earnings is the next big catalyst. Let the squeeze begin",
+        "created_at": "2026-08-15T20:28:32Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "RTKF",
+        "body": "$NVDA nvda investing 3B in SB Energy.  NVDA is now officially short-able.  they&#39;ve lost their way.............playing outside their sand box now.....",
+        "created_at": "2026-08-15T20:23:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RCInvestor",
+        "body": "$MU $NLST $NVDA $SMTK",
+        "created_at": "2026-08-15T20:22:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GrowingWealth",
+        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;&lt;Weekend New Development: &quot;Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations&quot;  \n \n—6 PM ET Sunday, keep an eye on Oil + MNQ/NQ + Dow futures: the first real market reaction to the weekend Iran/Hormuz",
+        "created_at": "2026-08-15T20:20:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TopTierNewswire",
+        "body": "$NVDA lots of bullish coverage on Nvidia hitting the wire right now: \n \n&quot;🚨 RETAIL INVESTORS BOUGHT $27B OF NVIDIA STOCK OVER PAST YEAR, MOST AMONG MAGNIFICENT 7 &quot;",
+        "created_at": "2026-08-15T20:11:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "tradernomad",
+        "body": "$NVDA August levels  https://prosignaltrades.com/nvda-support-levels-193-184-weekly-august-2026/",
+        "created_at": "2026-08-15T19:56:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "chandra11pp",
+        "body": "@Gemjwel $NVDA  er date is 08/26… it means $INTC will around d 150 in next 2 weeks",
+        "created_at": "2026-08-15T19:53:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "legitotcstocks52",
+        "body": "🚨🚨 $NVDA cutting the OpenAI guarantee from $250B to under $120B isn’t Nvidia backing away — it’s Nvidia getting smarter about who carries the risk. Same AI buildout, same massive compute demand, dramatically less exposure. KEEP THE UPSIDE. SHARE THE RISK. THAT’S HOW YOU SCALE AN EMPIRE. 🚀 🚨🚨",
+        "created_at": "2026-08-15T19:49:45Z",
+        "sentiment": ""
+      }
+    ],
+    "TSLA": [
+      {
+        "user": "ITL_HTWP",
+        "body": "$TSLA The Slow-Compounding Engine vs. The $0 Rollercoaster \n \nMost retail traders hunt for that one massive trade to erase months of losses. Instead, they get hit by another massive loss that wipes out all their recent small wins. \n \n💬Is it possible to turn $1K into $20K or $30K? Yes. \n \nIs it going",
+        "created_at": "2026-08-15T20:27:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NauticalTrader",
+        "body": "$SPY $QQQ $TSLL  \n \n$TSLA  \nTesla has bounced nicely back above the 20 Day. \nNo resistance above till the 50 Day. \n.",
+        "created_at": "2026-08-15T20:19:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AStrokeOfLuck",
+        "body": "$TSLA   cool",
+        "created_at": "2026-08-15T20:12:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ThePiperofSimms",
+        "body": "$TSLA   Are you ready for Communists to win ?  The stock market would cease to exist.  😳",
+        "created_at": "2026-08-15T19:42:32Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Blueviking",
+        "body": "$NWBO $GNS $TSLA $PFE $SPCX",
+        "created_at": "2026-08-15T19:01:16Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPY $AMZN $TSLA $NBIS $CRWV \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia Al hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
+        "created_at": "2026-08-15T18:40:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "mikesterz7",
+        "body": "$XPEV $TSLA \n\nXPeng has emerged as a Tesla challenger through competitive EVs and advanced driver-assistance systems and is also attempting to develop humanoid robots and flying cars.",
+        "created_at": "2026-08-15T18:25:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $TSLA $NVDA $AMD $SPY \n\nSPACEX completed the $60 billion acquisition of AI coding platform Cursor (Anysphere) as an all-stock transaction. Former Cursor stakeholders had their shares converted into hundreds of millions of SpaceX Class A shares.\n\nSpaceX files a resale registration statement cov",
+        "created_at": "2026-08-15T18:18:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "redsstocktwits",
+        "body": "$DJT PART TWO of my todays post.  In my 1st part i said Russia and USA should make a deal let Russia took over  HALF of China 😍 \n \nChina promise of ALL OUT SUPPORT for Russia but not REALLY full filled🤣 ITS A TRAP  🤣 \n \nCommunist China real agenda... \n \n1st--- To divert attention of the west put res",
+        "created_at": "2026-08-15T18:17:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Higreg",
+        "body": "$SPX $TSLA",
+        "created_at": "2026-08-15T18:14:48Z",
+        "sentiment": ""
+      }
+    ],
+    "AAPL": [
+      {
+        "user": "matrixman68",
+        "body": "$AAPL Reebok is a strong sell!",
+        "created_at": "2026-08-15T18:51:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "lind0",
+        "body": "$AAPL All of the major moving averages are converging. Interesting to see what happens to the market in general if this behemoth slips underneath",
+        "created_at": "2026-08-15T18:48:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Bazziggr",
+        "body": "$AAPL join with GOOGL GOOG next week",
+        "created_at": "2026-08-15T18:38:41Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "redsstocktwits",
+        "body": "$DJT PART TWO of my todays post.  In my 1st part i said Russia and USA should make a deal let Russia took over  HALF of China 😍 \n \nChina promise of ALL OUT SUPPORT for Russia but not REALLY full filled🤣 ITS A TRAP  🤣 \n \nCommunist China real agenda... \n \n1st--- To divert attention of the west put res",
+        "created_at": "2026-08-15T18:17:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ivijay237",
+        "body": "$AAPL heard stock options trading hours is going to change from Monday .. is it true?",
+        "created_at": "2026-08-15T18:05:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY  what a month so far for #pivotgroup🔐💪 thanks for making us 5.1k strong with over 400 private traders \n\nI want to let the furus know, they have the Constitutional RIGHT \n\nto start a Shizcord \n\nHowever, that doesn’t mean they should. \n$QQQ $IWM $AAPL",
+        "created_at": "2026-08-15T17:58:54Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Psychosphere_Desk",
+        "body": "$META down almost 9% on the month and somehow the chart refuses to look scared. Floors keep rising, every dip gets quieter, and that combination is patient money building, not holders panicking.  \n \nCalls getting stacked heavily into the red month, same story as $AAPL right now: big money betting th",
+        "created_at": "2026-08-15T17:23:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "redsstocktwits",
+        "body": "$DJT Trump will Take STRAIGHT of Hormuz IS GENIUS idea. as i just said before Control of straight of Hormuz is a Communist China idea NOT IRAN, To test how the world react to China taking control of South China sea. Communist China is changing the status quo &quot;IF YOU BECOME POWERFUL YOU CAN TAKE",
+        "created_at": "2026-08-15T17:10:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FacebookFan",
+        "body": "$AAPL",
+        "created_at": "2026-08-15T17:06:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Buyporksellbellys",
+        "body": "$AAPL https://finance.yahoo.com/markets/stocks/articles/fbi-seized-phones-mark-walter-152321462.html",
+        "created_at": "2026-08-15T16:55:21Z",
+        "sentiment": ""
+      }
+    ],
+    "AMD": [
+      {
+        "user": "Hallu",
+        "body": "@AVGOmysugardaddy @gigafactory right, but who cares about facts when its easier to hit sell button.  \nmarket took the $AMD news , next to the TPU downward revisions (likely supply constraints) and linked them together.",
+        "created_at": "2026-08-15T20:01:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Hallu",
+        "body": "@AVGOmysugardaddy @gigafactory  \nhttps://x.com/damnang2/status/2088545047252013414 \n \nI am long $AVGO  \nthere is no indication google is trying to replace $AVGO with $AMD .",
+        "created_at": "2026-08-15T19:54:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$MU #3, $MRVL #7, and $AMD #10 on the NAS 100 top 25 list",
+        "created_at": "2026-08-15T19:20:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$MU #4, $MRVL #7, and $AMD #10 on the S&amp;P top 25 list",
+        "created_at": "2026-08-15T19:18:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$AMD todays harvest....",
+        "created_at": "2026-08-15T18:54:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $NVDA $AMD $META $GOOG \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia AI hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
+        "created_at": "2026-08-15T18:37:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RockyTSTH",
+        "body": "📊 **$AMD | Channel Breakout Attempt** \n \nAfter weeks of tightening inside a descending channel, $AMD is pushing above the upper trendline with a **big end-of-day spike**, closing near **$514**. Price also reclaimed the key moving averages, putting bulls in control heading into the next session. \n \n📌",
+        "created_at": "2026-08-15T18:34:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $TSLA $NVDA $AMD $SPY \n\nSPACEX completed the $60 billion acquisition of AI coding platform Cursor (Anysphere) as an all-stock transaction. Former Cursor stakeholders had their shares converted into hundreds of millions of SpaceX Class A shares.\n\nSpaceX files a resale registration statement cov",
+        "created_at": "2026-08-15T18:18:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $TSLA $NVDA $AMD $SPY \nSPCX plans for 12 months",
+        "created_at": "2026-08-15T17:58:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StockTech7",
+        "body": "$SPY $QQQ $IWM $AMD $NVDA \n\nThey&#39;ll blockade I ran and say theyre winning, theyll import oil with taxpayer money to keep the SPR filled enough, the wealthy consumers will pay higher prices to offset the low end, layoffs will increaese profits, and inflationa will inflate earnings.  \n\nAnything el",
+        "created_at": "2026-08-15T17:53:01Z",
+        "sentiment": ""
+      }
+    ],
+    "TSM": [
+      {
+        "user": "TalkMarkets",
+        "body": "Applied Materials Stock: A Top AI Pick After Record Q3 Results $AMAT \nAlso Mentions: $TSM $MU $SKHY https://talkmarkets.com/article/applied-materials-stock-a-top-ai-pick-after-record-q3-results-1786775362",
+        "created_at": "2026-08-15T06:29:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BigBreakingWire",
+        "body": "🚨 AI chip demand is turning the memory market into a supply race.\n\nSK Group Chairman Chey Tae won said customer demand for chips has doubled this year and called the race to secure AI memory “like a war.”\n\nHe said no memory maker can scale fast enough for 2027 demand, which he expects to be the wors",
+        "created_at": "2026-08-15T06:06:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $MU $TSM $SPY $QQQ",
+        "created_at": "2026-08-14T23:07:56Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "HedgeFollow",
+        "body": "🔍 𝗔𝗽𝗽𝗮𝗹𝗼𝗼𝘀𝗮 13F just 𝗿𝗲𝗹𝗲𝗮𝘀𝗲𝗱! 🔎 \n \nTOP-rated Hedge Fund Manager David Tepper just reported his 13F for Q2. \n \n𝘔𝘰𝘴𝘵 𝘯𝘰𝘵𝘢𝘣𝘭𝘦 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘤𝘩𝘢𝘯𝘨𝘦𝘴: \n \n𝗡𝗲𝘄 𝗟𝗔𝗥𝗚𝗘 𝗕𝘂𝘆𝘀: $BA &amp; $AAL  \n𝗔𝗱𝗱𝗲𝗱 20-30% 𝗺𝗼𝗿𝗲: $TSM  \n𝗦𝗢𝗟𝗗 out: $GLW &amp; $PDD \n \nDavid&#39;s 13F 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗶𝘀 𝗨𝗣 163.15% in past 3 years. \nOne of t",
+        "created_at": "2026-08-14T20:17:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "itsphd",
+        "body": "Softbank Group cuts share stake in TSMC by 71.5% to 565,000 sponsored ADS - SEC filing. $TSM",
+        "created_at": "2026-08-14T16:29:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CapitalMonk",
+        "body": "$TSM\nPrice: $426.32 (-0.97%)\nTrend: Bullish\nMarket Bias (7D): Sideways ⚖️\nExpected Range: ±1.52%\nRSI: 64.5 | Momentum: Strong Momentum\nVolume: -72.5% vs avg\nVolatility: 2.68%\nSupport: $372.72 | Resistance: $436.04\n\nData and analytics sourced from Thescanner educational research https://www.thescanne",
+        "created_at": "2026-08-14T16:28:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "itsphd",
+        "body": "@cubie @Jeremymartin007 @judgeyoung2 @jenbunn @ZY786 @jeremy4 @Tradermikes40 @TraderRapp @tonyctl @zuby34 Softbank Group cuts share stake in TSMC by 71.5% to 565,000 sponsored ADS - SEC filing. $TSM",
+        "created_at": "2026-08-14T16:28:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SeNSF",
+        "body": "$TSM Bulls in Control Above 432.4 Breakout. Bears in Control Below 426 Breakdown. Play the Break/Retest or Reversal/Reclaim. $SPY $QQQ $AAPL $TSLA",
+        "created_at": "2026-08-14T14:20:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM !",
+        "created_at": "2026-08-14T14:19:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PickAlpha",
+        "body": "6/6: Tata Sons chair Chandrasekaran won’t seek another term; succession process begins ahead of Feb term-end, raising uncertainty over Apple supply-chain and India chip plans $AAPL $SOXX $INTC $TSM $SMH \nPickAlpha View: Base case: this is a governance transition that adds headline risk but is unlike",
+        "created_at": "2026-08-14T13:59:59Z",
+        "sentiment": ""
+      }
+    ],
+    "MSFT": [
+      {
+        "user": "GrowingWealth",
+        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;&lt;Weekend New Development: &quot;Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations&quot;  \n \n—6 PM ET Sunday, keep an eye on Oil + MNQ/NQ + Dow futures: the first real market reaction to the weekend Iran/Hormuz",
+        "created_at": "2026-08-15T20:20:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Record Highs: Should You Chase The Rally? Mentions: $MSFT $SPY $VIX https://talkmarkets.com/article/record-highs-should-you-chase-the-rally-1786818399",
+        "created_at": "2026-08-15T19:03:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "#AI Panic Around Software Has It Backwards $PLTR $MSFT $BTC.X https://talkmarkets.com/article/ai-panic-around-software-has-it-backwards-1786804058",
+        "created_at": "2026-08-15T19:01:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "altovarf",
+        "body": "$MSFT oh oh",
+        "created_at": "2026-08-15T18:58:35Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "redsstocktwits",
+        "body": "$DJT PART TWO of my todays post.  In my 1st part i said Russia and USA should make a deal let Russia took over  HALF of China 😍 \n \nChina promise of ALL OUT SUPPORT for Russia but not REALLY full filled🤣 ITS A TRAP  🤣 \n \nCommunist China real agenda... \n \n1st--- To divert attention of the west put res",
+        "created_at": "2026-08-15T18:17:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "redsstocktwits",
+        "body": "$DJT Trump will Take STRAIGHT of Hormuz IS GENIUS idea. as i just said before Control of straight of Hormuz is a Communist China idea NOT IRAN, To test how the world react to China taking control of South China sea. Communist China is changing the status quo &quot;IF YOU BECOME POWERFUL YOU CAN TAKE",
+        "created_at": "2026-08-15T17:10:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "4years_2_retirement",
+        "body": "$CRM $MSFT $NOW $SNOW \nNext Earning Dates \nSNOW Sept 2nd\nNOW Oct 28th\nMSFT Oct 28th also\nCRM Aug 26th\nGoing to be a fun 2 months ahead starting with CRM…",
+        "created_at": "2026-08-15T17:04:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$GOOG $META $MSFT $AMZN $SPY \n\nCAPEX craziness ….",
+        "created_at": "2026-08-15T17:02:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Luckyskills007",
+        "body": "$MSFT",
+        "created_at": "2026-08-15T15:54:38Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Austinhilton",
+        "body": "One statistic that should make investors think twice:\n\nNvidia, $NVDA, has contributed 10+ percentage points to the S&amp;P 500’s impressive 84% total return over the past five years.\n\nThat means Nvidia alone is responsible for roughly 12% of the index’s entire gain.\n\nApple, $AAPL, contributed around",
+        "created_at": "2026-08-15T15:48:51Z",
+        "sentiment": "Bullish"
+      }
+    ],
+    "GOOG": [
+      {
+        "user": "BearBoB",
+        "body": "$GOOG Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
+        "created_at": "2026-08-15T19:51:13Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SKIJK",
+        "body": "$GOOG $GOOGL Greg Abel broke Berkshire&#39;s 14-quarter net-selling streak by buying 48 million Alphabet shares worth $37.8 billion in Q2. \n \nThe purchase vaults Alphabet to Berkshire&#39;s third-largest holding at 10% of the portfolio, behind only Apple and American Express. \n \nAlphabet&#39;s searc",
+        "created_at": "2026-08-15T19:48:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $NVDA $AMD $META $GOOG \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia AI hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
+        "created_at": "2026-08-15T18:37:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Bazziggr",
+        "body": "$GOOG next week?",
+        "created_at": "2026-08-15T18:24:22Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ALPHAROGER",
+        "body": "$GOOG $NVDA $SPCX $SPY $TSLA when it hits $200 plus",
+        "created_at": "2026-08-15T17:54:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $TSLA $SPY $NVDA $GOOG \nStock dilution from Spcx management ,outside unblock,  is unavoidable for the growth of Space and AI",
+        "created_at": "2026-08-15T17:52:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Psychosphere_Desk",
+        "body": "▼ $GOOG · reads bearish \n \nGOOG slid 3.5% this week and just printed an engulfing rejection on real volume. That&#39;s the tape talking.  \n \nStructure underneath has been leaning bearish for a while, and a week like this doesn&#39;t change that read, it confirms it. The calls favored in options flow",
+        "created_at": "2026-08-15T17:03:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$GOOG $META $MSFT $AMZN $SPY \n\nCAPEX craziness ….",
+        "created_at": "2026-08-15T17:02:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AboutTime2022",
+        "body": "$GOOG Sitting tight. 🚂",
+        "created_at": "2026-08-15T16:27:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "JoeB07",
+        "body": "$SIMO is now the newest memory storage name. Just borrowed $1B to buy NAND and to fund their 30% QoQ growth. Their boot drives now account for 30% of overall revenue after doubling rev in Q2. They shipping to $GOOG $NVDA among others. Operating margins currently growing 5% each quarter this year. Ti",
+        "created_at": "2026-08-15T16:20:42Z",
+        "sentiment": "Bullish"
+      }
+    ],
+    "META": [
+      {
+        "user": "Ep1219",
+        "body": "$META 🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉HUGE COME MONDAY🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉",
+        "created_at": "2026-08-15T20:14:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BiglyLeveraged",
+        "body": "$META thought you didn&#39;t buy Mag7?",
+        "created_at": "2026-08-15T19:50:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bescom",
+        "body": "$META this is 600$ stock that generates a lot money selling covered calls so is very manipulated by wallstreet  they need to split the stock .",
+        "created_at": "2026-08-15T19:17:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MilhouseVanhouten",
+        "body": "$META $RDDT this honestly may be the dumbest comment I’ve ever read on this site in seven years of being on it.￼",
+        "created_at": "2026-08-15T18:45:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$SPCX $NVDA $AMD $META $GOOG \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia AI hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
+        "created_at": "2026-08-15T18:37:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Doubleup2022",
+        "body": "$NBIS can someone please educate me why is $META renting out their computer capacity if the demand is high? They can’t even consume that much compute themselves? They are one of the biggest hyper scalers and if they can’t, why do you expect those small companies to consume more?",
+        "created_at": "2026-08-15T17:58:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Psychosphere_Desk",
+        "body": "$META down almost 9% on the month and somehow the chart refuses to look scared. Floors keep rising, every dip gets quieter, and that combination is patient money building, not holders panicking.  \n \nCalls getting stacked heavily into the red month, same story as $AAPL right now: big money betting th",
+        "created_at": "2026-08-15T17:23:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$GOOG $META $MSFT $AMZN $SPY \n\nCAPEX craziness ….",
+        "created_at": "2026-08-15T17:02:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "chursinow62",
+        "body": "$META Fed might raise interest rates September. This is cooked",
+        "created_at": "2026-08-15T16:45:38Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "chursinow62",
+        "body": "$META All the lawsuits and spend this is going back to all time lows",
+        "created_at": "2026-08-15T16:43:28Z",
+        "sentiment": "Bearish"
+      }
+    ]
+  }
 }
