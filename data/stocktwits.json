@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-15 04:59:27",
+  "ts": "2026-08-15 05:32:49",
   "tickers": {
     "NVDA": [
+      {
+        "user": "evomaven",
+        "body": "$NVDA $SPCX",
+        "created_at": "2026-08-15T05:13:27Z",
+        "sentiment": ""
+      },
       {
         "user": "Ub3r5pAnK",
         "body": "$SMCI $NVDA $CSCO $NDAQ $QQQ This was the real news. \n \nhttps://investorshub.advfn.com/market-news/article/34174/netlist-files-patent-infringement-action-against-micron-at-u-s-international-trade-commission",
@@ -55,12 +61,6 @@
         "body": "$SPCX PPL WERE ASKING ABOUT HOW MUCH $NVDA PAID FOR SPACEX STOCK   \n \n   Nvidia’s shares in SpaceX came from the company’s $10 billion investment in Musk’s xAI as part of a $20 billion round in January, according to a person familiar with knowledge of the matter who asked not to be named because the",
         "created_at": "2026-08-15T04:12:28Z",
         "sentiment": ""
-      },
-      {
-        "user": "Ub3r5pAnK",
-        "body": "$SMCI $CSCO $NVDA $QQQ $NDAQ This one is actually quite similar to SMCI&#39;s current situation, yet SMCI is hardly in the same situation.",
-        "created_at": "2026-08-15T04:10:52Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "Swibhoo",
+        "body": "$AAPL $DRAM.X $MU",
+        "created_at": "2026-08-15T05:01:11Z",
+        "sentiment": ""
+      },
+      {
         "user": "WorldwideWesley",
         "body": "$AAPL why is my iPhone 17 slower and Siri somehow less helpful than my iPhone 3 gens prior 🤔",
         "created_at": "2026-08-15T04:21:44Z",
@@ -179,15 +185,15 @@
         "body": "*US GOV TELLS APPLE TO STOP PURCHASING CHINESE MEMORY CHIPS \n\nand the great micron domestic advantage lives on\n\n$MU $AAPL $DRAM.X",
         "created_at": "2026-08-15T01:44:17Z",
         "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA META GOOGL \n \n3 DTE&#39;s \n \n🙃",
-        "created_at": "2026-08-15T01:37:27Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $MRVL $AVGO $SPY $GOOG",
+        "created_at": "2026-08-15T05:29:05Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "sp122809",
         "body": "$AMD $AVGO they webt in reverse direction today",
@@ -240,12 +246,6 @@
         "user": "The_Charging_Bull",
         "body": "$ARM $AMD long term thesis",
         "created_at": "2026-08-15T03:45:44Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SwingPlay",
-        "body": "$AVGO WTF happened today money went from here to $AMD",
-        "created_at": "2026-08-15T03:43:01Z",
         "sentiment": "Bullish"
       }
     ],
@@ -375,6 +375,12 @@
     ],
     "GOOG": [
       {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $MRVL $AVGO $SPY $GOOG",
+        "created_at": "2026-08-15T05:29:05Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "sp122809",
         "body": "$AVGO drop was overdone, manipulated \n\nAdded 600 more, both $GOOG $META spent too much on avgo chips \n\nEarnings going to be great 😍",
         "created_at": "2026-08-15T04:38:42Z",
@@ -427,12 +433,6 @@
         "body": "$GOOG $300 is coming and nothing can stop it",
         "created_at": "2026-08-15T01:53:37Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Discovery01",
-        "body": "$LCID by way of this message I am asking $GOOG $NVDA $AMD , Harvard, Norway to invest in LCID. Also asking PIF to increase their investment in this HIGH quality EVS.",
-        "created_at": "2026-08-15T01:48:38Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
