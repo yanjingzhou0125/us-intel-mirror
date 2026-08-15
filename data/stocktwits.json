@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-15 06:37:28",
+  "ts": "2026-08-15 07:31:00",
   "tickers": {
     "NVDA": [
+      {
+        "user": "penny_z",
+        "body": "$APO $BX $GS $NVDA $SPY",
+        "created_at": "2026-08-15T07:24:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "penny_z",
+        "body": "$NVDA $GS $BX $APO $SPY\n\nBloomberg exposes the truth behind Jensen Huang’s &quot;$500 Billion AI Financing&quot; headline:\n\n• Slow Progress: Goldman, Blackstone &amp; Apollo were struggling for months to structure complex AI debt deals due to massive credit risks.\n• The Desperate Bluff: Frustrated b",
+        "created_at": "2026-08-15T07:24:26Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Mooney_Maker",
+        "body": "$NVDA $SPCX \n\nMonday = Moonday 👨🏻‍🚀🚀\n\n🟢🟢🟢",
+        "created_at": "2026-08-15T07:07:02Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "undervaluedtaker",
+        "body": "$SKHY If your not loading in these levels you lost control over your life. Forward p/e 3,5 2027 , guess conservative. 45% from high after retail leverage got whiped out....100% from here till eoy . Do not know one stock where opportunity risk/reward as high as here. Also invested in $NVDA $MU",
+        "created_at": "2026-08-15T06:55:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Grinder247",
+        "body": "$NVDA $SPCX $SPY doubt the FF envisioned computers, robots, cars or space travel…☠️",
+        "created_at": "2026-08-15T06:47:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "aurevissu",
+        "body": "$NVDA \n\nIs this real ???",
+        "created_at": "2026-08-15T06:39:26Z",
+        "sentiment": ""
+      },
       {
         "user": "Grinder247",
         "body": "$INTC $NVDA lol, Jensen doesn’t have to…he’s the MF GODFATHER OF AI.",
@@ -25,45 +61,15 @@
         "body": "$NVDA where is the BIG LOUD Mouth \nM Burry n his shorts",
         "created_at": "2026-08-15T06:31:55Z",
         "sentiment": ""
-      },
-      {
-        "user": "Amelia88",
-        "body": "$NVDA love Trumps ❤️he called short sellers Poor Bastards 👍",
-        "created_at": "2026-08-15T06:29:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BigBreakingWire",
-        "body": "🚨 AI chip demand is turning the memory market into a supply race.\n\nSK Group Chairman Chey Tae won said customer demand for chips has doubled this year and called the race to secure AI memory “like a war.”\n\nHe said no memory maker can scale fast enough for 2027 demand, which he expects to be the wors",
-        "created_at": "2026-08-15T06:06:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "evomaven",
-        "body": "$NVDA $SPCX",
-        "created_at": "2026-08-15T05:13:27Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ub3r5pAnK",
-        "body": "$SMCI $NVDA $CSCO $NDAQ $QQQ This was the real news. \n \nhttps://investorshub.advfn.com/market-news/article/34174/netlist-files-patent-infringement-action-against-micron-at-u-s-international-trade-commission",
-        "created_at": "2026-08-15T04:45:27Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "RL29",
-        "body": "$NBIS $NVDA Trump appears to be mocking Burry and the other short sellers, suggesting that his friends Larry Fink, David Salomon, and others at Goldman Sachs, Blackstone, BlackRock, and other Wall Street heavyweights were all there on Friday.\nHe even referred to the short sellers as “poor bastards” ",
-        "created_at": "2026-08-15T04:38:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ub3r5pAnK",
-        "body": "$SMCI $NVDA $CSCO $NDAQ $QQQ Also to note, it seems shorts are desperate, the ITC is against Micron not SMCI.  \n \nTheir just using FUD to accumulate and cover.  \n \nBUY their Desperation.",
-        "created_at": "2026-08-15T04:38:09Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "mostfeardtrader",
+        "body": "$TSLA 😂, Finallybbsck at the hotel reviewing charts. Beautiful 345 kiss smoked shorts 👌🏾✌🏾💤😴 $QQQ",
+        "created_at": "2026-08-15T06:40:38Z",
+        "sentiment": ""
+      },
       {
         "user": "Doubleup2022",
         "body": "$TSLA Still unable to get to my short spot at 360, what a fucking weak stock, can you bulls pull your shit together and at least hit 360?",
@@ -116,12 +122,6 @@
         "user": "Marcelinho",
         "body": "$TSLA   https://www.facebook.com/share/r/1S7pQP218i/?mibextid=wwXIfr",
         "created_at": "2026-08-15T01:45:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Tesla could unveil its long-delayed next-generation Roadster as soon as this month with a dramatic SpaceX-developed cold-gas thruster demonstration in McGregor, Texas, The Information reported. The remotely operated “A71” version would not be street-legal and could cost hundreds of thousands or even",
-        "created_at": "2026-08-15T01:43:29Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,18 @@
     ],
     "AMD": [
       {
+        "user": "AVGOmysugardaddy",
+        "body": "$AMD $AVGO $GOOG $MRVL $SPY Learn to read the fine print. They can’t replace Broadcom with a contract in place until 2031. Google had rumored  discussions with Marvel too which did not happen.",
+        "created_at": "2026-08-15T07:02:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TheresaField389",
+        "body": "$AMD GO",
+        "created_at": "2026-08-15T06:53:42Z",
+        "sentiment": ""
+      },
+      {
         "user": "juanagustin2086",
         "body": "$AMD",
         "created_at": "2026-08-15T06:25:01Z",
@@ -235,18 +247,6 @@
         "body": "$AMD #science Do not want.",
         "created_at": "2026-08-15T04:00:22Z",
         "sentiment": ""
-      },
-      {
-        "user": "NBman1988",
-        "body": "$AMD $MRVL $MU $RR $SNDK agreed",
-        "created_at": "2026-08-15T03:59:59Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY Good weeks make for great weekends. Enjoy!",
-        "created_at": "2026-08-15T03:59:46Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -375,6 +375,12 @@
     ],
     "GOOG": [
       {
+        "user": "AVGOmysugardaddy",
+        "body": "$AMD $AVGO $GOOG $MRVL $SPY Learn to read the fine print. They can’t replace Broadcom with a contract in place until 2031. Google had rumored  discussions with Marvel too which did not happen.",
+        "created_at": "2026-08-15T07:02:48Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "investing_dans_valeur",
         "body": "$AMD $MRVL $AVGO $SPY $GOOG",
         "created_at": "2026-08-15T05:29:05Z",
@@ -427,12 +433,6 @@
         "body": "$GOOG Berkshire Hathaway boosts Alphabet to a top three holding \n \n“.,, Berkshire, now operating under CEO Greg Abel, owned about 106 million Alphabet shares worth $37.9 billion at the end of June. \nShares held in Alphabet jumped 83% in the second quarter, making Alphabet Berkshire’s third-largest U",
         "created_at": "2026-08-15T01:53:51Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$GOOG $300 is coming and nothing can stop it",
-        "created_at": "2026-08-15T01:53:37Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
