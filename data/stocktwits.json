@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-15 07:31:00",
+  "ts": "2026-08-15 08:27:59",
   "tickers": {
     "NVDA": [
+      {
+        "user": "RICHES_TO_RAGS_",
+        "body": "",
+        "created_at": "2026-08-15T08:26:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RoniToni",
+        "body": "$PLUG $AMD $TSLA $NVDA  $SPCX stocktwits reality",
+        "created_at": "2026-08-15T07:55:53Z",
+        "sentiment": ""
+      },
       {
         "user": "penny_z",
         "body": "$APO $BX $GS $NVDA $SPY",
@@ -49,21 +61,21 @@
         "body": "$SPY BULLISH CONT. / B/O -MARKUP \n$MU $NVDA  $QQQ $SMH",
         "created_at": "2026-08-15T06:33:43Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Grinder247",
-        "body": "$NVDA who gives a fuck dude? It was down pennies 🥱",
-        "created_at": "2026-08-15T06:33:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Amelia88",
-        "body": "$NVDA where is the BIG LOUD Mouth \nM Burry n his shorts",
-        "created_at": "2026-08-15T06:31:55Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "RICHES_TO_RAGS_",
+        "body": "",
+        "created_at": "2026-08-15T08:27:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RoniToni",
+        "body": "$PLUG $AMD $TSLA $NVDA  $SPCX stocktwits reality",
+        "created_at": "2026-08-15T07:55:53Z",
+        "sentiment": ""
+      },
       {
         "user": "mostfeardtrader",
         "body": "$TSLA 😂, Finallybbsck at the hotel reviewing charts. Beautiful 345 kiss smoked shorts 👌🏾✌🏾💤😴 $QQQ",
@@ -110,18 +122,6 @@
         "user": "vaccigen",
         "body": "$TSLA &quot;roadster news&quot; for next week&#39;s pump and dump? 😄",
         "created_at": "2026-08-15T02:58:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "starman1564",
-        "body": "$SPY $QQQ $NVDA $TSLA \n\nThese were the same assholes that were selling bitcoin every day at 10:00 am and then buying it right back at a cheaper price until they got caught.\n\nBREAKING: Jane Street posted a $15 billion loss in July amid the collapse of Situational Awareness, per FT.\n\nThe firm disclose",
-        "created_at": "2026-08-15T02:13:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Marcelinho",
-        "body": "$TSLA   https://www.facebook.com/share/r/1S7pQP218i/?mibextid=wwXIfr",
-        "created_at": "2026-08-15T01:45:52Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,24 @@
     ],
     "AMD": [
       {
+        "user": "Bucswin",
+        "body": "$NKE  we need Nike Ai, or put an intel chip in the sneakers.  that wiil get us to 200 PE like $AMD.   and they will say NKE is  BARGAIN at $500    GLTA",
+        "created_at": "2026-08-15T08:03:56Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "RocketEnginner",
+        "body": "$AMD https://share.google/ZsJozSr8yesnWJhtO",
+        "created_at": "2026-08-15T08:03:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RoniToni",
+        "body": "$PLUG $AMD $TSLA $NVDA  $SPCX stocktwits reality",
+        "created_at": "2026-08-15T07:55:53Z",
+        "sentiment": ""
+      },
+      {
         "user": "AVGOmysugardaddy",
         "body": "$AMD $AVGO $GOOG $MRVL $SPY Learn to read the fine print. They can’t replace Broadcom with a contract in place until 2031. Google had rumored  discussions with Marvel too which did not happen.",
         "created_at": "2026-08-15T07:02:48Z",
@@ -229,24 +247,6 @@
         "body": "$MSFT $PLTR $INTC $AMD $TSEM  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;s",
         "created_at": "2026-08-15T04:23:54Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "CaptainsLogs",
-        "body": "$AMD Smart!",
-        "created_at": "2026-08-15T04:12:47Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "PSM_EmpowerTrading",
-        "body": "$NVDA $AMD $GOOGL Harvard University disclosed billion stake in $SPCX . Dip opportunity",
-        "created_at": "2026-08-15T04:06:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "holdingbags",
-        "body": "$AMD #science Do not want.",
-        "created_at": "2026-08-15T04:00:22Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
