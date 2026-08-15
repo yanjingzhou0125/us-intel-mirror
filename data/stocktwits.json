@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-15 09:51:27",
+  "ts": "2026-08-15 10:22:08",
   "tickers": {
     "NVDA": [
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY you can&#39;t use Ai to beat original traders, No you can&#39;t $META $NVDA $GOOGL",
+        "created_at": "2026-08-15T10:09:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY Use OdinEye today $NVDA $GOOGL $BTC.X",
+        "created_at": "2026-08-15T10:02:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Meatballtrades",
+        "body": "$NVDA $SPCX",
+        "created_at": "2026-08-15T09:58:35Z",
+        "sentiment": ""
+      },
       {
         "user": "chinaliesandsteals",
         "body": "$NVDA what a waste of my $ rotting here this year on my 9400 shares fml 🤦",
@@ -43,24 +61,6 @@
         "body": "$NVDA $SPCX \n\nMonday = Moonday 👨🏻‍🚀🚀\n\n🟢🟢🟢",
         "created_at": "2026-08-15T07:07:02Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "undervaluedtaker",
-        "body": "$SKHY If your not loading in these levels you lost control over your life. Forward p/e 3,5 2027 , guess conservative. 45% from high after retail leverage got whiped out....100% from here till eoy . Do not know one stock where opportunity risk/reward as high as here. Also invested in $NVDA $MU",
-        "created_at": "2026-08-15T06:55:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Grinder247",
-        "body": "$NVDA $SPCX $SPY doubt the FF envisioned computers, robots, cars or space travel…☠️",
-        "created_at": "2026-08-15T06:47:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "aurevissu",
-        "body": "$NVDA \n\nIs this real ???",
-        "created_at": "2026-08-15T06:39:26Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
@@ -313,6 +313,18 @@
     ],
     "MSFT": [
       {
+        "user": "AshHydrogen",
+        "body": "$PLTR all TUTES PILING BACK IN FOR the Ai $MSFT of 2026!!! \n \nPALANTIR WILL BE DIRT BAG CHEAP AT $422 in WEEKS!!! \n \nN of FUCKING 1! \n \nAsk $1 Trillion  ANTHROPIC!?!?!? \n \nhttps://media.stocktwits-cdn.com/api/3/media/12965646/default.webp",
+        "created_at": "2026-08-15T10:14:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "maggiem",
+        "body": "$MSFT Low volume on a down day in the market and consolidation after a VERY STRONG move up is bullish!",
+        "created_at": "2026-08-15T10:11:09Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BlockchainTradingCo",
         "body": "$MSFT $ACHR $GRRR $HOOD Microsoft benefits from cloud and AI spending, Archer advances electric vertical-takeoff aircraft, GRRR remains speculative, and Robinhood benefits from trading and crypto activity. I&#39;m watching Azure growth, certification milestones, contracts, and trading volumes.",
         "created_at": "2026-08-15T08:37:31Z",
@@ -358,18 +370,6 @@
         "user": "Big_Dirk",
         "body": "$MSFT $NVDA $QQQ $SMH $SPY \n\nI can fix her",
         "created_at": "2026-08-15T00:10:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "techvested",
-        "body": "$GOOGL $AMZN $MSFT $SPY $QQQ  \nMost of hyperscaler &quot;other income&quot; comes from marking up investments (and during a stock market bubble).   \n \nOpenAI is worthless. Anthropic not worth 50% of marked up values.  \nNeither Anthropic nor OpenAI will be competitive enough with Chinese models - bc ",
-        "created_at": "2026-08-15T00:10:37Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ 😂 This was my favorite news story this week. This kind of thing involving the rich kids of silicone valley luminaries is what you would expect to see at the peak of an economic cycle. Even uber rich nepo babies can’t resist the siren call of “fudging the numbers” to prove they are a successfu",
-        "created_at": "2026-08-15T00:04:23Z",
         "sentiment": ""
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "pmcapitaltrading",
+        "body": "$SPY you can&#39;t use Ai to beat original traders, No you can&#39;t $META $NVDA $GOOGL",
+        "created_at": "2026-08-15T10:09:59Z",
+        "sentiment": ""
+      },
+      {
         "user": "FlexLuthor",
         "body": "$META $RDDT Room temperature IQ take to think politicians would ever listen to anyone other than their corporate donors that line their pockets. Btw, META is a cash cow and RDDT keeps bumping revenues higher and higher. They&#39;re both fine.",
         "created_at": "2026-08-15T09:22:34Z",
@@ -489,12 +495,6 @@
         "body": "$QQQ ~ “Out of Touch” Billionaire Tech Bro Mark Zuckerberg Is Finally Paying for Meta&#39;s AI Disaster. The Zuck &quot;Manifesto&quot;. Aug 2026. $META $AMZN $GOOGL $NVDA",
         "created_at": "2026-08-15T01:49:07Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Bank of America analysts see the recent selloff in AI-linked stocks as an opportunity to buy companies whose valuations have been hit despite continued exposure to the long-term AI boom. The analysts screened companies across hardware, internet and energy, focusing on stocks that had fallen at least",
-        "created_at": "2026-08-15T01:46:29Z",
-        "sentiment": ""
       }
     ]
   }
