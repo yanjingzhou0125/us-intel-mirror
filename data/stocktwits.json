@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-15 22:47:44",
+  "ts": "2026-08-15 23:19:54",
   "tickers": {
     "NVDA": [
+      {
+        "user": "everevolving09",
+        "body": "$NVDA compute demand is through lets reduce risks here okay",
+        "created_at": "2026-08-15T22:49:40Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Riverrat69",
+        "body": "$NVDA https://x.com/danielnewmanuv/status/2088722218641482152?s=46",
+        "created_at": "2026-08-15T22:48:36Z",
+        "sentiment": ""
+      },
       {
         "user": "rahod",
         "body": "$NVDA \nThey ARE the “SANDBOX “!!!",
@@ -49,21 +61,27 @@
         "body": "$NVDA 260 post earnings next stop 300",
         "created_at": "2026-08-15T21:28:02Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA sub 200 next week",
-        "created_at": "2026-08-15T21:06:18Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $NVDA Powered by Ai $GOOGL $MSFT",
-        "created_at": "2026-08-15T21:04:48Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Joe_Mama",
+        "body": "$TSLA It’s best when even Bears are calling for it to go higher. Denial can be costly.",
+        "created_at": "2026-08-15T23:18:23Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mighty_Maven",
+        "body": "$TSLA thanks for the cheapies bears. Nothing has changed except for a better entry. Mighty",
+        "created_at": "2026-08-15T23:14:07Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AStrokeOfLuck",
+        "body": "$UBER $TSLA",
+        "created_at": "2026-08-15T23:02:02Z",
+        "sentiment": ""
+      },
       {
         "user": "ResearchTrends09",
         "body": "$TSLA  America you better wake up , you better wake up right NOW!!!",
@@ -104,24 +122,6 @@
         "user": "ITL_HTWP",
         "body": "$TSLA The Slow-Compounding Engine vs. The $0 Rollercoaster \n \nMost retail traders hunt for that one massive trade to erase months of losses. Instead, they get hit by another massive loss that wipes out all their recent small wins. \n \n💬Is it possible to turn $1K into $20K or $30K? Yes. \n \nIs it going",
         "created_at": "2026-08-15T20:27:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "NauticalTrader",
-        "body": "$SPY $QQQ $TSLL  \n \n$TSLA  \nTesla has bounced nicely back above the 20 Day. \nNo resistance above till the 50 Day. \n.",
-        "created_at": "2026-08-15T20:19:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AStrokeOfLuck",
-        "body": "$TSLA   cool",
-        "created_at": "2026-08-15T20:12:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ThePiperofSimms",
-        "body": "$TSLA   Are you ready for Communists to win ?  The stock market would cease to exist.  😳",
-        "created_at": "2026-08-15T19:42:32Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,24 @@
     ],
     "AMD": [
       {
+        "user": "TRBTEME",
+        "body": "$USAR $SPCX $AMD $RKLB",
+        "created_at": "2026-08-15T23:19:23Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GrandpaJaiKrishen",
+        "body": "$SNDK Changed From Growth theme to Momentum. Just keeping one memory stock, so selling $MU. Selling back $AMD doesnt fit with Momentum. Reduced dependance on Zacks rank, in fact I dont consider it for stock selection. Buying $NBIS and $LITE  to go with the Momentum theme. I am not going to make anym",
+        "created_at": "2026-08-15T22:52:32Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD  $SPY \n\nIn the latest Q2 13F filing, the legendary investor Stanley Druckenmiller loaded up on AMD and completely sold out of $INTC $AVGO $MU \n\nBought:$AMD 72,900 shares",
+        "created_at": "2026-08-15T22:51:18Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "sp122809",
         "body": "$MU $AMD $SNDK $NVDA fuck weekend, could have been another money making day. 🤣🤣",
         "created_at": "2026-08-15T22:44:29Z",
@@ -228,24 +246,6 @@
         "user": "Hallu",
         "body": "@AVGOmysugardaddy @gigafactory  \nhttps://x.com/damnang2/status/2088545047252013414 \n \nI am long $AVGO  \nthere is no indication google is trying to replace $AVGO with $AMD .",
         "created_at": "2026-08-15T19:54:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$MU #3, $MRVL #7, and $AMD #10 on the NAS 100 top 25 list",
-        "created_at": "2026-08-15T19:20:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$MU #4, $MRVL #7, and $AMD #10 on the S&amp;P top 25 list",
-        "created_at": "2026-08-15T19:18:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$AMD todays harvest....",
-        "created_at": "2026-08-15T18:54:24Z",
         "sentiment": ""
       }
     ],
@@ -376,6 +376,24 @@
     "GOOG": [
       {
         "user": "THE_TRADE",
+        "body": "$GOOGL $GOOG \n\nAlphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger https://share.google/UqsByZAlo03lS6avV",
+        "created_at": "2026-08-15T23:16:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "moneyflow_trader",
+        "body": "$GOOG $brK.B hmm Interesting buy.. I will keep my money flow chart to myself. I dont agree, but its their",
+        "created_at": "2026-08-15T22:58:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NLST4EVER",
+        "body": "@Stokd Google’s blatant infractions. Justice coming soon. $GOOG $MU .",
+        "created_at": "2026-08-15T22:51:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "THE_TRADE",
         "body": "$GOOG $GOOGL \n\nAlso, buying at a bargain price",
         "created_at": "2026-08-15T21:32:42Z",
         "sentiment": "Bullish"
@@ -414,24 +432,6 @@
         "user": "ALPHAROGER",
         "body": "$GOOG $NVDA $SPCX $SPY $TSLA when it hits $200 plus",
         "created_at": "2026-08-15T17:54:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MacroHard26",
-        "body": "$SPCX $TSLA $SPY $NVDA $GOOG \nStock dilution from Spcx management ,outside unblock,  is unavoidable for the growth of Space and AI",
-        "created_at": "2026-08-15T17:52:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Psychosphere_Desk",
-        "body": "▼ $GOOG · reads bearish \n \nGOOG slid 3.5% this week and just printed an engulfing rejection on real volume. That&#39;s the tape talking.  \n \nStructure underneath has been leaning bearish for a while, and a week like this doesn&#39;t change that read, it confirms it. The calls favored in options flow",
-        "created_at": "2026-08-15T17:03:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MacroHard26",
-        "body": "$GOOG $META $MSFT $AMZN $SPY \n\nCAPEX craziness ….",
-        "created_at": "2026-08-15T17:02:23Z",
         "sentiment": ""
       }
     ],
