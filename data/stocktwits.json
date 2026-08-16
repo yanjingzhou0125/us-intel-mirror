@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-16 11:45:07",
+  "ts": "2026-08-16 12:38:01",
   "tickers": {
     "NVDA": [
+      {
+        "user": "handmedown1",
+        "body": "$KOID $SYM $NVDA robot wars are coming!! Poor Sym just making robots that make money. No one sure about how Unitree robo&#39;s will do task that make money. They are toys for now. Koid and robo ETFs are my lotto tickets. $SYM kudos to these guys with a backlog and big money contracts and a real worl",
+        "created_at": "2026-08-16T12:12:48Z",
+        "sentiment": ""
+      },
       {
         "user": "Crakerjac",
         "body": "$NVDA Nvidia share holding has been likened to a rollercoaster. I have also heard a bull ride. I think it is more like a mechanical bull ride fastened to a rollercoaster car and then you strap yourself on the mechanical bull ride while going on the rollercoaster ride. It is a ripper!!! You have to s",
@@ -55,15 +61,21 @@
         "body": "$NVDA -",
         "created_at": "2026-08-16T10:21:25Z",
         "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$NVDA The start of a forced sell-off by China?",
-        "created_at": "2026-08-16T10:02:13Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "KansasCash",
+        "body": "$SPY Keep griding and someday social media will calculate your net worth so high they show you ads like this.  I have arrived fam!! $TSLA",
+        "created_at": "2026-08-16T12:29:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Loudermilk64",
+        "body": "$TSLA Headed back  over  400.",
+        "created_at": "2026-08-16T12:23:25Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "galarneauy",
         "body": "$TSLA The prophet has spoken!",
@@ -110,18 +122,6 @@
         "user": "MilhouseVanhouten",
         "body": "$BTC.X $DJT $SPCX $SPY $TSLA this dudes avatar is his cat.. he shuts off his phone at midnight on Saturday.. to an ice cold bed with no family, no wife. Just.. Trump memes… I honestly feel bad for him.",
         "created_at": "2026-08-16T04:05:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "HerrBroekman",
-        "body": "$SPY $DJT $SPCX $TSLA $BTC.X when trump got elected the second time",
-        "created_at": "2026-08-16T03:50:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bowlly",
-        "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
-        "created_at": "2026-08-16T03:40:23Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $SPY $QQQ \n\nWall Street Analyst - Timothy Arcuri\n\nWith a 78.5% Success Rate Maintains a BUY Rating for AMD \n\nPrice Target: $730 per share",
+        "created_at": "2026-08-16T12:27:46Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "ElliottwaveForecast",
         "body": "📢 $AMD  Finds Support in the Blue Box    \n \n💻 Advanced Micro Devices pulled back into the Elliott Wave buyers’ zone. The reaction higher confirms support, keeping the bullish path intact for further upside.  \n \nFull analysis 👉 https://elliottwave-forecast.com/stock-market/amd-finds-support-in-the-bl",
         "created_at": "2026-08-16T10:14:39Z",
@@ -241,12 +247,6 @@
         "body": "$AMD  spend your money here ! Will be around longer than taco!",
         "created_at": "2026-08-16T02:47:04Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Mohammed1112",
-        "body": "$AMD it’s going to 600$ this week, don’t miss this opportunity guys",
-        "created_at": "2026-08-16T02:38:38Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "NunzioKnows",
+        "body": "$AMZN vs $MSFT",
+        "created_at": "2026-08-16T11:54:00Z",
+        "sentiment": ""
+      },
+      {
         "user": "BGESGroup",
         "body": "$MSFT $AMD $TSM $AVGO $AAPL  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-16T09:20:23Z",
@@ -364,12 +370,6 @@
         "user": "penny_z",
         "body": "$NVDA $MSFT $SPY $QQQ\n\nClassic Wall Street &quot;Friday Night News Dump&quot;:\n\nAt 7:29 PM ET Friday—long after market close—the WSJ dropped the bombshell: Nvidia slashed its planned $250 BILLION OpenAI debt backstop to under $120B.\n\nWhy the timing matters:\n1. Panic Containment: Dropping major negat",
         "created_at": "2026-08-16T02:07:15Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "penny_z",
-        "body": "$NVDA $MSFT $SPY $QQQ\n\nClassic Wall Street &quot;Friday Night News Dump&quot;:\n\nAt 7:29 PM ET Friday—long after market close—the WSJ dropped the bombshell: Nvidia slashed its planned $250 BILLION OpenAI debt backstop to under $120B.\n\nWhy the timing matters:\n1. Panic Containment: Dropping major negat",
-        "created_at": "2026-08-16T02:00:59Z",
         "sentiment": "Bearish"
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "Ep1219",
+        "body": "$META 🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🍉🍉🍉🍉🍉🍉 tomorrow starts the official BULL run for META 🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 patience always pays off. It&#39;s been a long long time going on a year. I hope everyone&#39;s been adding throughout this year. Never mind the last six months. It&#39;s the blue skies now. Wate",
+        "created_at": "2026-08-16T12:03:48Z",
+        "sentiment": ""
+      },
+      {
         "user": "Bowlly",
         "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
         "created_at": "2026-08-16T03:40:23Z",
@@ -488,12 +494,6 @@
         "user": "MacroHard26",
         "body": "$SPCX $NVDA $AMD $META $GOOG \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia AI hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
         "created_at": "2026-08-15T18:37:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Doubleup2022",
-        "body": "$NBIS can someone please educate me why is $META renting out their computer capacity if the demand is high? They can’t even consume that much compute themselves? They are one of the biggest hyper scalers and if they can’t, why do you expect those small companies to consume more?",
-        "created_at": "2026-08-15T17:58:13Z",
         "sentiment": ""
       }
     ]
