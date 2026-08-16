@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16 09:26:51",
+  "ts": "2026-08-16 09:52:21",
   "tickers": {
     "NVDA": [
       {
@@ -128,6 +128,12 @@
     "AAPL": [
       {
         "user": "BGESGroup",
+        "body": "$AAPL $INTC $TSM $AVGO $AMZN  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-16T09:29:32Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
         "body": "$MSFT $AMD $TSM $AVGO $AAPL  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-16T09:20:23Z",
         "sentiment": "Bullish"
@@ -178,12 +184,6 @@
         "user": "ArcValueTrade",
         "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
         "created_at": "2026-08-16T02:25:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ElliottwaveForecast",
-        "body": "$AAPL — The daily chart shows a clear bullish path into new all-time highs. \nThe structure continues supporting further upside. \n \nTrade the Blue Boxes, High Frequency areas. \n \n#elliottwave #ElliottWave #trading #AAPL #Apple #Stocks #HighFrequency #BlueBox",
-        "created_at": "2026-08-16T00:35:46Z",
         "sentiment": ""
       }
     ],
@@ -252,6 +252,12 @@
     "TSM": [
       {
         "user": "BGESGroup",
+        "body": "$AAPL $INTC $TSM $AVGO $AMZN  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-16T09:29:32Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
         "body": "$MSFT $AMD $TSM $AVGO $AAPL  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-16T09:20:23Z",
         "sentiment": "Bullish"
@@ -302,12 +308,6 @@
         "user": "itsphd",
         "body": "@cubie @Jeremymartin007 @judgeyoung2 @jenbunn @ZY786 @jeremy4 @Tradermikes40 @TraderRapp @tonyctl @zuby34 Softbank Group cuts share stake in TSMC by 71.5% to 565,000 sponsored ADS - SEC filing. $TSM",
         "created_at": "2026-08-14T16:28:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SeNSF",
-        "body": "$TSM Bulls in Control Above 432.4 Breakout. Bears in Control Below 426 Breakdown. Play the Break/Retest or Reversal/Reclaim. $SPY $QQQ $AAPL $TSLA",
-        "created_at": "2026-08-14T14:20:26Z",
         "sentiment": ""
       }
     ],
