@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-16 05:55:38",
+  "ts": "2026-08-16 06:39:30",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Tom2772",
+        "body": "$OTLK  $NVDA $IBRX \n\nSounds really good!\n\n💎",
+        "created_at": "2026-08-16T05:59:47Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ycdctx",
         "body": "$SNDK $MU $INTC $NVDA  \nA 60-day ceasefire agreement between the U.S. and Iran is set to expire Monday! unfortunately, no earnings news next week that&#39;s much related to the chip sector in general, so market moves might be dominated by what happens with iran \n \nhttps://www.foxnews.com/live-news/i",
@@ -55,12 +61,6 @@
         "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
         "created_at": "2026-08-16T03:40:23Z",
         "sentiment": ""
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA lul",
-        "created_at": "2026-08-16T03:34:42Z",
-        "sentiment": "Bearish"
       }
     ],
     "TSLA": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "ShadyAggie40",
+        "body": "$SPY Michael Burry argument is semi’s are pulling forward their growth in cycle to inflate prices… He is correct, but a little early on shorting. Once AI buildout is complete…prices in majority of semis will deflate… services in $ORCL $AMZN $MSFT $GOOG will boom. Bulls cannot win this argument here ",
+        "created_at": "2026-08-16T06:05:01Z",
+        "sentiment": ""
+      },
+      {
         "user": "FlowQuantix",
         "body": "$MSFT $700 in 2027",
         "created_at": "2026-08-16T05:38:42Z",
@@ -365,15 +371,21 @@
         "body": "$MSFT ~ 😂Bill Gates&#39; Daughter Exposed For Massive Fraud In Aug 2026. My favorite news story this week. This kind of thing involving the rich kids of silicon valley luminaries is what you would expect to see at the peak of an economic cycle. Even uber rich nepo babies can’t resist the siren call ",
         "created_at": "2026-08-16T01:02:32Z",
         "sentiment": ""
-      },
-      {
-        "user": "LeonardoBonacci",
-        "body": "$MSFT 🤔",
-        "created_at": "2026-08-15T23:28:12Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
+      {
+        "user": "NLST4EVER",
+        "body": "$NLST @Stokd @SilviaJ  Do you think   Samsung  $SSNLFHAS already, or will, spill the full load of beans on $GOOG? I do :-)",
+        "created_at": "2026-08-16T06:06:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ShadyAggie40",
+        "body": "$SPY Michael Burry argument is semi’s are pulling forward their growth in cycle to inflate prices… He is correct, but a little early on shorting. Once AI buildout is complete…prices in majority of semis will deflate… services in $ORCL $AMZN $MSFT $GOOG will boom. Bulls cannot win this argument here ",
+        "created_at": "2026-08-16T06:05:01Z",
+        "sentiment": ""
+      },
       {
         "user": "ArcValueTrade",
         "body": "Clues for Stock market directions                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                    ",
@@ -421,18 +433,6 @@
         "body": "$GOOG Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
         "created_at": "2026-08-15T19:51:13Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "SKIJK",
-        "body": "$GOOG $GOOGL Greg Abel broke Berkshire&#39;s 14-quarter net-selling streak by buying 48 million Alphabet shares worth $37.8 billion in Q2. \n \nThe purchase vaults Alphabet to Berkshire&#39;s third-largest holding at 10% of the portfolio, behind only Apple and American Express. \n \nAlphabet&#39;s searc",
-        "created_at": "2026-08-15T19:48:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MacroHard26",
-        "body": "$SPCX $NVDA $AMD $META $GOOG \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia AI hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
-        "created_at": "2026-08-15T18:37:39Z",
-        "sentiment": ""
       }
     ],
     "META": [
