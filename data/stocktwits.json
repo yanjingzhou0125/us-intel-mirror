@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-16 06:39:30",
+  "ts": "2026-08-16 07:30:25",
   "tickers": {
     "NVDA": [
+      {
+        "user": "zeno123",
+        "body": "$INTC $MU $NVDA $SNDK @ycdctx you need to understand how ceasefires, especially Trump ceasefires work. De-escalation will always follow any escalation 🌮",
+        "created_at": "2026-08-16T06:49:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TheJasMan",
+        "body": "$NVDA 220 Monday.",
+        "created_at": "2026-08-16T06:44:06Z",
+        "sentiment": ""
+      },
       {
         "user": "Tom2772",
         "body": "$OTLK  $NVDA $IBRX \n\nSounds really good!\n\n💎",
@@ -49,21 +61,15 @@
         "body": "$AVGO $NVDA $MRVL NVDA    earnings on August 26th and Marvel earnings on August 27th, should take AVGO up within the next  2 weeks before ER.",
         "created_at": "2026-08-16T03:55:40Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ What happens to Life Insurance and Pensions If (when) AI infrastructure Bubble bursts? $SPY $NVDA $NBIS $CRWV",
-        "created_at": "2026-08-16T03:50:51Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Bowlly",
-        "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
-        "created_at": "2026-08-16T03:40:23Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Ihatemylifesavings",
+        "body": "$XCN.X $AAPL $TSLA $SPY $QQQ https://x.com/Onyx/status/2088826083185410141",
+        "created_at": "2026-08-16T07:29:41Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Greenthought",
         "body": "$XPEV $NIO $TSLA",
@@ -117,15 +123,21 @@
         "body": "Ouch hit home bro … for many retail. \n$SPY $DJT $QQQ $MU $TSLA",
         "created_at": "2026-08-16T01:55:55Z",
         "sentiment": ""
-      },
-      {
-        "user": "BullishAaFf",
-        "body": "$FFAI $NIO $RIVN $LCID $TSLA  \n🌟🌟🌟🌟🌟  \nIt&#39;s time for EV stonkholders to get paid in full! \nhttps://youtu.be/rexmpozJJH4?is=X4Y05eMGIwBOuKGv",
-        "created_at": "2026-08-16T01:30:31Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "Ihatemylifesavings",
+        "body": "$XCN.X $AAPL $TSLA $SPY $QQQ https://x.com/Onyx/status/2088826083185410141",
+        "created_at": "2026-08-16T07:29:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ALEXUS36",
+        "body": "$RACE $AAPL $SPY $QQQ $DIA",
+        "created_at": "2026-08-16T07:07:32Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Bowlly",
         "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
@@ -172,18 +184,6 @@
         "user": "ResearchTrends09",
         "body": "$AAPL 🛑🛑🛑 wake up America.  Wake up.!!!!!!",
         "created_at": "2026-08-15T22:37:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jujets",
-        "body": "$AAPL to the naysayers , come get some to the positive side , you will be better off in long run !!",
-        "created_at": "2026-08-15T22:33:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DonCorleone77",
-        "body": "$AAPL White House urges Apple not to buy China memory chips, WSJ reports \n \nCommerce Secretary Howard Lutnick said the White House does not want Apple to buy memory chips from China, Rolfe Winkler, Raffaele Huang and Amrith Ramkumar of Wall Street Journal report. &quot;The Trump administration is no",
-        "created_at": "2026-08-15T22:24:57Z",
         "sentiment": ""
       }
     ],
