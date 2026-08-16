@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-16 05:27:32",
+  "ts": "2026-08-16 05:55:38",
   "tickers": {
     "NVDA": [
+      {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $INTC $NVDA  \nA 60-day ceasefire agreement between the U.S. and Iran is set to expire Monday! unfortunately, no earnings news next week that&#39;s much related to the chip sector in general, so market moves might be dominated by what happens with iran \n \nhttps://www.foxnews.com/live-news/i",
+        "created_at": "2026-08-16T05:49:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "smarttrader2009",
+        "body": "$NVDA",
+        "created_at": "2026-08-16T05:28:40Z",
+        "sentiment": ""
+      },
       {
         "user": "GarysterWynn",
         "body": "@KmOz19 $SMCI rose to $51.40 into $nvda&#39;s previous May 20th ER",
@@ -49,18 +61,6 @@
         "body": "$NVDA lul",
         "created_at": "2026-08-16T03:34:42Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "BigBreakingWire",
-        "body": "Alphabet’s SpaceX Stake Soars To $94.2 Billion\n\n  Alphabet held 551.2 million SpaceX shares worth about $94.2 billion as of June 30, stemming from a $900 million investment in 2015... https://bigbreakingwire.in/bbw-live-news-blog-today/#pennion-live-blogging-update-10674\n\n$GOOGL $NVDA $SPY $QQQ $SPC",
-        "created_at": "2026-08-16T03:16:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tradova_Markets",
-        "body": "$TSLA $AAPL $NVDA $META $SPY All heading higher before any drop happens.",
-        "created_at": "2026-08-16T03:16:13Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "FlowQuantix",
+        "body": "$MSFT $700 in 2027",
+        "created_at": "2026-08-16T05:38:42Z",
+        "sentiment": ""
+      },
+      {
         "user": "Luckyskills007",
         "body": "$MSFT",
         "created_at": "2026-08-16T04:58:30Z",
@@ -365,12 +371,6 @@
         "body": "$MSFT 🤔",
         "created_at": "2026-08-15T23:28:12Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Alloptionsn",
-        "body": "$MSFT get medication",
-        "created_at": "2026-08-15T22:27:44Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
