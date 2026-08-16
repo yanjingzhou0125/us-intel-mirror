@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-16 07:56:28",
+  "ts": "2026-08-16 08:32:02",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Newbie2AllThis",
+        "body": "Will $NVDA  drop after earnings  ...  if $NVDA rises because of earnings  ? \n \n$QQQ",
+        "created_at": "2026-08-16T08:27:30Z",
+        "sentiment": ""
+      },
       {
         "user": "akroller",
         "body": "$INTC $MU $NVDA $SNDK",
@@ -54,12 +60,6 @@
         "user": "smarttrader2009",
         "body": "$NVDA",
         "created_at": "2026-08-16T05:28:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GarysterWynn",
-        "body": "@KmOz19 $SMCI rose to $51.40 into $nvda&#39;s previous May 20th ER",
-        "created_at": "2026-08-16T04:48:54Z",
         "sentiment": ""
       }
     ],
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "ElliottwaveForecast",
+        "body": "📢 $AAPL  Forecast – Extended Downside Path    \n \n🍎 Apple’s Elliott Wave structure signals unfinished business on the downside. The sequence suggests sellers remain in control, with risk of further weakness before a reversal.  \n \nFull analysis 👉 https://elliottwave-forecast.com/news/apple-aapl-foreca",
+        "created_at": "2026-08-16T08:22:02Z",
+        "sentiment": ""
+      },
+      {
         "user": "Ihatemylifesavings",
         "body": "$XCN.X $AAPL $TSLA $SPY $QQQ https://x.com/Onyx/status/2088826083185410141",
         "created_at": "2026-08-16T07:29:41Z",
@@ -178,12 +184,6 @@
         "user": "ResearchTrends09",
         "body": "$AAPL all over the globe. Send them to America. Give them everything for free and the right to vote. Democrats need to win back the election and they’re in trouble because they’re losing the BLM vote.",
         "created_at": "2026-08-15T23:42:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL 🛑🛑🛑 wake up America.  Wake up.!!!!!!",
-        "created_at": "2026-08-15T22:37:03Z",
         "sentiment": ""
       }
     ],
