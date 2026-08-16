@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-16 07:30:25",
+  "ts": "2026-08-16 07:56:28",
   "tickers": {
     "NVDA": [
+      {
+        "user": "akroller",
+        "body": "$INTC $MU $NVDA $SNDK",
+        "created_at": "2026-08-16T07:53:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "tievLeaf",
+        "body": "$INFQ $NVDA $AMD $SPCX $RKLB",
+        "created_at": "2026-08-16T07:53:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "akroller",
+        "body": "$INTC $MU $NVDA $SNDK \nThis game will be played through the remainder of his presidency. He can use it to his advantage to make money for himself and his minions.",
+        "created_at": "2026-08-16T07:52:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $INTC $SPY $QQQ $NVDA\n\nBank of America raised its forecast for the server CPU market, saying the rise of AI agents is expanding the opportunity for central processing units in data centers. Analyst Vivek Arya lifted the firm’s 2030 server CPU total addressable market to more than $210 billion, ",
+        "created_at": "2026-08-16T07:37:06Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "zeno123",
         "body": "$INTC $MU $NVDA $SNDK @ycdctx you need to understand how ceasefires, especially Trump ceasefires work. De-escalation will always follow any escalation 🌮",
@@ -37,33 +61,15 @@
         "body": "@KmOz19 $SMCI rose to $51.40 into $nvda&#39;s previous May 20th ER",
         "created_at": "2026-08-16T04:48:54Z",
         "sentiment": ""
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ “If you ain’t got haters, you ain’t popping” ~ Bob Salah: NFL Head Coach. ~ Ed Zitron is a &quot;Folk Hero&quot; for the Al bears and skeptics in summer 2026 to which there are millions. Everyone outside of the (MAG7ai) or (MANGOS) shareholders want AI to fail and all the AI infrastructure co",
-        "created_at": "2026-08-16T04:47:03Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "pallasreg",
-        "body": "@jimmybuckets727 Given the recent news about $NVDA &#39;s $21b stake, plus its upcoming earnings report, I think $SPCX will have a short rally sometime this week, and a few profit taking later. A bit bullish week for the stock for me.",
-        "created_at": "2026-08-16T04:02:34Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ &#39;Big Short&#39; Investor: The AI bull Narrative is Falling Apart in Aug 2026. &quot;Financial Engineering&quot; &amp; “Circular Financing”. Good luck everyone. $SPY $SMH $NVDA $CRWV",
-        "created_at": "2026-08-16T03:57:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AVGOmysugardaddy",
-        "body": "$AVGO $NVDA $MRVL NVDA    earnings on August 26th and Marvel earnings on August 27th, should take AVGO up within the next  2 weeks before ER.",
-        "created_at": "2026-08-16T03:55:40Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "HonestJoe",
+        "body": "$TSLA  It&#39;s seems that the US has given up on competing for the number 1 position just about everywhere.   \nIt&#39;s we might not make the best products anymore but if you don&#39;t choose our product.............  \nneowin.net/news/us-warns-al",
+        "created_at": "2026-08-16T07:36:36Z",
+        "sentiment": ""
+      },
       {
         "user": "Ihatemylifesavings",
         "body": "$XCN.X $AAPL $TSLA $SPY $QQQ https://x.com/Onyx/status/2088826083185410141",
@@ -116,12 +122,6 @@
         "user": "ArcValueTrade",
         "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
         "created_at": "2026-08-16T02:24:57Z",
-        "sentiment": ""
-      },
-      {
-        "user": "beestMod516",
-        "body": "Ouch hit home bro … for many retail. \n$SPY $DJT $QQQ $MU $TSLA",
-        "created_at": "2026-08-16T01:55:55Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,18 @@
     ],
     "AMD": [
       {
+        "user": "tievLeaf",
+        "body": "$INFQ $NVDA $AMD $SPCX $RKLB",
+        "created_at": "2026-08-16T07:53:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $INTC $SPY $QQQ $NVDA\n\nBank of America raised its forecast for the server CPU market, saying the rise of AI agents is expanding the opportunity for central processing units in data centers. Analyst Vivek Arya lifted the firm’s 2030 server CPU total addressable market to more than $210 billion, ",
+        "created_at": "2026-08-16T07:37:06Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "YodaStockInvests",
         "body": "I would never own a 2x leverage ETF of any stock, not even of $AMD. \nPlus I am against margin in general.\nAm I crazy for that?",
         "created_at": "2026-08-16T04:36:01Z",
@@ -235,18 +247,6 @@
         "body": "$AMD can we stay under $510 next week pls😭",
         "created_at": "2026-08-16T02:07:08Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "DayTrader111",
-        "body": "$SPY BREAKOUT INCOMING?  \n \nThe 2 Levels That Decide Next Week \n \n https://stockoptionalerts.com/day-traders-journal/f/spy-breakout-incoming-the-2-levels-that-decide-next-week $QQQ $AMD",
-        "created_at": "2026-08-16T01:45:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TaxiTravisBickle",
-        "body": "$AMD",
-        "created_at": "2026-08-16T01:34:40Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
