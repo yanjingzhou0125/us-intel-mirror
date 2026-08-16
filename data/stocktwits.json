@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-16 09:52:21",
+  "ts": "2026-08-16 10:22:21",
   "tickers": {
     "NVDA": [
+      {
+        "user": "WallStJesus",
+        "body": "$NVDA -",
+        "created_at": "2026-08-16T10:21:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$NVDA The start of a forced sell-off by China?",
+        "created_at": "2026-08-16T10:02:13Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $GOOG $NVDA $MU $SKHY  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
@@ -49,18 +61,6 @@
         "body": "$INTC $MU $NVDA $SNDK @ycdctx you need to understand how ceasefires, especially Trump ceasefires work. De-escalation will always follow any escalation 🌮",
         "created_at": "2026-08-16T06:49:15Z",
         "sentiment": ""
-      },
-      {
-        "user": "TheJasMan",
-        "body": "$NVDA 220 Monday.",
-        "created_at": "2026-08-16T06:44:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tom2772",
-        "body": "$OTLK  $NVDA $IBRX \n\nSounds really good!\n\n💎",
-        "created_at": "2026-08-16T05:59:47Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "HarvinTrading",
+        "body": "$AAPL",
+        "created_at": "2026-08-16T10:01:26Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$AAPL $INTC $TSM $AVGO $AMZN  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-16T09:29:32Z",
@@ -179,15 +185,21 @@
         "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA META GOOGL  \n  \n2 DTE&#39;s  \n \n🙃",
         "created_at": "2026-08-16T02:30:36Z",
         "sentiment": ""
-      },
-      {
-        "user": "ArcValueTrade",
-        "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
-        "created_at": "2026-08-16T02:25:13Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "ElliottwaveForecast",
+        "body": "📢 $AMD  Finds Support in the Blue Box    \n \n💻 Advanced Micro Devices pulled back into the Elliott Wave buyers’ zone. The reaction higher confirms support, keeping the bullish path intact for further upside.  \n \nFull analysis 👉 https://elliottwave-forecast.com/stock-market/amd-finds-support-in-the-bl",
+        "created_at": "2026-08-16T10:14:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$AMD history 2008 back?",
+        "created_at": "2026-08-16T09:53:13Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$MSFT $AMD $TSM $AVGO $AAPL  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
@@ -234,18 +246,6 @@
         "user": "Mohammed1112",
         "body": "$AMD it’s going to 600$ this week, don’t miss this opportunity guys",
         "created_at": "2026-08-16T02:38:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ArcValueTrade",
-        "body": "Clues for Stock market directions-                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                   ",
-        "created_at": "2026-08-16T02:25:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$AMD $MU $MRVL https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "created_at": "2026-08-16T02:09:55Z",
         "sentiment": ""
       }
     ],
