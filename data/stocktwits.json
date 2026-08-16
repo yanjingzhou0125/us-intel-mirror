@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-16 15:46:13",
+  "ts": "2026-08-16 16:24:11",
   "tickers": {
     "NVDA": [
+      {
+        "user": "swingtraderavi",
+        "body": "$NLST $NVDA Netty has caught the eye of Howard. How interesting…",
+        "created_at": "2026-08-16T16:20:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Batman9988",
+        "body": "$QQQ $NVDA $SPY $AMZN \n\nLast time they were raising rates they were doing QT at the same time so if they plan on raising rates this time why do they keep injecting money into the markets? This is why I don&#39;t believe there will be any rate hikes at least until 2027.",
+        "created_at": "2026-08-16T16:19:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MilhouseVanhouten",
+        "body": "$GOOGL $NVDA $QQQ $SPCX tell us you’re too, broke to invest, without telling us. ￼",
+        "created_at": "2026-08-16T16:05:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PAHANA",
+        "body": "$QQQ  Ring \n$NVDA  Around \n$SPCX  The  \n$GOOGL  Rosie \nThey will all fall down \n \nThere will be a congressional hearing about this someday \nafter everyone loses their ass",
+        "created_at": "2026-08-16T15:58:39Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "AZZ_MAN",
+        "body": "$NVDA",
+        "created_at": "2026-08-16T15:58:18Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "sekhar60607",
+        "body": "$NVDA $SPCX  \nNVDA invests 21B in SPCX, which in turn buys NVDA chips. circular financing. I am not shorting any stocks, but staying away till the dust settles",
+        "created_at": "2026-08-16T15:48:57Z",
+        "sentiment": ""
+      },
       {
         "user": "AZZ_MAN",
         "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
@@ -25,45 +61,27 @@
         "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nAlphabet should open a subsidiary  hedge fund",
         "created_at": "2026-08-16T15:26:22Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nAlphabet Hedge Fund subsidiary",
-        "created_at": "2026-08-16T15:20:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nAlphabet should open a hedge fund subsidiary",
-        "created_at": "2026-08-16T15:19:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "esrouter",
-        "body": "$NBIS Accounts shitting on Burry are in terminal fear…. And you should be…. \n\nThursday saw a huge 7% spike caused by Johnny-come-lately retail, then immediately sold completely off negative. Friday on low volume, retail returned. Monday they will once again learn their lesson as $NVDA has committed ",
-        "created_at": "2026-08-16T15:18:44Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "kindness123",
-        "body": "$NVDA",
-        "created_at": "2026-08-16T15:18:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PrivateEquityAdvisors",
-        "body": "$NBIS $MU $NVDA $LUNR Nebius benefits from AI-cloud infrastructure demand, Micron benefits from memory and AI demand, Nvidia remains central to accelerated computing, and Intuitive Machines advances lunar infrastructure. I&#39;m watching AI capex, memory pricing, GPU demand, and space contracts.",
-        "created_at": "2026-08-16T15:18:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "david756",
-        "body": "$NLST $NVDA",
-        "created_at": "2026-08-16T15:15:48Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "_Thumper_",
+        "body": "$TSLA  /  $SPCX   \n \nMeanwhile, \n \nIn a Tesla Semi Truck Factory  \n \nNot too far away ... \n \n✅",
+        "created_at": "2026-08-16T16:10:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BBELLii",
+        "body": "$PSIG 👀👀👀. This is a bit risky however worth keeping an eye on \n$RDDT \n$SPCX \n$TSLA \n$.2.30 + plus could get wild , who knows 🥸",
+        "created_at": "2026-08-16T15:58:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TerzoMillennio",
+        "body": "$ALMU x $TSLA \n\nOptimus and CyberCab could probably use a good SWIR sensor",
+        "created_at": "2026-08-16T15:48:05Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "AZZ_MAN",
         "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
@@ -80,12 +98,6 @@
         "user": "GovernanceFocusedCapital",
         "body": "$TSLA $DJT $IREN $BTC Tesla remains focused on EVs and autonomy, DJT remains highly sentiment-driven, IREN benefits from Bitcoin mining and data-center demand, and Bitcoin remains sensitive to liquidity and adoption. I&#39;m watching vehicle deliveries, sentiment, power economics, and crypto flows.",
         "created_at": "2026-08-16T15:15:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PriceActionAdvisors",
-        "body": "$NBIS $TSLA $SLS $NLST Nebius benefits from AI-cloud infrastructure demand, Tesla remains driven by EVs, autonomy, and energy, SELLAS advances cancer immunotherapy, and Netlist remains focused on memory and patent-related opportunities. I&#39;m watching AI utilization, vehicle deliveries, clinical m",
-        "created_at": "2026-08-16T15:01:53Z",
         "sentiment": ""
       },
       {
@@ -111,21 +123,15 @@
         "body": "$TSLA   \nTelsa may be the largest company to publicly commit  Hari Kari \nim starting to think Elon believes hes fooling us \nI guess his army of robots will be driving his fleet of cybertrucks \nhttps://finance.yahoo.com/news/tesla-build-1-million-optimus-200624497.html",
         "created_at": "2026-08-16T13:17:35Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Mahaperrotta",
-        "body": "$TSLA $SPCX For some bizzare reason, members of the &#39;Elon is Lord&#39; Cult accuse anyone that doesn&#39;t believe in his BS is a &#39;socialist&#39; or Left. ...  \nSocialist ? ➡️ Elon &#39;Ketamine&#39; Musk  recently promised to &#39;eliminate world poverty&#39; and says because of his &#39;Ro",
-        "created_at": "2026-08-16T13:13:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA $TSLA $MSFT \n\n****NOTICE****",
-        "created_at": "2026-08-16T13:02:14Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "TerzoMillennio",
+        "body": "$ALMU x $AAPL \n\nWe all know IPhone could use a good SWIR sensor",
+        "created_at": "2026-08-16T15:48:58Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Buyporksellbellys",
         "body": "$AAPL Apple and Google should have bought the Lakers and made it the most technological Advanced stadium in the world",
@@ -179,15 +185,21 @@
         "body": "$AAPL Duh!!!! And why won’t they. Ridiculous to think it’s a US China race, that’s our administration narrative. Something coming…",
         "created_at": "2026-08-16T11:26:06Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "HarvinTrading",
-        "body": "$AAPL",
-        "created_at": "2026-08-16T10:01:26Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "Reet",
+        "body": "$AMD\n\nGiddyup!  The best analysts love AMD!",
+        "created_at": "2026-08-16T16:22:32Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Reet",
+        "body": "$AMD\n\nGiddyup!",
+        "created_at": "2026-08-16T16:18:00Z",
+        "sentiment": ""
+      },
       {
         "user": "BustaCapital",
         "body": "New options trading hours - Jane St and Citadel just fleecing retail more and more.... $AMD $HOOD $AMZN $GOOGL",
@@ -235,18 +247,6 @@
         "body": "$AMD $INFQ $XRP $IOVA AMD benefits from data-center and AI-chip demand, INFQ remains highly speculative, XRP remains tied to crypto liquidity and regulation, and Iovance advances personalized cancer immunotherapy. I&#39;m watching AI demand, liquidity, regulatory developments, and clinical commercia",
         "created_at": "2026-08-16T15:02:19Z",
         "sentiment": ""
-      },
-      {
-        "user": "ghoosa39",
-        "body": "$AMD 535 tomorrow - GOOGL TPU news",
-        "created_at": "2026-08-16T14:48:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Tifosi007",
-        "body": "$AMD \n\nThat’s how Lisa Su responds to 🐻 \n\nhttps://cloud.google.com/amd",
-        "created_at": "2026-08-16T12:50:44Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,22 +313,16 @@
     ],
     "MSFT": [
       {
+        "user": "Luckyskills007",
+        "body": "@LukeJSkywalker $MSFT",
+        "created_at": "2026-08-16T15:54:18Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "AZZ_MAN",
         "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
         "created_at": "2026-08-16T15:34:26Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "LateStageTradingGroup",
-        "body": "$WULF $ALT $MSFT $RKLB TeraWulf benefits from Bitcoin mining and data-center demand, Altimmune remains dependent on clinical development, Microsoft benefits from cloud and AI spending, and Rocket Lab benefits from launch and space-systems demand. I&#39;m watching power costs, clinical catalysts, AI ",
-        "created_at": "2026-08-16T15:19:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RenewableEnergyGroup",
-        "body": "$WULF $ALT $MSFT $RKLB TeraWulf benefits from Bitcoin mining and data-center demand, Altimmune remains dependent on clinical development, Microsoft benefits from cloud and AI spending, and Rocket Lab benefits from launch and space-systems demand. I&#39;m watching power costs, clinical catalysts, AI ",
-        "created_at": "2026-08-16T15:16:49Z",
-        "sentiment": ""
       },
       {
         "user": "StressTestCapital",
@@ -371,14 +365,20 @@
         "body": "$AMZN vs $MSFT",
         "created_at": "2026-08-16T11:54:00Z",
         "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$MSFT $AMD $TSM $AVGO $AAPL  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-16T09:20:23Z",
+        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
       {
-        "user": "VentureCapitalSecurities",
-        "body": "$IWM $BCRX $QXO $GOOG IWM provides small-cap exposure, BioCryst advances treatments for rare diseases, QXO remains execution-driven, and Google benefits from advertising and AI growth. I&#39;m watching small-cap momentum, prescription growth, acquisitions, and AI monetization.",
-        "created_at": "2026-08-16T15:17:55Z",
-        "sentiment": ""
+        "user": "TerzoMillennio",
+        "body": "$ALMU x $GOOG \n\nWaymo could use a good SWIR sensor",
+        "created_at": "2026-08-16T15:46:30Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "BEST_MAN_EVER",
@@ -437,6 +437,18 @@
     ],
     "META": [
       {
+        "user": "TaytoMan",
+        "body": "$SNAP 7ms photon latency in the lens optical engine. Insane fusion between software + hardware.  $META  in trouble. \n \nhttps://www.youtube.com/watch?v=bGA81ojsEFY",
+        "created_at": "2026-08-16T16:00:31Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SwingPlay",
+        "body": "$META such a bitch you are meta give me $600",
+        "created_at": "2026-08-16T15:58:55Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "GrowthStageInvestments",
         "body": "$ORCL $META $IBRX $APLD Oracle benefits from cloud and AI infrastructure demand, Meta benefits from advertising and AI monetization, IBRX remains dependent on oncology commercialization, and Applied Digital benefits from AI data-center demand. I&#39;m watching cloud growth, ad monetization, clinical",
         "created_at": "2026-08-16T15:19:33Z",
@@ -482,18 +494,6 @@
         "user": "ArcValueTrade",
         "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
         "created_at": "2026-08-16T02:25:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pocketmoney",
-        "body": "$BABA $GOOG $META 🧐",
-        "created_at": "2026-08-15T21:13:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META 🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉HUGE COME MONDAY🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉",
-        "created_at": "2026-08-15T20:14:34Z",
         "sentiment": ""
       }
     ]
