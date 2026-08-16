@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-16 04:35:29",
+  "ts": "2026-08-16 05:27:32",
   "tickers": {
     "NVDA": [
+      {
+        "user": "GarysterWynn",
+        "body": "@KmOz19 $SMCI rose to $51.40 into $nvda&#39;s previous May 20th ER",
+        "created_at": "2026-08-16T04:48:54Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CUPandHANDLE_CHARTS",
+        "body": "$QQQ ~ “If you ain’t got haters, you ain’t popping” ~ Bob Salah: NFL Head Coach. ~ Ed Zitron is a &quot;Folk Hero&quot; for the Al bears and skeptics in summer 2026 to which there are millions. Everyone outside of the (MAG7ai) or (MANGOS) shareholders want AI to fail and all the AI infrastructure co",
+        "created_at": "2026-08-16T04:47:03Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "pallasreg",
         "body": "@jimmybuckets727 Given the recent news about $NVDA &#39;s $21b stake, plus its upcoming earnings report, I think $SPCX will have a short rally sometime this week, and a few profit taking later. A bit bullish week for the stock for me.",
@@ -49,21 +61,15 @@
         "body": "$TSLA $AAPL $NVDA $META $SPY All heading higher before any drop happens.",
         "created_at": "2026-08-16T03:16:13Z",
         "sentiment": ""
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nActually the “bubble fear” you speak of is starting to wane.\nLook at this 5 year MONTHLY chart with the latest huge GREEN engulfing candle\n👇👇👇👇👇🔥🔥🔥🔥",
-        "created_at": "2026-08-16T03:12:31Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "StockTech7",
-        "body": "$QQQ $CRWV $NVDA $NBIS $SPY so calls?",
-        "created_at": "2026-08-16T03:02:39Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Greenthought",
+        "body": "$XPEV $NIO $TSLA",
+        "created_at": "2026-08-16T04:44:12Z",
+        "sentiment": ""
+      },
       {
         "user": "MilhouseVanhouten",
         "body": "$BTC.X $DJT $SPCX $SPY $TSLA this dudes avatar is his cat.. he shuts off his phone at midnight on Saturday.. to an ice cold bed with no family, no wife. Just.. Trump memes… I honestly feel bad for him.",
@@ -116,12 +122,6 @@
         "user": "BullishAaFf",
         "body": "$FFAI $NIO $RIVN $LCID $TSLA  \n🌟🌟🌟🌟🌟  \nIt&#39;s time for EV stonkholders to get paid in full! \nhttps://youtu.be/rexmpozJJH4?is=X4Y05eMGIwBOuKGv",
         "created_at": "2026-08-16T01:30:31Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "YourwifesBullll",
-        "body": "$ACHR  https://x.com/i/status/2088685464555274709  just a reminder ! $TSLA x $ACHR  Next partnership , if you dont believe that then sell and leave 🫡...palmer ,goldstein , elon  will be a next level partnership!!",
-        "created_at": "2026-08-16T00:27:21Z",
         "sentiment": "Bullish"
       }
     ],
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "YodaStockInvests",
+        "body": "I would never own a 2x leverage ETF of any stock, not even of $AMD. \nPlus I am against margin in general.\nAm I crazy for that?",
+        "created_at": "2026-08-16T04:36:01Z",
+        "sentiment": ""
+      },
+      {
         "user": "ShortKing8figs",
         "body": "$AMD sure it will 🤣🤣 bulls says this all day everyday. It’s almost comical!!",
         "created_at": "2026-08-16T03:25:45Z",
@@ -240,12 +246,6 @@
         "user": "TaxiTravisBickle",
         "body": "$AMD",
         "created_at": "2026-08-16T01:34:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ElliottwaveForecast",
-        "body": "$AMD — The latest daily chart shows the bullish expected path. \nThe structure continues supporting further upside following the current correction. \n \nTrade the Blue Boxes, High Frequency areas. \n \n#elliottwave #ElliottWave #trading #AMD #Stocks #HighFrequency #BlueBox",
-        "created_at": "2026-08-16T01:03:09Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "Luckyskills007",
+        "body": "$MSFT",
+        "created_at": "2026-08-16T04:58:30Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "DonJuanCapistran",
         "body": "@ElliottwaveForecast mmhmm just like $MSFT forecast eh?",
         "created_at": "2026-08-16T03:01:15Z",
@@ -365,12 +371,6 @@
         "body": "$MSFT get medication",
         "created_at": "2026-08-15T22:27:44Z",
         "sentiment": ""
-      },
-      {
-        "user": "kubbubsu",
-        "body": "$MSFT https://youtu.be/QKBUKvAoMr4 oh daddy...",
-        "created_at": "2026-08-15T21:21:55Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
