@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-16 22:20:12",
+  "ts": "2026-08-16 22:46:53",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Themadogtrader",
+        "body": "$SPCX looks like I’m buying $GOOG $NVDA and X the three companies that will control the future",
+        "created_at": "2026-08-16T22:37:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AlertsAndNews",
+        "body": "$NVDA Nvidia Cuts Planned OpenAI Data Center Guarantee From $250B To Under $120B -WSJ \n \nbig drop in commitments \n \nNvidia has reportedly downsized its planned financial guarantee for OpenAI’s proposed Ohio data center, with the chipmaker now expected to initially back less than $120 billion, down f",
+        "created_at": "2026-08-16T22:34:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "evanmedeiros",
+        "body": "$VIX $NVDA $SPY $QQQ $IGV",
+        "created_at": "2026-08-16T22:31:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "UpcomingCatalyst",
+        "body": "$NVDA STOCK CATALYST HUNTERS — LET’S FIND THE NEXT BIG MOVE! 🚨 \n \nA stock catalyst can make a stock 🚀 SPIKE or 📉 PLUNGE — earnings, FDA decisions, contracts, product launches, investor days, upgrades/downgrades, M&amp;A, lawsuits &amp; more. \n \nThe goal: Find the catalyst BEFORE the market fully rea",
+        "created_at": "2026-08-16T22:25:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MisterSplashyPants",
+        "body": "$NVDA $NVDL",
+        "created_at": "2026-08-16T22:24:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Yeezy",
+        "body": "$NVDA futes rippin!! $300 tomorrow! 🤣",
+        "created_at": "2026-08-16T22:21:59Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "CUPandHANDLE_CHARTS",
         "body": "$QQQ ~ Fantastic video. As a disciple of the classic 1999 book &quot;The Gorilla Game: Investing in high tech stocks &amp; the internet infrastructure boom&quot; this video is amazing. Covers everything you need to know if you are a AI bull or AI skeptic &amp; bear. Keep up the great work. As someon",
@@ -25,45 +61,21 @@
         "body": "$KEEL let’s see what this week brings huge movement ah Friday. So let’s see $NBIS $NVDA $MU $SMCI",
         "created_at": "2026-08-16T22:05:03Z",
         "sentiment": ""
-      },
-      {
-        "user": "MoneyManNow",
-        "body": "@sellthetop $NVDA knows  they can produce a GPU that can function in Space and $SMCI can cool the Space database.",
-        "created_at": "2026-08-16T21:32:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AI_fever",
-        "body": "$ORCL $NVDA $CRWV",
-        "created_at": "2026-08-16T21:32:49Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "AVGOmysugardaddy",
-        "body": "$AVGO $AMD $NVDA $GOOG  gotta be quick with those big dip buys before earnings. VMware bug fixed.",
-        "created_at": "2026-08-16T21:26:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sellthetop",
-        "body": "$SPCX - Why $NVDA buy $21 billion in SpaceX stock? \n \nWhat do they know?",
-        "created_at": "2026-08-16T21:25:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $SKHY $MU $NVDA $GOOG \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-16T21:17:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Bulllvsbear",
-        "body": "$NVDA  Thinking with a negative bear mentality won’t get you very far in life. True story.",
-        "created_at": "2026-08-16T21:05:27Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "iMoveTheMarket",
+        "body": "$LCID yes becuase they are building a factory, paying debt and devleoping new car.\n\nYour view ignores they have a 3.5 billion dollar sales chanell to $UBER theu have a 10 billion sales channel committed to by the Saudis whose royalty and trillion dollar fund have backed this as literally the prime c",
+        "created_at": "2026-08-16T22:44:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "whoscomingwithme",
+        "body": "$TSLA $1000 tomorrow?",
+        "created_at": "2026-08-16T22:41:53Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Robust1482",
         "body": "$TSLA we are going to see 355-360 tomorrow then drop like how we did friday!",
@@ -99,21 +111,27 @@
         "body": "@Christophergolens No, people are allin $TSLA and $SPCX and there are a lot of people doing that.",
         "created_at": "2026-08-16T20:39:14Z",
         "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$TSLA",
-        "created_at": "2026-08-16T20:39:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$TSLA",
-        "created_at": "2026-08-16T20:38:53Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL",
+        "created_at": "2026-08-16T22:46:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL  🛑🛑🛑🛑do you people realize the threats of a nuclear war of the USA getting hit. in are all scared tactics???",
+        "created_at": "2026-08-16T22:46:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "aet",
+        "body": "$AAPL https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-tim-cook-130001330.html",
+        "created_at": "2026-08-16T22:35:04Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ResearchTrends09",
         "body": "$AAPL 🛑🛑🛑🛑🛑READ!!!!!!!! Everything is about money.  Everything.!!!!!!!!",
@@ -155,27 +173,15 @@
         "body": "$AAPL.  This is the mainstream  media. All money is little pieces of paper with pictures of faces on it .. printed paper. Unlimited supply paper comes from wood and  wood comes from trees, unlimited asset. . Socialism will completely slow down. the crime shootings. Are they right?",
         "created_at": "2026-08-16T20:34:47Z",
         "sentiment": ""
-      },
-      {
-        "user": "EWF_Sandile",
-        "body": "Apple ($AAPL ) Elliott Wave Forecast Signals Extended Downside Path \n \nRead more here 👉 https://elliottwave-forecast.com/news/apple-aapl-forecast-elliott-wave-signals-extended-downside-path/ \n \n#trading #Elliottwave",
-        "created_at": "2026-08-16T20:23:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $AAPL $NVDA \n\nGetting Buff ?",
-        "created_at": "2026-08-16T20:21:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ashte",
-        "body": "$MAGS $AAPL $TSLA $NVDA \n\nMomentum stocks within MAGS, or moved away from their support levels!",
-        "created_at": "2026-08-16T19:42:30Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "DayTrader111",
+        "body": "$SPY $QQQ $AMD",
+        "created_at": "2026-08-16T22:23:28Z",
+        "sentiment": ""
+      },
       {
         "user": "rockystocksx",
         "body": "$AMD rounding tops usually lead to failed breakdowns and rounding bottoms usually lead to failed breakouts. at a nice spot going into monday.",
@@ -229,12 +235,6 @@
         "body": "$AMD Woodstock booking fees.  A metaphor for stock picking.  No?",
         "created_at": "2026-08-16T21:21:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-16T21:19:48Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -363,6 +363,18 @@
     ],
     "GOOG": [
       {
+        "user": "Themadogtrader",
+        "body": "$SPCX looks like I’m buying $GOOG $NVDA and X the three companies that will control the future",
+        "created_at": "2026-08-16T22:37:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "morgangj",
+        "body": "$AVGO $CBRS $GOOG $INTC",
+        "created_at": "2026-08-16T22:29:05Z",
+        "sentiment": ""
+      },
+      {
         "user": "THE_TRADE",
         "body": "$GOOG $GOOGL \n\nI think Alphabet will be Berkshire Hathaway&#39;s largest position eventually",
         "created_at": "2026-08-16T22:18:11Z",
@@ -409,18 +421,6 @@
         "body": "$GOOG https://finance.yahoo.com/markets/stocks/articles/alphabet-counts-ka-ching-spacex-123000680.html",
         "created_at": "2026-08-16T20:06:50Z",
         "sentiment": ""
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$GOOG $GOOGL $SPCX \n\nAlphabet is cheap below $500 you can ask Buffett",
-        "created_at": "2026-08-16T19:20:17Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "@nlst $NLST $SKHY $MU $NVDA $GOOG \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
-        "created_at": "2026-08-16T18:59:05Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
