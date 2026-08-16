@@ -1,69 +1,87 @@
 {
-  "ts": "2026-08-16 01:16:42",
+  "ts": "2026-08-16 02:42:02",
   "tickers": {
     "NVDA": [
       {
-        "user": "paramanari",
-        "body": "$NVDA I agree this could go upto $240 before earnings; but I see this dropping back quickly to $210 range or lower after earnings; Fear is spreading about and AI bubble, and there are a lot more cautions people out there.",
-        "created_at": "2026-08-16T00:48:08Z",
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA META GOOGL  \n  \n2 DTE&#39;s  \n \n🙃",
+        "created_at": "2026-08-16T02:30:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
+        "created_at": "2026-08-16T02:24:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Adamchristlover",
+        "body": "$APLD  $SOFI $NVDA $MU $RKLB  \nGreat to hear it. I got a list from you last year or so, and they all did an amazing job so far.",
+        "created_at": "2026-08-16T02:17:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AreWeWinning",
+        "body": "$MSFT $NVDA $QQQ $SPY",
+        "created_at": "2026-08-16T02:09:52Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "penny_z",
+        "body": "$NVDA $MSFT $SPY $QQQ\n\nClassic Wall Street &quot;Friday Night News Dump&quot;:\n\nAt 7:29 PM ET Friday—long after market close—the WSJ dropped the bombshell: Nvidia slashed its planned $250 BILLION OpenAI debt backstop to under $120B.\n\nWhy the timing matters:\n1. Panic Containment: Dropping major negat",
+        "created_at": "2026-08-16T02:07:15Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "TRBTEME",
+        "body": "$NVDA",
+        "created_at": "2026-08-16T02:06:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "penny_z",
+        "body": "$NVDA $MSFT $SPY $QQQ\n\nClassic Wall Street &quot;Friday Night News Dump&quot;:\n\nAt 7:29 PM ET Friday—long after market close—the WSJ dropped the bombshell: Nvidia slashed its planned $250 BILLION OpenAI debt backstop to under $120B.\n\nWhy the timing matters:\n1. Panic Containment: Dropping major negat",
+        "created_at": "2026-08-16T02:00:59Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "CUPandHANDLE_CHARTS",
+        "body": "$QQQ ~ 😂  Jane Street investment bank just suffered the worst monthly loss in its history roughly 15 billion in July 2026 from Jane Street&#39;s investment in nearly failed AI Infrastructure hedge fund “Situational Awareness”. The investment had grown to nearly 10 billion but fell to approximately 3",
+        "created_at": "2026-08-16T01:56:06Z",
         "sentiment": ""
       },
       {
         "user": "bullishforeverbrah",
-        "body": "$NVDA 💩🖕💩🖕💩🖕💩🖕💩🖕",
-        "created_at": "2026-08-16T00:48:01Z",
+        "body": "$NVDA it will drop on earnings day as it always does 💩🖕",
+        "created_at": "2026-08-16T01:23:59Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "profitabletrader1234",
-        "body": "$XHG $HTZ $SPY $NVDA\n\n$FAMI looks crazy cheap",
-        "created_at": "2026-08-16T00:28:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "thszda",
-        "body": "Nvidia Feynman pushes TSMC A16 and CPO ramp\n\n$NVDA $TSM $SMCI $DRAM $MU https://www.digitimes.com/news/a20260814PD215/nvidia-tsmc-cpo-rubin-development.html",
-        "created_at": "2026-08-16T00:17:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Paraboljoker",
-        "body": "$FAMI 👀 Weekend DD keeps getting more interesting. \nFarmmi’s actual SEC filing shows $52.46M in operating cash flow for FY2025 versus -$16.78M the year before. That’s nearly a $69M year-over-year swing. � \nSEC \nImportant: I’m NOT calling that $52M profit. Farmmi says supplier-advance refunds and oth",
-        "created_at": "2026-08-15T23:52:43Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sp122809",
-        "body": "$NVDA this is weekly money making machine but stick won&#39;t go anywhere",
-        "created_at": "2026-08-15T23:50:17Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sp122809",
-        "body": "$NBIS $NVDA anybody still bringing up all time loser is bigger clown. I don&#39;t understand why people still listen to him or quote him all the time.",
-        "created_at": "2026-08-15T23:48:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "UncleElmo",
-        "body": "$NBIS Nebius just rented out $NVDA 2020 A100     chips at full rate for next (3) years proving chip life is at least (9) years. Burry proven wrong.",
-        "created_at": "2026-08-15T23:47:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sp122809",
-        "body": "$NVDA $SMH up 100% in last 12 months while $NVDA up only 23%\n\nWhat a POS $NVDA has beem in last one year. \n\nW/o nvda, smh would have been up probably 120%",
-        "created_at": "2026-08-15T23:46:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nThe 500B deal with Wall Street and the recent 150B revision on NVDA’s commitment to Open AI are &gt;&gt;RELATED&lt;&lt;&lt; and provide a much more RATIONAL solution than the original “plan” for NVDA to commit hundreds of billions up front.\n👇👇👇👇👇\nNvidia&#39;s $500 billion financing initiative",
-        "created_at": "2026-08-15T23:43:37Z",
+        "user": "lakeloon123",
+        "body": "$NVDA climb a wall of worry comes to mind..Burrys crew working hard seeding doubt this weekend",
+        "created_at": "2026-08-16T01:20:20Z",
         "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
+        "created_at": "2026-08-16T02:24:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "beestMod516",
+        "body": "Ouch hit home bro … for many retail. \n$SPY $DJT $QQQ $MU $TSLA",
+        "created_at": "2026-08-16T01:55:55Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BullishAaFf",
+        "body": "$FFAI $NIO $RIVN $LCID $TSLA  \n🌟🌟🌟🌟🌟  \nIt&#39;s time for EV stonkholders to get paid in full! \nhttps://youtu.be/rexmpozJJH4?is=X4Y05eMGIwBOuKGv",
+        "created_at": "2026-08-16T01:30:31Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "YourwifesBullll",
         "body": "$ACHR  https://x.com/i/status/2088685464555274709  just a reminder ! $TSLA x $ACHR  Next partnership , if you dont believe that then sell and leave 🫡...palmer ,goldstein , elon  will be a next level partnership!!",
@@ -105,27 +123,21 @@
         "body": "$ABAT $SPCX $TSLA   next $60B acquisition for Musk is ABAT. I suppose I could live with an ABAT $441 PPS  buyout. Mighty",
         "created_at": "2026-08-15T23:26:57Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Joe_Mama",
-        "body": "$TSLA It’s best when even Bears are calling for it to go higher. Denial can be costly.",
-        "created_at": "2026-08-15T23:18:23Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mighty_Maven",
-        "body": "$TSLA thanks for the cheapies bears. Nothing has changed except for a better entry. Mighty",
-        "created_at": "2026-08-15T23:14:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AStrokeOfLuck",
-        "body": "$UBER $TSLA",
-        "created_at": "2026-08-15T23:02:02Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA META GOOGL  \n  \n2 DTE&#39;s  \n \n🙃",
+        "created_at": "2026-08-16T02:30:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
+        "created_at": "2026-08-16T02:25:13Z",
+        "sentiment": ""
+      },
       {
         "user": "ElliottwaveForecast",
         "body": "$AAPL — The daily chart shows a clear bullish path into new all-time highs. \nThe structure continues supporting further upside. \n \nTrade the Blue Boxes, High Frequency areas. \n \n#elliottwave #ElliottWave #trading #AAPL #Apple #Stocks #HighFrequency #BlueBox",
@@ -173,21 +185,45 @@
         "body": "$AAPL Reebok is a strong sell!",
         "created_at": "2026-08-15T18:51:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "lind0",
-        "body": "$AAPL All of the major moving averages are converging. Interesting to see what happens to the market in general if this behemoth slips underneath",
-        "created_at": "2026-08-15T18:48:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bazziggr",
-        "body": "$AAPL join with GOOGL GOOG next week",
-        "created_at": "2026-08-15T18:38:41Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
+      {
+        "user": "Mohammed1112",
+        "body": "$AMD it’s going to 600$ this week, don’t miss this opportunity guys",
+        "created_at": "2026-08-16T02:38:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions-                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                   ",
+        "created_at": "2026-08-16T02:25:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$AMD $MU $MRVL https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "created_at": "2026-08-16T02:09:55Z",
+        "sentiment": ""
+      },
+      {
+        "user": "aspie",
+        "body": "$AMD can we stay under $510 next week pls😭",
+        "created_at": "2026-08-16T02:07:08Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DayTrader111",
+        "body": "$SPY BREAKOUT INCOMING?  \n \nThe 2 Levels That Decide Next Week \n \n https://stockoptionalerts.com/day-traders-journal/f/spy-breakout-incoming-the-2-levels-that-decide-next-week $QQQ $AMD",
+        "created_at": "2026-08-16T01:45:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TaxiTravisBickle",
+        "body": "$AMD",
+        "created_at": "2026-08-16T01:34:40Z",
+        "sentiment": ""
+      },
       {
         "user": "ElliottwaveForecast",
         "body": "$AMD — The latest daily chart shows the bullish expected path. \nThe structure continues supporting further upside following the current correction. \n \nTrade the Blue Boxes, High Frequency areas. \n \n#elliottwave #ElliottWave #trading #AMD #Stocks #HighFrequency #BlueBox",
@@ -211,42 +247,6 @@
         "body": "$AMD $LITE $MU $NBIS $SNDK   Mistake to sell MU.  Hold long term and get wealthy.  Study it carefully.  Read the analyst reports.  Go MU…long term good be a $4,000 stock by end of 2027.",
         "created_at": "2026-08-15T23:45:47Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "TRBTEME",
-        "body": "$USAR $SPCX $AMD $RKLB",
-        "created_at": "2026-08-15T23:19:23Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GrandpaJaiKrishen",
-        "body": "$SNDK Changed From Growth theme to Momentum. Just keeping one memory stock, so selling $MU. Selling back $AMD doesnt fit with Momentum. Reduced dependance on Zacks rank, in fact I dont consider it for stock selection. Buying $NBIS and $LITE  to go with the Momentum theme. I am not going to make anym",
-        "created_at": "2026-08-15T22:52:32Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD  $SPY \n\nIn the latest Q2 13F filing, the legendary investor Stanley Druckenmiller loaded up on AMD and completely sold out of $INTC $AVGO $MU \n\nBought:$AMD 72,900 shares",
-        "created_at": "2026-08-15T22:51:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sp122809",
-        "body": "$MU $AMD $SNDK $NVDA fuck weekend, could have been another money making day. 🤣🤣",
-        "created_at": "2026-08-15T22:44:29Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "charliesdollar",
-        "body": "$SPY EVERYTHING IS BULLISH IN THIS BERNIE MADOFF PONZI STOCK MARKET. LOWEST UMITCH CONFIDENCE ON RECORD, HIGH INFLATION = BOOOLISH. HIGH WTI OIL = BULLISH. 10Y ALL TIME HIGH = BOOOOOOLISH $AMD $QQQ $IWM $USO.X",
-        "created_at": "2026-08-15T22:19:50Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "OldPom",
-        "body": "$AMD updated AMD analysis \n \nhttps://thebuildout.co/company/AMD",
-        "created_at": "2026-08-15T22:14:43Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,30 @@
     ],
     "MSFT": [
       {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
+        "created_at": "2026-08-16T02:25:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AreWeWinning",
+        "body": "$MSFT $NVDA $QQQ $SPY",
+        "created_at": "2026-08-16T02:09:52Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "penny_z",
+        "body": "$NVDA $MSFT $SPY $QQQ\n\nClassic Wall Street &quot;Friday Night News Dump&quot;:\n\nAt 7:29 PM ET Friday—long after market close—the WSJ dropped the bombshell: Nvidia slashed its planned $250 BILLION OpenAI debt backstop to under $120B.\n\nWhy the timing matters:\n1. Panic Containment: Dropping major negat",
+        "created_at": "2026-08-16T02:07:15Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "penny_z",
+        "body": "$NVDA $MSFT $SPY $QQQ\n\nClassic Wall Street &quot;Friday Night News Dump&quot;:\n\nAt 7:29 PM ET Friday—long after market close—the WSJ dropped the bombshell: Nvidia slashed its planned $250 BILLION OpenAI debt backstop to under $120B.\n\nWhy the timing matters:\n1. Panic Containment: Dropping major negat",
+        "created_at": "2026-08-16T02:00:59Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "diamond727",
         "body": "$BTC.X $GLD $MSFT $QQQ $SPY oh the elites,….  it’s just not enough to be filthy rich.",
         "created_at": "2026-08-16T01:06:20Z",
@@ -347,33 +371,15 @@
         "body": "$SPY $NVDA Powered by Ai $GOOGL $MSFT",
         "created_at": "2026-08-15T21:04:48Z",
         "sentiment": ""
-      },
-      {
-        "user": "GrowingWealth",
-        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;&lt;Weekend New Development: &quot;Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations&quot;  \n \n—6 PM ET Sunday, keep an eye on Oil + MNQ/NQ + Dow futures: the first real market reaction to the weekend Iran/Hormuz",
-        "created_at": "2026-08-15T20:20:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Record Highs: Should You Chase The Rally? Mentions: $MSFT $SPY $VIX https://talkmarkets.com/article/record-highs-should-you-chase-the-rally-1786818399",
-        "created_at": "2026-08-15T19:03:23Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "#AI Panic Around Software Has It Backwards $PLTR $MSFT $BTC.X https://talkmarkets.com/article/ai-panic-around-software-has-it-backwards-1786804058",
-        "created_at": "2026-08-15T19:01:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "altovarf",
-        "body": "$MSFT oh oh",
-        "created_at": "2026-08-15T18:58:35Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                    ",
+        "created_at": "2026-08-16T02:26:26Z",
+        "sentiment": ""
+      },
       {
         "user": "MountCapital",
         "body": "$GOOG $300 is coming, like it or not",
@@ -427,15 +433,15 @@
         "body": "$SPCX $NVDA $AMD $META $GOOG \nCIRCULAR FINANCE EXPLAINED:\nThis diagram visualizes a self-reinforcing economic loop where Nvidia invests capital into SpaceX, SpaceX uses those funds to buy Nvidia AI hardware to build data centers, and the resulting data center revenue fuels further hardware purchases",
         "created_at": "2026-08-15T18:37:39Z",
         "sentiment": ""
-      },
-      {
-        "user": "Bazziggr",
-        "body": "$GOOG next week?",
-        "created_at": "2026-08-15T18:24:22Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--                    \n                                                                                                                                             \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                  ",
+        "created_at": "2026-08-16T02:25:13Z",
+        "sentiment": ""
+      },
       {
         "user": "pocketmoney",
         "body": "$BABA $GOOG $META 🧐",
@@ -489,12 +495,6 @@
         "body": "$GOOG $META $MSFT $AMZN $SPY \n\nCAPEX craziness ….",
         "created_at": "2026-08-15T17:02:23Z",
         "sentiment": ""
-      },
-      {
-        "user": "chursinow62",
-        "body": "$META Fed might raise interest rates September. This is cooked",
-        "created_at": "2026-08-15T16:45:38Z",
-        "sentiment": "Bearish"
       }
     ]
   }
