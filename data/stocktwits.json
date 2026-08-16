@@ -1,69 +1,81 @@
 {
-  "ts": "2026-08-16 18:57:30",
+  "ts": "2026-08-16 19:24:45",
   "tickers": {
     "NVDA": [
       {
-        "user": "Riverrat69",
-        "body": "$NVDA https://x.com/mentoviax/status/2088998327119413589?s=46",
-        "created_at": "2026-08-16T18:51:17Z",
+        "user": "THE_TRADE",
+        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nAlphabet under $500 is cheap ask Buffett",
+        "created_at": "2026-08-16T19:16:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA bankruptcy sooner than you think 🖕",
+        "created_at": "2026-08-16T19:12:53Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA hello ugly losers 🖕",
+        "created_at": "2026-08-16T19:12:27Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA terrible ytd performance 💩🖕",
+        "created_at": "2026-08-16T19:12:09Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA dead stock 💩",
+        "created_at": "2026-08-16T19:11:56Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA no crying in the casino ugly losers 🖕",
+        "created_at": "2026-08-16T19:11:35Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA sub 200 this week 🖕",
+        "created_at": "2026-08-16T19:11:15Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "BashNew",
+        "body": "$NVDA Trump awfully quiet, MOU expires tomorrow \n\nI smell tacos tonight \n\n$SPY $QQQ",
+        "created_at": "2026-08-16T19:11:13Z",
         "sentiment": ""
       },
       {
-        "user": "PivotPoint_101",
-        "body": "$SPY \n\nThe weekend Furus are working hard this afternoon. \n\nNever see them during the week though\n when it’s crunch time \n\nWe will make them Watch and learn \n#pivotgroup🎬🔐\n\n$QQQ $IWM $NVDA",
-        "created_at": "2026-08-16T18:49:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ksbear",
-        "body": "$NVDA  that&#39;s first  400-700Billion losses on muti trillion nvda pays. This mother of all leverage and risk taking. \nNo ine has survived this as demand from hyper scaler slow down next year and neo clouds backed by nvda have no roic.",
-        "created_at": "2026-08-16T18:47:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ksbear",
-        "body": "$NVDA backing 400B-700B debt and finacing. The mother of all leverage. \nRecent 500B SPV NVDA will pay for the first 125B loss  based on the chips that  it will finance on the other end mostly to neoclouds which make no ROIC and compete will hypers scalers hoig, msft amzn",
-        "created_at": "2026-08-16T18:44:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "howardlindzon",
-        "body": "$NVDA - the worlds largest fintech...Interesting way to think of them now \n \nmultiple compresses because of transparency ? \n \nlaw of large numbers like $AAPL In many ways as they get Into ways to keep sales growth \n \nhttps://www.fintechbrainfood.com/p/nvidia-is-fintech?utm_source=www.fintechbrainfoo",
-        "created_at": "2026-08-16T18:43:20Z",
+        "user": "Wolfofwits",
+        "body": "$NBIS $NVDA $SLS $TSLA get a life.",
+        "created_at": "2026-08-16T19:08:07Z",
         "sentiment": ""
       },
       {
         "user": "techvested",
-        "body": "$SPY $QQQ $BABA $NVDA $SOXX  \nAlibaba&#39;s AI, Qwen downloads reach 3bln. There is no AI race. Not even close.  \n \nNothing but hot air (&amp; a ton of unproductive, toxic debt) holding up the S&amp;P bubble.  \n \nGLTA",
-        "created_at": "2026-08-16T18:41:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CNGLLC",
-        "body": "$NVDA Id like to see this really start making a move now up to earnings.  From all the great things I see in the news all the time we should be hitting 300 when earning come out.  So load up now !!! And party later ;-) and squeeze those shorts",
-        "created_at": "2026-08-16T18:39:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "cea",
-        "body": "@Stocktwits Reporting @CreditCardTradingCo for mass spamming. BLOCKED!",
-        "created_at": "2026-08-16T18:36:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "THECORLEONEFAMILY",
-        "body": "$AIFC $WLFI.X $NVDA $AVGO $ARM",
-        "created_at": "2026-08-16T18:36:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA this guy didn’t read the article did he",
-        "created_at": "2026-08-16T18:33:27Z",
-        "sentiment": "Bullish"
+        "body": "$SPY $NVDA $SPX $QQQ  $SOXX  \nRetail bet the farm on the wrong AI trade. $1.5 TRN of margin debt on the  \n \nGLTA  \nWill crash before midterms. Sell it all &amp; wait or fuse link below for ideas not exposed to the biggest bubble of all time - a leveraged bet on the losing horse in the AI race (S&amp",
+        "created_at": "2026-08-16T19:07:47Z",
+        "sentiment": "Bearish"
       }
     ],
     "TSLA": [
+      {
+        "user": "lekamaci",
+        "body": "$TSLA $XPEV",
+        "created_at": "2026-08-16T19:21:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Wolfofwits",
+        "body": "$NBIS $NVDA $SLS $TSLA get a life.",
+        "created_at": "2026-08-16T19:08:07Z",
+        "sentiment": ""
+      },
       {
         "user": "Stichy",
         "body": "$BTC.X Dumbass America $TSLA $SPY $RDDT $COIN",
@@ -111,21 +123,15 @@
         "body": "20hrs 3mins 24s left until Black Monday bro\n\n$QQQ $SPY $MU $TSLA $SOXL",
         "created_at": "2026-08-16T17:35:21Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Bee4ev",
-        "body": "$SPCX      Unreal, except it is.     https://www.youtube.com/watch?v=HZfW7Me3bCA        $TSLA      $RKLB     $FLY",
-        "created_at": "2026-08-16T17:32:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AndyonOptions",
-        "body": "@jd7138 One last thing that will hopefully open your mind a little. \n \n-Maga that didn&#39;t care for Elon before he bought twitter expressed themselves by not buying a Tesla. \n-Leftists/Democrats that hate Elon because he bouth twitter expressed themselves by burning down businesses, physically att",
-        "created_at": "2026-08-16T17:30:36Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY  @SonGoku pray with me brother \n\nLord  please keep the poor ppl energy away from us this week 🙏 amen \n\n💪👏\n$QQQ $AAPL $NVDA",
+        "created_at": "2026-08-16T19:05:11Z",
+        "sentiment": ""
+      },
       {
         "user": "IIILONERIII",
         "body": "$AAPL",
@@ -179,15 +185,21 @@
         "body": "$ALB $AAPL $SCHW $ABCL Albemarle remains tied to lithium prices and EV-battery demand, Apple benefits from its ecosystem and services, Charles Schwab benefits from asset gathering and trading activity, and AbCellera advances antibody-discovery technologies. I&#39;m watching lithium prices, product d",
         "created_at": "2026-08-16T17:22:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "LATAMTradingCo",
-        "body": "$LUNR $AAPL $CSCO $CRWV Intuitive Machines advances commercial lunar infrastructure, Apple benefits from its ecosystem and services, Cisco benefits from networking and AI infrastructure, and CoreWeave benefits from AI-cloud demand. I&#39;m watching lunar contracts, product demand, networking capex, ",
-        "created_at": "2026-08-16T17:20:10Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "GetUpGoDown",
+        "body": "$AMD if this gaps up then we prob continue to climb. 520-537 without the gap and now that 30 pt swings are back watch out for a replay before earnings. Pump to 520+ and unload. their B dollar debt issuance is odd to me at the same time read their cds spreads increased \nHow’s this play out? I see too",
+        "created_at": "2026-08-16T19:06:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-16T19:01:18Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Dr_Stoxx",
         "body": "$AMD",
@@ -235,21 +247,15 @@
         "body": "$AMD $INFQ $XRP $IOVA AMD benefits from data-center and AI-chip demand, INFQ remains highly speculative, XRP remains tied to crypto liquidity and regulation, and Iovance advances personalized cancer immunotherapy. I&#39;m watching AI demand, liquidity, regulatory developments, and clinical commercia",
         "created_at": "2026-08-16T17:19:56Z",
         "sentiment": ""
-      },
-      {
-        "user": "cubie",
-        "body": "@tonyctl @itsphd @Jeremymartin007 @Idiamondw @judgeyoung2 @jenbunn @ZY786 @Tradermikes40 @TraderRapp @zuby34 \n\n$MSFT $NVDA $MU $AMD $aapl",
-        "created_at": "2026-08-16T17:17:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "thelattehq",
-        "body": "$NVDA $AMD $AVGO\n\nhttps://www.thelattehq.com/p/the-market-is-holding-its-breath",
-        "created_at": "2026-08-16T16:59:46Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-16T19:01:18Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "TanMan295",
         "body": "$INTC long and short $AMD \n\n$AMD does not have a fab. $TSM  will increase prices and $AMD margins will be squeezed. \n\n‼️🚨 $AMD has no moat",
@@ -303,15 +309,21 @@
         "body": "Softbank Group cuts share stake in TSMC by 71.5% to 565,000 sponsored ADS - SEC filing. $TSM",
         "created_at": "2026-08-14T16:29:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "CapitalMonk",
-        "body": "$TSM\nPrice: $426.32 (-0.97%)\nTrend: Bullish\nMarket Bias (7D): Sideways ⚖️\nExpected Range: ±1.52%\nRSI: 64.5 | Momentum: Strong Momentum\nVolume: -72.5% vs avg\nVolatility: 2.68%\nSupport: $372.72 | Resistance: $436.04\n\nData and analytics sourced from Thescanner educational research https://www.thescanne",
-        "created_at": "2026-08-14T16:28:59Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "ripster47",
+        "body": "Trading $MSFT Earnings Long &amp; Memory Names With Ripster Clouds $MU, $SNDK, $SKHY \n\nWatch the video to learn how to trade this repeatable pattern 🎯\nhttps://x.com/i/status/2088717487672316293",
+        "created_at": "2026-08-16T19:09:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-16T19:01:18Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Ashte",
         "body": "$IGV $MSFT $PLTR $ORCL",
@@ -359,21 +371,21 @@
         "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
         "created_at": "2026-08-16T15:34:26Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "ElliottwaveForecast",
-        "body": "📊 Group 3 Weekend Charts Are Live! \n \n$MSFT is looking to complete a 5-wave rally from the June low with at least a 3-wave pullback expected to follow. \n \nSee the full update 👉 elliottwave-forecast.com \n \n#ElliottWave #Trading #Stocks #ETF",
-        "created_at": "2026-08-16T14:11:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "$SPY $PLTR is the Ai $GLD of Homestake Mining of the 1930’s!!! $0 Debt!!! Growing 100%+ per year!!! Rule of 40 = 155%!!! Replacing $MSFT at $DELL !!! \n \nhttps://www.dell.com/en-us/blog/dell-and-palantir-introduce-an-on-premises-ai-operating-system/",
-        "created_at": "2026-08-16T13:39:31Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "THE_TRADE",
+        "body": "$GOOG $GOOGL $SPCX \n\nAlphabet is cheap below $500 you can ask Buffett",
+        "created_at": "2026-08-16T19:20:17Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
+        "body": "@nlst $NLST $SKHY $MU $NVDA $GOOG \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-16T18:59:05Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "MultiVenueTrading",
         "body": "$IWM $BCRX $QXO $GOOG IWM provides small-cap exposure, BioCryst advances treatments for rare diseases, QXO remains execution-driven, and Google benefits from advertising and AI growth. I&#39;m watching small-cap momentum, prescription growth, acquisitions, and AI monetization.",
@@ -420,18 +432,6 @@
         "user": "AboutTime2022",
         "body": "$GOOG I’ll take $315 or $350. We know where this will be in a year. 😊🚂",
         "created_at": "2026-08-16T13:48:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "$SPY $GOOG $AMZN  Anthropic is talking $1 Trillion Market Cap!!! \n \n$PLTR runs all the cool stuff  on  Claude et al!!! \n$AAPL of Ai \nhttps://media.stocktwits-cdn.com/api/3/media/12965646/default.webp",
-        "created_at": "2026-08-16T13:10:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Patiencepayss",
-        "body": "$GOOG Price target for monday?",
-        "created_at": "2026-08-16T10:24:23Z",
         "sentiment": "Bullish"
       }
     ],
