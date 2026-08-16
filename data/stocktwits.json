@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-16 03:48:01",
+  "ts": "2026-08-16 04:35:29",
   "tickers": {
     "NVDA": [
+      {
+        "user": "pallasreg",
+        "body": "@jimmybuckets727 Given the recent news about $NVDA &#39;s $21b stake, plus its upcoming earnings report, I think $SPCX will have a short rally sometime this week, and a few profit taking later. A bit bullish week for the stock for me.",
+        "created_at": "2026-08-16T04:02:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "CUPandHANDLE_CHARTS",
+        "body": "$QQQ ~ &#39;Big Short&#39; Investor: The AI bull Narrative is Falling Apart in Aug 2026. &quot;Financial Engineering&quot; &amp; “Circular Financing”. Good luck everyone. $SPY $SMH $NVDA $CRWV",
+        "created_at": "2026-08-16T03:57:11Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AVGOmysugardaddy",
+        "body": "$AVGO $NVDA $MRVL NVDA    earnings on August 26th and Marvel earnings on August 27th, should take AVGO up within the next  2 weeks before ER.",
+        "created_at": "2026-08-16T03:55:40Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "CUPandHANDLE_CHARTS",
+        "body": "$QQQ ~ What happens to Life Insurance and Pensions If (when) AI infrastructure Bubble bursts? $SPY $NVDA $NBIS $CRWV",
+        "created_at": "2026-08-16T03:50:51Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Bowlly",
         "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
@@ -37,33 +61,21 @@
         "body": "$QQQ $CRWV $NVDA $NBIS $SPY so calls?",
         "created_at": "2026-08-16T03:02:39Z",
         "sentiment": ""
-      },
-      {
-        "user": "fanttomas",
-        "body": "$NVDA Ask ChatGPT  \n&quot;which companies does Nvidia own, hold a stake in, or support worldwide?&quot; \n—you’ll definitely be surprised by the answer.",
-        "created_at": "2026-08-16T03:01:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ “The smartest guys in the room 2.0”. 1999 vs 2026. ~ Enron trying to turn “internet fiber” into a traded financial commodity in the late 1990s internet infrastructure boom and Nvidia working with Wall Street to treat “AI compute/GPUs” as a backed asset class and upcoming futures market in the",
-        "created_at": "2026-08-16T02:58:15Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Keeportrade",
-        "body": "$NVDA Didn’t the Bears say $250 Billion Open AI Debt was way too much and a mistake Interesting spin that now, Bears say, reducing it to $120B is a negative.\nFunny spin on things - not sure what it means other than Bears find something negative in anything &amp; everything. GL w/that thesis.",
-        "created_at": "2026-08-16T02:54:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "fanttomas",
-        "body": "$NVDA Nvidia has $21 billion SpaceX stake, $30 billion in Intel shares \nhttps://fortune.com/2026/08/15/nvidia-21-billion-spacex-stake-30-billion-intel-shares/",
-        "created_at": "2026-08-16T02:51:06Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "MilhouseVanhouten",
+        "body": "$BTC.X $DJT $SPCX $SPY $TSLA this dudes avatar is his cat.. he shuts off his phone at midnight on Saturday.. to an ice cold bed with no family, no wife. Just.. Trump memes… I honestly feel bad for him.",
+        "created_at": "2026-08-16T04:05:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HerrBroekman",
+        "body": "$SPY $DJT $SPCX $TSLA $BTC.X when trump got elected the second time",
+        "created_at": "2026-08-16T03:50:24Z",
+        "sentiment": ""
+      },
       {
         "user": "Bowlly",
         "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
@@ -111,18 +123,6 @@
         "body": "$ACHR  https://x.com/i/status/2088685464555274709  just a reminder ! $TSLA x $ACHR  Next partnership , if you dont believe that then sell and leave 🫡...palmer ,goldstein , elon  will be a next level partnership!!",
         "created_at": "2026-08-16T00:27:21Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "everevolving09",
-        "body": "$TSLA likely heading higher",
-        "created_at": "2026-08-16T00:05:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "OnlyFibs",
-        "body": "JUST IN: California Uber driver reveals Tesla’s Full Self-Driving now handles 95% of his driving, with his Uber safety score rising from 70% to 98%. $UBER $TSLA",
-        "created_at": "2026-08-15T23:57:52Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
