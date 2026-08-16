@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-16 15:20:44",
+  "ts": "2026-08-16 15:46:13",
   "tickers": {
     "NVDA": [
+      {
+        "user": "AZZ_MAN",
+        "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
+        "created_at": "2026-08-16T15:34:26Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ARC19",
+        "body": "$NVDA NVDA going to new highs on its way to $300. $400+ in 1927. Just my opinion!",
+        "created_at": "2026-08-16T15:32:19Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA nvidia you&#39;re looking aftering it for the next generation $GOOGL $BTC.X",
+        "created_at": "2026-08-16T15:31:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "THE_TRADE",
+        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nAlphabet should open a subsidiary  hedge fund",
+        "created_at": "2026-08-16T15:26:22Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "THE_TRADE",
         "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nAlphabet Hedge Fund subsidiary",
@@ -37,33 +61,15 @@
         "body": "$NLST $NVDA",
         "created_at": "2026-08-16T15:15:48Z",
         "sentiment": ""
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX",
-        "created_at": "2026-08-16T15:15:42Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GovernanceFocusedCapital",
-        "body": "$NBIS $MU $NVDA $LUNR Nebius benefits from AI-cloud infrastructure demand, Micron benefits from memory and AI demand, Nvidia remains central to accelerated computing, and Intuitive Machines advances lunar infrastructure. I&#39;m watching AI capex, memory pricing, GPU demand, and space contracts.",
-        "created_at": "2026-08-16T15:15:23Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tango881133",
-        "body": "$AIBZ $CRWV $NVDA $CBRS \n\nAIBZ which our analysts think is a major winner Bank Julius Baer acquired 5.2% of the company in the open market.  BITZERO is a developer in NORWAY and FINLAND &amp; USA for Data Centers but Norway is the new frontier cheapest power, environmental temperatures, rule law and",
-        "created_at": "2026-08-16T15:10:57Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Exiledhybrid",
-        "body": "$AMPG $AMPG My bet on the San Diego padres (11k turned into 22.5k) then bet 22.5k on dodgers  and turned into 33k. Any thoughts? And no I don’t plan on sports betting anymore.. I blame $AMPG earnings call where I took a 36k loss (including unrealized profits wiped out when it tanked to $4)  from my ",
-        "created_at": "2026-08-16T15:10:25Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "AZZ_MAN",
+        "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
+        "created_at": "2026-08-16T15:34:26Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "PrivateEquityAdvisors",
         "body": "$TSLA $DJT $IREN $BTC Tesla remains focused on EVs and autonomy, DJT remains highly sentiment-driven, IREN benefits from Bitcoin mining and data-center demand, and Bitcoin remains sensitive to liquidity and adoption. I&#39;m watching vehicle deliveries, sentiment, power economics, and crypto flows.",
@@ -74,12 +80,6 @@
         "user": "GovernanceFocusedCapital",
         "body": "$TSLA $DJT $IREN $BTC Tesla remains focused on EVs and autonomy, DJT remains highly sentiment-driven, IREN benefits from Bitcoin mining and data-center demand, and Bitcoin remains sensitive to liquidity and adoption. I&#39;m watching vehicle deliveries, sentiment, power economics, and crypto flows.",
         "created_at": "2026-08-16T15:15:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PortfolioHedgeGroup",
-        "body": "$SLS $NBIS $TSLA $NVDA SELLAS remains focused on cancer immunotherapy, Nebius benefits from AI-cloud infrastructure demand, Tesla remains driven by EVs, autonomy, and energy, and Nvidia remains central to accelerated-computing demand. I&#39;m watching clinical catalysts, GPU demand, vehicle deliveri",
-        "created_at": "2026-08-16T15:09:06Z",
         "sentiment": ""
       },
       {
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "Buyporksellbellys",
+        "body": "$AAPL Apple and Google should have bought the Lakers and made it the most technological Advanced stadium in the world",
+        "created_at": "2026-08-16T15:44:00Z",
+        "sentiment": ""
+      },
+      {
         "user": "GrowthStageInvestments",
         "body": "$AAPL $AMD $PATH $WEN Apple benefits from its ecosystem and services, AMD benefits from AI and data-center demand, UiPath remains tied to enterprise automation, and Wendy&#39;s depends on restaurant traffic and franchise economics. I&#39;m watching product demand, AI spending, automation adoption, a",
         "created_at": "2026-08-16T15:19:09Z",
@@ -136,12 +142,6 @@
         "user": "CleanTechAdvisors",
         "body": "$AAPL $AMD $PATH $WEN Apple benefits from its ecosystem and services, AMD benefits from AI and data-center demand, UiPath remains tied to enterprise automation, and Wendy&#39;s depends on restaurant traffic and franchise economics. I&#39;m watching product demand, AI spending, automation adoption, a",
         "created_at": "2026-08-16T15:16:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PortfolioHedgeGroup",
-        "body": "$NFLX $AAPL $SOFI $INFQ Netflix benefits from streaming engagement and advertising, Apple benefits from its ecosystem and services, SoFi benefits from financial-product growth, and INFQ remains highly speculative. I&#39;m watching subscriber trends, services growth, member additions, credit quality,",
-        "created_at": "2026-08-16T15:09:30Z",
         "sentiment": ""
       },
       {
@@ -163,12 +163,6 @@
         "sentiment": "Bullish"
       },
       {
-        "user": "FunktradEE2",
-        "body": "$AAPL",
-        "created_at": "2026-08-16T14:25:24Z",
-        "sentiment": ""
-      },
-      {
         "user": "dojidad",
         "body": "$AAPL If you look back at the last 13 months, AAPL spent about 2 months under the 50-day (red line). I can see it came down and tested the 50 awhile ago. See that big green candle on the bounce back? It&#39;s like the stock said &quot;wait a minute, I do not want to go down there.&quot; So I am watc",
         "created_at": "2026-08-16T14:03:03Z",
@@ -185,9 +179,21 @@
         "body": "$AAPL Duh!!!! And why won’t they. Ridiculous to think it’s a US China race, that’s our administration narrative. Something coming…",
         "created_at": "2026-08-16T11:26:06Z",
         "sentiment": "Bullish"
+      },
+      {
+        "user": "HarvinTrading",
+        "body": "$AAPL",
+        "created_at": "2026-08-16T10:01:26Z",
+        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "BustaCapital",
+        "body": "New options trading hours - Jane St and Citadel just fleecing retail more and more.... $AMD $HOOD $AMZN $GOOGL",
+        "created_at": "2026-08-16T15:40:50Z",
+        "sentiment": ""
+      },
       {
         "user": "GrowthStageInvestments",
         "body": "$AAPL $AMD $PATH $WEN Apple benefits from its ecosystem and services, AMD benefits from AI and data-center demand, UiPath remains tied to enterprise automation, and Wendy&#39;s depends on restaurant traffic and franchise economics. I&#39;m watching product demand, AI spending, automation adoption, a",
@@ -240,12 +246,6 @@
         "user": "Tifosi007",
         "body": "$AMD \n\nThat’s how Lisa Su responds to 🐻 \n\nhttps://cloud.google.com/amd",
         "created_at": "2026-08-16T12:50:44Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $SPY $QQQ \n\nWall Street Analyst - Timothy Arcuri\n\nWith a 78.5% Success Rate Maintains a BUY Rating for AMD \n\nPrice Target: $730 per share",
-        "created_at": "2026-08-16T12:27:46Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "AZZ_MAN",
+        "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
+        "created_at": "2026-08-16T15:34:26Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "LateStageTradingGroup",
         "body": "$WULF $ALT $MSFT $RKLB TeraWulf benefits from Bitcoin mining and data-center demand, Altimmune remains dependent on clinical development, Microsoft benefits from cloud and AI spending, and Rocket Lab benefits from launch and space-systems demand. I&#39;m watching power costs, clinical catalysts, AI ",
         "created_at": "2026-08-16T15:19:58Z",
@@ -365,12 +371,6 @@
         "body": "$AMZN vs $MSFT",
         "created_at": "2026-08-16T11:54:00Z",
         "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$MSFT $AMD $TSM $AVGO $AAPL  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-16T09:20:23Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
