@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-16 21:19:48",
+  "ts": "2026-08-16 21:44:46",
   "tickers": {
     "NVDA": [
+      {
+        "user": "MoneyManNow",
+        "body": "@sellthetop $NVDA knows  they can produce a GPU that can function in Space and $SMCI can cool the Space database.",
+        "created_at": "2026-08-16T21:32:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AI_fever",
+        "body": "$ORCL $NVDA $CRWV",
+        "created_at": "2026-08-16T21:32:49Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "AVGOmysugardaddy",
+        "body": "$AVGO $AMD $NVDA $GOOG  gotta be quick with those big dip buys before earnings. VMware bug fixed.",
+        "created_at": "2026-08-16T21:26:12Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "sellthetop",
+        "body": "$SPCX - Why $NVDA buy $21 billion in SpaceX stock? \n \nWhat do they know?",
+        "created_at": "2026-08-16T21:25:18Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $SKHY $MU $NVDA $GOOG \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
@@ -37,33 +61,15 @@
         "body": "$NVDA I was so exited 2 years and 2 months ago when this stock was at 70&#39;s P/E when I bought in but I had to cash in a bunch of CD&#39;s at a loss because I didn&#39;t hold until maturity but I knew the money put in Nvidia shares would easily over shadow the CD losses one day but I didn&#39;t kn",
         "created_at": "2026-08-16T20:51:38Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA $QQQ $SPY \n\nDeal soon",
-        "created_at": "2026-08-16T20:37:20Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$NVDA  are they right? Wanting socialism remember the USA is not like other countries. We are the richest the most powerful.?  I say again are they right?",
-        "created_at": "2026-08-16T20:36:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nNVIDIA’ s “SANDBOX “\n\nStrategic De-risking via Private Capital: Nvidia has pivoted to mitigate circularity fire. The company has established major financing consortiums with institutional heavyweights like BlackRock, Blackstone, KKR, and Apollo Global Management. Under these structures, Nvidi",
-        "created_at": "2026-08-16T20:32:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $AAPL $NVDA \n\nGetting Buff ?",
-        "created_at": "2026-08-16T20:21:21Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Robust1482",
+        "body": "$TSLA we are going to see 355-360 tomorrow then drop like how we did friday!",
+        "created_at": "2026-08-16T21:35:53Z",
+        "sentiment": ""
+      },
       {
         "user": "USAEquityResearch",
         "body": "$TSLA 📊 USAEquityResearch\n\n▲ 342.27  (+0.68%)\n\nTrend: Cautiously bullish ↗️\nRSI (14): 70.4 — overbought, extended, caution warranted\nMACD: bullish, above signal line and rising\nVolume: normal\n\n📌 Key Levels\nResistance: 378.93\nSupport: 298.32\n20-MA: 329.14  |  50-MA: 371.09\n\nEducational content only. ",
@@ -104,12 +110,6 @@
         "user": "ResearchTrends09",
         "body": "$TSLA",
         "created_at": "2026-08-16T20:38:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$TSLA  🛑🛑🛑is this the way it’s going to be in 2028?. What do you think? I mean, what the hell socialism is already here. Snap Benefits discounted utilities discounted rent just about free healthcare.  Families with five kids you do not want to work welfare and they get paid cash every month.?  Hell ",
-        "created_at": "2026-08-16T20:38:43Z",
         "sentiment": ""
       }
     ],
@@ -177,6 +177,54 @@
     ],
     "AMD": [
       {
+        "user": "AVGOmysugardaddy",
+        "body": "$AMD $AVGO those security issues always get fixed right away.",
+        "created_at": "2026-08-16T21:39:11Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ivan8311",
+        "body": "$AMD $AVGO what a nothing burger up we go 😎😎😎",
+        "created_at": "2026-08-16T21:36:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AVGOmysugardaddy",
+        "body": "$AVGO $AMD $NVDA $GOOG  gotta be quick with those big dip buys before earnings. VMware bug fixed.",
+        "created_at": "2026-08-16T21:26:12Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AVGOmysugardaddy",
+        "body": "$AVGO $AMD $NVDA$GOOG      has fixed the  VMware  issue that came up on Friday . It had nothing to do with AMD rumors, FUD spread. I quickly bought the opportunistic drop on Friday.",
+        "created_at": "2026-08-16T21:24:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Balance3216",
+        "body": "@Oakenshield nice moves !  Always hard selling for loss … as afraid miss leg up but sometimes u have to and move on and re enter … so much volatility I was down like 100 k Half of this trading account but selling and re positioning “won” back 120 k with both short and long positions … its crazy some",
+        "created_at": "2026-08-16T21:23:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StageAnalysis",
+        "body": "Weekend Video Part 1: US Watchlist Stocks $AAOI, $AMD, $GDX (6mins) \n \n▪️Login for full length video (1hr 4mins) discussing all the data for the Stage Analysis method (made famous in Stan Weinstein&#39;s classic book) \n \nhttps://www.stageanalysis.net/blog/1404131/stage-analysis-members-video-16-augu",
+        "created_at": "2026-08-16T21:22:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "2x_Overhead",
+        "body": "$AMD Woodstock booking fees.  A metaphor for stock picking.  No?",
+        "created_at": "2026-08-16T21:21:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-16T21:19:48Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "asbpame",
         "body": "$INTC $AMD $AMD you&#39;re 💯 right!!! I have been saying this last weeks...and we are decoupling for good i think",
         "created_at": "2026-08-16T21:17:31Z",
@@ -187,57 +235,15 @@
         "body": "$INTC $AMD $AMD $TSM $AMD $AMD absolutly...AND will be the imediate loser with Intel ongoing sucess",
         "created_at": "2026-08-16T21:15:22Z",
         "sentiment": ""
-      },
-      {
-        "user": "Austinhilton",
-        "body": "AI spending among US companies is accelerating:\n\nThe top 1% of US businesses spent a record median of $7,400 per employee per month on AI in July, according to Ramp.\n\nThis compares to a record $650 per employee for the top 10% of businesses and $11.95 per employee for the median firm.\n\nOver the last",
-        "created_at": "2026-08-16T21:02:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "CJJay",
-        "body": "$ALOY Huge week coming here to ALOY. Add any dips and just hold. We will see $20 soon and then more $$$.  $USAR  $MP  $AMD",
-        "created_at": "2026-08-16T20:46:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$AMD $MU $MRVL",
-        "created_at": "2026-08-16T20:26:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$AMD today&#39;s harvest!",
-        "created_at": "2026-08-16T19:57:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "iTrade_Price",
-        "body": "$AMD amd",
-        "created_at": "2026-08-16T19:46:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GetUpGoDown",
-        "body": "$AMD if this gaps up then we prob continue to climb. 520-537 without the gap and now that 30 pt swings are back watch out for a replay before earnings. Pump to 520+ and unload. their B dollar debt issuance is odd to me at the same time read their cds spreads increased \nHow’s this play out? I see too",
-        "created_at": "2026-08-16T19:06:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
-        "created_at": "2026-08-16T19:01:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Dr_Stoxx",
-        "body": "$AMD",
-        "created_at": "2026-08-16T18:56:17Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-16T21:19:48Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "asbpame",
         "body": "$INTC $AMD $AMD $TSM $AMD $AMD absolutly...AND will be the imediate loser with Intel ongoing sucess",
@@ -291,15 +297,21 @@
         "body": "🚨 AI chip demand is turning the memory market into a supply race.\n\nSK Group Chairman Chey Tae won said customer demand for chips has doubled this year and called the race to secure AI memory “like a war.”\n\nHe said no memory maker can scale fast enough for 2027 demand, which he expects to be the wors",
         "created_at": "2026-08-15T06:06:08Z",
         "sentiment": ""
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$AMD $MU $TSM $SPY $QQQ",
-        "created_at": "2026-08-14T23:07:56Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "SuperBigBoss",
+        "body": "$MSFT double inside day, coiled with anemic sell vol. We should get a direction this week.",
+        "created_at": "2026-08-16T21:32:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-16T21:19:48Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "doctorslopadopolis",
         "body": "$MSFT",
@@ -347,21 +359,21 @@
         "body": "This is the former director of data center research at $MSFT  who worked with $PLUG on the fuell cell backup generator. He now works at $NVDA on similar projects, just saying. Stay long and you will retire early. Not financial advice :)",
         "created_at": "2026-08-16T16:44:11Z",
         "sentiment": ""
-      },
-      {
-        "user": "Luckyskills007",
-        "body": "@LukeJSkywalker $MSFT",
-        "created_at": "2026-08-16T15:54:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA $MSFT $TSLA $SPY $QQQ   oh boy now we can trade options at 7:30 in the morning more of a reason now not to sleep and to lose more money!",
-        "created_at": "2026-08-16T15:34:26Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "JRquiz",
+        "body": "$GOOG $GOOGL I&#39;d be comfortable putting 100% of my portfolio in here and just walk away.  Ring the cash register in 5 years.",
+        "created_at": "2026-08-16T21:39:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AVGOmysugardaddy",
+        "body": "$AVGO $AMD $NVDA $GOOG  gotta be quick with those big dip buys before earnings. VMware bug fixed.",
+        "created_at": "2026-08-16T21:26:12Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $SKHY $MU $NVDA $GOOG \n \nNetlist’s Needham Moment: Why August 19–20 Could Put NLST Back in the Spotlight \nhttps://garywallach.substack.com/p/netlists-needham-moment-why-august?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
@@ -409,21 +421,15 @@
         "body": "$GCUMF $GOOG $AMZN $DLR $QTS \nAWS was the first AI Data Center Company to ink a copper deal DIRECTLY at the Mine. They&#39;re getting 99.9% Copper Cathode directly from Gunnison Copper, using Nuton Bioleaching Technology. With the upcoming Tariff&#39;s...I see other Data Centers wanting to ink deals",
         "created_at": "2026-08-16T17:22:17Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Bearcatcher0U812",
-        "body": "$GOOG With all the Buffet and Druckenmiller buzz where do you guys see Goog stock price tomorrow? Asking for a friend",
-        "created_at": "2026-08-16T16:49:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "vonGr",
-        "body": "Will we see a nice green Monday with $AAPL $GOOG $GOOGL news of $BRK.B.X share count.",
-        "created_at": "2026-08-16T16:34:35Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "Doubleup2022",
+        "body": "$META ipo v.s. $SPCX ipo",
+        "created_at": "2026-08-16T21:33:39Z",
+        "sentiment": ""
+      },
       {
         "user": "ResearchTrends09",
         "body": "$META 🛑🛑🛑 and Read!",
@@ -477,12 +483,6 @@
         "body": "$META such a bitch you are meta give me $600",
         "created_at": "2026-08-16T15:58:55Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META 🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🍉🍉🍉🍉🍉🍉 tomorrow starts the official BULL run for META 🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 patience always pays off. It&#39;s been a long long time going on a year. I hope everyone&#39;s been adding throughout this year. Never mind the last six months. It&#39;s the blue skies now. Wate",
-        "created_at": "2026-08-16T12:03:48Z",
-        "sentiment": ""
       }
     ]
   }
