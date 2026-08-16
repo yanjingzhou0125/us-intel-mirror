@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-16 10:49:06",
+  "ts": "2026-08-16 11:19:20",
   "tickers": {
     "NVDA": [
+      {
+        "user": "chkmate102",
+        "body": "$QQQ $SPY $NVDA",
+        "created_at": "2026-08-16T11:16:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA The Becky Quick round table interview put on by CNBC was an impressive group of people of which Jensen Huang himself was simply the clearest best speaker but he should be as he knows his company and what it does so he is best able to explain. I knew I was watching history in the making even if",
+        "created_at": "2026-08-16T11:15:43Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA When you buy NVDA shares you are allowing your portfolio to work smarter not harder. The results will be a ever increasing balance year after year. This is a fact being built out daily with Nvidia and their partners.",
+        "created_at": "2026-08-16T11:05:44Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA I hope you are loaded up for the next ER in 8 full business days.",
+        "created_at": "2026-08-16T11:00:04Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Crakerjac",
         "body": "$NVDA l enjoy this stocktwit board for Nvidia. It is bringing me back into the classroom daily. I was thankful that someone once told me to work smarter not harder. It was simply that if you find a more efficient way of doing something it will take less over all man hours and you will be able to pro",
@@ -37,33 +61,15 @@
         "body": "$NLST $GOOG $NVDA $MU $SKHY  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-16T09:26:05Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $GOOG $SKHY $NVDA $MU  \nFrom a 2009 Rejection to a Billion-Dollar Patent Battle: Netlist vs. Google Could Be One of NLST’s Biggest Stories Yet \n \nhttps://garywallach.substack.com/p/from-a-2009-rejection-to-a-billion?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-16T09:18:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Newbie2AllThis",
-        "body": "Will $NVDA  drop after earnings  ...  if $NVDA rises because of earnings  ? \n \n$QQQ",
-        "created_at": "2026-08-16T08:27:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "akroller",
-        "body": "$INTC $MU $NVDA $SNDK",
-        "created_at": "2026-08-16T07:53:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "tievLeaf",
-        "body": "$INFQ $NVDA $AMD $SPCX $RKLB",
-        "created_at": "2026-08-16T07:53:46Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "galarneauy",
+        "body": "$TSLA The prophet has spoken!",
+        "created_at": "2026-08-16T10:53:05Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Tom2772",
         "body": "@bpm78 \n\nI think you&#39;re looking at this far too pessimistically.\nI&#39;ve been involved in several long-term growth stories — Apple, $TSLA , Nvidia, just to name a few. All of them went through major drawdowns, periods of extreme skepticism and, in some cases, people confidently predicting bankr",
@@ -116,12 +122,6 @@
         "user": "Bowlly",
         "body": "$TSLA $AAPL $NVDA $META $SPY  so if any of these drop monday youre wrong",
         "created_at": "2026-08-16T03:40:23Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Towjoe",
-        "body": "$TSLA ugly, inferior junk. 86",
-        "created_at": "2026-08-16T03:26:04Z",
         "sentiment": ""
       }
     ],
