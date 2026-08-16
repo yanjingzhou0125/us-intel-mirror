@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-16 11:19:20",
+  "ts": "2026-08-16 11:45:07",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA Nvidia share holding has been likened to a rollercoaster. I have also heard a bull ride. I think it is more like a mechanical bull ride fastened to a rollercoaster car and then you strap yourself on the mechanical bull ride while going on the rollercoaster ride. It is a ripper!!! You have to s",
+        "created_at": "2026-08-16T11:21:41Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "chkmate102",
         "body": "$QQQ $SPY $NVDA",
@@ -55,12 +61,6 @@
         "body": "$NVDA The start of a forced sell-off by China?",
         "created_at": "2026-08-16T10:02:13Z",
         "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $GOOG $NVDA $MU $SKHY  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-16T09:26:05Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "updowninandout",
+        "body": "$AAPL Duh!!!! And why won’t they. Ridiculous to think it’s a US China race, that’s our administration narrative. Something coming…",
+        "created_at": "2026-08-16T11:26:06Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "HarvinTrading",
         "body": "$AAPL",
         "created_at": "2026-08-16T10:01:26Z",
@@ -178,12 +184,6 @@
         "user": "HarvinTrading",
         "body": "$AAPL",
         "created_at": "2026-08-16T03:13:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA META GOOGL  \n  \n2 DTE&#39;s  \n \n🙃",
-        "created_at": "2026-08-16T02:30:36Z",
         "sentiment": ""
       }
     ],
