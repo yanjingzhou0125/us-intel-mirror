@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-16 17:45:24",
+  "ts": "2026-08-16 18:28:21",
   "tickers": {
     "NVDA": [
       {
-        "user": "RegATradingAdvisors",
-        "body": "$NBIS $MU $NVDA $LUNR Nebius benefits from AI-cloud infrastructure demand, Micron benefits from memory and AI demand, Nvidia remains central to accelerated computing, and Intuitive Machines advances lunar infrastructure. I&#39;m watching AI capex, memory pricing, GPU demand, and space contracts.",
-        "created_at": "2026-08-16T17:27:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LatencyArbitrageCo",
-        "body": "$NBIS $MU $NVDA $LUNR Nebius benefits from AI-cloud infrastructure demand, Micron benefits from memory and AI demand, Nvidia remains central to accelerated computing, and Intuitive Machines advances lunar infrastructure. I&#39;m watching AI capex, memory pricing, GPU demand, and space contracts.",
-        "created_at": "2026-08-16T17:26:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CreditCardTradingCo",
-        "body": "$SLS $NBIS $TSLA $NVDA SELLAS remains focused on cancer immunotherapy, Nebius benefits from AI-cloud infrastructure demand, Tesla remains driven by EVs, autonomy, and energy, and Nvidia remains central to accelerated-computing demand. I&#39;m watching clinical catalysts, GPU demand, vehicle deliveri",
-        "created_at": "2026-08-16T17:22:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Doubleup2022",
-        "body": "$NVDA OpenAI reached out and say I want your GPUs but I don’t have money, NVDA says don’t worry I will borrow you money but instead I invest 5B in you and you use that money to buy my GPU, then after OpenAI get the GPU ,  they went to bank and say I’m using those GPUs as collateral and you give me t",
-        "created_at": "2026-08-16T17:21:47Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Traidn",
-        "body": "$NVDA Beginning of the end of the AI Trade.  All chip and memory company forecasts are now fugazi.    🩸🩸🩸 Analysts will have to re-price everything. \nhttps://thenextweb.com/news/nvidia-openai-backstop-halved-13f-spacex-intel",
-        "created_at": "2026-08-16T17:19:56Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "EmergingEMEAAdvisors",
-        "body": "$SMCI $MU $ONDS $NVDA Super Micro benefits from AI-server demand, Micron benefits from memory and HBM demand, Ondas advances autonomous drone and private-wireless technologies, and Nvidia remains central to accelerated computing. I&#39;m watching AI capex, memory pricing, contract wins, and GPU dema",
-        "created_at": "2026-08-16T17:19:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cubie",
-        "body": "@tonyctl @itsphd @Jeremymartin007 @Idiamondw @judgeyoung2 @jenbunn @ZY786 @Tradermikes40 @TraderRapp @zuby34 \n\n$MSFT $NVDA $MU $AMD $aapl",
-        "created_at": "2026-08-16T17:17:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RaymondR3ddington",
-        "body": "$NVDA with all their holdings in other companies, buying this thing is like an etf at this point🤣",
-        "created_at": "2026-08-16T17:10:13Z",
+        "user": "THE_TRADE",
+        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX",
+        "created_at": "2026-08-16T18:23:26Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "thelattehq",
-        "body": "$NVDA $AMD $AVGO\n\nhttps://www.thelattehq.com/p/the-market-is-holding-its-breath",
-        "created_at": "2026-08-16T16:59:46Z",
+        "user": "Shutking",
+        "body": "$NVDA FUI - Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 &#39;Monochrome&#39; weapon may indicate use of AI tech.",
+        "created_at": "2026-08-16T18:20:41Z",
         "sentiment": ""
       },
       {
-        "user": "bigtime9",
-        "body": "$AMFN  &gt;&gt; $AMFN WILL BE THE NEW $NVDA &gt;&gt;  ONCE WE LIST $EASY.X $2 BUCKS AND  WE FLY TO $10 + VERY QUICK",
-        "created_at": "2026-08-16T16:57:34Z",
+        "user": "THE_TRADE",
+        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nThere&#39;s alot more to Alphabet investing in SpaceX",
+        "created_at": "2026-08-16T18:20:26Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA When will the business world finally grasp that  \n Nvidia has long since ceased to be &quot;just&quot; Nvidia?  \n Nvidia is legion—present in every sector as a leader, owner,   \nstakeholder, or supporter  \n—and it continues to branch out and expand into every area.",
+        "created_at": "2026-08-16T18:20:01Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA Nvidia has $21 billion SpaceX stake, $30 billion in Intel shares  \nhttps://fortune.com/2026/08/15/nvidia-21-billion-spacex-stake-30-billion-intel-shares/",
+        "created_at": "2026-08-16T18:18:53Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA Ask ChatGPT   \n&quot;which companies does Nvidia own, hold a stake in, or support worldwide?&quot;  \n—you’ll definitely be surprised by the answer.",
+        "created_at": "2026-08-16T18:18:15Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "cosmicdog76",
+        "body": "$SPY Consumer Fatigue: Persistent inflation, high credit card balances, and a softer July jobs report led households to cut back and grow more pessimistic about the economy\n\nfoot traffic has been down significantly from last year, and i work at a high volume area. and it seems to be just the beggini",
+        "created_at": "2026-08-16T18:14:47Z",
         "sentiment": ""
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA Nvidia is becoming the &#39;Federal Reserve of AI&#39; \nhttps://seekingalpha.com/news/4633593-nvidia-is-becoming-the-federal-reserve-of-ai",
+        "created_at": "2026-08-16T17:57:56Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA      Did you know, by the way? .......... \nNvidia’s multi-billion-dollar stake in Intel has multiplied in value \n within just a few months. \n The GPU manufacturer purchased approximately 215 million \n Intel shares for $5 billion in late 2025. \n According to a new mandatory filing with the U.S.",
+        "created_at": "2026-08-16T17:56:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TacticalBullseye",
+        "body": "$NVDA 220 Monday most likely.",
+        "created_at": "2026-08-16T17:50:13Z",
+        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "uagalista",
+        "body": "$TSLA Have a gap to fill at $370 which will probably take it to $400 within the next few weeks. \nCharts don&#39;t lie",
+        "created_at": "2026-08-16T18:24:44Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "uagalista",
+        "body": "$TSLA Before you know it",
+        "created_at": "2026-08-16T18:23:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR Founder Karp vision and purpose is like a:  Michael $DELL $AAPL Jobs $TSLA $SPCX Elon… \n \n \n \nhttps://sih-st-charts.stocktwits-cdn.com/production/original_563326431.png",
+        "created_at": "2026-08-16T18:07:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Tell_It_Like_It_Is",
+        "body": "$QQQ $SPY $MU $TSLA $SOXL If you put a nickle in a jar for every time you called it wrong, you&#39;d be a millionaire. 🤣😂",
+        "created_at": "2026-08-16T17:54:57Z",
+        "sentiment": ""
+      },
       {
         "user": "cruellbear",
         "body": "20hrs 3mins 24s left until Black Monday bro\n\n$QQQ $SPY $MU $TSLA $SOXL",
@@ -99,33 +123,21 @@
         "body": "$SLS $NBIS $TSLA $NVDA SELLAS remains focused on cancer immunotherapy, Nebius benefits from AI-cloud infrastructure demand, Tesla remains driven by EVs, autonomy, and energy, and Nvidia remains central to accelerated-computing demand. I&#39;m watching clinical catalysts, GPU demand, vehicle deliveri",
         "created_at": "2026-08-16T17:22:52Z",
         "sentiment": ""
-      },
-      {
-        "user": "brixtan",
-        "body": "$NBIS $NLST $SLS $TSLA \n\nAll you guys are getting from BLOCKED - every time I see a spam post like this? *BLOCK*",
-        "created_at": "2026-08-16T17:21:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "EmergingEMEAAdvisors",
-        "body": "$NBIS $TSLA $SLS $NLST Nebius benefits from AI-cloud infrastructure demand, Tesla remains driven by EVs, autonomy, and energy, SELLAS advances cancer immunotherapy, and Netlist remains focused on memory and patent-related opportunities. I&#39;m watching AI utilization, vehicle deliveries, clinical m",
-        "created_at": "2026-08-16T17:19:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$WETO 🔺 you know what&#39;s coming here... For I am DOOM🐇\nThe FiB 🔺\n$TSLA\n$AMC\n$SPY\n$DJT \n🔺",
-        "created_at": "2026-08-16T17:15:21Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AndyonOptions",
-        "body": "@jd7138 To claim that it&#39;s a &quot;maga trait&quot; and ignore the same cult behavior on the left... is unfortunately too common among leftists.  Taking everything Elon says literally is just naive.  He&#39;s a visionary, he lays out visions and then tries to make them realities.  Sometimes they",
-        "created_at": "2026-08-16T17:15:03Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR Founder Karp vision and purpose is like a:  Michael $DELL $AAPL Jobs $TSLA $SPCX Elon… \n \n \n \nhttps://sih-st-charts.stocktwits-cdn.com/production/original_563326431.png",
+        "created_at": "2026-08-16T18:07:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY $IWM $AAPL \n\nWhen it comes to major Money managers. \n\nWatch what they do, \n\nnot what they say. \n\n$QQQ",
+        "created_at": "2026-08-16T18:01:01Z",
+        "sentiment": ""
+      },
       {
         "user": "AStrokeOfLuck",
         "body": "$AAPL",
@@ -173,21 +185,15 @@
         "body": "$AAPL \n\n360.07 on Hyperliquid….",
         "created_at": "2026-08-16T16:53:24Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "MuskyFlex",
-        "body": "$DIS $NFLX $AAPL $DJT legit may actually see this when it comes out 🤯 \n\nhttps://youtu.be/VyQbLdUwMlY?is=AMyaZ9V5nmO26gJI",
-        "created_at": "2026-08-16T16:49:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JCJustCharting",
-        "body": "$AAPL $RGTI $BABA just shared a few setups for my group. Watch and act. https://x.com/jc_justcharts/status/2089028129654218835?s=46",
-        "created_at": "2026-08-16T16:35:53Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "TanMan295",
+        "body": "$INTC long and short $AMD \n\n$AMD does not have a fab. $TSM  will increase prices and $AMD margins will be squeezed. \n\n‼️🚨 $AMD has no moat",
+        "created_at": "2026-08-16T18:01:40Z",
+        "sentiment": ""
+      },
       {
         "user": "MiFIDInvestmentGroup",
         "body": "$AAPL $AMD $PATH $WEN Apple benefits from its ecosystem and services, AMD benefits from AI and data-center demand, UiPath remains tied to enterprise automation, and Wendy&#39;s depends on restaurant traffic and franchise economics. I&#39;m watching product demand, AI spending, automation adoption, a",
@@ -241,15 +247,15 @@
         "body": "$AMD\n\nGiddyup!  The best analysts love AMD!",
         "created_at": "2026-08-16T16:22:32Z",
         "sentiment": ""
-      },
-      {
-        "user": "Reet",
-        "body": "$AMD\n\nGiddyup!",
-        "created_at": "2026-08-16T16:18:00Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "TanMan295",
+        "body": "$INTC long and short $AMD \n\n$AMD does not have a fab. $TSM  will increase prices and $AMD margins will be squeezed. \n\n‼️🚨 $AMD has no moat",
+        "created_at": "2026-08-16T18:01:40Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$AAPL $INTC $TSM $AVGO $AMZN  \nNetlist’s OEM Opportunity Could Be the Next Big Catalyst: Why NLST May Be Building a Memory Business for the AI Era \n \nhttps://garywallach.substack.com/p/netlists-oem-opportunity-could-be?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
@@ -303,15 +309,15 @@
         "body": "$TSM\nPrice: $426.32 (-0.97%)\nTrend: Bullish\nMarket Bias (7D): Sideways ⚖️\nExpected Range: ±1.52%\nRSI: 64.5 | Momentum: Strong Momentum\nVolume: -72.5% vs avg\nVolatility: 2.68%\nSupport: $372.72 | Resistance: $436.04\n\nData and analytics sourced from Thescanner educational research https://www.thescanne",
         "created_at": "2026-08-14T16:28:59Z",
         "sentiment": ""
-      },
-      {
-        "user": "itsphd",
-        "body": "@cubie @Jeremymartin007 @judgeyoung2 @jenbunn @ZY786 @jeremy4 @Tradermikes40 @TraderRapp @tonyctl @zuby34 Softbank Group cuts share stake in TSMC by 71.5% to 565,000 sponsored ADS - SEC filing. $TSM",
-        "created_at": "2026-08-14T16:28:28Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "Ashte",
+        "body": "$IGV $MSFT $PLTR $ORCL",
+        "created_at": "2026-08-16T18:14:20Z",
+        "sentiment": ""
+      },
       {
         "user": "SECCompliantSecurities",
         "body": "$WULF $ALT $MSFT $RKLB TeraWulf benefits from Bitcoin mining and data-center demand, Altimmune remains dependent on clinical development, Microsoft benefits from cloud and AI spending, and Rocket Lab benefits from launch and space-systems demand. I&#39;m watching power costs, clinical catalysts, AI ",
@@ -364,12 +370,6 @@
         "user": "AshHydrogen",
         "body": "$SPY $PLTR is the Ai $GLD of Homestake Mining of the 1930’s!!! $0 Debt!!! Growing 100%+ per year!!! Rule of 40 = 155%!!! Replacing $MSFT at $DELL !!! \n \nhttps://www.dell.com/en-us/blog/dell-and-palantir-introduce-an-on-premises-ai-operating-system/",
         "created_at": "2026-08-16T13:39:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA $TSLA $MSFT \n\n****NOTICE****",
-        "created_at": "2026-08-16T13:02:14Z",
         "sentiment": ""
       }
     ],
