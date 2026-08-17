@@ -1,69 +1,105 @@
 {
-  "ts": "2026-08-17 09:40:51",
+  "ts": "2026-08-17 10:31:51",
   "tickers": {
     "NVDA": [
       {
-        "user": "fanttomas",
-        "body": "$NVDA Jensen Huang Doubled Nvidia&#39;s Own Sales Forecast to \n $1 Trillion Through 2027.  \nHere&#39;s What That Guidance Means for the Stock&#39;s Valuation. \nhttps://www.fool.com/investing/2026/08/16/jensen-huang-doubled-nvidias-own-sales-forecast-to/",
-        "created_at": "2026-08-17T09:32:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "S4T4N1ST",
-        "body": "$NVDA Sold at 226 (keep dreaming about the pop)",
-        "created_at": "2026-08-17T09:24:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "S4T4N1ST",
-        "body": "$NVDA Bought at 225.3 Target 226.5 (if you think pop is coming forget about it)",
-        "created_at": "2026-08-17T09:22:20Z",
-        "sentiment": ""
-      },
-      {
-        "user": "moneyflow_trader",
-        "body": "$spY $nvda 21 billion in SpaceX, kinda feels like situational awareness. I have NVDA, but my itching feeling says dont short, get back to $BTC.X",
-        "created_at": "2026-08-17T09:17:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wisdon",
-        "body": "$IREN $NVDA $RUM Wake up whales",
-        "created_at": "2026-08-17T09:01:04Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BuySellHoldFinance",
-        "body": "$NVDA MU up big, we are trailing qqq. Something Not right",
-        "created_at": "2026-08-17T08:59:29Z",
+        "user": "techvested",
+        "body": "$NVDA $ORCL $SPY $QQQ  \nThe Ponzi is hitting a wall. It begins in the bond market. $NVDA forced to reduce its OpenAI backstop from 250BLN to 120BLN. \n \nGLTA  \nIt will all unravel before midterms. If 5-10yrs of retirement, sell all US large cap stocks (including $AAPL trading 2x historical multiples)",
+        "created_at": "2026-08-17T10:26:32Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "Mipel",
-        "body": "$NVDA -",
-        "created_at": "2026-08-17T08:50:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MoneyBlisss",
-        "body": "$SPY This morning in a little under 3hrs will be the START of EARLY options trading for a few select stocks at 7:30am and they will close late at 4:15pm. 🤑 $MU $TSLA $NVDA $META",
-        "created_at": "2026-08-17T08:43:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Chark",
-        "body": "$NVDA Beware! That 210 gap must fill before this can be free to rise with impunity. Patience Bulls. The second mouse gets the cheese.",
-        "created_at": "2026-08-17T08:37:55Z",
+        "user": "BGESGroup",
+        "body": "$NLST $SKHY $MU $NVDA $GOOG \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-17T10:15:17Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "wizeinvesting",
-        "body": "$NVDA $DLO $NU $RVMD $PLTR\n\nA strong earnings report does not always translate into a rising stock price—and that disconnect can create some of the most interesting opportunities for long-term investors. While companies like DLocal and Nu Holdings continue delivering impressive growth, other busines",
-        "created_at": "2026-08-17T08:33:21Z",
+        "user": "HIRISKtrades",
+        "body": "$SPY $QQQ $NVDA $AMD $AVGO China leads because we have people in charge that believe money can buy what thay want.  Innovation is stolen or stamped out in the U.S.",
+        "created_at": "2026-08-17T10:14:45Z",
         "sentiment": ""
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$SMCI 🐂🔥 The media disconnect is becoming impossible to ignore.\n\n$DELL beats? “AI demand is booming.” 🚀\n$CRWV grows? “AI infrastructure has massive upside.” 🚀\nOther AI plays rally? “The AI supercycle continues.” 🚀\n\nThen SMCI delivers $11.1B revenue, nearly 100% YoY growth, $60B+ in new orders and gu",
+        "created_at": "2026-08-17T10:13:08Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "techvested",
+        "body": "$SPY $QQQ $NVDA $AMD $AVGO  \nChina&#39;s AI lead is becoming an internet meme. S&amp;P is now trading at 2x Dot Com  at its bubble peak, an AI narrative as an excuse.   \nGLTA  \nYes, there will be a crash before midterms. Better ideas here: \nhttps://tinyurl.com/4mtbzjpt",
+        "created_at": "2026-08-17T10:11:05Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA Baka centering $NTDOY $GOOGL $BTC.X",
+        "created_at": "2026-08-17T10:06:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$SMCI 🚨 BULLS — THE NUMBERS ARE GETTING HARD TO IGNORE. 🚨\n\nSupermicro just delivered $11.1B in quarterly revenue, nearly doubling YoY, with $1.70 adjusted EPS and a dramatically improved 17.6% non-GAAP gross margin.\n\nNow management is targeting $14.5B–$15.5B next quarter and $65B–$72B for FY27. 🔥\n\nM",
+        "created_at": "2026-08-17T10:04:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA 230 on my radar today",
+        "created_at": "2026-08-17T10:02:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "houcok",
+        "body": "$NVDA $230 by Friday 8/21 ?",
+        "created_at": "2026-08-17T09:56:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA",
+        "created_at": "2026-08-17T09:53:05Z",
+        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "YodaStockInvests",
+        "body": "AT WHAT PRICE WOULD YOU APPROVE $TSLA &amp; $SPCX  merger? 👀\n\n• $500\n• $600\n• $700\n• $800",
+        "created_at": "2026-08-17T10:28:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$WETO 😈 rise &amp; shine... Whos ready to make some new deals today.. don&#39;t risk your account although it could go either way \nThe FiB 🔺 \n$TSLA\n$AMC\n$DJT\n$SPY",
+        "created_at": "2026-08-17T10:20:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Hn20",
+        "body": "$CXAI “ LOW FLOAT” 2.34 MILLIONS SHARES ON  TUESDAY , SHORT SQUEEZE WILL COMING $GME $NBIS $PLTR  $TSLA",
+        "created_at": "2026-08-17T10:17:40Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "tallguy777",
+        "body": "$TSLA  spent several hours watching utube vids on how 29 crash started.  lots of similarities to what we are seeing today.   it was time well wasted.",
+        "created_at": "2026-08-17T10:11:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$WETO 🔺 Soon I&#39;ll pick a stock on the top... You will buy 1 share ... Then I&#39;ll let you know when to buy another 😈\nThe FiB 🔺 \n$TSLA\n$DJT\n$AMC\n$SPY",
+        "created_at": "2026-08-17T10:09:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GreyTradeshub",
+        "body": "👑Weekly Trade Ideas 💡\n\n$NOW 130C above 126 → 🎯 130, 135 | 🛑 SL 122\n$AVGO 400C above 395 → 🎯 400, 410 | 🛑 SL 390\n$NBIS 300C above 280 → 🎯 300, 310 | 🛑 SL 270\n$TSLA 350C above 345 → 🎯 350, 355 | 🛑 SL 340\n\nTrade the levels, manage your risk, and don’t chase.\n\nGood luck and trade safe! 🚀",
+        "created_at": "2026-08-17T09:53:28Z",
+        "sentiment": ""
+      },
       {
         "user": "EV_Report",
         "body": "Model Y’s China Revenue Share Falls Below Half Its Early-2024 Level  $TSLA  \nhttps://eletric-vehicles.com/tesla/model-ys-china-revenue-share-falls-below-half-its-early-2024-level/",
@@ -87,45 +123,21 @@
         "body": "$SPY This morning in a little under 3hrs will be the START of EARLY options trading for a few select stocks at 7:30am and they will close late at 4:15pm. 🤑 $MU $TSLA $NVDA $META",
         "created_at": "2026-08-17T08:43:14Z",
         "sentiment": ""
-      },
-      {
-        "user": "Paraboljoker",
-        "body": "$FAMI HEATING UP👀🔥 Flashback to that $AIXI april typenof setup🔥🇨🇳 1$ cashsh   \n50% of float shorted per ortex, probably higher🔥🫴   \n   \n$HTZ Many squeezeplayers reached out they like the setup on fami, nice💪  \n  \n$SPY $TSLA bullish setup; added to watchlist",
-        "created_at": "2026-08-17T08:22:59Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Jaguar1986",
-        "body": "$TSLA FOMC Meeting Minutes on Wednesday.",
-        "created_at": "2026-08-17T08:17:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cryptoforecast",
-        "body": "$TSLA Tesla Stock Price Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/tesla-stock-price-prediction/",
-        "created_at": "2026-08-17T06:15:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "whh19",
-        "body": "$QQQ $SPY $SOXL $MU $TSLA",
-        "created_at": "2026-08-17T06:09:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "stonedyobi",
-        "body": "$QQQ $SPY $SOXL $MU $TSLA  Jerry&#39;s thoughts",
-        "created_at": "2026-08-17T06:00:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RateDeltaX",
-        "body": "$TSLA $ASTS $IOVA $AMC Tesla remains focused on EVs, autonomy, and energy, AST SpaceMobile advances satellite-to-phone connectivity, Iovance advances cell therapies, and AMC remains tied to theater attendance and entertainment trends. I&#39;m watching vehicle deliveries, satellite launches, clinical",
-        "created_at": "2026-08-17T05:35:31Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "techvested",
+        "body": "$NVDA $ORCL $SPY $QQQ  \nThe Ponzi is hitting a wall. It begins in the bond market. $NVDA forced to reduce its OpenAI backstop from 250BLN to 120BLN. \n \nGLTA  \nIt will all unravel before midterms. If 5-10yrs of retirement, sell all US large cap stocks (including $AAPL trading 2x historical multiples)",
+        "created_at": "2026-08-17T10:26:32Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "darkshadow227",
+        "body": "$AAPL time to squeezeee",
+        "created_at": "2026-08-17T10:21:53Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "OMillionaires",
         "body": "$AAPL upgraded to Buy from Neutral at Rothschild &amp; Co Redburn - raises PT to $400 from $260",
@@ -173,21 +185,51 @@
         "body": "[TEST] 2026-08-17T07:45:09.957Z in-page fetch $AAPL",
         "created_at": "2026-08-17T07:45:21Z",
         "sentiment": ""
-      },
-      {
-        "user": "Lodochka",
-        "body": "[TEST] 2026-08-17T07:39:57.127Z in-page fetch $AAPL",
-        "created_at": "2026-08-17T07:40:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "KeikoWilsona",
-        "body": "$AAPL remains rock solid  consistent strength on display!",
-        "created_at": "2026-08-17T07:39:57Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nSamsung Settles With Netlist — But the Patent Battle May Be Far From Over: Why NLST’s Remaining ITC Cases Could Become the Next Big Catalyst \n \nhttps://garywallach.substack.com/p/samsung-settles-with-netlist-but?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;sho",
+        "created_at": "2026-08-17T10:29:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-17T10:18:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "HIRISKtrades",
+        "body": "$SPY $QQQ $NVDA $AMD $AVGO China leads because we have people in charge that believe money can buy what thay want.  Innovation is stolen or stamped out in the U.S.",
+        "created_at": "2026-08-17T10:14:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "techvested",
+        "body": "$SPY $QQQ $NVDA $AMD $AVGO  \nChina&#39;s AI lead is becoming an internet meme. S&amp;P is now trading at 2x Dot Com  at its bubble peak, an AI narrative as an excuse.   \nGLTA  \nYes, there will be a crash before midterms. Better ideas here: \nhttps://tinyurl.com/4mtbzjpt",
+        "created_at": "2026-08-17T10:11:05Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$SMCI 🚨 BULLS — THE NUMBERS ARE GETTING HARD TO IGNORE. 🚨\n\nSupermicro just delivered $11.1B in quarterly revenue, nearly doubling YoY, with $1.70 adjusted EPS and a dramatically improved 17.6% non-GAAP gross margin.\n\nNow management is targeting $14.5B–$15.5B next quarter and $65B–$72B for FY27. 🔥\n\nM",
+        "created_at": "2026-08-17T10:04:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "chase10xx",
+        "body": "$AMD usually, @Iamwillwexler is the FIRST to report for Stocktwits duty on a Monday... \n \nHis colleagues on the board are worried, but still bullish.",
+        "created_at": "2026-08-17T09:54:57Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "chase10xx",
+        "body": "$AMD where is cello??? have you suffered a violin death or what?",
+        "created_at": "2026-08-17T09:52:21Z",
+        "sentiment": ""
+      },
       {
         "user": "onehundredon12",
         "body": "$AMD 📈📈📈",
@@ -205,51 +247,21 @@
         "body": "$AMD",
         "created_at": "2026-08-17T08:49:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "chase10xx",
-        "body": "$AMD Wise call.",
-        "created_at": "2026-08-17T08:44:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD",
-        "created_at": "2026-08-17T08:27:36Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD https://x.com/financelancelot/status/2089154477852889288?s=46&amp;t=Xq7UFW3u8B-l5R2nfYmJ2w",
-        "created_at": "2026-08-17T08:20:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD ::Stocks are priced differently in different markets—another red flag!!",
-        "created_at": "2026-08-17T08:13:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD A blind market sells cautious illusions!\nThere is euphoria and there is macro!!",
-        "created_at": "2026-08-17T08:08:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$AMD Japan + china global economic problems!!!!",
-        "created_at": "2026-08-17T07:51:41Z",
-        "sentiment": ""
-      },
-      {
-        "user": "tievLeaf",
-        "body": "$INFQ $POET $NVDA $AMD $IONQ",
-        "created_at": "2026-08-17T07:31:59Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nSamsung Settles With Netlist — But the Patent Battle May Be Far From Over: Why NLST’s Remaining ITC Cases Could Become the Next Big Catalyst \n \nhttps://garywallach.substack.com/p/samsung-settles-with-netlist-but?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;sho",
+        "created_at": "2026-08-17T10:29:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-17T10:18:20Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Mipel",
         "body": "$TSM global economic problems!",
@@ -297,21 +309,27 @@
         "body": "$SMH $NVDA $AVGO $TSM",
         "created_at": "2026-08-16T20:14:03Z",
         "sentiment": ""
+      }
+    ],
+    "MSFT": [
+      {
+        "user": "BGESGroup",
+        "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nSamsung Settles With Netlist — But the Patent Battle May Be Far From Over: Why NLST’s Remaining ITC Cases Could Become the Next Big Catalyst \n \nhttps://garywallach.substack.com/p/samsung-settles-with-netlist-but?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;sho",
+        "created_at": "2026-08-17T10:29:48Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "BGESGroup",
         "body": "$AVGO $MSFT $AMD $TSM $IBM  \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
-        "created_at": "2026-08-16T19:01:18Z",
+        "created_at": "2026-08-17T10:18:20Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "TanMan295",
-        "body": "$INTC long and short $AMD \n\n$AMD does not have a fab. $TSM  will increase prices and $AMD margins will be squeezed. \n\n‼️🚨 $AMD has no moat",
-        "created_at": "2026-08-16T18:01:40Z",
-        "sentiment": ""
-      }
-    ],
-    "MSFT": [
+        "user": "Pelle1966",
+        "body": "$NUAI Soon to the Moon =&gt; $50 +++ $PHAT $GPUS $MSFT $SPCX",
+        "created_at": "2026-08-17T10:02:38Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "hiddenchampion",
         "body": "$MSFT i never make money on this garbage stock. It is the last time thats all",
@@ -343,12 +361,6 @@
         "sentiment": ""
       },
       {
-        "user": "ForwardPtsIQ",
-        "body": "$OKLO $SLS $MSFT $RKLB Oklo advances advanced-nuclear power opportunities, SELLAS remains focused on cancer immunotherapy, Microsoft benefits from cloud and AI spending, and Rocket Lab benefits from launch and space-systems demand. I&#39;m watching licensing, clinical catalysts, Azure growth, and la",
-        "created_at": "2026-08-17T05:34:36Z",
-        "sentiment": ""
-      },
-      {
         "user": "bumbaclot",
         "body": "$MSFT watching for a open below 491.50 will confirm a test of  465 this week.",
         "created_at": "2026-08-17T05:18:37Z",
@@ -359,21 +371,27 @@
         "body": "$MSFT all software will tank hard tomorrow 👍👍👍👍",
         "created_at": "2026-08-17T05:03:04Z",
         "sentiment": ""
-      },
-      {
-        "user": "onlythebestcompanies",
-        "body": "$MSFT $740 soon. \n\nWells Fargo maintains a Buy rating on Microsoft and raises the price target to $700",
-        "created_at": "2026-08-17T04:58:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AVGOmysugardaddy",
-        "body": "$AMZN $AVGO $GOOG $META $MSFT Most recent PT of 500. Friday’s drop was due to VMware issues which has been fixed. I swooped  that big dip when it was down $24 before ER  . Semi ER’s coming up the following week.",
-        "created_at": "2026-08-17T02:57:08Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $SKHY $MU $NVDA $GOOG \n \nFrom Litigation to Strategic Powerhouse: Netlist’s (NLST)  \n2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-17T10:15:17Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "kindness123",
+        "body": "$GOOGL $GOOG \n\nAlphabet eyes inaugural Australian dollar bond, bookrunner&#39;s message says - https://www.reuters.com/business/finance/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-2026-08-17/",
+        "created_at": "2026-08-17T10:04:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Patiencepayss",
+        "body": "$GOOG $355 today",
+        "created_at": "2026-08-17T09:50:32Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "RealImbackbears",
         "body": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-you-could-have-heard-it-first-as-big-tech-s-3-t-ai-spending-risk-comes-into-focus/cZo6sZzRJKV $GOOG This guy is dumbass",
@@ -415,27 +433,33 @@
         "body": "$AVGO  is down ~21% from its June high. The stock recently slipped nearly 6% in a single session and sits well below its peak, but the underlying AI story looks intact: \n \n🔹Over $30B in AI semiconductor bookings last quarter   \n🔹FY27 AI revenue still guided above $100B   \n🔹Google partnership locked ",
         "created_at": "2026-08-17T04:18:00Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "slmaster",
-        "body": "$GOOG $360+ this week.",
-        "created_at": "2026-08-17T03:19:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "OFIF",
-        "body": "$GOOG",
-        "created_at": "2026-08-17T02:58:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AVGOmysugardaddy",
-        "body": "$AMZN $AVGO $GOOG $META $MSFT Most recent PT of 500. Friday’s drop was due to VMware issues which has been fixed. I swooped  that big dip when it was down $24 before ER  . Semi ER’s coming up the following week.",
-        "created_at": "2026-08-17T02:57:08Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "kindness123",
+        "body": "$META \n\nMeta faces landmark US trial over alleged harm to children from Instagram, Facebook https://www.aa.com.tr/en/americas/meta-faces-landmark-us-trial-over-alleged-harm-to-children-from-instagram-facebook/4029296",
+        "created_at": "2026-08-17T10:14:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "23bobsmith23",
+        "body": "$APP $GOOGL $META forgot $AMZN \nSome of the largest advertising spend goes here $NFLX",
+        "created_at": "2026-08-17T10:08:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "23bobsmith23",
+        "body": "I’d like to c advertising stocks rip this week:\n\n$APP $META $GOOGL",
+        "created_at": "2026-08-17T10:07:47Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META 🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉 anything will be getting news about watermelon buy as much as you can before this news hits I could hit today",
+        "created_at": "2026-08-17T09:50:15Z",
+        "sentiment": ""
+      },
       {
         "user": "August_West",
         "body": "$META Accoutable for what?  Social media use is voluntary.",
@@ -467,34 +491,10 @@
         "sentiment": ""
       },
       {
-        "user": "ForwardPtsIQ",
-        "body": "$BB.TSX $GOOGL $META $BABA BlackBerry benefits from cybersecurity and IoT software, Alphabet benefits from search, cloud, and AI growth, Meta benefits from advertising and AI engagement, and Alibaba benefits from Chinese commerce and cloud demand. I&#39;m watching software revenue, ad growth, AI ado",
-        "created_at": "2026-08-17T05:34:35Z",
-        "sentiment": ""
-      },
-      {
         "user": "stealingtime",
         "body": "@alan93 Thank you for sharing that article. While it is true that $SIVEF does have poor fundamentals at the moment, it is currently scaling in 2026 for a ramp up in 2027.\n\nThe article completely glosses over the fact that $SIVEF is the laser of choice for both the $GFS SCALE CPO architecture that in",
         "created_at": "2026-08-17T05:17:02Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Wolfofwits",
-        "body": "$META looking to add some $METU over the next week",
-        "created_at": "2026-08-17T05:06:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "rtz12",
-        "body": "$AVGO $GOOG $META",
-        "created_at": "2026-08-17T04:55:41Z",
-        "sentiment": ""
-      },
-      {
-        "user": "mmritas1",
-        "body": "$AVGO : This stock guides light than boom. Beat and go up.  So when earnings comes you see a huge pop. Peg is .47. Cheap as $NVDA. Load the boat. $META $GOOG",
-        "created_at": "2026-08-17T04:35:54Z",
-        "sentiment": ""
       }
     ]
   }
