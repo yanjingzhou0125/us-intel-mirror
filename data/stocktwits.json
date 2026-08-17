@@ -1,7 +1,55 @@
 {
-  "ts": "2026-08-17 22:23:51",
+  "ts": "2026-08-17 22:50:34",
   "tickers": {
     "NVDA": [
+      {
+        "user": "KXTrading",
+        "body": "Nvidia’s stock has started to come alive. Here’s 3 reasons why it can continue\n\nhttps://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html\n\n$NVDA $QQQ $SPY",
+        "created_at": "2026-08-17T22:50:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA you know it bad when the Bops are taking clients $META $RDDT $SNDK",
+        "created_at": "2026-08-17T22:49:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CUPandHANDLE_CHARTS",
+        "body": "$QQQ ~ AI spend going parabolic in Aug 2026. &quot;American companies continue to ramp AI spend to fit in with the 2026 “AI Zeitgeist” and get that “AI Bump” in their share price when they announce “AI Spend” in their quarterly reports to prove to Wall Street that they “Get It”. In July 2026 , the t",
+        "created_at": "2026-08-17T22:48:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY when you have the approval of men $META $NVDA $SNDK",
+        "created_at": "2026-08-17T22:45:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CNGLLC",
+        "body": "$NVDA So doesnt this beat on earnings and shoot to near 300 ?  You would think it would of started its Run !!!",
+        "created_at": "2026-08-17T22:26:20Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "moneyflow_trader",
+        "body": "$NVDA If you bullish, 219 has to",
+        "created_at": "2026-08-17T22:24:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FunnyCarsAintFunny",
+        "body": "$SPY $QQQ $MU $NVDA $DJT  \nDjt already trades 24/5.",
+        "created_at": "2026-08-17T22:24:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "moneyflow_trader",
+        "body": "$AAPL $NVDA had a field day with this. You can’t raise prices when the combine market cap is 1/3 of USA GDP. I dont trust the risk adjustment or their accounting books, renove the short duration treasuries and the companies are bleeding . Challenge me on this, Im wait",
+        "created_at": "2026-08-17T22:23:42Z",
+        "sentiment": ""
+      },
       {
         "user": "Johnny001",
         "body": "$NVDA",
@@ -13,119 +61,83 @@
         "body": "$AVGO 🎻🤠 THE SILICON VALLEY HILLBILLIES 🤠🎻\n\nCome and hear a tale ’bout a man named Hock…\nDrillin’ for AI and he struck the mother lode. 🛢️💰\n\nThen one day that AI CAPEX started bubblin’ up… 🚀\n\n💵 $500 BILLION\n🧠 AI chips\n🌐 Ethernet\n⚡ Data centers\n💰 More data = MORE DOLLARS\n\nHock Tan = Jed 🤠\nCharlie Kaw",
         "created_at": "2026-08-17T22:17:38Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Tradova_Markets",
-        "body": "$SPY $TSLA $NVDA $META $AMZN Nothing about this is good for traders esp when you want to be effective. This creates a massive unpredictable market.",
-        "created_at": "2026-08-17T22:11:58Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "CapitalProtection",
-        "body": "$DJT $MU $NVDA $QQQ $SPY",
-        "created_at": "2026-08-17T22:11:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AutoAZTrader",
-        "body": "$NVDA MU surging; come on NVDA!",
-        "created_at": "2026-08-17T22:10:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "hopperfield",
-        "body": "$NVDA Even though NVDA finished essentially flat today, it held up well despite the broader Nasdaq slipping as we’ve seen. More than likely, the green is still on the horizon for Tuesday, maybe we will finally see $230 again. The bigger picture remains the same, with analysts continuing to expect ve",
-        "created_at": "2026-08-17T22:02:14Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "beestMod516",
-        "body": "FU€K yeah 👍 \n$SPY $QQQ $MU $NVDA $DJT",
-        "created_at": "2026-08-17T21:56:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "sethmarcus",
-        "body": "$AMZN $NVDA $QQQ $SOXX $SPY",
-        "created_at": "2026-08-17T21:55:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jasonleer",
-        "body": "$MU $NVDA $QQQ $SNDK agreed. Sell all you can here folks, take the gains",
-        "created_at": "2026-08-17T21:41:44Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "SAHV",
-        "body": "$QQQ fully expect 50% downside from memory sector. $MU will go back to 500s. $NVDA below $150. $SNDK  $650",
-        "created_at": "2026-08-17T21:40:21Z",
-        "sentiment": "Bearish"
       }
     ],
     "TSLA": [
+      {
+        "user": "nostoplosss",
+        "body": "$TSLA this will never going to see 500$",
+        "created_at": "2026-08-17T22:47:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JLB92",
+        "body": "$TSLA",
+        "created_at": "2026-08-17T22:47:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JLB92",
+        "body": "$TSLA 350+ tmrw",
+        "created_at": "2026-08-17T22:47:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StocktwitsWolf",
+        "body": "$QS Bears making GS Buy up the Shares to remain Delta Neutral. I remember when this happened with $AAPL during Covid and $TSLA around the same time. They took up a large position while maintaining their &quot;Sell rating&quot; later capitulating to a buy while holding their massive positions",
+        "created_at": "2026-08-17T22:41:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Tradova_Markets",
+        "body": "$TSLA Gap up news!🟢💚",
+        "created_at": "2026-08-17T22:37:44Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$NOMA 🩸🩸🩸🩸🩸\n$AIXI\n$TSLA\n$DJT\n$amc",
+        "created_at": "2026-08-17T22:29:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Steve_TheBull_Rogers",
+        "body": "$TSLA \n\nThat upside gap fill to 370+ 🤤🤤",
+        "created_at": "2026-08-17T22:27:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Wwwe",
+        "body": "$TSLA Cybercab launch in August?... early reports",
+        "created_at": "2026-08-17T22:24:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Money7007",
+        "body": "$TSLA Yup",
+        "created_at": "2026-08-17T22:24:06Z",
+        "sentiment": ""
+      },
       {
         "user": "Matrix1989",
         "body": "$AIXI $AMC $DJT $TSLA $WETO",
         "created_at": "2026-08-17T22:22:00Z",
         "sentiment": ""
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$WETO🔺 38&gt;39 now \nThe FiB 🔺 \n $TSLA \n$DJT \n$AMC \n$AIXI",
-        "created_at": "2026-08-17T22:21:29Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$WETO  37 &gt; 38 now\nThe FiB 🔺 \n$TSLA \n$DJT \n$AMC \n$AIXI",
-        "created_at": "2026-08-17T22:13:54Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "wildcatbanker",
-        "body": "$TSLA buy soon",
-        "created_at": "2026-08-17T22:12:23Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Matrix1989",
-        "body": "$AIXI $AMC $DJT $TSLA $WETO",
-        "created_at": "2026-08-17T22:12:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Tradova_Markets",
-        "body": "$SPY $TSLA $NVDA $META $AMZN Nothing about this is good for traders esp when you want to be effective. This creates a massive unpredictable market.",
-        "created_at": "2026-08-17T22:11:58Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$WETO 🔺 all in FiB loads with 10% port loads in every 10 cents.. from 36&gt;37 up &amp; down limit order buys on average up cost adjustment \nThe FiB 🔺 \n$TSLA\n$DJT\n$AMC\n$AIXI",
-        "created_at": "2026-08-17T22:11:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "_Thumper_",
-        "body": "$TSLA /  $SPCX   \n \n🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪 \n \nDumb dumb went on vacation &amp; then \n \nCame home to an empty wallet and  \n \nHuge Credit Card Bill. \n \nPoor dumb dumb, he should have \n \nStayed home, bought  \n \nTesla and SpaceX Stock with  \n \nAll that money &amp; relaxed instead. \n \n✅",
-        "created_at": "2026-08-17T22:07:57Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Tradova_Markets",
-        "body": "$TSLA 💚🟢💚🟢  The road to $368 is coming soon than expected!",
-        "created_at": "2026-08-17T22:07:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$TSLA   Read..",
-        "created_at": "2026-08-17T21:56:46Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "StocktwitsWolf",
+        "body": "$QS Bears making GS Buy up the Shares to remain Delta Neutral. I remember when this happened with $AAPL during Covid and $TSLA around the same time. They took up a large position while maintaining their &quot;Sell rating&quot; later capitulating to a buy while holding their massive positions",
+        "created_at": "2026-08-17T22:41:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CapitalMonk",
+        "body": "$AAPL\nPrice: $305.59 (-0.11%)\nTrend: Bullish\nMarket Bias (7D): Bullish Bias 📈\nExpected Range: ±0.47%\nRSI: 22.1 | Momentum: Strong Downside\nVolume: -36.5% vs avg\nVolatility: 2.11%\nSupport: $299.74 | Resistance: $344.27\n\nData and analytics sourced from Thescanner educational research https://www.thesc",
+        "created_at": "2026-08-17T22:34:33Z",
+        "sentiment": ""
+      },
       {
         "user": "moneyflow_trader",
         "body": "$AAPL $NVDA had a field day with this. You can’t raise prices when the combine market cap is 1/3 of USA GDP. I dont trust the risk adjustment or their accounting books, renove the short duration treasuries and the companies are bleeding . Challenge me on this, Im wait",
@@ -173,21 +185,15 @@
         "body": "$XOS this going to $5.00 fast $NVDA $AAPL $TSLA",
         "created_at": "2026-08-17T21:27:27Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "ShibWillow",
-        "body": "Looks like Volume is shifting to MLEC now 🚀   \n   \nMLEC has 573k shares remaining to public    \n   \nLook at what WETO / IPST did on similar share numbers today.    \n   \nMLEC getting squeezed now -  Added a big position for a parabolic run! \n \n$IREN $AAPL $RDDT $ROKU TNT",
-        "created_at": "2026-08-17T21:20:49Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AmericanNinja",
-        "body": "$AAPL Tomorrow I will load up 1000 shares $300.00 target price.",
-        "created_at": "2026-08-17T21:13:31Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
+      {
+        "user": "dbatech99",
+        "body": "$AMD Aw Michael TurdBury trying   to make his position seem smart. New name is Michael Turdburglar.",
+        "created_at": "2026-08-17T22:43:17Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "wader2k",
         "body": "$AMD $MU $MRVL https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
@@ -241,12 +247,6 @@
         "body": "$CORZ spec buyout $AMD",
         "created_at": "2026-08-17T21:27:51Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "sbbq",
-        "body": "$AMD Pre-morning session, the stock was trading as high as $522. Now down over 16 points.",
-        "created_at": "2026-08-17T21:27:49Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "cubie",
+        "body": "$MSFT $META $SPCX $SNDK $MU \n\nso dont say no one told u this. \nhistory repeats everytime massive ipo debuts. they need sell something to buy something",
+        "created_at": "2026-08-17T22:46:30Z",
+        "sentiment": ""
+      },
+      {
         "user": "topstockalerts",
         "body": "The AI boom is driving a massive race to build data centers and secure electricity, but an unexpected threat to the industry’s infrastructure could come from something far less sophisticated: rats. \nKade Thomas, CEO of Cerv Property Solutions, warned that rodents, poor maintenance and other basic pr",
         "created_at": "2026-08-17T22:17:21Z",
@@ -365,12 +371,6 @@
         "body": "$MSFT close that gap to 400 baby",
         "created_at": "2026-08-17T20:57:37Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "bumbaclot",
-        "body": "$MSFT atleast it closed in the 480s 😬",
-        "created_at": "2026-08-17T20:53:02Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
@@ -437,6 +437,30 @@
     ],
     "META": [
       {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NVDA you know it bad when the Bops are taking clients $META $RDDT $SNDK",
+        "created_at": "2026-08-17T22:49:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "cubie",
+        "body": "$MSFT $META $SPCX $SNDK $MU \n\nso dont say no one told u this. \nhistory repeats everytime massive ipo debuts. they need sell something to buy something",
+        "created_at": "2026-08-17T22:46:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY when you have the approval of men $META $NVDA $SNDK",
+        "created_at": "2026-08-17T22:45:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Getmoney305",
+        "body": "$META its finally over . Reverse split incoming !!!!",
+        "created_at": "2026-08-17T22:44:48Z",
+        "sentiment": ""
+      },
+      {
         "user": "topstockalerts",
         "body": "The AI boom is driving a massive race to build data centers and secure electricity, but an unexpected threat to the industry’s infrastructure could come from something far less sophisticated: rats. \nKade Thomas, CEO of Cerv Property Solutions, warned that rodents, poor maintenance and other basic pr",
         "created_at": "2026-08-17T22:17:21Z",
@@ -470,30 +494,6 @@
         "user": "sethmarcus",
         "body": "$META",
         "created_at": "2026-08-17T21:55:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GODDY1",
-        "body": "$META $600+ this week? 👀",
-        "created_at": "2026-08-17T21:53:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StockedUp57",
-        "body": "$META after another 600 fail time to start adding at all key levels 🤔🤔🤔🤔📉🛒🧘",
-        "created_at": "2026-08-17T21:52:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StoneFoxCapital",
-        "body": "$META the whole harm nonsens keeps allowing people to blame someone else for their missery. If a teen isn&#39;t on IG, their gonna watch TV, or drink or drugs.",
-        "created_at": "2026-08-17T21:51:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META not a Big Deal tomorrow",
-        "created_at": "2026-08-17T21:50:01Z",
         "sentiment": ""
       }
     ]
