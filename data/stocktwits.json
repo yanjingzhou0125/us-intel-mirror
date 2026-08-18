@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-18 05:57:33",
+  "ts": "2026-08-18 06:52:43",
   "tickers": {
     "NVDA": [
+      {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $NVDA $INTC  \nNikkei, Kospi both down this morning (assuming they were open today). VIX up &gt; 6%. its all good. nothing goes up in a perfectly straight line every day. bound to have down days every now and then",
+        "created_at": "2026-08-18T06:34:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$NVDA $AVGO $TSM $SKHY $GOOG  \nNetlist’s Royalty Flywheel: Could NLST Become a Memory Cash-Flow Powerhouse? \nhttps://garywallach.substack.com/p/netlists-royalty-flywheel-could-nlst?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-18T06:33:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Johnny001",
+        "body": "$NVDA",
+        "created_at": "2026-08-18T06:33:43Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Ub3r5pAnK",
+        "body": "$NDAQ $SPX $QQQ $SMCI $NVDA I dont like the way he does things, 100% does it to manipulate markets but essentially he doesnt mean half the things he says and does even less than he promises. \n \nSo realistically just take anything like these &quot;threats&quot; as market manipulation. \n \nThe one thin",
+        "created_at": "2026-08-18T06:25:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "milk25",
+        "body": "$NVDA about to rally hard soon",
+        "created_at": "2026-08-18T06:20:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PortfolioBeacon",
+        "body": "$TSLA $VG $DOGE $NVDA Tesla remains focused on EVs, autonomy, and energy, VG remains speculative, Dogecoin remains highly sentiment-driven, and Nvidia remains a major AI-chip beneficiary. I&#39;m watching deliveries, autonomy milestones, crypto liquidity, and AI-chip demand.",
+        "created_at": "2026-08-18T06:09:17Z",
+        "sentiment": ""
+      },
       {
         "user": "Ub3r5pAnK",
         "body": "$NDAQ $SPX $QQQ $SMCI $NVDA The last thing trump wants is escalation with Oman, thats counter intuitive to his mid term agenda, likely just said it for leverage.  \n \nCould actually make markets rally again if he &quot;solves the issue&quot;.",
@@ -25,45 +61,27 @@
         "body": "$NVDA opportunities tomorrow!",
         "created_at": "2026-08-18T05:17:41Z",
         "sentiment": ""
-      },
-      {
-        "user": "bumbaclot",
-        "body": "$MSFT $AMD $IGV $NVDA $DRAM.X tomorrow might just be a bad day Al around no rotation between semis and software. From the new bombing at Hormuz, the ai bubble scare and Goldman saying chances of rate hikes are back on the table. Things might just get ugly all around the board.",
-        "created_at": "2026-08-18T05:08:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "$SPY $SKHY $MU $SNDK $NVDA",
-        "created_at": "2026-08-18T05:03:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "In_N__Out",
-        "body": "$SPY $USO.X $NVDA $AVGO $AMD US   debt being dumped and retail pumping semi sector into more wars.",
-        "created_at": "2026-08-18T05:02:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Judy11",
-        "body": "$NVDA please go down",
-        "created_at": "2026-08-18T05:00:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "VoxGeorge",
-        "body": "$RUM $NVDA BREAKING: Nvidia, OpenAI and SB Energy are planning an 8 GW AI compute campus in Ohio. \n \nhttps://www.facebook.com/photo?fbid=1520570436538362&amp;set=a.626617639266984",
-        "created_at": "2026-08-18T04:51:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Dalmeisho",
-        "body": "$NVDA $SPY $QQQ",
-        "created_at": "2026-08-18T04:50:30Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Mrmora",
+        "body": "$TSLA ⚡ FOR SALE — TESLA MODEL Y | WHITE ON BLACK 🖤\n\n🚘 Tesla Model Y — Premium Electric SUV\nA stunning white-on-black Tesla Model Y, combining a clean, modern exterior with a sleek and luxurious black interior.\n\nThis Model Y delivers the perfect balance of performance, comfort, technology, practical",
+        "created_at": "2026-08-18T06:52:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mrmora",
+        "body": "$TSLA ELONN",
+        "created_at": "2026-08-18T06:48:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PortfolioBeacon",
+        "body": "$TSLA $VG $DOGE $NVDA Tesla remains focused on EVs, autonomy, and energy, VG remains speculative, Dogecoin remains highly sentiment-driven, and Nvidia remains a major AI-chip beneficiary. I&#39;m watching deliveries, autonomy milestones, crypto liquidity, and AI-chip demand.",
+        "created_at": "2026-08-18T06:09:17Z",
+        "sentiment": ""
+      },
       {
         "user": "IntiTheSunGod",
         "body": "$VTIX $TSLA",
@@ -105,27 +123,15 @@
         "body": "$TSLA  💥",
         "created_at": "2026-08-18T04:49:07Z",
         "sentiment": ""
-      },
-      {
-        "user": "Rickyjones3rd",
-        "body": "$TSLA love to see a lot of bears in here means it’ll go up tomorrow morning",
-        "created_at": "2026-08-18T04:48:31Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "seeitmarket",
-        "body": "$TSLA",
-        "created_at": "2026-08-18T04:48:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AlphaTrader30000",
-        "body": "$TSLA -5% tomorrow",
-        "created_at": "2026-08-18T04:37:35Z",
-        "sentiment": "Bearish"
       }
     ],
     "AAPL": [
+      {
+        "user": "MarketAtlas",
+        "body": "$LUNR $AAPL $ASTS $SNAP Intuitive Machines benefits from lunar infrastructure and NASA contracts, Apple benefits from its ecosystem and services, AST SpaceMobile advances satellite-to-phone connectivity, and Snap remains focused on advertising monetization. I&#39;m watching space contracts, device d",
+        "created_at": "2026-08-18T06:07:26Z",
+        "sentiment": ""
+      },
       {
         "user": "mikesterz7",
         "body": "$AAPL \n\n🔥🔥🔥",
@@ -179,15 +185,33 @@
         "body": "$META $GOOGL $SNAP TikTok. $ORCL $AAPL Social media pretending like they’re removing accounts when there is infact a mass exodus from all social.",
         "created_at": "2026-08-18T03:35:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "PadZone1",
-        "body": "What a day team 🥱 price action was horrendous most of the day. Took my money early and enjoyed my day. Tomorrow I’ll be watching $SPY &amp; $SPX for some 0dte setups, hopefully we see volatility come back into play, but if not I’ll take what the market gives and walk away. I’ll also be watching $AAP",
-        "created_at": "2026-08-18T03:30:21Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $MU $AMD $MSFT $INTC \nNetlist’s Royalty Flywheel: Could NLST Become a Memory Cash-Flow Powerhouse? \nhttps://garywallach.substack.com/p/netlists-royalty-flywheel-could-nlst?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-18T06:31:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MarketAtlas",
+        "body": "$AMD $BB $MSTR $INTC AMD benefits from AI and data-center semiconductor demand, BlackBerry remains focused on software and IoT, Strategy remains highly leveraged to Bitcoin, and Intel remains focused on semiconductor manufacturing and foundry execution. I&#39;m watching AI chip demand, software grow",
+        "created_at": "2026-08-18T06:07:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ElliottwaveForecast",
+        "body": "$AMD — strong reaction higher unfolding from the 🔵 BlueBox area. Now comes the moment of truth: price can either push to new highs or roll into a double correction lower. Traders should stay nimble as the Elliott Wave structure decides. #Elliottwave #Trading",
+        "created_at": "2026-08-18T06:00:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AvalancheCapital",
+        "body": "$AMD **Worth Exploring** \n \nI’ve been seeing some interesting discussions around “https://share.google/vt6OEuNgn5ciEZFzC” lately. \n \nIf you haven’t come across the term, it may be worth doing a quick search and learning what it’s about. There seem to be some interesting opportunities being discussed",
+        "created_at": "2026-08-18T05:58:24Z",
+        "sentiment": ""
+      },
       {
         "user": "Tifosi007",
         "body": "$AMD \n\n💎🏆💎🏆💎\n\nMicrosoft will deploy AMD’s complete Helios rack-scale AI system on Azure not merely individual chips.\n\nHelios combines MI455X GPUs, EPYC “Venice” CPUs, Pensando networking and ROCm software, proving AMD can deliver a full-stack Nvidia alternative.\n\nAzure will use AMD for production sc",
@@ -223,33 +247,15 @@
         "body": "$SMCI $NVDA $AMD $DELL $CSCO Just remember that SMCI is a great indicator for all of these stocks, when it pumps tech goes up, when it comes down well they dont but thats when these other stocks chill sideways for a bit, then when it pumps these other stocks go to ATHs",
         "created_at": "2026-08-18T04:33:09Z",
         "sentiment": ""
-      },
-      {
-        "user": "CapitalMonk",
-        "body": "$AMD\nPrice: $514.39 (+6.50%)\nTrend: Bullish\nMarket Bias (7D): Bearish Bias 📉\nExpected Range: ±0.23%\nRSI: 53.5 | Momentum: Moderate\nVolume: -10.3% vs avg\nVolatility: 5.33%\nSupport: $424.03 | Resistance: $561.47\n\nData and analytics sourced from Thescanner educational research https://www.thescanner.ai",
-        "created_at": "2026-08-18T04:25:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Big_Timer",
-        "body": "$SMCI 🚨🚀 — FOLLOW THE AI MONEY.\n\nWhile bears argue over headlines, Supermicro is positioned directly inside the infrastructure buildout powering the biggest AI workloads on earth.\n\n🔥 $NVDA — deep platform/OEM relationship across next-gen GPU systems\n🔥 AMD — Instinct-based AI infrastructure\n🔥 Intel —",
-        "created_at": "2026-08-18T04:06:20Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "charliesdollar",
-        "body": "$MU TO ANY MORON WHO BOUGHT CALLS TODAY CONGRATS. U WILL WAKE UP WITH THE -50% HAIRCUT IN THE MORNING LOL $SPY $AMD QQQ",
-        "created_at": "2026-08-18T03:51:56Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "RobertDainiro",
-        "body": "$AMD $CSCO $DELL $NVDA $SMCI might bounce at $19, good call brothu Uber👍",
-        "created_at": "2026-08-18T03:43:46Z",
-        "sentiment": "Bearish"
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$NVDA $AVGO $TSM $SKHY $GOOG  \nNetlist’s Royalty Flywheel: Could NLST Become a Memory Cash-Flow Powerhouse? \nhttps://garywallach.substack.com/p/netlists-royalty-flywheel-could-nlst?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-18T06:33:55Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "HIMAX_TSM_NVDA_CPO",
         "body": "Nvidia&#39;s Next AI Infrastructure Bet Is Scaling Fast — TradingView News $nvda $himx $tsm $lite https://www.tradingview.com/news/gurufocus:19599a392094b:0-nvidia-s-next-ai-infrastructure-bet-is-scaling-fast/",
@@ -303,15 +309,33 @@
         "body": "$MU\n\nMemory just became a policy trade. 👀\n\nMicron jumped about 4.5% after Washington discouraged Apple from using Chinese memory suppliers. MU makes the DRAM and high-bandwidth memory feeding AI servers. $SMH holds MU beside $NVDA, $TSM and $AVGO and was up about 50% YTD through July.\n\nToday’s heat ",
         "created_at": "2026-08-17T16:51:05Z",
         "sentiment": ""
-      },
-      {
-        "user": "StochAlpha",
-        "body": "$TSM +45% sales in july. $MU revenue +346% yoy, ouch. $AVGO guiding AI chips to double again next Q. 15 straight record months for chip sales. $NVDA prints 8/26 and might be the one that actually moves this whole AI trade one way or the other",
-        "created_at": "2026-08-17T16:41:30Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $MU $AMD $MSFT $INTC \nNetlist’s Royalty Flywheel: Could NLST Become a Memory Cash-Flow Powerhouse? \nhttps://garywallach.substack.com/p/netlists-royalty-flywheel-could-nlst?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-18T06:31:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "CRWV vs NBIS vs IREN: Which Neocloud Operator To Bet On Right Now?\n\n$CRWV $IREN $NBIS $AMZN $MSFT\n\nhttps://stocktwits.com/news/equity/markets/crwv-vs-nbis-vs-iren-which-neocloud-operator-to-bet-on-right-now/cZYcGJzRJSl",
+        "created_at": "2026-08-18T06:10:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MarketAtlas",
+        "body": "$HTZ $MSFT $RDDT $SOUN Hertz remains tied to fleet economics and vehicle residual values, Microsoft benefits from cloud and AI spending, Reddit benefits from engagement and advertising growth, and SoundHound advances voice-AI applications. I&#39;m watching fleet utilization, cloud growth, user engag",
+        "created_at": "2026-08-18T06:07:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Biostock",
+        "body": "$SPY $QQQ   China axing Microsoft Windows from state agencies ahead of plan  \n$MSFT",
+        "created_at": "2026-08-18T06:00:33Z",
+        "sentiment": ""
+      },
       {
         "user": "SQBear",
         "body": "$MSFT way overpriced. we&#39;ll see $450 by end of week",
@@ -347,33 +371,27 @@
         "body": "$GOOG $MSFT $META \nWatch these turds pulling back more than memory or chip stocks tomorrow. They never follow them on the way up, and more often than not they sell off like there is no tomorrow when semis are up (like today) but they also sell off when they are down….there is no winning here",
         "created_at": "2026-08-18T03:11:04Z",
         "sentiment": ""
-      },
-      {
-        "user": "sheastock",
-        "body": "$MSFT hoping the miracle happens tomorrow",
-        "created_at": "2026-08-18T03:04:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SerinTech",
-        "body": "@Michaela4m $IREN $MSFT $NVDA The Microsoft delivery plus NVIDIA Exemplar status is a clear credibility step.\n\nMoving from “AI story” to actual customer acceptance and validation matters.\nCurious how the remaining Horizon deployments progress from here.",
-        "created_at": "2026-08-18T02:50:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "KingWarsh",
-        "body": "$META  $AMZN $AVGO $NVDA $MSFT    Gooshhh the bonds and crash are Biden and Obamas fault.. I was given a failing economy… gosssh",
-        "created_at": "2026-08-18T02:43:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jcrsbarb",
-        "body": "$MSFT shares fell about 3.2% on Monday after a Guardian investigation raised questions about whether the company has enough advanced chips installed to support its rapid artificial intelligence infrastructure expansion.\n\nThe report pointed to a potential gap between Microsoft&#39;s stated data-cente",
-        "created_at": "2026-08-18T02:39:55Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "BGESGroup",
+        "body": "$NVDA $AVGO $TSM $SKHY $GOOG  \nNetlist’s Royalty Flywheel: Could NLST Become a Memory Cash-Flow Powerhouse? \nhttps://garywallach.substack.com/p/netlists-royalty-flywheel-could-nlst?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-18T06:33:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DividendTrekker",
+        "body": "$PYPL $GOOG $VCX $SNDQ PayPal remains focused on digital payments and transaction growth, Google benefits from advertising, cloud, and AI, VCX remains execution-dependent, and SNDQ remains speculative. I&#39;m watching payment volumes, ad demand, cloud growth, and liquidity.",
+        "created_at": "2026-08-18T06:08:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "THIS_TIME_IS_DIFFERENT",
+        "body": "$GOOG BUYER AT $300",
+        "created_at": "2026-08-18T05:58:48Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Judy11",
         "body": "$GOOG go\nDown 315 please",
@@ -415,27 +433,21 @@
         "body": "$GOOG short against buffet?",
         "created_at": "2026-08-18T03:42:09Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "CADev21",
-        "body": "$GOOG give me sub 320 and I&#39;ll buy 1k shares.",
-        "created_at": "2026-08-18T03:38:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ironmantrader777",
-        "body": "$GOOG rip 330 tomorrow",
-        "created_at": "2026-08-18T03:32:23Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "CADev21",
-        "body": "$GOOG one of the best values in tech.",
-        "created_at": "2026-08-18T03:18:58Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "Mnybagz",
+        "body": "@armave I’d agree with this. The trial and macro geopolitical escalation could easily pressure it down to the support zone. But that’s not necessarily bearish. If there’s a benign resolution to the trial it could be the catalyst to send it straight into that higher price arange. Dip n rip. $META at ",
+        "created_at": "2026-08-18T06:17:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Jamamalolo",
+        "body": "$META love this moron bring the price  down i am buying this,,  your sh&amp;t is my gold dump it paper hands",
+        "created_at": "2026-08-18T06:14:35Z",
+        "sentiment": ""
+      },
       {
         "user": "armave",
         "body": "$META forming a potential weekly Bullish Symmetrical Triangle after years of consolidation. \n \n🛡️ Potential Support: $525 – $560 \n🎯 Possible Target: $750 – $800+",
@@ -483,18 +495,6 @@
         "body": "$META fell below the support level at $577 today. Watch for a retest of the $577 area tomorrow. Or it might just keep heading down.",
         "created_at": "2026-08-18T04:38:52Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "The attacks occurring today are attracting global attention...looks like we&#39;re heading for a bloody tuesday.\n\n$NVDA $META $MU $USO.X $SPY",
-        "created_at": "2026-08-18T04:18:42Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "LUV2DAY",
-        "body": "$META  waiting for beast to wake up .. And rally",
-        "created_at": "2026-08-18T04:13:13Z",
-        "sentiment": "Bullish"
       }
     ]
   }
