@@ -1,70 +1,118 @@
 {
-  "ts": "2026-08-18 21:23:45",
+  "ts": "2026-08-18 21:48:11",
   "tickers": {
     "NVDA": [
       {
-        "user": "yogibearacallz",
-        "body": "$SMCI $SPY $NVDA $TSLA",
-        "created_at": "2026-08-18T21:22:10Z",
+        "user": "Shortbreaker9000",
+        "body": "$NVDA $SMCI $SPCX $TSLA",
+        "created_at": "2026-08-18T21:43:50Z",
         "sentiment": ""
+      },
+      {
+        "user": "LoneBroker",
+        "body": "$NVDA $MU $RKLB",
+        "created_at": "2026-08-18T21:43:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stinger2023",
+        "body": "$AMD should run tomorrow towards $505-506 area where the 50-Day Average lies— today, we bounced off 100 Day Moving average. This is in a trading range pattern this week- we should see $520-530 by the end of this week. Next week, with $NVDA earning, we could see AMD get back to $570-580 range.",
+        "created_at": "2026-08-18T21:42:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "howardlindzon",
+        "body": "lol guy owns 2 percent of anthropic and nobody trust him and he wants and will get super voting rights \n\nkeep it \n\n$qqq $nvda",
+        "created_at": "2026-08-18T21:42:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "amberajax2point0",
+        "body": "$NBIS $CRWV $NVDA jensen says no moat…",
+        "created_at": "2026-08-18T21:39:32Z",
+        "sentiment": "Bearish"
       },
       {
         "user": "CUPandHANDLE_CHARTS",
-        "body": "$KEEL ~ Keel AI Infrastructure stock dropped over -13% following an upsized 400 million convertible senior notes debt offering on Aug 17, 2026, alongside investor anxiety regarding wider operating losses, permit delays for its AI data center transitions, and a -50% year-over-year DROP in revenue aft",
-        "created_at": "2026-08-18T21:19:21Z",
+        "body": "$NBIS ~ AI Infrastructure Data Center stocks hammered lower today along with the AI Memory Chips (DRAM). Good luck everyone. $IREN $KEEL $NVDA $QQQ",
+        "created_at": "2026-08-18T21:38:36Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "NCBailey7",
-        "body": "$SPCX  $TSLA  $QQQ  $NVDA \n\nOn top of  rate hikes,  midterms,  inflation, war  and constant overspending with capex in circular funding that’s drying up what could go wrong?  Hmmm Dems could take the senate and Trump will be impeached … Nvidea lowered funding for that 500  billy loan twice and they ",
-        "created_at": "2026-08-18T21:19:11Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Where_is_Calhoun",
-        "body": "$NVDA the 10 &amp; 30 year were both down today.  no reason for this to be down today other than another shake out.  even on the worst days in july this only down 3% in a day.  total &amp; complete shenanigans today.",
-        "created_at": "2026-08-18T21:16:28Z",
-        "sentiment": ""
       },
       {
         "user": "THE_TRADE",
-        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \nGoldman&#39;s &#39;Second Space Age&#39; — $1.8 Trillion Global Market by 2035 — TradingView News https://share.google/9Cc3OTY1jd1KICjIO",
-        "created_at": "2026-08-18T21:16:08Z",
+        "body": "$GOOGL $NVDA $SPY $QQQ $SPCX \n\nHere it comes......",
+        "created_at": "2026-08-18T21:38:15Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "___dog___",
-        "body": "$AMFN $TSLA $SPCX $NVDA American fusion Uplisting to the QB starts tomorrow. Racers start your engines",
-        "created_at": "2026-08-18T21:14:58Z",
+        "user": "L4inofthewired",
+        "body": "$NVDA predictions for the earnings",
+        "created_at": "2026-08-18T21:36:41Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $NVDA Baka centering $GOOGL $BTC.X",
-        "created_at": "2026-08-18T21:13:36Z",
+        "user": "Mipel",
+        "body": "$NVDA .",
+        "created_at": "2026-08-18T21:33:37Z",
         "sentiment": ""
       },
       {
-        "user": "micheln1",
-        "body": "$NVDA 175 coming",
-        "created_at": "2026-08-18T21:13:35Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Sleepy_Don",
-        "body": "$DJT $QQQ $SPY $NVDA $TSLA \n\n30 year bond is at it&#39;s highest level since the 2007 2008 crash.\n\nDiesel  has broken all time wholesale margin prices.\n\nIran war is showing no signs of ending and is to the point of escalation. \n\nVarious industries are shutting down manufacturing and laying people of",
-        "created_at": "2026-08-18T21:07:46Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~  ROSS HENDRICKS: &quot;.. this chart below is why Anthropic&#39;s ARR (Annualized Revenue Run Rate) disappointed, and why they&#39;re rushing to dump their fantasy 2 trillion dollar IPO onto retail bagholders just like OpenAI desperately want to do also before the AI LLM bubble bursts. It&#39",
-        "created_at": "2026-08-18T21:06:10Z",
-        "sentiment": "Bearish"
+        "user": "yellowtweet",
+        "body": "$NVDA earnings on the horizon … anticipate all semis backup \n$INTC $MU $AMD",
+        "created_at": "2026-08-18T21:31:07Z",
+        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
       {
+        "user": "_Thumper_",
+        "body": "$SPCX  /   $TSLA   \n \nYou want some prime locations for  \n \nNew A. I. Data Centers? \n \nTry New England. \n \nSpecifically the States with Towns that  \n \nHosted now abandoned  \n \nPaper Mills \n \nGet the properties for a song &amp; most have \n \nBeefed up Electrical Services \n \nJust begging for power flow",
+        "created_at": "2026-08-18T21:44:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Shortbreaker9000",
+        "body": "$NVDA $SMCI $SPCX $TSLA",
+        "created_at": "2026-08-18T21:43:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Doubleup2022",
+        "body": "$TSLA When this was at 414.5 back in 2021, who in their right mind would think this would reach 101.81 in the next two years. Sometimes the most unexpected will come just like now. Be prepared to buy when this hit 100 in the next 2 years. I think that&#39;s enough time for robotaxi to scale. That&#3",
+        "created_at": "2026-08-18T21:37:18Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "THECORLEONEFAMILY",
+        "body": "$AIFC $TSLA $SPCX $KO $PYPL",
+        "created_at": "2026-08-18T21:34:11Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "tradernomad",
+        "body": "$TSLA and $SPCX take https://prosignaltrades.com/tsla-spcx-bearish-falling-wedge-july-2026/",
+        "created_at": "2026-08-18T21:33:11Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Dude2424",
+        "body": "$NVDA $SMCI $SPY $TSLA I know whatcha mean man…",
+        "created_at": "2026-08-18T21:27:54Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Spanki",
+        "body": "$TSLA Hegseth wants to run for President after failing to subdue Iran six months after declaring victory. lol.",
+        "created_at": "2026-08-18T21:25:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PitaPierogi",
+        "body": "$SMCI yup. 200. $NVDA $SPCX $TSLA",
+        "created_at": "2026-08-18T21:24:39Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "yogibearacallz",
         "body": "$SMCI $SPY $NVDA $TSLA",
         "created_at": "2026-08-18T21:22:10Z",
@@ -75,57 +123,27 @@
         "body": "$SPCX  $TSLA  $QQQ  $NVDA \n\nOn top of  rate hikes,  midterms,  inflation, war  and constant overspending with capex in circular funding that’s drying up what could go wrong?  Hmmm Dems could take the senate and Trump will be impeached … Nvidea lowered funding for that 500  billy loan twice and they ",
         "created_at": "2026-08-18T21:19:11Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "theta_slayer21",
-        "body": "Theta Slayer – Closed Positions\n\n📈 8/18/26 RECAP 🔥\n\n🟢 $QQQ 717P +87%  \n🟢 $TSLA 340C +75%  \n🟢 $SPY 765P +75%  \n🟢 $QQQ 718P +65%  \n🟢 $QQQ 719C +58%  \n🟢 $QQQ 718P +33%  \n🟢 $SPY 768P +30%  \n🟢 $SPX 7725C +21%  \n🟡 $SPY 763P (Swing)  \n🔴 $QQQ 717P (Loss)  \n🔴 $QQQ 724C (Loss)\n\nAnother solid day—multiple big ",
-        "created_at": "2026-08-18T21:17:36Z",
-        "sentiment": ""
-      },
-      {
-        "user": "___dog___",
-        "body": "$AMFN $TSLA $SPCX $NVDA American fusion Uplisting to the QB starts tomorrow. Racers start your engines",
-        "created_at": "2026-08-18T21:14:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Samurai0",
-        "body": "$TSLA planning to start taking a short position here in the morning.",
-        "created_at": "2026-08-18T21:12:27Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Masonic11",
-        "body": "$GDC $BTC.X $SPCX $TSLA 7+++ A SHARE CASH 7500BTC!!!!! OFFER ON THE TABLE. 4ML OS!!! IT&#39;S WORTH SOME POCKET CHANGE! 👽👽👽👽👽 FU SHORTY!!!! 😎👽👽👽",
-        "created_at": "2026-08-18T21:10:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Sleepy_Don",
-        "body": "$DJT $QQQ $SPY $NVDA $TSLA \n\n30 year bond is at it&#39;s highest level since the 2007 2008 crash.\n\nDiesel  has broken all time wholesale margin prices.\n\nIran war is showing no signs of ending and is to the point of escalation. \n\nVarious industries are shutting down manufacturing and laying people of",
-        "created_at": "2026-08-18T21:07:46Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "bloodee",
-        "body": "$TSLA lol a bunch of dumb hopeful money still buying i guess",
-        "created_at": "2026-08-18T21:04:59Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "cAntshaker",
-        "body": "$TSLA I feel like Tesla is in the right space providing solutions for this oil energy crisis. And why it doesn&#39;t fly when the oil prices hit the sky is a head scratcher.",
-        "created_at": "2026-08-18T21:03:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "KansasCash",
-        "body": "Paid $100,000 for early access to Trump&#39;s tweets… and now I only need to make $126,000 to break even. \n#CovfefePremium  \n$SPY \n  \n$TSLA",
-        "created_at": "2026-08-18T20:57:32Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "DonJohnson24",
+        "body": "$AAPL",
+        "created_at": "2026-08-18T21:47:13Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "LoneBroker",
+        "body": "$AAPL $BA $QBTS",
+        "created_at": "2026-08-18T21:46:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY $QQQ $IWM $AAPL \n\nGetting Ripped ?  💪🏦📚",
+        "created_at": "2026-08-18T21:32:49Z",
+        "sentiment": ""
+      },
       {
         "user": "BillyCashIsKing",
         "body": "$AAPL bodied $SPY today lol",
@@ -167,27 +185,27 @@
         "body": "$AAPL  stereotypes aren’t given they are earned",
         "created_at": "2026-08-18T20:24:05Z",
         "sentiment": ""
-      },
-      {
-        "user": "DisJokersCrazy",
-        "body": "$AAPL would love to see it open above the 311 fight it couldn’t break today, hopefully a good market sends this to 317-320 with EoW fight for 340 possible but tomorrows move is most important…",
-        "created_at": "2026-08-18T20:19:47Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL  RIP.  😎😎  sharp dressed man.",
-        "created_at": "2026-08-18T20:17:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Kyurtt",
-        "body": "$AAPL you can tell which companies are truly corrupted and manipulated by how there performing compared to the vast majority",
-        "created_at": "2026-08-18T20:16:59Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Stinger2023",
+        "body": "$AMD should run tomorrow towards $505-506 area where the 50-Day Average lies— today, we bounced off 100 Day Moving average. This is in a trading range pattern this week- we should see $520-530 by the end of this week. Next week, with $NVDA earning, we could see AMD get back to $570-580 range.",
+        "created_at": "2026-08-18T21:42:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "4years_2_retirement",
+        "body": "$CBRG $AMD $INTC \n$CBRS 🔥\n\nCBRG showed exactly what it can do yesterday — $4.70 → $6.13 in a hurry.\n\nI’m in CBRG at $4.44 and looking for ROUND 2. 👀\n\nMomentum is there, volatility is there, and after seeing $6.13 yesterday, I’m watching for another push toward $6+ THIS WEEK.\n\nIf volume comes back in",
+        "created_at": "2026-08-18T21:32:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "yellowtweet",
+        "body": "$NVDA earnings on the horizon … anticipate all semis backup \n$INTC $MU $AMD",
+        "created_at": "2026-08-18T21:31:07Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Mipel",
         "body": "$AMD",
@@ -229,24 +247,6 @@
         "body": "$AMD $AMDL $CBRS $CBRG \nChips turn tomorrow?",
         "created_at": "2026-08-18T20:33:12Z",
         "sentiment": ""
-      },
-      {
-        "user": "Franking71",
-        "body": "$AMD buy now. Friday $520.00💰💰💰💰💰💰💰💰💰💰💰💰",
-        "created_at": "2026-08-18T20:30:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GODDY1",
-        "body": "$AMD I was hoping for $490+ close, but I’ll take it 👀",
-        "created_at": "2026-08-18T20:25:36Z",
-        "sentiment": ""
-      },
-      {
-        "user": "sp122809",
-        "body": "$MU $NVDA $AMD \n\nLet&#39;s hope we do wetter on WTF rest of the week",
-        "created_at": "2026-08-18T20:23:50Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,24 @@
     ],
     "MSFT": [
       {
+        "user": "ranthor",
+        "body": "$MSFT still dumping ah",
+        "created_at": "2026-08-18T21:42:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$MSFT deport Nutella",
+        "created_at": "2026-08-18T21:29:13Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Michaela4m",
+        "body": "$IREN $MSFT $NVDA",
+        "created_at": "2026-08-18T21:26:48Z",
+        "sentiment": ""
+      },
+      {
         "user": "SatyaNadella___",
         "body": "$MSFT AI is moving from experimentation to execution.\nAt Microsoft, we’re focused on turning AI into practical tools that help businesses and people work smarter, build faster, and create more value. The opportunity is significant, but long-term success will come down to responsible innovation, stro",
         "created_at": "2026-08-18T21:18:13Z",
@@ -353,24 +371,6 @@
         "body": "$MSFT",
         "created_at": "2026-08-18T20:19:25Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "RocketRiick",
-        "body": "$MSFT i’m ready for a rip back to 500",
-        "created_at": "2026-08-18T20:12:08Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ranthor",
-        "body": "$META about to go negative on 2 year chart….while the index is up like 50% in the same period…all of the mags are underperforming the markets by a long shot, heck most are in deep red…turd meat is now down over 30% YoY, msft down over 10%…all turds… $MSFT $GOOG",
-        "created_at": "2026-08-18T20:04:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GoodNewsBull",
-        "body": "$SPY Trading in your Emotions is what kills so many novice Traders. \n$META has traded 23m shares &amp; its daily  Avg is 20m \n \nTHis is not so mass Selling its Buyers holding off &amp; Sellers dumping into a void. Thats not a time to Sell thats when you&#39;re Buying shares \n \n$QQQ $MSFT",
-        "created_at": "2026-08-18T20:01:15Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
@@ -437,64 +437,64 @@
     ],
     "META": [
       {
+        "user": "DonJohnson24",
+        "body": "$META added",
+        "created_at": "2026-08-18T21:47:09Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "greensteam20",
+        "body": "$META wholeeeshit 540????",
+        "created_at": "2026-08-18T21:44:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "starman1564",
+        "body": "$META Zuck the cuck doesn’t have to answer to a BOD.\n\nSo, he can do what he wants and doesn’t care if he tanks the stock.",
+        "created_at": "2026-08-18T21:44:58Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META Alexandr Wang/ ￼ Mark Zuckerberg release the watermelon🍉🍉🚀🚀🍉🍉🚀🚀🍉🍉🚀🚀🍉🍉🚀🚀🍉🍉",
+        "created_at": "2026-08-18T21:44:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "dumplingbuming",
+        "body": "$META is Disney getting sued for being addictive too? Seriously this trial is huge bs to get money of American company",
+        "created_at": "2026-08-18T21:41:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "kennycardenas",
+        "body": "$META way to worry about no having enough money to keep buying this",
+        "created_at": "2026-08-18T21:32:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "THECORLEONEFAMILY",
+        "body": "$AIFC $META $DOGE.X $PLTR $BABA",
+        "created_at": "2026-08-18T21:31:29Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Smoothbrainape",
+        "body": "$META AirPods also dragging this down people will use that instead of meta glasses probably",
+        "created_at": "2026-08-18T21:25:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "uagalista",
+        "body": "$META  Be careful ! This trial is expected to last until mid October, possibly!",
+        "created_at": "2026-08-18T21:25:35Z",
+        "sentiment": ""
+      },
+      {
         "user": "Lincoln1962",
         "body": "$META \n\nOh",
         "created_at": "2026-08-18T21:22:43Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "CuddlesTheStripperIndex",
-        "body": "$META 🤔👀",
-        "created_at": "2026-08-18T21:20:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Steezbeez",
-        "body": "$META when is the ruling ?",
-        "created_at": "2026-08-18T21:14:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MountCapital",
-        "body": "$META $500 this week.",
-        "created_at": "2026-08-18T21:13:46Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "CuddlesTheStripperIndex",
-        "body": "$META  Super Green Day 💚  Incoming",
-        "created_at": "2026-08-18T21:12:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SuperBigBoss",
-        "body": "$META we are at support. 544!",
-        "created_at": "2026-08-18T21:07:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Arcides",
-        "body": "$META are wild swings typical of bulish stock? i dont think so...",
-        "created_at": "2026-08-18T21:05:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CuddlesTheStripperIndex",
-        "body": "$META  Dang 🤔",
-        "created_at": "2026-08-18T21:05:21Z",
-        "sentiment": ""
-      },
-      {
-        "user": "nightwatcher26",
-        "body": "$META TICTOC is the real culprit here. The crap that I heard my grand daughter listening to a couple of years ago was absolutely discusting. I instantly told her that tictok was banned in my house. She was upset for a bit, but after some explaining, it was ok. I wonder how many of the plaintiffs wer",
-        "created_at": "2026-08-18T21:04:49Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AStrokeOfLuck",
-        "body": "$OKLO $META  $XE $UUUU $LEU",
-        "created_at": "2026-08-18T21:00:11Z",
-        "sentiment": ""
       }
     ]
   }
