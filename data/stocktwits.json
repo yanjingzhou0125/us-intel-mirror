@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-19 10:28:16",
+  "ts": "2026-08-19 10:56:33",
   "tickers": {
     "NVDA": [
+      {
+        "user": "PanzerDivision",
+        "body": "$NVDA something wrong, run",
+        "created_at": "2026-08-19T10:50:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MoneyFairyBlessings",
+        "body": "$NVDA Leading the pack here.  $225 instant magnet.",
+        "created_at": "2026-08-19T10:46:43Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DonCorleone77",
+        "body": "$NVDA $TCEHY  \n \nSmall batches of Nvidia chips permitted into China, FT says \n \nSmall batches of Nvidia (NVDA) chips have recently been permitted to enter mainland China, with ByteDance and Tencent (TCEHY) receiving about 10,000 H200 processors as Beijing tries to help its AI companies catch up to U",
+        "created_at": "2026-08-19T10:39:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $AAPL where did you get the nerve? $SNDK $NVDA",
+        "created_at": "2026-08-19T10:38:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "REALALOY",
+        "body": "$BB Nvidia $NVDA is pushing Al from the data center into the physical world of factories and robots.\n\nIt has named 16 Taiwanese companies that will show physical Al applications together at the Taipei Industrial Automation Exhibition starting today.\n\nThe list includes Advantech, Delta, Quanta, Pegat",
+        "created_at": "2026-08-19T10:31:02Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$SPY the siren song of those contracts $SNDK $NVDA",
@@ -31,39 +61,27 @@
         "body": "$SPY $SNDK yes I need atleast 30minute $NVDA $BTC.X",
         "created_at": "2026-08-19T10:17:03Z",
         "sentiment": ""
-      },
-      {
-        "user": "Riverrat69",
-        "body": "$NVDA China sales .  Couple billion this qtr 10 next",
-        "created_at": "2026-08-19T10:16:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StocktwitsNews",
-        "body": "NVDA Stock On Track To Snap 3-Day Losing Streak After H200 AI Chips Reportedly Reach ByteDance, Tencent in China\n\n$NVDA $SOXX $SMH $SOXL $MAGS\n\nhttps://stocktwits.com/news/equity/markets/nvda-stock-snap-3-day-losing-streak-h200-ai-chips-reach-bytedance-tencent-china/cZYdQ1ERJkp",
-        "created_at": "2026-08-19T09:59:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mipel",
-        "body": "$NVDA -The data, which appeared in the US for the first time in two decades, suggests a storm in the markets\n30-year US bond yields climbed to a two-decade high, seemingly offering a safe alternative to stocks ● In the past, such a situation has driven investors from Wall Street to bonds ●",
-        "created_at": "2026-08-19T09:51:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $SNDK Are you in or out? $NVDA $GOOGL $BTC.X",
-        "created_at": "2026-08-19T09:45:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JOEYBUYDEN",
-        "body": "$NVDA lol “Houthi” think they scaring marching around with Grandpa and their Springfield rifles…GTFO. 🤠🖕🏽🇺🇸\n\n$IREN $CRWV $ORCL",
-        "created_at": "2026-08-19T09:43:15Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "EV_Report",
+        "body": "Auto Tariffs Reportedly Block Canada-US Deal as Trump Delays 50% Levies  $STLA $F $GM $TSLA  \nhttps://eletric-vehicles.com/general/auto-tariffs-reportedly-block-canada-us-deal-as-trump-delays-50-levies/",
+        "created_at": "2026-08-19T10:41:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "15fingers",
+        "body": "$TSLA $SPCX  https://youtu.be/VBTnKnurNrM?is=mtUTXdrOIho7dkpp",
+        "created_at": "2026-08-19T10:41:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$DJT\n$AMC\n$SPY\n$BTC.X\n$TSLA\n🔺",
+        "created_at": "2026-08-19T10:30:38Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "LeonardoDeDust",
         "body": "$TSLA Not well",
@@ -105,27 +123,15 @@
         "body": "$TSLA $PEPE $META $CRVS Tesla remains tied to EV deliveries and autonomy, Pepe remains highly sentiment-driven, Meta benefits from advertising and AI investment, and CRVS remains dependent on biotechnology development. I&#39;m watching vehicle deliveries, crypto liquidity, ad growth, clinical cataly",
         "created_at": "2026-08-19T09:11:55Z",
         "sentiment": ""
-      },
-      {
-        "user": "Money247_com",
-        "body": "$TSLA $SPY $MU $NVDA  \nwhy did everything pump back up \ni was hoping for one more nice dip to buy today \nmissed everything",
-        "created_at": "2026-08-19T08:58:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "In_N__Out",
-        "body": "$DJT $SPY $QQQ $TSLA $SPCX Every MagA seems to be a pedo",
-        "created_at": "2026-08-19T08:04:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Innerchild",
-        "body": "$GDC 10 min until premarket , I am so tired, Damon, why did you have to scare me like that \n \n$SPY $SPCX $TSLA $DOGE.X",
-        "created_at": "2026-08-19T07:49:17Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $AAPL where did you get the nerve? $SNDK $NVDA",
+        "created_at": "2026-08-19T10:38:28Z",
+        "sentiment": ""
+      },
       {
         "user": "Mipel",
         "body": "$AAPL :The data, which appeared in the US for the first time in two decades, suggests a storm in the markets\n30-year US bond yields climbed to a two-decade high, seemingly offering a safe alternative to stocks ● In the past, such a situation has driven investors from Wall Street to bonds ●",
@@ -179,15 +185,27 @@
         "body": "$QQQ $SPY $AAPL $MSFT  \n \nSeriously? \n \nlmao! \n \n🤣",
         "created_at": "2026-08-19T08:08:07Z",
         "sentiment": ""
-      },
-      {
-        "user": "Kier_Severed",
-        "body": "$AAPL $SPY $QQQ This will flop - why a foldable iphone? Just get an regular iphone and an ipad. Apple users can definitely afford to!",
-        "created_at": "2026-08-19T07:28:53Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $GOOG $MU $AMD $MSFT  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T10:47:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "aby1",
+        "body": "$AMD   https://finance.yahoo.com/technology/ai/articles/wedbush-message-amd-investors-google-205547063.html",
+        "created_at": "2026-08-19T10:35:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "aby1",
+        "body": "$AMD Just been a bad week so far.  If it can just get 480 back, be nice.",
+        "created_at": "2026-08-19T10:30:56Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "RichardMuller",
         "body": "$AMD,  $MU, $SNDK, $NVDA and $WDC  Rebound rallies reached resistance targets now dealing with consolidation risk towards critical Cloud Chart support zones with rebound potential.  \nArtificial Intelligence and Cloud Chart trading review. Support and resistance zones identified for potential swing t",
@@ -229,27 +247,15 @@
         "body": "$CBRS Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions.\n\n$AVGO $AMD $ARM $MRVL",
         "created_at": "2026-08-19T08:20:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "MFWhaaaaaaT",
-        "body": "$AMD",
-        "created_at": "2026-08-19T08:05:50Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Flickted",
-        "body": "$NVDA $AMD $MU $SMCI $SKHY",
-        "created_at": "2026-08-19T08:03:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Innerchild",
-        "body": "$GDC go fuck yourself , 1 min left, excited for what Damon is saying about Gdc stock with 100% winrate \n \n$SPY $AMD $QQQ $AMC",
-        "created_at": "2026-08-19T07:59:41Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$INTC $AVGO $MSFT $TSM $IBM  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=tru",
+        "created_at": "2026-08-19T10:50:36Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Mipel",
         "body": "$TSM :-The data, which appeared in the US for the first time in two decades, suggests a storm in the markets\n30-year US bond yields climbed to a two-decade high, seemingly offering a safe alternative to stocks ● In the past, such a situation has driven investors from Wall Street to bonds ●",
@@ -303,15 +309,21 @@
         "body": "$AMD $TSM $QUBT",
         "created_at": "2026-08-18T21:48:32Z",
         "sentiment": ""
-      },
-      {
-        "user": "gazza75799",
-        "body": "$TSM this will never go back to previous highs in the next 3 months",
-        "created_at": "2026-08-18T21:07:58Z",
-        "sentiment": "Bearish"
       }
     ],
     "MSFT": [
+      {
+        "user": "BGESGroup",
+        "body": "$INTC $AVGO $MSFT $TSM $IBM  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=tru",
+        "created_at": "2026-08-19T10:50:36Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $GOOG $MU $AMD $MSFT  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T10:47:34Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "penny_z",
         "body": "$SOXS $NVDA $MSFT $ORCL $QQQ\n\nWSJ EXCLUSIVE: OpenAI Q2 financials trigger panic across the AI supply chain.\n\nKey Bombshells:\n• Burning Out of Control: Operating loss widened to $12.3B in Q2 (vs $9.3B in Q1) on just $6.7B revenue (+18% QoQ).\n• Anthropic Takes the Lead: Anthropic surged to $11.6B reve",
@@ -359,21 +371,27 @@
         "body": "$MSFT wtf is going on",
         "created_at": "2026-08-19T08:14:07Z",
         "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $AAPL $MSFT  \n \nSeriously? \n \nlmao! \n \n🤣",
-        "created_at": "2026-08-19T08:08:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "HenryTabisula478",
-        "body": "$UUP $USAR $IOVA $MSFT UUP provides U.S.-dollar exposure, USA Rare Earth remains tied to critical-mineral development, Iovance advances cell therapies for cancer, and Microsoft benefits from cloud and AI spending. I&#39;m watching dollar strength, permitting, clinical milestones, Azure growth, and A",
-        "created_at": "2026-08-19T07:13:47Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "Woodmont",
+        "body": "$GOOG So what is the reason we are down again today? Berkshire $294 average is getting closer by the day, the question is are they buying more with the price falling and a historical low PE of around 17 currently, my guess is they continue to build a larger position they are thinking long term 2-10 ",
+        "created_at": "2026-08-19T10:47:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $GOOG $MU $AMD $MSFT  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T10:47:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DonCorleone77",
+        "body": "$GOOGL $GOOG  \n \nGoogle plans to stop making Pixel products in China in 2027, Nikkei Asia reports \n \nGoogle has told suppliers it plans to move all Pixel phone, smartwatch, and wireless earbud manufacturing out of China in 2027 amid U.S.-China tensions, Nikkei Asia&#39;s Lauly Li reports. The compan",
+        "created_at": "2026-08-19T10:34:34Z",
+        "sentiment": ""
+      },
       {
         "user": "lczz",
         "body": "$GOOG steady",
@@ -415,27 +433,15 @@
         "body": "$HD $GOOG $ALT $SKHY Home Depot benefits from housing and home-improvement spending, Alphabet benefits from advertising, cloud, and AI growth, Altimmune advances metabolic-disease treatments, and SKHY remains highly speculative. I&#39;m watching housing activity, ad growth, clinical data, AI adoptio",
         "created_at": "2026-08-19T07:07:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $GOOG $MU $NVDA $AVGO  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-19T05:19:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$GOOG PDF President in the White House has killed USA and global economy",
-        "created_at": "2026-08-19T04:56:45Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$GOOG $300 is around the corner",
-        "created_at": "2026-08-19T04:56:13Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
+      {
+        "user": "Woodmont",
+        "body": "$META This will not hold any gains today and will be immediately sold off on any uptick, expect another 3% draw down today",
+        "created_at": "2026-08-19T10:49:46Z",
+        "sentiment": ""
+      },
       {
         "user": "Hotasfuuuuu",
         "body": "$META they are being sued by govt fine as high as 1.4 trillion",
@@ -489,12 +495,6 @@
         "body": "🍇 $META",
         "created_at": "2026-08-19T09:23:43Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "GaryKaufman577",
-        "body": "$SPCX $SLS $META $NBIS SPCX remains speculative, Sellas advances oncology treatments, Meta benefits from digital advertising and AI investment, and NBIS remains an early-stage AI opportunity. I&#39;m watching clinical catalysts, ad growth, AI infrastructure, and funding.",
-        "created_at": "2026-08-19T09:17:25Z",
-        "sentiment": ""
       }
     ]
   }
