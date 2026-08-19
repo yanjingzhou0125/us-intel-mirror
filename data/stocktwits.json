@@ -1,7 +1,55 @@
 {
-  "ts": "2026-08-19 10:56:33",
+  "ts": "2026-08-19 11:27:31",
   "tickers": {
     "NVDA": [
+      {
+        "user": "NauticalTrader",
+        "body": "$SPY $QQQ $SOXL $NVDA  \n \nI have said this a few times already, next month is normally the weakest month of the year for the markets. It&#39;s been magnified in the midterm. years. A correction in this bloated market would not surprise me nor should it with those with an IQ above 70. \n.",
+        "created_at": "2026-08-19T11:22:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "alaric_wong89",
+        "body": "$NVDA I keep coming back to the report that small batches of Nvidia chips were permitted into mainland China.",
+        "created_at": "2026-08-19T11:19:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ZACHERY2021",
+        "body": "$SMCI $MRNA  $NVDA\nIt&#39;s time",
+        "created_at": "2026-08-19T11:18:24Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "FrankyBot",
+        "body": "$NVDA easy short over and over",
+        "created_at": "2026-08-19T11:17:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "iatsebob",
+        "body": "$MRNA did AI just cure cancer? $NVDA $SNDK $MU $STX",
+        "created_at": "2026-08-19T11:16:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others\n\n$SSNLF $TSM $NVDA $AAPL $TSLA\n\nhttps://stocktwits.com/news/equity/markets/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr",
+        "created_at": "2026-08-19T11:02:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "INFINITEPUMP",
+        "body": "$NVDA chart looks like it wants 217, so expect a run up to 223-225…",
+        "created_at": "2026-08-19T11:00:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Yacob1822",
+        "body": "$NVDA expect early pump then fade need more volume",
+        "created_at": "2026-08-19T10:59:41Z",
+        "sentiment": ""
+      },
       {
         "user": "PanzerDivision",
         "body": "$NVDA something wrong, run",
@@ -13,57 +61,33 @@
         "body": "$NVDA Leading the pack here.  $225 instant magnet.",
         "created_at": "2026-08-19T10:46:43Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "DonCorleone77",
-        "body": "$NVDA $TCEHY  \n \nSmall batches of Nvidia chips permitted into China, FT says \n \nSmall batches of Nvidia (NVDA) chips have recently been permitted to enter mainland China, with ByteDance and Tencent (TCEHY) receiving about 10,000 H200 processors as Beijing tries to help its AI companies catch up to U",
-        "created_at": "2026-08-19T10:39:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $AAPL where did you get the nerve? $SNDK $NVDA",
-        "created_at": "2026-08-19T10:38:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "REALALOY",
-        "body": "$BB Nvidia $NVDA is pushing Al from the data center into the physical world of factories and robots.\n\nIt has named 16 Taiwanese companies that will show physical Al applications together at the Taipei Industrial Automation Exhibition starting today.\n\nThe list includes Advantech, Delta, Quanta, Pegat",
-        "created_at": "2026-08-19T10:31:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY the siren song of those contracts $SNDK $NVDA",
-        "created_at": "2026-08-19T10:24:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "penny_z",
-        "body": "$SOXS $NVDA $MSFT $ORCL $QQQ\n\nWSJ EXCLUSIVE: OpenAI Q2 financials trigger panic across the AI supply chain.\n\nKey Bombshells:\n• Burning Out of Control: Operating loss widened to $12.3B in Q2 (vs $9.3B in Q1) on just $6.7B revenue (+18% QoQ).\n• Anthropic Takes the Lead: Anthropic surged to $11.6B reve",
-        "created_at": "2026-08-19T10:23:55Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "RichardMuller",
-        "body": "$AMD,  $MU, $SNDK, $NVDA and $WDC  Rebound rallies reached resistance targets now dealing with consolidation risk towards critical Cloud Chart support zones with rebound potential.  \nArtificial Intelligence and Cloud Chart trading review. Support and resistance zones identified for potential swing t",
-        "created_at": "2026-08-19T10:22:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Wake44",
-        "body": "$NVDA China sales back on ...And no movement...Fuckin corrupt market!!!!",
-        "created_at": "2026-08-19T10:20:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $SNDK yes I need atleast 30minute $NVDA $BTC.X",
-        "created_at": "2026-08-19T10:17:03Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "AlphaTrader30000",
+        "body": "$TSLA hasn’t dropped since July 30th…. Blood in the waters 🩸",
+        "created_at": "2026-08-19T11:25:50Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "btmzq",
+        "body": "$TSLA this needs to pump to 350 today.",
+        "created_at": "2026-08-19T11:20:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Friends4eva",
+        "body": "$TSLA doesnt musk sell robots? sort of? LOL   China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
+        "created_at": "2026-08-19T11:14:34Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others\n\n$SSNLF $TSM $NVDA $AAPL $TSLA\n\nhttps://stocktwits.com/news/equity/markets/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr",
+        "created_at": "2026-08-19T11:02:34Z",
+        "sentiment": ""
+      },
       {
         "user": "EV_Report",
         "body": "Auto Tariffs Reportedly Block Canada-US Deal as Trump Delays 50% Levies  $STLA $F $GM $TSLA  \nhttps://eletric-vehicles.com/general/auto-tariffs-reportedly-block-canada-us-deal-as-trump-delays-50-levies/",
@@ -99,33 +123,21 @@
         "body": "$ENRD why did this collapse down from $8 after the deal with $TSLA?  Shorting?  Dilution?  What?",
         "created_at": "2026-08-19T10:03:02Z",
         "sentiment": ""
-      },
-      {
-        "user": "zero_vector",
-        "body": "$SPY  Market setups digest • 2026-08-18 \n \nDowntrend rips led all setup types by a wide margin with 27 names, while breakdowns (15) outpaced breakouts (11), reflecting a broadly defensive session.  \n \nHealth Care $XLV  was the primary source of bullish momentum, contributing four breakouts, with Pha",
-        "created_at": "2026-08-19T09:51:49Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Innerchild",
-        "body": "$GDC Should I cover now or see if it drops?  \n \n$SPY $SPCX $TSLA $AMC",
-        "created_at": "2026-08-19T09:23:27Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GaryKaufman577",
-        "body": "$NLST $SMCI $TSLA $KLAR Netlist remains speculative and litigation-dependent, Super Micro benefits from AI-server demand, Tesla remains tied to EV deliveries and autonomy, and Klarna remains focused on digital payments and consumer credit. I&#39;m watching legal developments, AI infrastructure, vehi",
-        "created_at": "2026-08-19T09:17:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ThelmaGibler249",
-        "body": "$TSLA $PEPE $META $CRVS Tesla remains tied to EV deliveries and autonomy, Pepe remains highly sentiment-driven, Meta benefits from advertising and AI investment, and CRVS remains dependent on biotechnology development. I&#39;m watching vehicle deliveries, crypto liquidity, ad growth, clinical cataly",
-        "created_at": "2026-08-19T09:11:55Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "sharkpatrol50",
+        "body": "$AAPL goodbye world - trump is leading us to nuclear holocaust",
+        "created_at": "2026-08-19T11:11:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "StocktwitsNews",
+        "body": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others\n\n$SSNLF $TSM $NVDA $AAPL $TSLA\n\nhttps://stocktwits.com/news/equity/markets/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr",
+        "created_at": "2026-08-19T11:02:34Z",
+        "sentiment": ""
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$SPY $AAPL where did you get the nerve? $SNDK $NVDA",
@@ -173,21 +185,15 @@
         "body": "$AAPL Chance we see 400 this year?",
         "created_at": "2026-08-19T09:05:04Z",
         "sentiment": ""
-      },
-      {
-        "user": "Mrup25",
-        "body": "$AAPL cant go up w Zero Date Options Exp",
-        "created_at": "2026-08-19T08:28:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $AAPL $MSFT  \n \nSeriously? \n \nlmao! \n \n🤣",
-        "created_at": "2026-08-19T08:08:07Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "chark96",
+        "body": "$AMD Same bullsht as $INTC",
+        "created_at": "2026-08-19T11:17:58Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $GOOG $MU $AMD $MSFT  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
@@ -241,15 +247,15 @@
         "body": "$SMCI $NVDA $MU $AMD $SNDK Maersk is currently quoting an emergency Hormuz freight rate of about $3800 on affected Gulf shipments. \n \nJust to demonstrate the economics not claiming these are actual SMCI shipment values: \n \nHardware value in shipment $3,800 extra freight \n \n$500,000 order adds 0.76% ",
         "created_at": "2026-08-19T08:45:54Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BEST_MAN_EVER",
-        "body": "$CBRS Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions.\n\n$AVGO $AMD $ARM $MRVL",
-        "created_at": "2026-08-19T08:20:35Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "StocktwitsNews",
+        "body": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others\n\n$SSNLF $TSM $NVDA $AAPL $TSLA\n\nhttps://stocktwits.com/news/equity/markets/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr",
+        "created_at": "2026-08-19T11:02:34Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$INTC $AVGO $MSFT $TSM $IBM  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=tru",
@@ -303,15 +309,21 @@
         "body": "$LITE What Lite-On is doing aligns directly with entire global semiconductor alliance. The partnership framework reveals that Lite-On is not building a standalone solution; utilizing $POET Tech patented Optical Interposer platform to serve the massive demands of hyperscale data centers. This creates",
         "created_at": "2026-08-19T00:04:17Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "LoneBroker",
-        "body": "$AMD $TSM $QUBT",
-        "created_at": "2026-08-18T21:48:32Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "Deno7711",
+        "body": "$GOOGL $MSFT both turds gonna collapse hard today , get out before it’s too late",
+        "created_at": "2026-08-19T11:13:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bumbaclot",
+        "body": "$MSFT bulls don’t want this to open below yesterdays low",
+        "created_at": "2026-08-19T11:08:01Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$INTC $AVGO $MSFT $TSM $IBM  \nWhy Netlist (OTCQB: NLST) Could Be the Stock Investors Dream About: A Small Company With Multi Billion-Dollar Potential \n \nhttps://garywallach.substack.com/p/why-netlist-otcqb-nlst-could-be-the?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=tru",
@@ -359,21 +371,15 @@
         "body": "$ETH $CBRS $MSFT $BE Ethereum remains tied to crypto adoption and network activity, CBRS remains speculative, Microsoft benefits from cloud and AI spending, and Bloom Energy benefits from distributed-power demand and data-center electricity needs. I&#39;m watching crypto liquidity, funding, Azure gr",
         "created_at": "2026-08-19T09:19:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "ThelmaGibler249",
-        "body": "$UUP $USAR $IOVA $MSFT UUP provides U.S.-dollar exposure, USA Rare Earth remains tied to critical-mineral development, Iovance advances cell therapies for cancer, and Microsoft benefits from cloud and AI spending. I&#39;m watching dollar strength, permitting, clinical milestones, Azure growth, and A",
-        "created_at": "2026-08-19T09:11:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Deno7711",
-        "body": "$MSFT wtf is going on",
-        "created_at": "2026-08-19T08:14:07Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "THIS_TIME_IS_DIFFERENT",
+        "body": "$GOOG $GOOGL NEVER ENDING SUFFERING. SMH",
+        "created_at": "2026-08-19T11:03:36Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Woodmont",
         "body": "$GOOG So what is the reason we are down again today? Berkshire $294 average is getting closer by the day, the question is are they buying more with the price falling and a historical low PE of around 17 currently, my guess is they continue to build a larger position they are thinking long term 2-10 ",
@@ -427,15 +433,39 @@
         "body": "$GOOG Has this effing stock finished green in the past 2 weeks? \nWT absolute F",
         "created_at": "2026-08-19T07:30:46Z",
         "sentiment": ""
-      },
-      {
-        "user": "ErnestJohnson385",
-        "body": "$HD $GOOG $ALT $SKHY Home Depot benefits from housing and home-improvement spending, Alphabet benefits from advertising, cloud, and AI growth, Altimmune advances metabolic-disease treatments, and SKHY remains highly speculative. I&#39;m watching housing activity, ad growth, clinical data, AI adoptio",
-        "created_at": "2026-08-19T07:07:30Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "Carlos_trades",
+        "body": "$META META TO THE MOOOOOOON TOday",
+        "created_at": "2026-08-19T11:20:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Bazziggr",
+        "body": "$META added more yesterday..Hopefully it bounce back now",
+        "created_at": "2026-08-19T11:13:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "23bobsmith23",
+        "body": "$META this is gonna break $518 today, isn’t it and then get to $480?",
+        "created_at": "2026-08-19T11:08:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "IAmGodAtStocks",
+        "body": "$META can we get to low 500’s so I can buy it all",
+        "created_at": "2026-08-19T11:03:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "YuhhhhhU",
+        "body": "$META bring this pos down!!",
+        "created_at": "2026-08-19T10:57:58Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Woodmont",
         "body": "$META This will not hold any gains today and will be immediately sold off on any uptick, expect another 3% draw down today",
@@ -465,36 +495,6 @@
         "body": "IPO Weekly Weigh-in: Is Anthropic setting up a $2T Facebook moment? $META  $IPO #IPO https://zpr.io/u9YFF5muZLFy",
         "created_at": "2026-08-19T10:08:39Z",
         "sentiment": ""
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META bullish",
-        "created_at": "2026-08-19T10:02:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MountCapital",
-        "body": "$META NO",
-        "created_at": "2026-08-19T09:59:40Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "the_Market_",
-        "body": "$META worst case already priced in?",
-        "created_at": "2026-08-19T09:40:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Woodmont",
-        "body": "$META If Zucky knew that the products they created did harm   to children  and did not take action to fix the issue that becomes a problem, if he took steps to fix the issue that is a different story, the attorneys for the State must show that convincingly, if Zucky took no steps he needs to step do",
-        "created_at": "2026-08-19T09:38:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ChurxyChurx",
-        "body": "🍇 $META",
-        "created_at": "2026-08-19T09:23:43Z",
-        "sentiment": "Bullish"
       }
     ]
   }
