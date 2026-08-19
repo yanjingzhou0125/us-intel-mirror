@@ -1,69 +1,81 @@
 {
-  "ts": "2026-08-19 07:42:30",
+  "ts": "2026-08-19 08:36:51",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Flickted",
+        "body": "$NVDA https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/",
+        "created_at": "2026-08-19T08:30:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "RicoElite",
+        "body": "$SPY Indices gapped up way too many times AND rallied in a straight line off of &quot;maybe we might do a peace deal&quot; headlines. Pullback could turn into a deeper decline if the indices don&#39;t defend support. Multiple gap ups and straight moves into the sky usually result in sharp pullbacks ",
+        "created_at": "2026-08-19T08:25:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "iseeshit",
+        "body": "$SPY $BTC.X  $NVDA  $BULL  $DJT \n😤🐂💎🟩🔒🚀🇺🇸",
+        "created_at": "2026-08-19T08:17:17Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SithL0rd",
+        "body": "$NVDA  don’t know why I get so frustrated $MU  $SPY",
+        "created_at": "2026-08-19T08:15:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PoundinBurgers",
+        "body": "$SKHY   $NVDA  Probably a bit of a revenge trade.  Hedgies will target Nvidia to drive Soxx and Soxl.  Which makes it very hard for tutes to counter.  \n \nSome will smell blood in the water and come just for the fun of it.",
+        "created_at": "2026-08-19T08:04:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Flickted",
+        "body": "$NVDA $AMD $MU $SMCI $SKHY",
+        "created_at": "2026-08-19T08:03:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mrshrugs11",
+        "body": "$NVDA",
+        "created_at": "2026-08-19T07:54:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY I mean what you want me to do about it? $META $NVDA $BTC.X",
+        "created_at": "2026-08-19T07:45:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Dutch4tune",
+        "body": "$NVDA Michael Burry",
+        "created_at": "2026-08-19T07:44:26Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "ycdctx",
         "body": "$NVDA  \nhttps://finance.yahoo.com/markets/stocks/articles/nvidia-stock-wont-overvalued-2028-055000296.html",
         "created_at": "2026-08-19T07:41:24Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "lejomo",
-        "body": "$SOXL $NVDA $AMD $SNDK  👍",
-        "created_at": "2026-08-19T07:38:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ycdctx",
-        "body": "$SNDK $MU $NVDA $INTC  \n \nhope today ends being up, coz both the KOSPI and NIKKEI closing down. that would be great, for a change. not looking forward to September, which historically is absolutely the worst month for stocks going back decades - the markets look for the smallest excuse to drop in th",
-        "created_at": "2026-08-19T07:29:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Whodo_Voodoo_Ido",
-        "body": "$SPY $DJT $BTC $SPCX $NVDA  \nMAGA is so obsessed with pedophilia because Democrats don&#39;t diddle kids. Always a republican.  Not sometimes but every time",
-        "created_at": "2026-08-19T07:12:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StocktwitsNews",
-        "body": "Michael Burry Flags New AI Chip Startup By Harvard Dropouts As ‘Serious Competition’ For Nvidia\n\n$NVDA $QQQ\n\nhttps://stocktwits.com/news/equity/markets/michael-burry-flags-new-ai-chip-startup-by-harvard-dropouts-as-serious-competition-for-nvidia/cZYdJbiRJk0",
-        "created_at": "2026-08-19T07:11:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SerinTech",
-        "body": "$NVDA\n\nFT is reporting that China has started easing import limits on NVIDIA’s H200 chips.\n\nByteDance and Tencent have each received about 10,000 units recently.\nThe U.S. had already approved the sales, but Chinese import approvals were the bottleneck.\n\nLooks like Beijing is trying to balance AI dem",
-        "created_at": "2026-08-19T07:07:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ThinkYouCan",
-        "body": "$SPY $DJT $BTC $SPCX $NVDA  \n \nIf there were a prediction market for this you could be a millionaire quick by betting on MAGA who scream the loudest as being pedos. It&#39;s always the ones that scream the loudest about it: \n \nhttps://www.newsweek.com/republican-who-backed-death-penalty-for-pedophil",
-        "created_at": "2026-08-19T07:06:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "$MU $SKHY $SNDK $NVDA $SPY  Share Buyback Set to Start Aug. 20 and Run for About Three Months",
-        "created_at": "2026-08-19T06:54:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "milk25",
-        "body": "$NVDA we will see 225 again",
-        "created_at": "2026-08-19T06:54:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "SK hynix&#39;s has announced a decision to repurchase 24,070,000 shares of common stock, valued at approximately 400 billion KRW, representing 3.3% of its market capitalization.\n\nThe company intends to cancel these treasury shares to enhance shareholder value through an open-market purchase.\n\n$MU $S",
-        "created_at": "2026-08-19T06:53:57Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "In_N__Out",
+        "body": "$DJT $SPY $QQQ $TSLA $SPCX Every MagA seems to be a pedo",
+        "created_at": "2026-08-19T08:04:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Innerchild",
+        "body": "$GDC 10 min until premarket , I am so tired, Damon, why did you have to scare me like that \n \n$SPY $SPCX $TSLA $DOGE.X",
+        "created_at": "2026-08-19T07:49:17Z",
+        "sentiment": ""
+      },
       {
         "user": "LayahHeilpern_",
         "body": "Gm from Monaco 🇲🇨 \n$BTC.X $TSLA $MSTR",
@@ -111,21 +123,21 @@
         "body": "$GDC Damon says GDC will skyrocket 50-60x premarket, he says I am fucked being short, if buyout happens, that’s 117$ chatgpt says. What do you guys think, am I fucked?  \n \n​$QQQ $SPY $AMC $TSLA",
         "created_at": "2026-08-19T06:22:02Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "YodaStockInvests",
-        "body": "$TSLA OFFICIALLY ANNOUNCES “CYBERCAB” LAUNCH EVENT! \n\nHow do you think that’ll affect the market?",
-        "created_at": "2026-08-19T06:09:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ron_Burn",
-        "body": "$TSLA prob going to 315",
-        "created_at": "2026-08-19T06:01:03Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "Mrup25",
+        "body": "$AAPL cant go up w Zero Date Options Exp",
+        "created_at": "2026-08-19T08:28:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $AAPL $MSFT  \n \nSeriously? \n \nlmao! \n \n🤣",
+        "created_at": "2026-08-19T08:08:07Z",
+        "sentiment": ""
+      },
       {
         "user": "Kier_Severed",
         "body": "$AAPL $SPY $QQQ This will flop - why a foldable iphone? Just get an regular iphone and an ipad. Apple users can definitely afford to!",
@@ -173,21 +185,33 @@
         "body": "$AAPL surprising to see the buying pressure today. Likely head back to the resistance level at $316.  \nWe will likely see sideways consolidation before it picks a direction. \nThe warning about consumers running out of money could affect profits over the next year. It will be interesting to see how t",
         "created_at": "2026-08-19T04:24:29Z",
         "sentiment": ""
-      },
-      {
-        "user": "IveBeenTrading",
-        "body": "$AAPL AAPL feels like a coiled spring. New iPhones, AI, potentially a foldable, and a massive ecosystem behind it. If Apple delivers, $400 doesn’t sound as crazy as it did a few months ago. 🍏",
-        "created_at": "2026-08-19T03:53:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GlobalUSAEquity",
-        "body": "$AAPL Market Update 🚨 \nPrice: $310.03 (+1.45%) \nSignal: Bullish 🐂 \nLatest: Wall Street clearly loves Google stock, 13F filings reveal \n \n⚠️ Educational content only. Not financial advice.",
-        "created_at": "2026-08-19T03:53:08Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "BEST_MAN_EVER",
+        "body": "$CBRS Cerebras Unveils CS-4: Up to 30 Times Faster than GPU-based Solutions.\n\n$AVGO $AMD $ARM $MRVL",
+        "created_at": "2026-08-19T08:20:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MFWhaaaaaaT",
+        "body": "$AMD",
+        "created_at": "2026-08-19T08:05:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Flickted",
+        "body": "$NVDA $AMD $MU $SMCI $SKHY",
+        "created_at": "2026-08-19T08:03:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Innerchild",
+        "body": "$GDC go fuck yourself , 1 min left, excited for what Damon is saying about Gdc stock with 100% winrate \n \n$SPY $AMD $QQQ $AMC",
+        "created_at": "2026-08-19T07:59:41Z",
+        "sentiment": ""
+      },
       {
         "user": "lejomo",
         "body": "$SOXL $NVDA $AMD $SNDK  👍",
@@ -223,30 +247,6 @@
         "body": "$AMD puts at open again",
         "created_at": "2026-08-19T05:53:03Z",
         "sentiment": ""
-      },
-      {
-        "user": "tievLeaf",
-        "body": "$IONQ Dilution from acquiring skywater hasn&#39;t happened fyi. Shareholders and newcomers beware. The stock price will go down once the cash finalized has been released to acquire Skywater. Expected price range after dilution is 28 to 35 depending on their agreement. Wouldn&#39;t touch this even wi",
-        "created_at": "2026-08-19T05:36:54Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-19T05:23:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AMCRemembers",
-        "body": "$AMD $NVDA $SPY $QQQ",
-        "created_at": "2026-08-19T04:56:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadyAggie40",
-        "body": "$ORCL I wish Bro!!! When this was 330 , $AMD was trading around 188 I think",
-        "created_at": "2026-08-19T04:56:30Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,18 @@
     ],
     "MSFT": [
       {
+        "user": "Deno7711",
+        "body": "$MSFT wtf is going on",
+        "created_at": "2026-08-19T08:14:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $AAPL $MSFT  \n \nSeriously? \n \nlmao! \n \n🤣",
+        "created_at": "2026-08-19T08:08:07Z",
+        "sentiment": ""
+      },
+      {
         "user": "HenryTabisula478",
         "body": "$UUP $USAR $IOVA $MSFT UUP provides U.S.-dollar exposure, USA Rare Earth remains tied to critical-mineral development, Iovance advances cell therapies for cancer, and Microsoft benefits from cloud and AI spending. I&#39;m watching dollar strength, permitting, clinical milestones, Azure growth, and A",
         "created_at": "2026-08-19T07:13:47Z",
@@ -359,21 +371,15 @@
         "body": "$MSFT If you look at the calendar, “next” moves often follow data center approvals and permitting, not just earnings. When a big site clears local hurdles, it usually means capex can shift from planning to build, which is when sentiment starts to tighten.",
         "created_at": "2026-08-19T03:56:08Z",
         "sentiment": ""
-      },
-      {
-        "user": "KingWarsh",
-        "body": "$AAPL $AMZN $NVDA $MSFT $META I think stocks go down as well.. 🤔 \n\n🧨🧨🧨",
-        "created_at": "2026-08-19T03:48:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Doubleup2022",
-        "body": "$MSFT This is heading back to 225 in the next 2 years like it or not.",
-        "created_at": "2026-08-19T03:43:19Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
+      {
+        "user": "ironmantrader777",
+        "body": "$GOOG lol",
+        "created_at": "2026-08-19T08:15:51Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "puckfan",
         "body": "$GOOG Has this effing stock finished green in the past 2 weeks? \nWT absolute F",
@@ -427,15 +433,33 @@
         "body": "$GOOG $GOOGL https://www.msn.com/en-us/money/other/google-to-buy-spirit-airlines-business-data-for-10-million/ar-AA2aq22E?ocid=TobArticle",
         "created_at": "2026-08-19T01:25:39Z",
         "sentiment": ""
-      },
-      {
-        "user": "LLMAgent",
-        "body": "$GOOGL $GOOG Be careful around San Francisco guys. \n \n I had 10 shares of Google in my car, someone broke in and left 10 more",
-        "created_at": "2026-08-19T01:10:22Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
+      {
+        "user": "Ep1219",
+        "body": "$META muse   Spark waterMeloN🍉🍉🍉🚀🚀🚀🍉🍉🍉🍉news hittinG!!!!",
+        "created_at": "2026-08-19T08:36:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META I know it&#39;s early but expect news. Great news phenomenal news.!!!🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
+        "created_at": "2026-08-19T08:10:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AnaIyze",
+        "body": "$META Sick of this bullshit even microsoft pulled its head out of its ass while this tanks 10% off some nonsense lawsuit",
+        "created_at": "2026-08-19T07:56:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY I mean what you want me to do about it? $META $NVDA $BTC.X",
+        "created_at": "2026-08-19T07:45:05Z",
+        "sentiment": ""
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$SPY i work everyday $META $RDDT",
@@ -470,30 +494,6 @@
         "user": "Akisawada",
         "body": "$META  \nMeta says penalties could reach $1.4 trillion, states say $200 billion more likely. (Reuters August 18, 2026) \n \nZuckerberg should be able to pay off the penalties, when a lot of AI money starts to roll in. \n \n🐻🤣💰💰💰",
         "created_at": "2026-08-19T07:03:10Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "SusanWilcox444",
-        "body": "$SPCX $SLS $META $NBIS SPCX remains speculative, Sellas advances oncology treatments, Meta benefits from digital advertising and AI investment, and NBIS remains an early-stage AI opportunity. I&#39;m watching clinical catalysts, ad growth, AI infrastructure, and funding.",
-        "created_at": "2026-08-19T07:03:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShellyStamps838",
-        "body": "$SPCX $SLS $META $NBIS SPCX remains speculative, Sellas advances oncology treatments, Meta benefits from digital advertising and AI investment, and NBIS remains an early-stage AI opportunity. I&#39;m watching clinical catalysts, ad growth, AI infrastructure, and funding.",
-        "created_at": "2026-08-19T07:01:51Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CADev21",
-        "body": "$META lol worthless parents that failed to parent well blaming companies for addicting their kids to something they can easily control. Talk about a cash grab.",
-        "created_at": "2026-08-19T06:59:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Akisawada",
-        "body": "$META  \nMeta rejects claims it sought to hook children to Facebook, Instagram \n \nBy Diana Novak Jones and Jonathan Stempel / Reuters August 18, 2026 \n \nOf course, Zuckerberg did it and is still doing it! 🐻",
-        "created_at": "2026-08-19T06:49:36Z",
         "sentiment": "Bearish"
       }
     ]
