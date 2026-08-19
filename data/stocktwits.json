@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-19 11:27:31",
+  "ts": "2026-08-19 11:52:05",
   "tickers": {
     "NVDA": [
+      {
+        "user": "RonJohn1337",
+        "body": "Can $DJT not ever have a stock market crash day? $TSLA $SPCX $NVDA",
+        "created_at": "2026-08-19T11:50:50Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Itsokman",
+        "body": "$GOOGL Buffet and Abel are betting that Alphabet will be the largest company on earth in a few years, overtaking $NVDA and $AAPL. I don’t think it’s a an AI specific bet, but more the totality of the conglomerate. Cloud, search, AI, YouTube, advertising, streaming, chips, Waymo, quantum, investments",
+        "created_at": "2026-08-19T11:50:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $NVDA $INTC  \napparently, OpenAI quarterly revs were leaked yesterday, and they disappointed, by comparison with Anthropic&#39;s. while quarterly revs did grow 18% QoQ, they made a little more than 1/2 Anthropic&#39;s revs of $11.5B. their cash burn-rate also accelerated. all this, while S",
+        "created_at": "2026-08-19T11:47:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "magpro",
+        "body": "$NVDA o shit, MM is in control today, well they are in control everyday. But today they can make shit up to drive the retailer out again. \n \nI didn&#39;t think they would let us drive the price back up to 238.00. I hope MM&#39;s AC breaks and it is 107 degrees outside.",
+        "created_at": "2026-08-19T11:46:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Yacob1822",
+        "body": "$NVDA",
+        "created_at": "2026-08-19T11:42:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$BTC.X\n$SPY\n$TSLA\n$HOLO \n$NVDA \nThe FiB 🔺",
+        "created_at": "2026-08-19T11:39:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$NVDA bankai $SNDK",
+        "created_at": "2026-08-19T11:36:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$SMCI 🚨🐂 THE MARKET STILL ISN’T PRICING THIS GROWTH CORRECTLY.\n\nSupermicro just delivered $11.1B Q4 revenue, $1.70 adjusted EPS, and a monster 17.6% non-GAAP gross margin. FY26 sales reached $39.1B (+78% YoY), while management is guiding FY27 revenue to an incredible $65–$72 BILLION. (Super Micro Co",
+        "created_at": "2026-08-19T11:34:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Joe_trader6",
+        "body": "$NVDA that H200 chip news to China was released and priced in like a week or 2 ago lol",
+        "created_at": "2026-08-19T11:27:23Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "NauticalTrader",
         "body": "$SPY $QQQ $SOXL $NVDA  \n \nI have said this a few times already, next month is normally the weakest month of the year for the markets. It&#39;s been magnified in the midterm. years. A correction in this bloated market would not surprise me nor should it with those with an IQ above 70. \n.",
         "created_at": "2026-08-19T11:22:07Z",
         "sentiment": ""
-      },
-      {
-        "user": "alaric_wong89",
-        "body": "$NVDA I keep coming back to the report that small batches of Nvidia chips were permitted into mainland China.",
-        "created_at": "2026-08-19T11:19:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ZACHERY2021",
-        "body": "$SMCI $MRNA  $NVDA\nIt&#39;s time",
-        "created_at": "2026-08-19T11:18:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FrankyBot",
-        "body": "$NVDA easy short over and over",
-        "created_at": "2026-08-19T11:17:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "iatsebob",
-        "body": "$MRNA did AI just cure cancer? $NVDA $SNDK $MU $STX",
-        "created_at": "2026-08-19T11:16:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "StocktwitsNews",
-        "body": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others\n\n$SSNLF $TSM $NVDA $AAPL $TSLA\n\nhttps://stocktwits.com/news/equity/markets/samsung-hikes-chip-prices-15-percent-tsmc-capacity-crunch-nvidia-apple/cZYdhI1RJkr",
-        "created_at": "2026-08-19T11:02:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "INFINITEPUMP",
-        "body": "$NVDA chart looks like it wants 217, so expect a run up to 223-225…",
-        "created_at": "2026-08-19T11:00:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Yacob1822",
-        "body": "$NVDA expect early pump then fade need more volume",
-        "created_at": "2026-08-19T10:59:41Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PanzerDivision",
-        "body": "$NVDA something wrong, run",
-        "created_at": "2026-08-19T10:50:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MoneyFairyBlessings",
-        "body": "$NVDA Leading the pack here.  $225 instant magnet.",
-        "created_at": "2026-08-19T10:46:43Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "RonJohn1337",
+        "body": "Can $DJT not ever have a stock market crash day? $TSLA $SPCX $NVDA",
+        "created_at": "2026-08-19T11:50:50Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$BTC.X\n$SPY\n$TSLA\n$HOLO \n$NVDA \nThe FiB 🔺",
+        "created_at": "2026-08-19T11:39:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "EV_Report",
+        "body": "Tesla Model Y L Beats Own Range Estimate by 11.8% in Edmunds Test  $TSLA  \nhttps://eletric-vehicles.com/tesla/tesla-model-y-l-beats-own-range-estimate-by-11-8-in-edmunds-test/",
+        "created_at": "2026-08-19T11:39:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "hmb",
+        "body": "$TSLA first to market on electric car. Last to market on literally everything g else",
+        "created_at": "2026-08-19T11:39:07Z",
+        "sentiment": ""
+      },
       {
         "user": "AlphaTrader30000",
         "body": "$TSLA hasn’t dropped since July 30th…. Blood in the waters 🩸",
@@ -99,33 +123,21 @@
         "body": "$TSLA $SPCX  https://youtu.be/VBTnKnurNrM?is=mtUTXdrOIho7dkpp",
         "created_at": "2026-08-19T10:41:52Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "johnrivers0110",
-        "body": "$DJT\n$AMC\n$SPY\n$BTC.X\n$TSLA\n🔺",
-        "created_at": "2026-08-19T10:30:38Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "LeonardoDeDust",
-        "body": "$TSLA Not well",
-        "created_at": "2026-08-19T10:28:01Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "SerinTech",
-        "body": "$TSLA\n\nChina’s Unitree Robotics listed today and the stock exploded.\n\nUp hundreds of percent on debut.\n\nThe humanoid robot trade is heating up fast.\nCurious how this affects the broader narrative around Optimus and physical AI.",
-        "created_at": "2026-08-19T10:10:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BuyNHold4riches",
-        "body": "$ENRD why did this collapse down from $8 after the deal with $TSLA?  Shorting?  Dilution?  What?",
-        "created_at": "2026-08-19T10:03:02Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Itsokman",
+        "body": "$GOOGL Buffet and Abel are betting that Alphabet will be the largest company on earth in a few years, overtaking $NVDA and $AAPL. I don’t think it’s a an AI specific bet, but more the totality of the conglomerate. Cloud, search, AI, YouTube, advertising, streaming, chips, Waymo, quantum, investments",
+        "created_at": "2026-08-19T11:50:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$UBER🩸\n$AAPL 🩸\n$META 🩸",
+        "created_at": "2026-08-19T11:41:28Z",
+        "sentiment": ""
+      },
       {
         "user": "sharkpatrol50",
         "body": "$AAPL goodbye world - trump is leading us to nuclear holocaust",
@@ -172,18 +184,6 @@
         "user": "JeffreyCline730",
         "body": "$AAPL $WULF $AMC $ASTS Apple benefits from consumer-device demand and services growth, TeraWulf benefits from Bitcoin mining and data-center demand, AMC remains tied to theatrical attendance and box-office performance, and AST SpaceMobile advances satellite-to-phone connectivity. I&#39;m watching pr",
         "created_at": "2026-08-19T09:18:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Kim_S",
-        "body": "$SPY and for the 100th day in a row, $AAPL remains a 3x inverse ETF of the market 😂 this is getting kind of bizarre",
-        "created_at": "2026-08-19T09:14:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jimvnc01",
-        "body": "$AAPL Chance we see 400 this year?",
-        "created_at": "2026-08-19T09:05:04Z",
         "sentiment": ""
       }
     ],
@@ -269,12 +269,6 @@
         "sentiment": ""
       },
       {
-        "user": "WalterLind399",
-        "body": "$ZBCN $SECZ $TSM $MRNA ZBCN remains highly speculative, SECZ remains speculative and liquidity-dependent, TSM benefits from leading-edge semiconductor and AI demand, and Moderna remains focused on vaccines and its broader pipeline. I&#39;m watching funding, semiconductor capex, AI demand, clinical m",
-        "created_at": "2026-08-19T09:10:13Z",
-        "sentiment": ""
-      },
-      {
         "user": "BGESGroup",
         "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-19T05:23:33Z",
@@ -309,9 +303,27 @@
         "body": "$LITE What Lite-On is doing aligns directly with entire global semiconductor alliance. The partnership framework reveals that Lite-On is not building a standalone solution; utilizing $POET Tech patented Optical Interposer platform to serve the massive demands of hyperscale data centers. This creates",
         "created_at": "2026-08-19T00:04:17Z",
         "sentiment": "Bullish"
+      },
+      {
+        "user": "LoneBroker",
+        "body": "$AMD $TSM $QUBT",
+        "created_at": "2026-08-18T21:48:32Z",
+        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "Chartist0_0",
+        "body": "",
+        "created_at": "2026-08-19T11:49:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ridesky",
+        "body": "$MSFT are you trying to come back to 350 again?",
+        "created_at": "2026-08-19T11:43:34Z",
+        "sentiment": ""
+      },
       {
         "user": "Deno7711",
         "body": "$GOOGL $MSFT both turds gonna collapse hard today , get out before it’s too late",
@@ -359,21 +371,15 @@
         "body": "$NVDA $QQQ $MSFT $SPY &lt;&lt;&lt;Today: \n—FOMC minutes from the July meeting are released at 2 PM ET. \n \n—Iran is reportedly considering strikes on U.S. military targets in Europe, including Bulgaria and Cyprus, if Trump escalates. \n \n—UAE suspended all trade, commercial and financial transactions ",
         "created_at": "2026-08-19T09:37:41Z",
         "sentiment": ""
-      },
-      {
-        "user": "NauticalTrader",
-        "body": "$SPY $MSFT  \n \n$NBIS  \n \nThis 2 x has been a nice little money maker for me. I missed the big runs because I have the patience of a 2-year-old. \n$NBIL 2x Long NBIS",
-        "created_at": "2026-08-19T09:23:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DianeBanderas597",
-        "body": "$ETH $CBRS $MSFT $BE Ethereum remains tied to crypto adoption and network activity, CBRS remains speculative, Microsoft benefits from cloud and AI spending, and Bloom Energy benefits from distributed-power demand and data-center electricity needs. I&#39;m watching crypto liquidity, funding, Azure gr",
-        "created_at": "2026-08-19T09:19:35Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "flywithfitz81",
+        "body": "$MAGS $META $CRWV $GOOG $AMZN \n\nPop goes this bubble.  It is silly betting in favor of corporations against the will of the people.\n\n&quot;The new existential threat to AI&quot;\n&quot;Republicans and AI CEOs are in full panic mode watching politicians and the public turn on the physical engines of A",
+        "created_at": "2026-08-19T11:31:59Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "THIS_TIME_IS_DIFFERENT",
         "body": "$GOOG $GOOGL NEVER ENDING SUFFERING. SMH",
@@ -427,73 +433,67 @@
         "body": "$GOOG lol",
         "created_at": "2026-08-19T08:15:51Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "puckfan",
-        "body": "$GOOG Has this effing stock finished green in the past 2 weeks? \nWT absolute F",
-        "created_at": "2026-08-19T07:30:46Z",
-        "sentiment": ""
       }
     ],
     "META": [
       {
-        "user": "Carlos_trades",
-        "body": "$META META TO THE MOOOOOOON TOday",
-        "created_at": "2026-08-19T11:20:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Bazziggr",
-        "body": "$META added more yesterday..Hopefully it bounce back now",
-        "created_at": "2026-08-19T11:13:52Z",
-        "sentiment": "Bullish"
-      },
-      {
         "user": "23bobsmith23",
-        "body": "$META this is gonna break $518 today, isn’t it and then get to $480?",
-        "created_at": "2026-08-19T11:08:17Z",
+        "body": "The sell off continued new lows $META",
+        "created_at": "2026-08-19T11:50:49Z",
         "sentiment": ""
       },
       {
-        "user": "IAmGodAtStocks",
-        "body": "$META can we get to low 500’s so I can buy it all",
-        "created_at": "2026-08-19T11:03:28Z",
+        "user": "MasterSebo",
+        "body": "$META great price for meta",
+        "created_at": "2026-08-19T11:47:29Z",
         "sentiment": ""
       },
       {
-        "user": "YuhhhhhU",
-        "body": "$META bring this pos down!!",
-        "created_at": "2026-08-19T10:57:58Z",
+        "user": "MountCapital",
+        "body": "$META $500 by Friday",
+        "created_at": "2026-08-19T11:47:17Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "Woodmont",
-        "body": "$META This will not hold any gains today and will be immediately sold off on any uptick, expect another 3% draw down today",
-        "created_at": "2026-08-19T10:49:46Z",
+        "user": "apppro",
+        "body": "$META  \n@jimcramer @SquawkCNBC @SquawkStreet @JBoorstin  \n \nthere are over 3+ BILLION people on the @meta platforms and they OBVIOUSLY LOVE IT. OK, imo ALL of social media/influencers are a disgrace and children are especially vulnerable, but we never hear from you all about how bad TikCrap was/is. ",
+        "created_at": "2026-08-19T11:41:49Z",
         "sentiment": ""
       },
       {
-        "user": "Hotasfuuuuu",
-        "body": "$META they are being sued by govt fine as high as 1.4 trillion",
-        "created_at": "2026-08-19T10:13:09Z",
+        "user": "johnrivers0110",
+        "body": "$UBER🩸\n$AAPL 🩸\n$META 🩸",
+        "created_at": "2026-08-19T11:41:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "sharon68",
+        "body": "$META why is this pos still up this morning?",
+        "created_at": "2026-08-19T11:37:52Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "Woodmont",
-        "body": "$META Another 3% down day coming today, more buying opportunities again today $650 before year end!!!",
-        "created_at": "2026-08-19T10:12:52Z",
-        "sentiment": ""
+        "user": "_StockDoc_",
+        "body": "$META 750 dollar stock a year ago.   And the $SPY and $QQQ  did what the last year again?",
+        "created_at": "2026-08-19T11:33:02Z",
+        "sentiment": "Bearish"
       },
       {
-        "user": "dalalstreetbets1",
-        "body": "Alibaba just dropped a laptop-ready AI model to take down Meta!\n$BABA $META",
-        "created_at": "2026-08-19T10:12:28Z",
-        "sentiment": ""
+        "user": "flywithfitz81",
+        "body": "$MAGS $META $CRWV $GOOG $AMZN \n\nPop goes this bubble.  It is silly betting in favor of corporations against the will of the people.\n\n&quot;The new existential threat to AI&quot;\n&quot;Republicans and AI CEOs are in full panic mode watching politicians and the public turn on the physical engines of A",
+        "created_at": "2026-08-19T11:31:59Z",
+        "sentiment": "Bearish"
       },
       {
-        "user": "IPOtweet",
-        "body": "IPO Weekly Weigh-in: Is Anthropic setting up a $2T Facebook moment? $META  $IPO #IPO https://zpr.io/u9YFF5muZLFy",
-        "created_at": "2026-08-19T10:08:39Z",
+        "user": "_StockDoc_",
+        "body": "$META another 2-3% today.   Trail should go about 8 weeks, and settle around 200B.   So probably around 400-425 by then.    So with Capex and legal fees etc.   You have 415B in costs.",
+        "created_at": "2026-08-19T11:31:35Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META BEAST  MODE 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀trial nit a BIGGIE",
+        "created_at": "2026-08-19T11:28:19Z",
         "sentiment": ""
       }
     ]
