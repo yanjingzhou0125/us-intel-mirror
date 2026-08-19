@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-19 04:36:15",
+  "ts": "2026-08-19 05:29:48",
   "tickers": {
     "NVDA": [
+      {
+        "user": "WiseWeasel",
+        "body": "$NTWO Great find by @TheBullishTrade  \nFORT Robotics definitely deserves a deeper dive.\n\nPhysical AI. NVIDIA Halos. Horizontal platform. Safety layer. 600+ customers. Hypergrowth.\n\nInstead of betting on which robot wins, FORT could be selling the safety infrastructure that all of them need.\n $NBIS $",
+        "created_at": "2026-08-19T05:22:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $GOOG $MU $NVDA $AVGO  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T05:19:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mooney_Maker",
+        "body": "$KLAR \n\nTrending 🥈\nWatchers 🥇\nMost Bullish 🥈\n\nDoesn&#39;t that look great?\n\n$NVDA $SPCX $TSLA $MSFT",
+        "created_at": "2026-08-19T05:16:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AMCRemembers",
+        "body": "$AMD $NVDA $SPY $QQQ",
+        "created_at": "2026-08-19T04:56:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "LIPSCARF",
+        "body": "$NVDA buying ~195 🤞",
+        "created_at": "2026-08-19T04:53:20Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Big_Timer",
         "body": "$DELL $NVDA $QQQ $SMCI $SPY",
@@ -31,39 +61,39 @@
         "body": "$NVDA Keep shorting it 🤣https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
         "created_at": "2026-08-19T04:23:00Z",
         "sentiment": "Bullish"
-      },
+      }
+    ],
+    "TSLA": [
       {
-        "user": "DillyDayTrader",
-        "body": "$NVDA China relaxes restrictions on Nvidia H200 chips as AI competition intensifies: FT",
-        "created_at": "2026-08-19T04:09:36Z",
+        "user": "In_N__Out",
+        "body": "$SPY $QQQ $DJT $TSLA $SPCX Stocks are going to crash hard into this stagflation then depression. \n\nBRT you do Cramer.. he’s selling while retail is buying. WS mouthpiece.",
+        "created_at": "2026-08-19T05:23:55Z",
         "sentiment": ""
       },
       {
-        "user": "HIMAX_TSM_NVDA_CPO",
-        "body": "COUPE: TSMC&#39;s Game Changer After CoWoS｜Industry｜2026-08-18｜CommonWealth Magazine $tsm $nvda $himx FOCI mentioned  https://english.cw.com.tw/article/article.action?id=4951",
-        "created_at": "2026-08-19T03:59:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mikow",
-        "body": "$AMD I just can’t take the stress anymore. I’m going to attempt to cross the strait of Hormiz $NVDA $SPY $QQQ",
-        "created_at": "2026-08-19T03:58:26Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "iMake_Moves",
-        "body": "$NVD and $NVDQ both looking pretty amazing right now.\n\nWanna short $NVDA but wanna protect myself too",
-        "created_at": "2026-08-19T03:53:20Z",
+        "user": "Mooney_Maker",
+        "body": "$KLAR \n\nTrending 🥈\nWatchers 🥇\nMost Bullish 🥈\n\nDoesn&#39;t that look great?\n\n$NVDA $SPCX $TSLA $MSFT",
+        "created_at": "2026-08-19T05:16:28Z",
         "sentiment": "Bullish"
       },
       {
         "user": "KingWarsh",
-        "body": "$AAPL $AMZN $NVDA $MSFT $META I think stocks go down as well.. 🤔 \n\n🧨🧨🧨",
-        "created_at": "2026-08-19T03:48:06Z",
+        "body": "$TSLA $SPCX $ARKK right into midterms.. Americans are going to tear this POs to shreds. \n\nDOGe screwed everything up. The world wants this man on Mars already.",
+        "created_at": "2026-08-19T05:09:00Z",
         "sentiment": ""
-      }
-    ],
-    "TSLA": [
+      },
+      {
+        "user": "Damnyoubiden",
+        "body": "$TSLA you could have bought Coca-Cola and been better off than this over the last 5 years. Thats INSANE. Once the darling of Wall Street is dead money now",
+        "created_at": "2026-08-19T05:01:59Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "TALENT_ON_LOAN_FROM_GOD",
+        "body": "$IPST $WETO  PRACTICING \nOUR RICH LAUGH 💰🥃🚬\n\n—MONEYMADE \n☝️A REAL GURU’S GURU \nYAA BUM BIHHHH \n$TSLA $SPCX $BIAF",
+        "created_at": "2026-08-19T04:51:03Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Wwwe",
         "body": "$TSLA Tesla is starting to release Road-Type Normalized data, comparing FSD performance specifically on city streets vs. human drivers on those same streets. \nWhen &quot;Community Leaders such as \n&quot;tech-savvy neighbors&quot; and)or local social media influencers show Cybercab/robotaxis/or their",
@@ -93,39 +123,21 @@
         "body": "$GDC Damon is celebrating his victory, stating that I am fucked today. All I can do now is get on my knees and take his load  \n \n$MSTR $BTC.X $SPCX $TSLA",
         "created_at": "2026-08-19T04:14:32Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "hmb",
-        "body": "$TSLA feels like a red day tomorrow",
-        "created_at": "2026-08-19T04:04:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JoeDirtay3",
-        "body": "$TSLA I bought calls because that&#39;s what I though the stupid thing to do was do it must be the right thing to do. So far I&#39;m down 50%",
-        "created_at": "2026-08-19T03:57:57Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "KingWarsh",
-        "body": "$AVGO $TSM $AMD $MU $TSLA We ready for a 60-80% correction to the downside?",
-        "created_at": "2026-08-19T03:49:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GlobalUSAEquity",
-        "body": "$TSLA Market Update 🚨 \nPrice: $336.87 (-0.72%) \nSignal: Bearish 🐻 \nLatest: Tesla&#39;s new partnership: Swedish company Einride to deploy 500 Tesla semi-truck EVs \n \n⚠️ Educational content only. Not financial advice.",
-        "created_at": "2026-08-19T03:21:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Nolimits1234567",
-        "body": "$SPY $TSLA $NVDA $SPY lowkey drinking  Ultra light beer \nHave a good night everyone \nLet leave all the hate behind bulls and bears, let’s cheer for the night \nGoodluck everyone",
-        "created_at": "2026-08-19T03:16:15Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "mikdundee",
+        "body": "$AAPL 340\nEOW",
+        "created_at": "2026-08-19T05:06:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mipel",
+        "body": "$AAPL",
+        "created_at": "2026-08-19T04:50:21Z",
+        "sentiment": ""
+      },
       {
         "user": "aet",
         "body": "$AAPL https://finance.yahoo.com/technology/ai/articles/apple-249-airpods-may-learn-033300401.html",
@@ -173,21 +185,33 @@
         "body": "$AAPL  apple will go back up and in the near future will reach $400.  Sales and earnings are growing and will keep the stock price rising.  Let’s get back to mid $300.  And grow from there.  Go Apple.",
         "created_at": "2026-08-19T02:21:23Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "gg249x97",
-        "body": "$AAPL $GOOG $SPY $TSLA",
-        "created_at": "2026-08-19T01:48:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DayTradersGroup",
-        "body": "Primary aggregate flip gamma exposure level for Monday is clustering in the 769.5-769.9 range for the S&amp;P 500 right now         \n         \nThe put wall has shifted lower to 765, while the call wall also dropped to 775, making these the key downside and upside gamma reference levels         \n    ",
-        "created_at": "2026-08-19T01:34:17Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "BGESGroup",
+        "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T05:23:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AMCRemembers",
+        "body": "$AMD $NVDA $SPY $QQQ",
+        "created_at": "2026-08-19T04:56:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ShadyAggie40",
+        "body": "$ORCL I wish Bro!!! When this was 330 , $AMD was trading around 188 I think",
+        "created_at": "2026-08-19T04:56:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mipel",
+        "body": "$AMD time 400$ coming?",
+        "created_at": "2026-08-19T04:41:17Z",
+        "sentiment": ""
+      },
       {
         "user": "aby1",
         "body": "$AMD let&#39;s see 480 hold tomorrow",
@@ -223,33 +247,21 @@
         "body": "$AMD AMD 2027!",
         "created_at": "2026-08-19T03:18:13Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "AMCRemembers",
-        "body": "$QQQ $NVDA $AMD  \n \nWill NVDA save us? 😂",
-        "created_at": "2026-08-19T03:18:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AMCRemembers",
-        "body": "$AMD",
-        "created_at": "2026-08-19T02:56:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "thewheel25",
-        "body": "$AMD 465 on tap",
-        "created_at": "2026-08-19T02:47:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "wader2k",
-        "body": "$AMD Another 10lb of tomatoes cored and ready for freezer. That&#39;s 50lbs now in the freezer YTD. Seems like a lot but it takes 20lbs to make 4 qts of plain sauce on avg.",
-        "created_at": "2026-08-19T02:46:21Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T05:23:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mipel",
+        "body": "$TSM -",
+        "created_at": "2026-08-19T04:45:38Z",
+        "sentiment": ""
+      },
       {
         "user": "Mipel",
         "body": "$TSM ,!",
@@ -297,21 +309,27 @@
         "body": "$SPY $GOOGL $AVGO $TSM $AMZN \nThese are my winners and adding to them .",
         "created_at": "2026-08-18T19:58:11Z",
         "sentiment": ""
-      },
-      {
-        "user": "bescom",
-        "body": "$TSM you wanna buy these kind of stocks when they go on sale,tood bad is from Taiwan otherwise would have been 2000$ stock.",
-        "created_at": "2026-08-18T19:56:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiologicalFather",
-        "body": "$TSM Sell the house, wife and kids.  \n \nUnrelated note, this is undervalued",
-        "created_at": "2026-08-18T19:37:45Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "BGESGroup",
+        "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T05:23:33Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mooney_Maker",
+        "body": "$KLAR \n\nTrending 🥈\nWatchers 🥇\nMost Bullish 🥈\n\nDoesn&#39;t that look great?\n\n$NVDA $SPCX $TSLA $MSFT",
+        "created_at": "2026-08-19T05:16:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Mipel",
+        "body": "$MSFT !",
+        "created_at": "2026-08-19T04:49:49Z",
+        "sentiment": ""
+      },
       {
         "user": "Linds_Erik",
         "body": "$MSFT If you look at the calendar, “next” moves often follow data center approvals and permitting, not just earnings. When a big site clears local hurdles, it usually means capex can shift from planning to build, which is when sentiment starts to tighten.",
@@ -353,27 +371,27 @@
         "body": "A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY. \n \nHere&#39;s a full recap: \n \n1. Nebius  \n$NBIS \n got approval for its Vineland, New Jersey data center expansion, clearing a major hurdle tied to its $17.4B Microsoft  \n$MSFT \ncloud deal. The Vineland Planning Board approved Phase 2 of the projec",
         "created_at": "2026-08-19T01:56:35Z",
         "sentiment": ""
-      },
-      {
-        "user": "DonJuanCapistran",
-        "body": "$MSFT please come back to $490 so I can load all the puts",
-        "created_at": "2026-08-19T00:49:19Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "The_Jewish_Trader",
-        "body": "$CRWV $GOOG $NVDA $MSFT",
-        "created_at": "2026-08-19T00:39:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA $TSLA $MSFT $QQQ  $SPY  \n\nFYI",
-        "created_at": "2026-08-19T00:26:13Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $GOOG $MU $NVDA $AVGO  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-19T05:19:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MountCapital",
+        "body": "$GOOG PDF President in the White House has killed USA and global economy",
+        "created_at": "2026-08-19T04:56:45Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MountCapital",
+        "body": "$GOOG $300 is around the corner",
+        "created_at": "2026-08-19T04:56:13Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Khaleesi_Rekindled",
         "body": "Celebrate inner beauty, and random AI ego boosts lol. $GOOG",
@@ -415,27 +433,45 @@
         "body": "$GOOG Do you honestly think  Berkshire invested $38 billion here without know something, they have access to resources that the general public does not, they also lnow long term they will double their initial investment especially when they still have almost $350 billion sitting in cash that they ca",
         "created_at": "2026-08-19T00:44:34Z",
         "sentiment": ""
-      },
-      {
-        "user": "The_Jewish_Trader",
-        "body": "$CRWV $GOOG $NVDA $MSFT",
-        "created_at": "2026-08-19T00:39:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "moazzam0",
-        "body": "$GOOGL $GOOG Concerns seem overblown: \n\n1. Off balance sheet liabilities - stretch over long time horizons with increasing cashflow\n\n2. Depreciation accounting - Moore&#39;s law is dead. Compute hardware won&#39;t depreciate at historical pace\n\n3. AI talent departures - see q/t:",
-        "created_at": "2026-08-18T23:41:09Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Jimmy_Javelin",
-        "body": "uhm why are Waymo’s in Austin charging  with diesel generators?😑\n$GOOG $GOOGL $UBER $TSLA",
-        "created_at": "2026-08-18T23:29:06Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "Hotasfuuuuu",
+        "body": "$META of they lose this case against govt they face upto 1.4 trillion dollar penalty  fuck that will put them out of business",
+        "created_at": "2026-08-19T05:03:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "WellWorth",
+        "body": "$META Its so satisfying to draw lines, isn&#39;t it? Draw as much as you like, nothing it can stop it from $450-480.",
+        "created_at": "2026-08-19T04:57:12Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MountCapital",
+        "body": "$META $500 incoming",
+        "created_at": "2026-08-19T04:55:52Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Ai84",
+        "body": "$META among the politicians have nothing better to do then this. Invest the war money into support the kids if you are care. Joke",
+        "created_at": "2026-08-19T04:44:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Sitraq",
+        "body": "Watchlist 08/19: $INTC $AVGO $META $CRM $AMZN",
+        "created_at": "2026-08-19T04:38:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "generaldiner00",
+        "body": "$META \n\nJensen Huang discussing Meta positively, including the widely circulated comment that “Nobody uses AI better than Meta.” \n\nThat’s significant because Meta is one of NVIDIA’s biggest AI customers, and Jensen’s comments suggest he still sees Meta as a major AI leader rather than a threat to NV",
+        "created_at": "2026-08-19T04:36:44Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "TimeTRAVELER101",
         "body": "$META suing meta because you are a bad parent? Weird. I’m with mark on this one.",
@@ -458,42 +494,6 @@
         "user": "2019stck",
         "body": "$META someone going to sue Stocktwits as well for continuous scroll and lot of scammers 😂😂",
         "created_at": "2026-08-19T04:22:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Innerchild",
-        "body": "$GDC Please Damon don’t do this, please Damon give me one day to exit my position . It’s trading under 2$, but he says it will skyrocket 50-60x, and I am afraid of the buyout and Bitcoin.  \n \n$WULF $ONDO.X $DVLT $META",
-        "created_at": "2026-08-19T04:22:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "armave",
-        "body": "⚖️ State AGs dialing back demands to ~$200B (an ~85% drop from the $1.4T cap). \n \nBut even $200B is just an opening ask – real mega-litigation always settles in the single-digit billions. Meta&#39;s cash flow handles a real payout easily, and clearing that multi-trillion threat opens the runway for ",
-        "created_at": "2026-08-19T04:19:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Shergasmic",
-        "body": "$META zuck is returning home. Best of luck.",
-        "created_at": "2026-08-19T04:03:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "_StockDoc_",
-        "body": "$META he better!  It’s one of his largest customers \n\n$SPY $QQQ",
-        "created_at": "2026-08-19T04:00:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JoeDirtay3",
-        "body": "$META Jenson pumping meta",
-        "created_at": "2026-08-19T03:56:29Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MNYMKR2018",
-        "body": "$META \n\nI own zero shares. I will be purchasing put options tomorrow. After watching this video, there isn’t a jury of this woman’s peers who will rule in favor of META. This will cost them dearly in EVERY state within the US. Good luck to all! …link to X video below\n\nhttps://x.com/MustangMedicX/sta",
-        "created_at": "2026-08-19T03:54:26Z",
         "sentiment": ""
       }
     ]
