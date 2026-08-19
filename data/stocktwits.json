@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-19 05:29:48",
+  "ts": "2026-08-19 05:58:40",
   "tickers": {
     "NVDA": [
+      {
+        "user": "RippedTorn",
+        "body": "$NVDA Is the market at the mercy of Nvidia?",
+        "created_at": "2026-08-19T05:52:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "tievLeaf",
+        "body": "$IONQ Dilution from acquiring skywater hasn&#39;t happened fyi. Shareholders and newcomers beware. The stock price will go down once the cash finalized has been released to acquire Skywater. Expected price range after dilution is 28 to 35 depending on their agreement. Wouldn&#39;t touch this even wi",
+        "created_at": "2026-08-19T05:36:54Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "WiseWeasel",
         "body": "$NTWO Great find by @TheBullishTrade  \nFORT Robotics definitely deserves a deeper dive.\n\nPhysical AI. NVIDIA Halos. Horizontal platform. Safety layer. 600+ customers. Hypergrowth.\n\nInstead of betting on which robot wins, FORT could be selling the safety infrastructure that all of them need.\n $NBIS $",
@@ -49,21 +61,15 @@
         "body": "$NVDA $SPY $QQQ  They always beat but the stock has gone down 6 out of the last 8 earnings. Always sell premium going into NVDA earnings.  Whats even more interesting 4 out 6 moves down was less then 3% talk about IV crush. I wouldn’t be surprised if it was flat or slightly lower.",
         "created_at": "2026-08-19T04:32:07Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "AlphaTrader8",
-        "body": "$MU MU Sink into the abyss\nSeller’s Profit Taking after generous Dead Cat Bounce and Short Selling Resumption\n$QQQ $INTC $NVDA $SPY",
-        "created_at": "2026-08-19T04:31:23Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "gratitude777",
-        "body": "$NVDA Keep shorting it 🤣https://www.reuters.com/world/asia-pacific/nvidia-h200-chips-reach-china-small-shipments-ft-reports-2026-08-19/",
-        "created_at": "2026-08-19T04:23:00Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "TALENT_ON_LOAN_FROM_GOD",
+        "body": "$IPST $WETO  SHORTS\n\nMY LAMBORGHINI DEALERSHIP \nSAYS HI  🇮🇹🔥🔥💨\n\n$SPCX $TSLA",
+        "created_at": "2026-08-19T05:33:48Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "In_N__Out",
         "body": "$SPY $QQQ $DJT $TSLA $SPCX Stocks are going to crash hard into this stagflation then depression. \n\nBRT you do Cramer.. he’s selling while retail is buying. WS mouthpiece.",
@@ -117,12 +123,6 @@
         "body": "$TSLA  \nsomebody on here on tsla said a quote something like monkey peeking around the corner gets shot in the head \nanyone know what the exact quote is \nthey said it this morning on here tsla chat",
         "created_at": "2026-08-19T04:15:36Z",
         "sentiment": ""
-      },
-      {
-        "user": "Innerchild",
-        "body": "$GDC Damon is celebrating his victory, stating that I am fucked today. All I can do now is get on my knees and take his load  \n \n$MSTR $BTC.X $SPCX $TSLA",
-        "created_at": "2026-08-19T04:14:32Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
@@ -189,6 +189,18 @@
     ],
     "AMD": [
       {
+        "user": "TaylorTyme",
+        "body": "$AMD puts at open again",
+        "created_at": "2026-08-19T05:53:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "tievLeaf",
+        "body": "$IONQ Dilution from acquiring skywater hasn&#39;t happened fyi. Shareholders and newcomers beware. The stock price will go down once the cash finalized has been released to acquire Skywater. Expected price range after dilution is 28 to 35 depending on their agreement. Wouldn&#39;t touch this even wi",
+        "created_at": "2026-08-19T05:36:54Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-19T05:23:33Z",
@@ -234,18 +246,6 @@
         "user": "Mikow",
         "body": "$AMD I just can’t take the stress anymore. I’m going to attempt to cross the strait of Hormiz $NVDA $SPY $QQQ",
         "created_at": "2026-08-19T03:58:26Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "KingWarsh",
-        "body": "$AVGO $TSM $AMD $MU $TSLA We ready for a 60-80% correction to the downside?",
-        "created_at": "2026-08-19T03:49:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Potatohd",
-        "body": "$AMD AMD 2027!",
-        "created_at": "2026-08-19T03:18:13Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "Heyshishito",
+        "body": "$MSFT LONG",
+        "created_at": "2026-08-19T05:30:37Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$TSM $INTC $AMD $MSFT $IBM  \n10 Reasons Netlist Could Be One of the Most Compelling Small-Cap AI Memory Stocks Right Now \nhttps://garywallach.substack.com/p/10-reasons-netlist-could-be-one-of?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-19T05:23:33Z",
@@ -365,12 +371,6 @@
         "body": "$MSFT $TSLA $NVDA \n\n&quot;BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning\nfor a three day period.\n:\nPresident Trump says the US and Canada\n&quot;have a deal.&quot;&quot;\n&quot;TRUMP TO DELIVER REMARKS WITH TECHNOLOGY LEADERS AT 2:30 PM ",
         "created_at": "2026-08-19T02:30:18Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "amitsinvesting",
-        "body": "A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY. \n \nHere&#39;s a full recap: \n \n1. Nebius  \n$NBIS \n got approval for its Vineland, New Jersey data center expansion, clearing a major hurdle tied to its $17.4B Microsoft  \n$MSFT \ncloud deal. The Vineland Planning Board approved Phase 2 of the projec",
-        "created_at": "2026-08-19T01:56:35Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
@@ -437,6 +437,18 @@
     ],
     "META": [
       {
+        "user": "snowflame_shot",
+        "body": "$META i knew i wasn’t tripping . Sometimes , you just got to zoom out. I smell a breakout happening soon .",
+        "created_at": "2026-08-19T05:56:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RecklessTortuga",
+        "body": "$META eyeing $525 for a huge add. Until then, adding 100 shares daily under 600. risk continues to carry from the pending lawsuit. But value is value.",
+        "created_at": "2026-08-19T05:44:40Z",
+        "sentiment": ""
+      },
+      {
         "user": "Hotasfuuuuu",
         "body": "$META of they lose this case against govt they face upto 1.4 trillion dollar penalty  fuck that will put them out of business",
         "created_at": "2026-08-19T05:03:06Z",
@@ -483,18 +495,6 @@
         "body": "$META It took 3 years to go up from $100 to $800, but it doesn&#39;t need 3 years to go back down to where it was.  Zuckerberg is spending money like water on AI.  If the company doesn&#39;t come up with convincing profits on AI, it&#39;ll fall like a rock.🐻🪨",
         "created_at": "2026-08-19T04:24:39Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "william2012",
-        "body": "$META Tomorrow, Super Green 100%👍👍👍",
-        "created_at": "2026-08-19T04:24:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "2019stck",
-        "body": "$META someone going to sue Stocktwits as well for continuous scroll and lot of scammers 😂😂",
-        "created_at": "2026-08-19T04:22:32Z",
-        "sentiment": ""
       }
     ]
   }
