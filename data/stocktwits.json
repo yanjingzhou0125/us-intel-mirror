@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-21 03:50:07",
+  "ts": "2026-08-21 04:37:37",
   "tickers": {
     "NVDA": [
+      {
+        "user": "TalkMarkets",
+        "body": "3 Buy-Rated Dividend Stocks To Play The AI Boom $ADI $HPE $NVDA https://talkmarkets.com/article/3-buy-rated-dividend-stocks-to-play-the-ai-boom-1787280935",
+        "created_at": "2026-08-21T04:33:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GoAt2OG",
+        "body": "$MU $NVDA $QQQ $SPY \n\nqqq’s raw call/put ratio was also bearish: about 3.27M calls vs 4.30M puts, a 1.32 put/call ratio. Total put premium was roughly $1.244B versus $755M call premium. But there’s an important nuance: the daily aggregate showed +$27.0M net call premium and +$18.3M net put premium, ",
+        "created_at": "2026-08-21T04:32:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "YouthGoodWealth",
+        "body": "$BTC.X  looking sharp. $80K+ is next!\n\n$QQQ $SPY $NVDA",
+        "created_at": "2026-08-21T04:28:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "emeraldbayrider",
+        "body": "$AMZN $META $NVDA \n\nhttps://x.com/oguzerkan/status/2089837256542437490?s=42",
+        "created_at": "2026-08-21T04:28:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Richandbroke",
+        "body": "$SPY $QQQ $NVDA $MU",
+        "created_at": "2026-08-21T04:28:05Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "AlphaTrader8",
+        "body": "$MU Flush it \n\n$QQQ $NVDA $INTC $SPY",
+        "created_at": "2026-08-21T04:21:58Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "PadZone1",
+        "body": "Very good trading week in the books team 💰 tomorrow I’ll be looking to load up on new  swing positions on $NVDA $SPCX &amp; $HOOD as all are targeting major LZI zones. I’ll also keep my eyes on $SPY &amp; $QQQ for longer term positions. I’ll keep you all updated with my exact entries and exits. Good",
+        "created_at": "2026-08-21T04:17:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "rahod",
+        "body": "$NVDA \nI’m all ears\nTell me why on Earth you would short this into an ER with a ZERO run up ??? \nWith a Blue Sky Guidance on the table???",
+        "created_at": "2026-08-21T03:53:16Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Jpp24",
+        "body": "$NVDA $QQQ $SPY They always beat but the stock has gone down 6 out of the last 8 earnings.\nAlways sell premium going into NVDA earnings.\nWhats even more interesting 4 out 6 moves down was less then 3% talk about IV crush. I wouldn&#39;t be surprised if it was flat or slightly lower.",
+        "created_at": "2026-08-21T03:52:17Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "HIMAX_TSM_NVDA_CPO",
         "body": "Analyst: CPO gains momentum as AI interconnect demands outpace chip gains $nvda $tsm $himx $cohr https://www.digitimes.com/news/a20260821PD202/cpo-optics-2026-chips-taipei.html",
         "created_at": "2026-08-21T03:43:18Z",
         "sentiment": ""
-      },
-      {
-        "user": "Layne_Thomas_Staley",
-        "body": "@ScamBuster0 The governor of Colorado and the United States federal government disagree with you...not to mention $NVDA \n\nNVDA...total scam company",
-        "created_at": "2026-08-21T03:38:25Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BigBreakingWire",
-        "body": "🚨 Goldman Sachs says AI and momentum trades have swung sharply in the past 48 hours.\n\nGoldman’s GSPUMOMO momentum portfolio has fallen nearly 7%, but Prime data show investor positioning has moved much less, with momentum exposure now close to neutral.\n\nInvestors still hold meaningful AI and semicon",
-        "created_at": "2026-08-21T03:34:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Luckyskills007",
-        "body": "$NVDA",
-        "created_at": "2026-08-21T03:33:20Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SamsonCapital",
-        "body": "$NVDA Top Nvidia shareholders:",
-        "created_at": "2026-08-21T03:17:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA $MSFT  $QQQ  $SPY  $TSLA  \n\nRemember tomorrow is OPEX !",
-        "created_at": "2026-08-21T03:14:36Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA hello ugly losers. Ready for bankruptcy next week?",
-        "created_at": "2026-08-21T02:54:30Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "ZenInvestor3",
-        "body": "$VUZI Investors now talking 5-10B buy out?\nAre their patents that strong for optical interconnect tech supplying AI DATA CENTERS?\n\n$META $SNDK $GOOG $NVDA",
-        "created_at": "2026-08-21T02:54:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "smartmoney1",
-        "body": "$NVDA \nFor some reason, NVDA feels different this time before earnings so staying away🤞",
-        "created_at": "2026-08-21T02:50:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "U.S. stock futures slipped as the rally in long-term Treasurys lost momentum, while rising oil prices revived inflation concerns. S&amp;P 500 futures fell 0.2%, Nasdaq 100 futures 0.3% and Dow futures 0.4%. The 30-year Treasury yield rose four basis points to 5.23%, while the 10-year yield climbed t",
-        "created_at": "2026-08-21T02:24:31Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "StocktwitsNews",
+        "body": "TSLA Stock Eyes Another Winning Week: Nevada Clears Up To 5,000 Robotaxis, Musk Sees ‘Crazy’ Tesla Growth \n\n$TSLA $TSLL $SPCX $TSLT $TSLQ\n\nhttps://stocktwits.com/news/equity/markets/tsla-nevada-5000-robotaxis-musk-crazy-tesla-growth/cZYBj2cRJN5",
+        "created_at": "2026-08-21T04:33:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bskewl3",
+        "body": "$TSLA Friday on deck. To the moon!",
+        "created_at": "2026-08-21T04:28:55Z",
+        "sentiment": ""
+      },
+      {
+        "user": "blueberrywhales",
+        "body": "$TSLA whos shorting at open ?",
+        "created_at": "2026-08-21T04:16:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "kpow",
+        "body": "$TSLA semi",
+        "created_at": "2026-08-21T03:56:42Z",
+        "sentiment": ""
+      },
       {
         "user": "AlphaTrader30000",
         "body": "$TSLA major sell off tomorrow 🩸",
@@ -99,33 +123,15 @@
         "body": "$NVDA $MSFT  $QQQ  $SPY  $TSLA  \n\nRemember tomorrow is OPEX !",
         "created_at": "2026-08-21T03:14:36Z",
         "sentiment": ""
-      },
-      {
-        "user": "equity_jar",
-        "body": "$BB  📈 $BBUL long etf \n\n💯 💰 🔮 623-800 💲💸🤑\n\n$TSLA $BULL $BTC.X  ⬆️ \n\n📈 Follow the yellow brick road 🤑",
-        "created_at": "2026-08-21T03:06:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cathywoods",
-        "body": "$TSLA let’s go",
-        "created_at": "2026-08-21T02:56:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "mateotrevino",
-        "body": "$TSLA 348 after hours👀",
-        "created_at": "2026-08-21T02:52:39Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "StockAlertzz",
-        "body": "$EVGO $TSLA TIP OF THE YEAR ;) follow me for this trade if u wish or not ..",
-        "created_at": "2026-08-21T02:30:52Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Jpp24",
+        "body": "$META $SPY $QQQ if meta did not spend so much on capex and left the ai alone like $AAPL it would be $800 per share. I understand almost everyone is spending but zuck the cuck has a history of blowing money and not seeing any return that’s why people are scared. Example metaverse 80 billion dollar fa",
+        "created_at": "2026-08-21T04:02:42Z",
+        "sentiment": ""
+      },
       {
         "user": "StocktwitsNews",
         "body": "Apple Reportedly Lays Off Vision Pro Staff As Smart Glasses Take Priority – Ternus CEO Transition Nears \n\n$AAPL $META $QQQ\n\nhttps://stocktwits.com/news/equity/markets/apple-reportedly-lays-off-vision-pro-staff-as-smart-glasses-take-priority-ternus-ceo-transition-nears/cZYBKnuRJNT",
@@ -179,15 +185,15 @@
         "body": "$AAPL Bought the dip again",
         "created_at": "2026-08-21T01:24:27Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Patroclus",
-        "body": "$AAPL sharp drops like today very often get bought right back up with Apple. I’m expecting a pushback to 315 to 317 tomorrow.",
-        "created_at": "2026-08-21T01:22:51Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "Newwyy",
+        "body": "$AMD 500 today... right boys?",
+        "created_at": "2026-08-21T04:15:32Z",
+        "sentiment": ""
+      },
       {
         "user": "BasiuMisiu",
         "body": "$AMD Just saying. Buy every dip...",
@@ -240,12 +246,6 @@
         "user": "WeeklyOptionsTrading",
         "body": "Nasdaq down 5 days in a row.\n\nGreat time to buy the dip.\n\n$intc $amd $dell",
         "created_at": "2026-08-21T00:27:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Buyingmore325",
-        "body": "$ORBS $NVDA $AMD $TSLA $MARA",
-        "created_at": "2026-08-21T00:05:47Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "DogFella",
+        "body": "$SPY $MSFT $GOOG $BRK.B after further use and consideration of AI and knowing this is the worst it is ever going to get. Entire professions are totally cooked probably within the next 5 years. Anything to do with math, physics, trigonometry, calculus, statistics, financial math, lawyers &amp; legal ",
+        "created_at": "2026-08-21T03:50:30Z",
+        "sentiment": ""
+      },
+      {
         "user": "SamsonCapital",
         "body": "$MSFT Top Microsoft shareholders:",
         "created_at": "2026-08-21T03:20:25Z",
@@ -365,15 +371,21 @@
         "body": "Neocloud stocks such as CoreWeave are benefiting from the massive AI infrastructure buildout, but BCA Research strategists warn that the sector may be approaching a turning point. Chief strategist Noah Weisberger recommends short-selling a basket of neocloud stocks while taking long positions in maj",
         "created_at": "2026-08-21T00:36:55Z",
         "sentiment": ""
-      },
-      {
-        "user": "Quant88888",
-        "body": "$MSFT Azure AI revenue +35% YoY. Enterprise adoption accelerating. Copilot embedded in365/Teams/GitHub. #azureai #cloud",
-        "created_at": "2026-08-20T23:52:25Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "MountCapital",
+        "body": "$GOOG why pay $338 when you can buy at $300 soon",
+        "created_at": "2026-08-21T03:53:19Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "DogFella",
+        "body": "$SPY $MSFT $GOOG $BRK.B after further use and consideration of AI and knowing this is the worst it is ever going to get. Entire professions are totally cooked probably within the next 5 years. Anything to do with math, physics, trigonometry, calculus, statistics, financial math, lawyers &amp; legal ",
+        "created_at": "2026-08-21T03:50:30Z",
+        "sentiment": ""
+      },
       {
         "user": "MountCapital",
         "body": "$GOOG nothing stops the slide to $300",
@@ -421,21 +433,45 @@
         "body": "$GOOG looks bearish to me. We testing back $280 area once we break below $330",
         "created_at": "2026-08-21T01:43:41Z",
         "sentiment": ""
-      },
-      {
-        "user": "snowPOW",
-        "body": "$BB this guy would know how well QNX works \n \nhttps://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8 \n \n$GOOG $NVDA Drive uses QNX",
-        "created_at": "2026-08-21T01:04:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FallingKnifeVictim",
-        "body": "$GOOG any chance this closes up 1% or so tomorrow?  I sold $442.5 calls.",
-        "created_at": "2026-08-21T00:37:35Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "itsallaboutheoptions",
+        "body": "$META $SPY",
+        "created_at": "2026-08-21T04:30:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "emeraldbayrider",
+        "body": "$AMZN $META $NVDA \n\nhttps://x.com/oguzerkan/status/2089837256542437490?s=42",
+        "created_at": "2026-08-21T04:28:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "junkjar291",
+        "body": "$META Prick Zuck always chase next shiny thing. first, he started goggles to live in virtual reality, so dick like him can jerk off sitting on a couch. Now he is chasing AI, spending billions and billions with no result.  States are going after his social media crap for ruining kids&#39; lives. Iron",
+        "created_at": "2026-08-21T04:27:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "apes_together_strong",
+        "body": "$META why should shareholders be punished for lazy low IQ parents with shit for brains kids ? What do you think will happen if you keep throwing devices at without supervision. Nobody wants to take any responsibility these days. It’s always someone else’s fault.",
+        "created_at": "2026-08-21T04:11:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "apes_together_strong",
+        "body": "$META when is this turd going back to 600+ been scalping it for months now - up and down , up and down. Better not be left bag holding this time",
+        "created_at": "2026-08-21T04:04:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Jpp24",
+        "body": "$META $SPY $QQQ if meta did not spend so much on capex and left the ai alone like $AAPL it would be $800 per share. I understand almost everyone is spending but zuck the cuck has a history of blowing money and not seeing any return that’s why people are scared. Example metaverse 80 billion dollar fa",
+        "created_at": "2026-08-21T04:02:42Z",
+        "sentiment": ""
+      },
       {
         "user": "MountCapital",
         "body": "$META It will be $450 when the trial ends",
@@ -459,42 +495,6 @@
         "body": "$VUZI Investors now talking 5-10B buy out?\nAre their patents that strong for optical interconnect tech supplying AI DATA CENTERS?\n\n$META $SNDK $GOOG $NVDA",
         "created_at": "2026-08-21T02:54:05Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "fckrddt",
-        "body": "$META wasn&#39;t meta fined like $300,000 for this addiction thing a few months ago? lol",
-        "created_at": "2026-08-21T02:40:27Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bootylover",
-        "body": "$META",
-        "created_at": "2026-08-21T02:39:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "fckrddt",
-        "body": "$META debating whether i should watch fake wrestling or this fake trial. both are fake predetermined theater so hard to decide.",
-        "created_at": "2026-08-21T02:36:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Carlos_trades",
-        "body": "$META holding strong folks don’t see any reason to selll. Just gotta be patient w her.\n600 is dueeee",
-        "created_at": "2026-08-21T02:33:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Mnybagz",
-        "body": "$META idk. They pissed a lot of people off. Some are just Karen’s looking for a fight. Some stories are legit heart breaking. I’m sure they’ll find a compromise. It’s the gov and a lot of it. So I’ll assume Meta won’t walk away without admitting defeat in some way. Gov always wins. Remedies will scr",
-        "created_at": "2026-08-21T02:32:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "topstockalerts",
-        "body": "Meta has become one of Microsoft’s largest AI customers, spending hundreds of millions of dollars annually to access AI models through Microsoft’s Azure cloud, according to sources familiar with the matter. Meta reportedly consumes trillions of AI tokens each week on the platform. \nMost of Microsoft",
-        "created_at": "2026-08-21T02:23:51Z",
-        "sentiment": ""
       }
     ]
   }
