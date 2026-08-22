@@ -1,7 +1,31 @@
 {
-  "ts": "2026-08-22 11:20:24",
+  "ts": "2026-08-22 11:45:31",
   "tickers": {
     "NVDA": [
+      {
+        "user": "PivotPoint_101",
+        "body": "$BTC.X $QQQ $NVDA $CRWD \n\nBig earnings week ahead ! \n\nTrading the action in #pivotgroup🛍️🔐",
+        "created_at": "2026-08-22T11:42:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "russlanramdowar",
+        "body": "@evanmedeiros  next week probably says more about market leadership than another index close. I think $NVDA only rescues momentum if the guide keeps both demand and margins intact. A huge revenue number with softer margin math could still leave $QQQ looking tired. I’d watch breadth after the print, ",
+        "created_at": "2026-08-22T11:38:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "russlanramdowar",
+        "body": "@StocktwitsNews AI capex started to show up where equity-only analysis misses it: funding cost, and it started a quarter ago btw. I think the next useful comparison for $NVDA, $GOOGL and $ORCL isn’t just backlog or GPU count; it’s whether the projects show any promise of earnings. So far what we see",
+        "created_at": "2026-08-22T11:37:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bluerax",
+        "body": "@Wayne_L $NVDA before",
+        "created_at": "2026-08-22T11:37:41Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "AlphaTrader8",
         "body": "$MU $SPY Bearish: Cautionary Position $SPX\n\n$NVDA $QQQ",
@@ -37,33 +61,15 @@
         "body": "$NLST $MU $NVDA $GOOG $SKHY  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
         "created_at": "2026-08-22T09:57:19Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Mezza",
-        "body": "$NVDA  \nAsk yourself this....where are the new buyers coming from?   Most already own it.",
-        "created_at": "2026-08-22T09:14:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "houcok",
-        "body": "$NVDA Many have also seen dump to $190 - $200",
-        "created_at": "2026-08-22T09:00:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "estrela",
-        "body": "$NVDA Tariff war with Canada went hot.Next week might be brutal.",
-        "created_at": "2026-08-22T08:47:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RICHES_TO_RAGS_",
-        "body": "$NVDA OPTION  OPEN INTEREST  BETWEEN 215 AND 250   VERY HIGH \nDOES THAT MEAN MMS WONT PAY THEM ?????",
-        "created_at": "2026-08-22T08:26:01Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "G24UHATERS",
+        "body": "$AEFI $AMFN $TSLA $SPCX worth a read &amp; good investments opportunities are worth sharing, you decide. https://x.com/small_time_tina/status/2090838708526182441?s=12&amp;t=Y_Lk5UXSjWRtvh3Un3WreA",
+        "created_at": "2026-08-22T11:27:19Z",
+        "sentiment": ""
+      },
       {
         "user": "HendersonAnalytic",
         "body": "Up early studying the charts!\nI’m back next week, locked in and ready to go.  $TSLA is on the radar.\nLet’s get to work.",
@@ -116,12 +122,6 @@
         "user": "sunman20201",
         "body": "$TSLA September 3, 2026 i think will be the biggest day for Tesla since July 28, 2017",
         "created_at": "2026-08-22T08:40:11Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sunman20201",
-        "body": "$TSLA 😉",
-        "created_at": "2026-08-22T08:14:59Z",
         "sentiment": "Bullish"
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "1Take",
+        "body": "$META I was scrolling through some instagram reels and I didn’t realize but, the content I was looking at was translated from Spanish. It had a perfect translation and you could bearly guess it was an AI voice, honestly I’m impressed.\n\nThis literally means META is moving faster, with AI translation.",
+        "created_at": "2026-08-22T11:25:52Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "KoolMandate",
         "body": "$META expecting more downside",
         "created_at": "2026-08-22T10:37:40Z",
@@ -489,12 +495,6 @@
         "body": "$META now with Tesla and spacex also running, this is literally the only mag z that has stalled. Needs to 🚀 soon pls",
         "created_at": "2026-08-22T02:13:25Z",
         "sentiment": ""
-      },
-      {
-        "user": "HydrogenH2",
-        "body": "$META https://www.youtube.com/watch?v=BkOQTuTKysw",
-        "created_at": "2026-08-22T01:57:13Z",
-        "sentiment": "Bearish"
       }
     ]
   }
