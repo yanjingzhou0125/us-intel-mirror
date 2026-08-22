@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-22 06:38:58",
+  "ts": "2026-08-22 07:31:09",
   "tickers": {
     "NVDA": [
+      {
+        "user": "BubbleBanker",
+        "body": "$NVDA Definitely hitting $200 before earnings.",
+        "created_at": "2026-08-22T07:19:45Z",
+        "sentiment": ""
+      },
       {
         "user": "cat_from_the_future",
         "body": "$NVDA Michael Burry is a desperate POS…posted more FUD about NVDA today",
@@ -55,15 +61,15 @@
         "body": "$NVDA $SOXX $SPY $QQQ $KWEB  \nChina doesn&#39;t need to import much anymore. $NVDA above $150 assumes Chinese market will open up for it again.  \n \nThese Charts say China is so over $NVDA  \n \nGLTA  \nSell the SPY, QQQ Ponzi and buy China, ex-US etfs and other ideas here:  \nhttps://tinyurl.com/4mtbzjp",
         "created_at": "2026-08-22T04:21:18Z",
         "sentiment": ""
-      },
-      {
-        "user": "Germany2020",
-        "body": "$PLTR $NVDA $SPCX",
-        "created_at": "2026-08-22T04:16:00Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "MC_Official",
+        "body": "@Jmac93  I’m expecting $TSLA to hit my $371 zone before I can start considering any downside move, right now it still looks bullish",
+        "created_at": "2026-08-22T07:12:54Z",
+        "sentiment": ""
+      },
       {
         "user": "straightup_techfund",
         "body": "$TSLA only 12% up since our call",
@@ -117,15 +123,15 @@
         "body": "$DJT $GDC $SPCX $TSLA As I lay down tonight. I walk through the valley in the shadow of death, I fear no evil.......",
         "created_at": "2026-08-22T02:46:47Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Shergasmic",
-        "body": "$SPY $TSLA until they&#39;re all vomited all over.",
-        "created_at": "2026-08-22T02:46:23Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "NewAge69",
+        "body": "$KLAR $SPY $AXP $MSFT \n\nEven $AAPL could think about it\n\nThey are becoming a US bank\n\n🥰🥰🥰🤑🤑🤑🤑",
+        "created_at": "2026-08-22T06:57:21Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "BiHiCellLo",
         "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA GOOGL \n \n3 DTE&#39;s \n \n🙃",
@@ -179,12 +185,6 @@
         "body": "$AAPL  do you see the coincidence?",
         "created_at": "2026-08-21T22:31:26Z",
         "sentiment": ""
-      },
-      {
-        "user": "Baerran",
-        "body": "$MSTR there is no second best.  \n$AAPL  and $AMZN , i mean you can debate. but for bitcoin? there is no second best",
-        "created_at": "2026-08-21T22:26:28Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "NewAge69",
+        "body": "$KLAR $SPY $AXP $MSFT \n\nEven $AAPL could think about it\n\nThey are becoming a US bank\n\n🥰🥰🥰🤑🤑🤑🤑",
+        "created_at": "2026-08-22T06:57:21Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$IBM $MSFT $AVGO $GOOG $PLTR  \nThe Netlist Awakening: 18 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \nhttps://garywallach.substack.com/p/the-netlist-awakening-18-reasons?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-22T05:47:10Z",
@@ -364,12 +370,6 @@
         "user": "AshHydrogen",
         "body": "$PLTR  \n \n$MSFT $AMZN $CRM $NOW then PLTR! \nhttps://sih-st-charts.stocktwits-cdn.com/fit-in/500x0/filters:quality(75)/production/original_538108888.png",
         "created_at": "2026-08-22T00:55:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Don’t Fight The #Fed - Bond Market Treasury Rates Put Selling Mentions: $MSFT $TGT $SPY $IEF $BTC.X https://talkmarkets.com/article/dont-fight-the-fed---bond-market-treasury-rates-put-selling-1787347361",
-        "created_at": "2026-08-21T23:24:25Z",
         "sentiment": ""
       }
     ],
