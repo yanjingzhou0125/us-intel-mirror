@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-22 11:45:31",
+  "ts": "2026-08-22 12:38:01",
   "tickers": {
     "NVDA": [
+      {
+        "user": "igli1234",
+        "body": "$NVDA",
+        "created_at": "2026-08-22T12:33:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AlphaTrader8",
+        "body": "$QQQ Bearish: Cautionary Position $SPY\n\n$MU $NVDA $INTC",
+        "created_at": "2026-08-22T12:27:44Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA I will see you on the flip side winners.(Monday morning = flip side and winners = NVDA holders imho)             :)",
+        "created_at": "2026-08-22T12:23:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA I ran out of room here is your link friends. I am not trying to break any rules so please be nice and tell me what I did and give me a 2nd chance. I have no affiliation with anyone except I own 100% NVDA only when it comes to owning shares of stock. Don&#39;t you do this. It is risky if you ne",
+        "created_at": "2026-08-22T12:21:05Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA Your going to need a bigger calculator. I was watching my Saturday Finvid and I always do on Saturdays but you know I love crunching numbers as the people talk about the billions and trillions and on the link I have included below he mentions quadrillions in the amount of tokens Google uses I ",
+        "created_at": "2026-08-22T12:18:21Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AZZ_MAN",
+        "body": "$NVDA",
+        "created_at": "2026-08-22T12:14:30Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "NatoshiSakamato",
+        "body": "$BTC.X $SPY $QQQ $SPCX $NVDA \n\nRoad to $1M …\n\nBuy Bitcoin…",
+        "created_at": "2026-08-22T12:13:13Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "aurevissu",
+        "body": "$NBIS $NVDA \n\nInteresting statistic for this week:\n\nFollowing each of NVIDIA’s last four earnings releases, the stock declined over the following five trading days.\n\nNebius declined in 3 out of those 4 instances.\n \nBuying opportunitie should appear first days of September.",
+        "created_at": "2026-08-22T12:12:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $MU $GOOG $SKHY $NVDA  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-22T11:47:58Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "PivotPoint_101",
         "body": "$BTC.X $QQQ $NVDA $CRWD \n\nBig earnings week ahead ! \n\nTrading the action in #pivotgroup🛍️🔐",
         "created_at": "2026-08-22T11:42:18Z",
         "sentiment": ""
-      },
-      {
-        "user": "russlanramdowar",
-        "body": "@evanmedeiros  next week probably says more about market leadership than another index close. I think $NVDA only rescues momentum if the guide keeps both demand and margins intact. A huge revenue number with softer margin math could still leave $QQQ looking tired. I’d watch breadth after the print, ",
-        "created_at": "2026-08-22T11:38:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "russlanramdowar",
-        "body": "@StocktwitsNews AI capex started to show up where equity-only analysis misses it: funding cost, and it started a quarter ago btw. I think the next useful comparison for $NVDA, $GOOGL and $ORCL isn’t just backlog or GPU count; it’s whether the projects show any promise of earnings. So far what we see",
-        "created_at": "2026-08-22T11:37:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bluerax",
-        "body": "@Wayne_L $NVDA before",
-        "created_at": "2026-08-22T11:37:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AlphaTrader8",
-        "body": "$MU $SPY Bearish: Cautionary Position $SPX\n\n$NVDA $QQQ",
-        "created_at": "2026-08-22T11:19:24Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Budzi",
-        "body": "$NVDA Buying the dip the  day after earnings! Dont get fooled by after hours! We all know it&#39;S going down not matter what!",
-        "created_at": "2026-08-22T11:11:47Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "WallStJesus",
-        "body": "$NVDA",
-        "created_at": "2026-08-22T10:40:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PorterhouseSteak",
-        "body": "$NVDA Opened starter position at the close, maybe she flushed enough people out by now and we get a few points into earnings. It did defend the daily 21",
-        "created_at": "2026-08-22T10:32:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Boss10man",
-        "body": "$NVDA 55% chance heading 6% down, short term. Drag Qqqi and TSM with it. See how much a put is?",
-        "created_at": "2026-08-22T10:28:02Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $MU $NVDA $GOOG $SKHY  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
-        "created_at": "2026-08-22T09:57:19Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "TimBreakoutKing",
+        "body": "$TSLA $370 calls lighting up for next week, stay tuned for more continuation!",
+        "created_at": "2026-08-22T12:31:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SouthernItUp",
+        "body": "$TSLA https://x.com/sawyermerritt/status/2091009400320172424?s=46",
+        "created_at": "2026-08-22T12:12:18Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ProfitBuilders",
+        "body": "Yesterday&#39;s session saw $1.76B in options flow. Tech dominated, especially $MU with $177.82M. Look out for shifts on $TSLA too! #OptionsFlow",
+        "created_at": "2026-08-22T12:06:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY $QQQ $GLD $TSLA",
+        "created_at": "2026-08-22T11:54:30Z",
+        "sentiment": ""
+      },
       {
         "user": "G24UHATERS",
         "body": "$AEFI $AMFN $TSLA $SPCX worth a read &amp; good investments opportunities are worth sharing, you decide. https://x.com/small_time_tina/status/2090838708526182441?s=12&amp;t=Y_Lk5UXSjWRtvh3Un3WreA",
@@ -99,30 +123,6 @@
         "body": "$DJT $TSLA $SPCX Elmo’s hero!",
         "created_at": "2026-08-22T10:39:41Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "kindness123",
-        "body": "$TSLA",
-        "created_at": "2026-08-22T09:48:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Hiphoplover",
-        "body": "$TSLA  $TSLQ  \n \nTesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring \n \nhttps://x.com/CNBC/status/2090885100804231499",
-        "created_at": "2026-08-22T09:28:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "stockpicker63",
-        "body": "A Message From the CEO of SwingStockTraders  “Trading is not about predicting the market. It is about being prepared for the opportunities it creates.”For years, I have watched traders make the same mistakes: chasing stocks after they have already moved, trading emotionally, and spending countless h",
-        "created_at": "2026-08-22T09:05:25Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "sunman20201",
-        "body": "$TSLA September 3, 2026 i think will be the biggest day for Tesla since July 28, 2017",
-        "created_at": "2026-08-22T08:40:11Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
@@ -189,6 +189,18 @@
     ],
     "AMD": [
       {
+        "user": "LizLovesReddit",
+        "body": "$AMD 14 hours ago \nhttps://x.com/AMD/status/2090914360109502942?s=20",
+        "created_at": "2026-08-22T12:21:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BGESGroup",
+        "body": "$MSFT $IBM $AVGO $TSM $AMD  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-22T12:03:04Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "ajaskey",
         "body": "$AMD the flow of money into AMD options is very positive.",
         "created_at": "2026-08-22T11:05:07Z",
@@ -235,21 +247,15 @@
         "body": "$NVDA $AMD $MU $SMCI $SKHY Another week in the books. Next week should be really interesting. Relax your noggin and have a great weekend folks. Cya back here Sunday 8pm EST.",
         "created_at": "2026-08-22T01:06:16Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "sadek123",
-        "body": "$NVDA $MSFT  $GOOG  $AMD Chinese AI models will  kill this US companies unless Anthropic and other companies follows a Gmail-style strategy: offer AI services for almost free, rapidly expand adoption, and figure out monetization later.",
-        "created_at": "2026-08-22T01:00:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $MU $SKHY $AMD $NVDA  \nThe Netlist Awakening: 18 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \nhttps://garywallach.substack.com/p/the-netlist-awakening-18-reasons?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-22T00:31:10Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "BGESGroup",
+        "body": "$MSFT $IBM $AVGO $TSM $AMD  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-22T12:03:04Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Q_TIPS",
         "body": "$TSM $450 September then $500 by EOY lets gooooo! there&#39;s no stopping the reversal now that all the weak hands have been shaken out",
@@ -303,15 +309,21 @@
         "body": "$AVGO $IBM $MSFT $TSM $GOOG  \nThe Google Question: What Stokd’s Netlist Posts Could Be Signaling About NLST’s Biggest Unfinished Battle \nhttps://garywallach.substack.com/p/the-google-question-what-stokds-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-21T18:55:40Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "FedericoUllner",
-        "body": "$AMD $INTC $SOXL $TSM \naka\nYou are F’d",
-        "created_at": "2026-08-21T18:05:39Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "BGESGroup",
+        "body": "$MSFT $IBM $AVGO $TSM $AMD  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-22T12:03:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "lind0",
+        "body": "$MSFT There could also be a pain trade up here if NVDA earnings bring the semi space down",
+        "created_at": "2026-08-22T11:53:50Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$TSM $AVGO $IBM $INTC $MSFT  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
@@ -359,21 +371,15 @@
         "body": "$GOOG $HTZ $META $MSFT agreed! Way too crowded $HTZ",
         "created_at": "2026-08-22T01:36:04Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "“ $PLTR is disrupting $MSFT in plain  sight!!!” \n \nhttps://sih-st-charts.stocktwits-cdn.com/production/original_587262130.jpeg",
-        "created_at": "2026-08-22T01:17:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "techvested",
-        "body": "$SPY $QQQ $NVDA $GOOGL $MSFT  \nThey don&#39;t want to admit Chart 1 exists because they are compromised by chart 2 (call options). That is the whole story of this market \n \nGLTA  \nI write for serious investors. And no serious investor should have a single $1 in S&amp;P, US tech &amp; semis. Better i",
-        "created_at": "2026-08-22T01:01:30Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "BGESGroup",
+        "body": "$NLST $MU $GOOG $SKHY $NVDA  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
+        "created_at": "2026-08-22T11:47:58Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $MU $NVDA $GOOG $SKHY  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
@@ -427,15 +433,15 @@
         "body": "$NLST Un stay the $GOOGL $GOOG  case let’s go!   So is Google liable because the patent was patentable all this time and still.  Even whatever happens next month?",
         "created_at": "2026-08-22T00:00:52Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "mmritas1",
-        "body": "$HTZ : Short squeeze is coming. Too many shorts. If you are short. Pain is coming. Get out now and go long. LONG LONG. Now Squeeze. Squeeze Squeeze. $META $GOOG $MSFT",
-        "created_at": "2026-08-21T23:11:47Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "TimBreakoutKing",
+        "body": "$META May be setting up for $575+ move next week as the nodes are lighting up above. Follow and subscribe to my Patreon for more heatmap analysis and requests!",
+        "created_at": "2026-08-22T12:30:54Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "1Take",
         "body": "$META I was scrolling through some instagram reels and I didn’t realize but, the content I was looking at was translated from Spanish. It had a perfect translation and you could bearly guess it was an AI voice, honestly I’m impressed.\n\nThis literally means META is moving faster, with AI translation.",
@@ -489,12 +495,6 @@
         "body": "$META Biggest short on the market",
         "created_at": "2026-08-22T02:30:07Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Kar777",
-        "body": "$META now with Tesla and spacex also running, this is literally the only mag z that has stalled. Needs to 🚀 soon pls",
-        "created_at": "2026-08-22T02:13:25Z",
-        "sentiment": ""
       }
     ]
   }
