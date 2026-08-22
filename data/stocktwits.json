@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-22 08:59:08",
+  "ts": "2026-08-22 09:35:04",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Mezza",
+        "body": "$NVDA  \nAsk yourself this....where are the new buyers coming from?   Most already own it.",
+        "created_at": "2026-08-22T09:14:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "houcok",
+        "body": "$NVDA Many have also seen dump to $190 - $200",
+        "created_at": "2026-08-22T09:00:09Z",
+        "sentiment": ""
+      },
       {
         "user": "estrela",
         "body": "$NVDA Tariff war with Canada went hot.Next week might be brutal.",
@@ -49,21 +61,21 @@
         "body": "@StockQazi $NVDA has earnings on Wednesday which could very easily spark a rally. A lot of uncertainty out there though",
         "created_at": "2026-08-22T05:10:29Z",
         "sentiment": ""
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nHere’s the bottom line\nMarket will  an assign a multiple based on perceived earnings. Period end of story.\nMargins will play a role in this , but future EPS is the bottom line.\nThe current EPS stands at $9.00 and continues to rise. \nDo the math at a 30X multiple..\nWe have a $270 stock \nNo bra",
-        "created_at": "2026-08-22T05:10:09Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "HadronTrade",
-        "body": "$NVDA looking for nice pump to 220-225 Monday . I’ve seen it done before",
-        "created_at": "2026-08-22T04:58:22Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Hiphoplover",
+        "body": "$TSLA  $TSLQ  \n \nTesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring \n \nhttps://x.com/CNBC/status/2090885100804231499",
+        "created_at": "2026-08-22T09:28:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "stockpicker63",
+        "body": "A Message From the CEO of SwingStockTraders  “Trading is not about predicting the market. It is about being prepared for the opportunities it creates.”For years, I have watched traders make the same mistakes: chasing stocks after they have already moved, trading emotionally, and spending countless h",
+        "created_at": "2026-08-22T09:05:25Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "sunman20201",
         "body": "$TSLA September 3, 2026 i think will be the biggest day for Tesla since July 28, 2017",
@@ -111,21 +123,15 @@
         "body": "$TSLA \nhttps://youtu.be/U3TQJxaDZus?is=mljNVy9eou3qosTG",
         "created_at": "2026-08-22T04:48:20Z",
         "sentiment": ""
-      },
-      {
-        "user": "PhishTourFunds",
-        "body": "$TSLA \n$393 🎯",
-        "created_at": "2026-08-22T04:30:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "So, the Trump administration&#39;s extra 50% tariffs on some Canadian imports, under Section 338 of the Tariff Act of 1930, are kicking in today, August 22, 2026, after a short break for talks that failed.  \n\nThis Section 338, which they&#39;re using for the first time, lets them put up to 50% dutie",
-        "created_at": "2026-08-22T03:49:32Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "stockpicker63",
+        "body": "A Message From the CEO of SwingStockTraders  “Trading is not about predicting the market. It is about being prepared for the opportunities it creates.”For years, I have watched traders make the same mistakes: chasing stocks after they have already moved, trading emotionally, and spending countless h",
+        "created_at": "2026-08-22T09:05:25Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "NewAge69",
         "body": "$KLAR $SPY $AXP $MSFT \n\nEven $AAPL could think about it\n\nThey are becoming a US bank\n\n🥰🥰🥰🤑🤑🤑🤑",
@@ -178,12 +184,6 @@
         "user": "StocktwitsNews",
         "body": "Apple Reportedly Shifts Focus To AI And Smart Glasses With Job Cuts In Siri And Vision Pro Teams \n\n$AAPL\n\nhttps://stocktwits.com/news/equity/markets/apple-reportedly-shifts-focus-to-ai-and-smart-glasses/cZY9ORKRJVW",
         "created_at": "2026-08-21T23:15:01Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL  do you see the coincidence?",
-        "created_at": "2026-08-21T22:31:26Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "stockpicker63",
+        "body": "A Message From the CEO of SwingStockTraders  “Trading is not about predicting the market. It is about being prepared for the opportunities it creates.”For years, I have watched traders make the same mistakes: chasing stocks after they have already moved, trading emotionally, and spending countless h",
+        "created_at": "2026-08-22T09:05:25Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "NewAge69",
         "body": "$KLAR $SPY $AXP $MSFT \n\nEven $AAPL could think about it\n\nThey are becoming a US bank\n\n🥰🥰🥰🤑🤑🤑🤑",
         "created_at": "2026-08-22T06:57:21Z",
@@ -364,12 +370,6 @@
         "user": "sadek123",
         "body": "$NVDA $MSFT  $GOOG  $AMD Chinese AI models will  kill this US companies unless Anthropic and other companies follows a Gmail-style strategy: offer AI services for almost free, rapidly expand adoption, and figure out monetization later.",
         "created_at": "2026-08-22T01:00:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "$PLTR  \n \n$MSFT $AMZN $CRM $NOW then PLTR! \nhttps://sih-st-charts.stocktwits-cdn.com/fit-in/500x0/filters:quality(75)/production/original_538108888.png",
-        "created_at": "2026-08-22T00:55:40Z",
         "sentiment": ""
       }
     ],
