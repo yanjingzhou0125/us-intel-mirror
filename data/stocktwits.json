@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-22 20:21:46",
+  "ts": "2026-08-22 20:49:19",
   "tickers": {
     "NVDA": [
+      {
+        "user": "kindness123",
+        "body": "$NVDA $MU $SNDK $SKHY",
+        "created_at": "2026-08-22T20:45:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "lululemonsucks",
+        "body": "$NVDA  below 200 after ERs",
+        "created_at": "2026-08-22T20:44:45Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "trendtrader6",
+        "body": "$SLV vs $NVDA weekly. silver starting to outshine nvda the past few weeks.",
+        "created_at": "2026-08-22T20:34:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "dennismccain",
+        "body": "$NVDA and the memory chip companies will continue to make huge profits as they continue to raise prices. \n\nNVIDIA AI SERVER PRICES REPORTEDLY SET TO JUMP 15%+\nSome of Nvidia’s largest customers have been told AI server prices will rise by more than 15% in many cases as memory costs surge, Bloomberg ",
+        "created_at": "2026-08-22T20:34:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ThinkYouCan",
+        "body": "$SPY $DJT $SPCX $NVDA $BTC.X  \n \nDon &quot;The Con&quot; Trump stealing valor from Doris Miller, a true American hero. Read up on Doris Miller. President Bone Spurs is too chicken shit to ever really put himself in a position to save anyone.",
+        "created_at": "2026-08-22T20:27:57Z",
+        "sentiment": ""
+      },
+      {
+        "user": "urmybluesky",
+        "body": "$NVDA https://finance.yahoo.com/technology/ai/articles/nvidia-customers-notified-ai-related-192053530.html \n \nLooking forward to the er, I always go with the best: https://www.alamy.com/larry-bird-1986-three-point-contest-image469595724.html",
+        "created_at": "2026-08-22T20:23:37Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "TheStockRef",
         "body": "$GOOGL $MSFT $NVDA $QQQ $SPY \n\nLOL Google and Microsoft will both print money without LLMs. So this means NOTHING.",
@@ -25,45 +61,21 @@
         "body": "$SPY $NVDA https://www.youtube.com/watch?v=ehYixQAzVsw",
         "created_at": "2026-08-22T20:10:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "MilhouseVanhouten",
-        "body": "$SPY $NVDA $AAPL $AMZN $META",
-        "created_at": "2026-08-22T20:06:09Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Horseblushew",
-        "body": "$QQQ $NVDA  \nthis shit will be red on monday.  soars??  not a chance.",
-        "created_at": "2026-08-22T20:04:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Horseblushew",
-        "body": "$NVDA  \nwhats the point of owning this?  it hasnt done a fucking thing for a year.  $.25 div??  worthless.   this stock is a cancer.",
-        "created_at": "2026-08-22T20:03:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "iTrade_Price",
-        "body": "$NVDA nvda",
-        "created_at": "2026-08-22T19:57:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MaverikIT",
-        "body": "@WAJeff @cynicaloptimist @Jblack500 @BustaCapital @IsabellaDC  \n$NVDA  &quot;Ai - flation&quot;",
-        "created_at": "2026-08-22T19:56:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CoderBlix",
-        "body": "$QQQ $NVDA price hike…. So nvda soars on Monday but all the consumers of those chips will be pressured? Should be an interesting week.",
-        "created_at": "2026-08-22T19:52:34Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "NauticalTrader",
+        "body": "$TSLA  \n \nFact: Every dip has been a buying opportunity for the last 3 weeks. \n \nFact: Bears have been wrong for the last 3 weeks. \n \nMoney talks and bullshit walks. No skin the game, then piss-off!  \n.",
+        "created_at": "2026-08-22T20:34:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ripster47",
+        "body": "$TSLA News Play Long &amp; Daily Chart Winner Trade Recap\n\nWatch the video to learn how to trade this repeatable pattern 🎯\n\nhttps://x.com/TENETTRADEGROUP/status/2091171156141199544",
+        "created_at": "2026-08-22T20:23:22Z",
+        "sentiment": ""
+      },
       {
         "user": "Stichy",
         "body": "$BTC.X $TSLA $COIN $SPY",
@@ -111,21 +123,21 @@
         "body": "$SPY $SPCX  \n \n$TSLA $TSLL Buy the dips!",
         "created_at": "2026-08-22T19:46:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "MikeCaymanTrades",
-        "body": "$TSLA \n big run from 300.00 now at 363.93 Weekly stochastics turning up. 400.00 to 410.00 possible.",
-        "created_at": "2026-08-22T19:36:38Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Tslainsights",
-        "body": "$TSLA Cybercab launch coming, and the narrative around robotaxi has been reset by management",
-        "created_at": "2026-08-22T19:36:32Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "mktrdr59",
+        "body": "$AAPL looks lower to me.  The measured move price projection where a Wave C = Wave A, the .382 retracement of the 04/2025-07/2026 rally, the lower parallel channel and the early July low are all just under $280.",
+        "created_at": "2026-08-22T20:48:24Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "TopTierNewswire",
+        "body": "Don&#39;t miss what Trump, Congress, and Insiders are trading. All conveniently available for navigation and cleanly displayed on Top Tier Newswire! $ORCL $ADBE $UBER $AAPL $INTC",
+        "created_at": "2026-08-22T20:33:06Z",
+        "sentiment": ""
+      },
       {
         "user": "MilhouseVanhouten",
         "body": "$SPY $NVDA $AAPL $AMZN $META",
@@ -172,18 +184,6 @@
         "user": "TheTraderVoice",
         "body": "$AAPL  continues to consolidate in the 4H range (299.35 - 316.76) below daily resistance at 314.34, with a gap above and testing 4H support at 308.06. \n \n📊 Weekly Resistance: 300.24 \n \nA breakout from this 4H range could test the daily top at 338.23 or bottom at 290.44. Let&#39;s see! #AAPL #Trading",
         "created_at": "2026-08-22T15:40:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Lansorep",
-        "body": "$AAPL",
-        "created_at": "2026-08-22T15:30:35Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "HarryChotter",
-        "body": "$AAPL Nice rejection from AAPL at $320. If it can start closing below $300, should be able to run down to $280. https://www.tradingview.com/x/lv5MlXCZ/",
-        "created_at": "2026-08-22T15:23:13Z",
         "sentiment": ""
       }
     ],
