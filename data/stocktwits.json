@@ -1,7 +1,13 @@
 {
-  "ts": "2026-08-22 05:54:26",
+  "ts": "2026-08-22 06:38:58",
   "tickers": {
     "NVDA": [
+      {
+        "user": "cat_from_the_future",
+        "body": "$NVDA Michael Burry is a desperate POS…posted more FUD about NVDA today",
+        "created_at": "2026-08-22T06:18:38Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "EconomyEngine",
         "body": "$SPCX $NVDA $BTC.X $SPY $QQQ 🇺🇸🇨🇦 US-Canada trade talks collapse; US imposes 50% tariffs on billions in Canadian goods.🤔🤔",
@@ -54,12 +60,6 @@
         "user": "Germany2020",
         "body": "$PLTR $NVDA $SPCX",
         "created_at": "2026-08-22T04:16:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA GOOGL \n \n3 DTE&#39;s \n \n🙃",
-        "created_at": "2026-08-22T03:36:45Z",
         "sentiment": ""
       }
     ],
