@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-22 10:22:51",
+  "ts": "2026-08-22 10:49:42",
   "tickers": {
     "NVDA": [
+      {
+        "user": "WallStJesus",
+        "body": "$NVDA",
+        "created_at": "2026-08-22T10:40:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PorterhouseSteak",
+        "body": "$NVDA Opened starter position at the close, maybe she flushed enough people out by now and we get a few points into earnings. It did defend the daily 21",
+        "created_at": "2026-08-22T10:32:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Boss10man",
+        "body": "$NVDA 55% chance heading 6% down, short term. Drag Qqqi and TSM with it. See how much a put is?",
+        "created_at": "2026-08-22T10:28:02Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "BGESGroup",
         "body": "$NLST $MU $NVDA $GOOG $SKHY  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
@@ -43,27 +61,33 @@
         "body": "Q3 Earnings Preview: High Expectations, Positive Revisions, And Broad-Based Growth $MU $GOOGL $NVDA $AMZN \nhttps://talkmarkets.com/article/q3-earnings-preview-high-expectations-positive-revisions-and-broad-based-growth-1787384394",
         "created_at": "2026-08-22T07:40:26Z",
         "sentiment": ""
-      },
-      {
-        "user": "BubbleBanker",
-        "body": "$NVDA Definitely hitting $200 before earnings.",
-        "created_at": "2026-08-22T07:19:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "cat_from_the_future",
-        "body": "$NVDA Michael Burry is a desperate POS…posted more FUD about NVDA today",
-        "created_at": "2026-08-22T06:18:38Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "EconomyEngine",
-        "body": "$SPCX $NVDA $BTC.X $SPY $QQQ 🇺🇸🇨🇦 US-Canada trade talks collapse; US imposes 50% tariffs on billions in Canadian goods.🤔🤔",
-        "created_at": "2026-08-22T05:20:34Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "MuskyFlex",
+        "body": "$TSLA 5000 in nevada alone… now multiply by 1000… robotaxi growth will be off the charts",
+        "created_at": "2026-08-22T10:47:53Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TrendEdgeLogan",
+        "body": "$TSLA with latest 13F filings finalized this week (many firms report late, so it&#39;s really the week after deadline that matters), a couple positive changes in character here as price has -- for the time being -- found support at rising 40-month SMA \n \n1. Pct of all funds ROSE in spire of price fa",
+        "created_at": "2026-08-22T10:45:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MuskyFlex",
+        "body": "$TSLA awesome… more bears to flatten 🤣",
+        "created_at": "2026-08-22T10:44:36Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BMakingMoney",
+        "body": "$DJT $TSLA $SPCX Elmo’s hero!",
+        "created_at": "2026-08-22T10:39:41Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "kindness123",
         "body": "$TSLA",
@@ -98,30 +122,6 @@
         "user": "MC_Official",
         "body": "@Jmac93  I’m expecting $TSLA to hit my $371 zone before I can start considering any downside move, right now it still looks bullish",
         "created_at": "2026-08-22T07:12:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "straightup_techfund",
-        "body": "$TSLA only 12% up since our call",
-        "created_at": "2026-08-22T05:39:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Indiety",
-        "body": "$TSLA is leading tech market in the correction. Below $270 by end of October, possibly by September.",
-        "created_at": "2026-08-22T05:22:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Indiety",
-        "body": "$TSLA Below $270 by end of October, hopefully next month.",
-        "created_at": "2026-08-22T05:19:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jn2sales",
-        "body": "$TSLA have a feeling that this run is $SPCX buying shares",
-        "created_at": "2026-08-22T05:01:23Z",
         "sentiment": ""
       }
     ],
@@ -251,6 +251,12 @@
     ],
     "TSM": [
       {
+        "user": "Q_TIPS",
+        "body": "$TSM $450 September then $500 by EOY lets gooooo! there&#39;s no stopping the reversal now that all the weak hands have been shaken out",
+        "created_at": "2026-08-22T10:49:05Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "BGESGroup",
         "body": "$TSM $AVGO $IBM $INTC $MSFT  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
         "created_at": "2026-08-22T10:01:29Z",
@@ -303,12 +309,6 @@
         "body": "$AMD $INTC $SOXL $TSM \naka\nYou are F’d",
         "created_at": "2026-08-21T18:05:39Z",
         "sentiment": ""
-      },
-      {
-        "user": "Scooby_Stacks",
-        "body": "$SOXL $AMD $TSM $INTC You. Are. Here.",
-        "created_at": "2026-08-21T17:57:33Z",
-        "sentiment": "Bearish"
       }
     ],
     "MSFT": [
@@ -438,6 +438,18 @@
     "META": [
       {
         "user": "KoolMandate",
+        "body": "$META expecting more downside",
+        "created_at": "2026-08-22T10:37:40Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "AnaIyze",
+        "body": "$META such a dumbass market",
+        "created_at": "2026-08-22T10:35:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "KoolMandate",
         "body": "@ResearchTrends09  the difference is that republicans rip off the middle class to benefit the rich , democrats rob the middle class to benefit the poor.\n\nthe middle 80% is gonna get screwed either way\n\nI don’t disagree that $META made everything worse though \n\nthat’s why i’m selling Put debit spread",
         "created_at": "2026-08-22T08:29:41Z",
         "sentiment": "Bearish"
@@ -483,18 +495,6 @@
         "body": "$META https://www.youtube.com/watch?v=BkOQTuTKysw",
         "created_at": "2026-08-22T01:57:13Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "BMVCapital",
-        "body": "$GOOG $HTZ $META $MSFT agreed! Way too crowded $HTZ",
-        "created_at": "2026-08-22T01:36:04Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $NVDA when you finally got what you want, but it cost you everything else $GOOGL $META $BTC.X",
-        "created_at": "2026-08-22T00:30:15Z",
-        "sentiment": ""
       }
     ]
   }
