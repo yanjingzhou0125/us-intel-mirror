@@ -1,7 +1,49 @@
 {
-  "ts": "2026-08-22 15:46:30",
+  "ts": "2026-08-22 16:23:07",
   "tickers": {
     "NVDA": [
+      {
+        "user": "JaredSotken",
+        "body": "$BTC.X $ORCL $TSLA $NVDA $SPY 2029/2030",
+        "created_at": "2026-08-22T16:21:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MonkMan",
+        "body": "$NVDA any thoughts on stock movement post earnings? Struggling to find the magic play to leverage my shares. Normally write weekly covers to bring in income but not end of this week.  Thinking 225 call offset by 245 cover calls. But does nvda even move? Pondering something in first week of Sept.  Op",
+        "created_at": "2026-08-22T16:07:37Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "howardlindzon",
+        "body": "$SPY good read \n \n \nmoney being made eevrywhere but the old leaders  \n \n \n$META $QQQ $SMH $NVDA",
+        "created_at": "2026-08-22T16:05:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HIMAX_TSM_NVDA_CPO",
+        "body": "$tsm $nvda $himx https://x.com/danielnenni/status/2090889138694504915?s=12&amp;t=U9eP6DIiOkcPAub8MgmBuQ",
+        "created_at": "2026-08-22T16:01:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR @howardlindzon going to be in  San Francisco!!! \n \n$SPY $NVDA $TSLA $MRNA",
+        "created_at": "2026-08-22T16:00:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Better_Rich_Than_Right",
+        "body": "$MU $GOOG $SKHY $NVDA  Quit spamming the boards with this garbage.  The only thing Netlist is known for is patent litigation and low-margin memory products.",
+        "created_at": "2026-08-22T15:58:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SaladMan00",
+        "body": "$NVDA pre earnings pump and then post earnings drop",
+        "created_at": "2026-08-22T15:51:24Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "iBio_lotto",
         "body": "$NVDA So for an entire week this has had short bursts higher, followed by nonstop selling. And are you now telling me that Citadel spent the entire week unwinding the Situational Awareness fund (long shares, long puts)!? Well there you go. Sell puts, then sell sell sell shares. Repeat all week. Reta",
@@ -19,55 +61,49 @@
         "body": "$NVDA https://www.thestreet.com/investing/stocks/oppenheimer-has-a-blunt-nvidia-stock-investors-message-ahead-of-earnings",
         "created_at": "2026-08-22T15:37:43Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "AStrokeOfLuck",
-        "body": "$NVDA $MSFT",
-        "created_at": "2026-08-22T15:37:14Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA $QQQ $SPY",
-        "created_at": "2026-08-22T15:34:38Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "ika52",
-        "body": "$SNDK \nIf $NVDA released block buster earning on 8/26 .. I think this will also fuel the memory companies like $SNDK AND $MU",
-        "created_at": "2026-08-22T15:28:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SpadaCoTradeCarefree",
-        "body": "$NVDA \n\nEveryone says that Nvidia will tank after earnings….everyone said Spacex goes well below $100 at first unlock.  Fools game.  Everyone is always wrong….",
-        "created_at": "2026-08-22T15:25:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "L4inofthewired",
-        "body": "$NVDA price target on earnings?",
-        "created_at": "2026-08-22T15:09:39Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Kier_Severed",
-        "body": "$NVDA $QQQ $SPY Your puts are going to $0.01 come Monday - mark this!",
-        "created_at": "2026-08-22T15:09:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "fortyeight",
-        "body": "$NVDA",
-        "created_at": "2026-08-22T15:06:40Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
       {
-        "user": "RektRecovery",
-        "body": "$TSLA 📉 Entry Plan \n \nI am not looking for an immediate short entry. \n \nThe plan is to wait for a 1-Day Downside I.R. to form. \n \nEntry: Short after confirmed 1D Downside I.R. \nBias: Bearish \nPrimary Target Zone: $225–$200 \nHolding: Swing/positional trade, subject to structure confirmation \n \nThe da",
-        "created_at": "2026-08-22T15:30:10Z",
+        "user": "JaredSotken",
+        "body": "$BTC.X $ORCL $TSLA $NVDA $SPY 2029/2030",
+        "created_at": "2026-08-22T16:21:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Joe_Mama",
+        "body": "$TSLA Listen to Joe Mama",
+        "created_at": "2026-08-22T16:19:55Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Joe_Mama",
+        "body": "$TSLA Just a sliver left to close the gap.",
+        "created_at": "2026-08-22T16:19:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "vgordon",
+        "body": "$TSLA",
+        "created_at": "2026-08-22T16:11:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "vgordon",
+        "body": "$TSLA \n\nCybercab Event\n\nSept 3 , 2026\n\nGLTA. \n\nHolding Nov20 $375 Calls.",
+        "created_at": "2026-08-22T16:10:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "EffJuu",
+        "body": "$TSLA 🤣🤣🤣🤣 I TOLD YOU!!!!",
+        "created_at": "2026-08-22T16:06:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR @howardlindzon going to be in  San Francisco!!! \n \n$SPY $NVDA $TSLA $MRNA",
+        "created_at": "2026-08-22T16:00:12Z",
         "sentiment": ""
       },
       {
@@ -87,42 +123,6 @@
         "body": "$TSLA  ⚡⚡🇺🇸",
         "created_at": "2026-08-22T15:02:25Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BeRealistic",
-        "body": "$MRNA $NVDA $PLTR $SPY $TSLA \n\nAnd I believe Karp did also publicly mentioned growth for Palantir at an astronomical rate will continue for the next 18 months or so.   And Karp usually sandbags, so, might have to hold off from selling for another 2 - 3 more years.  \n\n$500 per share by 2030 it is…. F",
-        "created_at": "2026-08-22T14:59:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "mdh33",
-        "body": "$TSLA the day cybercab goes to SFO and LA , it would be awesome",
-        "created_at": "2026-08-22T14:55:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Rickyjg866",
-        "body": "$TSLA I&#39;d rather buy Wendy&#39;s than TSLA with the current market sentiment as it is right now.",
-        "created_at": "2026-08-22T14:53:10Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "stockpivot",
-        "body": "$SPY $TSLA $NVDA $BTC.X Weekend Brief: US equity traders face renewed US‑Canada tariff tensions as quiet data calendar sets tone ahead of PCE inflation, Nvidia earnings and Jackson Hole",
-        "created_at": "2026-08-22T14:46:26Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MadMaverick",
-        "body": "Small account, real results. \n \nStarted this account at ~$5K. Been pulling $300-$500/week off it for the bigger account — bills, vacation fund, compounding elsewhere. \n \n✅ +$578.95 (10.33%) yesterday \n✅ +$830.92 (15.57%) this week \n✅ ~$1,500-$2,000/month in consistent income \n \n$6,184.80 and climbin",
-        "created_at": "2026-08-22T14:43:53Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "$PLTR is the only Ai for GOVERNMENT DEFENSE!!! \nWE SHOULD HAVE A LOT HIGHER MULTIPLE FOR OUR N of 1 DESIGNATION!!! \n \n800 Ai PATENTS used for  USA 🇺🇸 ARMY MAVEN!!! \n \n$SPY $TSLA $NVDA $MRNA MOVE!!! \n \nContract language below… \nhttps://sih-st-charts.stocktwits-cdn.com/production/original_574748244.pn",
-        "created_at": "2026-08-22T14:30:48Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
@@ -130,12 +130,6 @@
         "user": "TheTraderVoice",
         "body": "$AAPL  continues to consolidate in the 4H range (299.35 - 316.76) below daily resistance at 314.34, with a gap above and testing 4H support at 308.06. \n \n📊 Weekly Resistance: 300.24 \n \nA breakout from this 4H range could test the daily top at 338.23 or bottom at 290.44. Let&#39;s see! #AAPL #Trading",
         "created_at": "2026-08-22T15:40:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RichardBrooks822",
-        "body": "$NLST $TMC $AAPL $SOFI $HOOD Netlist remains highly speculative and litigation-sensitive, TMC focuses on critical-mineral and nickel resources, Apple benefits from its ecosystem and device demand, SoFi benefits from digital-finance adoption, and Robinhood benefits from trading and crypto activity. I",
-        "created_at": "2026-08-22T15:34:25Z",
         "sentiment": ""
       },
       {
@@ -155,12 +149,6 @@
         "body": "$META is hounded by governments and big entities that want to expand their influence. Not judging, for it is the nature of the jungle we live in. \n \nThey need to reduce (not stop) these high-pie in the sky plans (VR/AR etc.) and instead Integrate with $AAPL $GOOGL $SSNLF etc.  \n \nWhen you&#39;re rel",
         "created_at": "2026-08-22T15:17:40Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "_TimCook____",
-        "body": "Apple continues to sit at the intersection of technology, services, and consumer trust. The next phase will be about turning innovation in AI, devices, and services into products that create real value for users. Long-term investors should keep their focus on execution, ecosystem strength, and susta",
-        "created_at": "2026-08-22T14:24:05Z",
-        "sentiment": ""
       },
       {
         "user": "Jumper567",
@@ -185,9 +173,27 @@
         "body": "$AAPL $BLIN $NVDA $TSLA",
         "created_at": "2026-08-22T13:45:52Z",
         "sentiment": ""
+      },
+      {
+        "user": "OptionsPlayers",
+        "body": "$AAPL $SOFI $QQQ Best understand this now..\nhttps://www.facebook.com/share/17NLEsc137/?mibextid=wwXIfr",
+        "created_at": "2026-08-22T13:08:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL  can someone please explain to me why is it almost always a certain group of people?",
+        "created_at": "2026-08-22T13:03:02Z",
+        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "TheUnmaker",
+        "body": "$BB $AMD $ONDS  $AMD under $200 $BB under $4 and $ONDS under $7.50 and sold on tops.",
+        "created_at": "2026-08-22T15:46:30Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Spanish_guy",
         "body": "$BB $AMD $ONDS he IS a loser as you see.",
@@ -241,15 +247,15 @@
         "body": "$AMD thinking this should test $450 or lower short term, then probably back to $500. If that happens that will be bulls chance to exit before this gets slaughtered again late Q3 or early Q4",
         "created_at": "2026-08-22T02:50:47Z",
         "sentiment": ""
-      },
-      {
-        "user": "whathehell",
-        "body": "$AMD Will next week be a good one? \n \nhttps://arqaris.com",
-        "created_at": "2026-08-22T02:21:11Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "HIMAX_TSM_NVDA_CPO",
+        "body": "$tsm $nvda $himx https://x.com/danielnenni/status/2090889138694504915?s=12&amp;t=U9eP6DIiOkcPAub8MgmBuQ",
+        "created_at": "2026-08-22T16:01:20Z",
+        "sentiment": ""
+      },
       {
         "user": "BGESGroup",
         "body": "$MSFT $IBM $AVGO $TSM $AMD  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
@@ -303,12 +309,6 @@
         "body": "$TSM — Automated swing setup flagged tonight (8/21), 2 of the last 5 sessions. \n \nPULLBACK setup, price +0.21% above EMA20. Fundamentals 90/100. \n \nRef price: $418.95 \nSupport: $404.56 | Resistance: $420.98 \nInvalidation: $398.00 \nTheoretical targets: $439.90 / $460.85 \nRSI: 50.4 (neutral) \n \nStatus",
         "created_at": "2026-08-21T20:58:01Z",
         "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$AVGO $IBM $MSFT $TSM $GOOG  \nThe Google Question: What Stokd’s Netlist Posts Could Be Signaling About NLST’s Biggest Unfinished Battle \nhttps://garywallach.substack.com/p/the-google-question-what-stokds-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-21T18:55:40Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
@@ -375,6 +375,18 @@
     ],
     "GOOG": [
       {
+        "user": "MountCapital",
+        "body": "$GOOG you will not see $350 in the next 3 years. \nThis is the start of a downward trend.",
+        "created_at": "2026-08-22T16:07:31Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Better_Rich_Than_Right",
+        "body": "$MU $GOOG $SKHY $NVDA  Quit spamming the boards with this garbage.  The only thing Netlist is known for is patent litigation and low-margin memory products.",
+        "created_at": "2026-08-22T15:58:53Z",
+        "sentiment": ""
+      },
+      {
         "user": "Georgejj",
         "body": "$GOOG Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure \n \nhttps://finance.yahoo.com/technology/ai/articles/alphabet-amazon-investing-420-billion-103500198.html \n \nGood luck and GOD bless,",
         "created_at": "2026-08-22T15:37:46Z",
@@ -421,26 +433,32 @@
         "body": "$GOOG look how stupid Google AI is…",
         "created_at": "2026-08-22T03:46:01Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "tradepranay",
-        "body": "$GOOG",
-        "created_at": "2026-08-22T01:55:11Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jemi",
-        "body": "@THE_TRADE $GOOG $GOOGL",
-        "created_at": "2026-08-22T01:41:23Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
       {
-        "user": "RichardBrooks822",
-        "body": "$HTZ $LUNR $ALT $APP $META Hertz remains tied to fleet economics and rental demand, Intuitive Machines benefits from lunar and space contracts, Altimmune remains clinical-stage, AppLovin benefits from AI-driven advertising optimization, and Meta benefits from digital advertising and AI investment. I",
-        "created_at": "2026-08-22T15:34:49Z",
+        "user": "MountCapital",
+        "body": "$META $450 any day",
+        "created_at": "2026-08-22T16:06:14Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MountCapital",
+        "body": "$META $450 by the time the trial ends. \nThe bigger risk now is market crash due to policies of the PDF President who is on a mission to destroy USA",
+        "created_at": "2026-08-22T16:05:53Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "howardlindzon",
+        "body": "$SPY good read \n \n \nmoney being made eevrywhere but the old leaders  \n \n \n$META $QQQ $SMH $NVDA",
+        "created_at": "2026-08-22T16:05:52Z",
         "sentiment": ""
+      },
+      {
+        "user": "Waleed5727",
+        "body": "$META Any chance they can recover fast if this whole AI thing goes bust?",
+        "created_at": "2026-08-22T15:55:12Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "goldfrapp0x0309",
@@ -477,24 +495,6 @@
         "body": "$META i guess my D poking your head when i was fuc*king your mom really messed you up. tell your mom not to fu*k when she’s pregnant next time.",
         "created_at": "2026-08-22T14:38:05Z",
         "sentiment": ""
-      },
-      {
-        "user": "RigatoniCapital",
-        "body": "$SPY $QQQ $NFLX $APP $META  \nWhat Netflix Got Right and AppLovin Got Wrong This Quarter | Simeon McMillan at Accrued Interest  \nhttps://rigatonicapital.substack.com/p/what-netflix-got-right-and-applovin?r=ckhjv&amp;utm_campaign=post&amp;utm_medium=web",
-        "created_at": "2026-08-22T14:12:02Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jumper567",
-        "body": "$META what a shithole! Nothing works",
-        "created_at": "2026-08-22T14:08:39Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "TimHeatmapKing",
-        "body": "$META May be setting up for $575+ move next week as the nodes are lighting up above. Follow and subscribe to my Patreon for more heatmap analysis and requests!",
-        "created_at": "2026-08-22T12:30:54Z",
-        "sentiment": "Bullish"
       }
     ]
   }
