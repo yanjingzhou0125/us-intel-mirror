@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-22 07:31:09",
+  "ts": "2026-08-22 08:29:12",
   "tickers": {
     "NVDA": [
+      {
+        "user": "RICHES_TO_RAGS_",
+        "body": "$NVDA OPTION  OPEN INTEREST  BETWEEN 215 AND 250   VERY HIGH \nDOES THAT MEAN MMS WONT PAY THEM ?????",
+        "created_at": "2026-08-22T08:26:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Nvidia Stock Dubbed &#39;Top Pick&#39; Ahead Of Q2 Earnings $NVDA \nAlso Mentions: $BMO https://talkmarkets.com/article/nvidia-stock-dubbed-top-pick-ahead-of-q2-earnings-1787386430",
+        "created_at": "2026-08-22T08:14:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Q3 Earnings Preview: High Expectations, Positive Revisions, And Broad-Based Growth $MU $GOOGL $NVDA $AMZN \nhttps://talkmarkets.com/article/q3-earnings-preview-high-expectations-positive-revisions-and-broad-based-growth-1787384394",
+        "created_at": "2026-08-22T07:40:26Z",
+        "sentiment": ""
+      },
       {
         "user": "BubbleBanker",
         "body": "$NVDA Definitely hitting $200 before earnings.",
@@ -43,27 +61,15 @@
         "body": "$NVDA the best GPU company in the world going",
         "created_at": "2026-08-22T04:53:41Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "spud_webb",
-        "body": "I heard $NVDA is looking into partnerships for land / power infrastructure. Good signal in demand for $KEEL ?",
-        "created_at": "2026-08-22T04:46:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ Big Tech AI’s 7 Trillion Gamble Is DEAD in Aug 2026. The Multi-Billion (Trillion) USA ECONOMY Delusion. 3 hour “Deep Dive”. $NVDA $NBIS $CRWV $GLD",
-        "created_at": "2026-08-22T04:30:58Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "techvested",
-        "body": "$NVDA $SOXX $SPY $QQQ $KWEB  \nChina doesn&#39;t need to import much anymore. $NVDA above $150 assumes Chinese market will open up for it again.  \n \nThese Charts say China is so over $NVDA  \n \nGLTA  \nSell the SPY, QQQ Ponzi and buy China, ex-US etfs and other ideas here:  \nhttps://tinyurl.com/4mtbzjp",
-        "created_at": "2026-08-22T04:21:18Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "sunman20201",
+        "body": "$TSLA 😉",
+        "created_at": "2026-08-22T08:14:59Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "MC_Official",
         "body": "@Jmac93  I’m expecting $TSLA to hit my $371 zone before I can start considering any downside move, right now it still looks bullish",
@@ -117,12 +123,6 @@
         "body": "BREAKING: U.S. Trade Representative Jamieson Greer stated that Canada has declined to finalize a trade agreement, \n$SPY $BTC.X $QQQ $TSLA $GM",
         "created_at": "2026-08-22T03:41:28Z",
         "sentiment": ""
-      },
-      {
-        "user": "Masonic11",
-        "body": "$DJT $GDC $SPCX $TSLA As I lay down tonight. I walk through the valley in the shadow of death, I fear no evil.......",
-        "created_at": "2026-08-22T02:46:47Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
