@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-22 16:50:30",
+  "ts": "2026-08-22 17:20:03",
   "tickers": {
     "NVDA": [
+      {
+        "user": "flychicken1991",
+        "body": "$NVDA Reddit heat: top 3 ticker in NewsImpact&#39;s Reddit scan over the past 2 days (rank #3). Mentions: 12; trend score: 42.6. Research only, not financial advice. https://nimpact.tech/newsimpact/ticker/NVDA?utm_source=stocktwits&amp;utm_medium=reddit_heat",
+        "created_at": "2026-08-22T17:12:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA bankruptcy this Wednesday",
+        "created_at": "2026-08-22T17:09:59Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA Expectations for Nvidia are so insanely high \n that very good news alone is no longer enough \n to move the stock price significantly. \n Quarterly results that beat forecasts—once a cause for celebration— \n  are now considered the norm. \n Nvidia investors increasingly demand confirmation that d",
+        "created_at": "2026-08-22T17:03:19Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "liteprofitl_b",
+        "body": "📊 $SPY + $QQQ  Analysis \n\nBoth indexes are sitting at key support zones, so this could be an important area for the next market move.\n\n* $SPY : 4H FVG is filled. Watching above $768 for a reclaim. If it fails, watch $764–762.\n* $QQQ : Demand is building again. Watching above $716 for strength, below",
+        "created_at": "2026-08-22T16:59:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA China here, China there—strong competition everywhere. \n Just one question: \n  if Nvidia chips are so bad, why does everyone want them,  \n  and why are they being smuggled into China?",
+        "created_at": "2026-08-22T16:53:42Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "spql8r",
         "body": "$AMFN It’s the weekend and you are just deep in thought. \nWhat if you believe in Bezo early on and invested $AMZN ?\nYou were also using Facebook a lot and could have invested in FB now $META   \nAlso thinking, chips is the future so you found $NVDA  \nNow that $BTC.X is down, should I buy this Trillio",
@@ -31,39 +61,45 @@
         "body": "$SIMO it&#39;s the 2H launch of $NVDA  Vera Rubin! This is why SIMO is growing top and bottom line faster than LITE ALAB AAOI MRVL $CIEN $CRDO $VIAV COHR.  \n \nIt&#39;s going to be wild $$$$",
         "created_at": "2026-08-22T16:42:04Z",
         "sentiment": ""
-      },
-      {
-        "user": "TheTraderVoice",
-        "body": "$NVDA : Big move coming! Weekly squeeze coiling up (Range: 187.67 - 228.09). \n \n⚡ The key catalyst: Earnings open. \n🎯 Liquidity: 2 zones in play. Watch out for a potential fakeout sweep on one side before the real move to the other! \n \nExercise caution—let&#39;s see how it plays out! #NVDA #Earnings",
-        "created_at": "2026-08-22T16:41:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JaredSotken",
-        "body": "$BTC.X $ORCL $TSLA $NVDA $SPY \n\nPax Silica commodities ♻️ Industrial ♻️ Copper ♻️ Silver ♻️ Gold ♻️ Lithium = Growth, Jobs, Technology.\n\nMarket 🚀🚀🚀 boom boom to 2029/2030 🤭",
-        "created_at": "2026-08-22T16:33:20Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "LiveTradePro",
-        "body": "$NVDA $MRVL $CRM $IREN $CRWD Earnings could provide some good opportunities this coming week \n \nWe&#39;ll be watching these closely",
-        "created_at": "2026-08-22T16:28:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Hughhefeweizen",
-        "body": "$NVDA $ORCL $QQQ $SPX $SPY no American or eurotrash company will EVER work with Chinese software because they bug/steal EVERYTHING",
-        "created_at": "2026-08-22T16:28:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JoeB07",
-        "body": "$SIMO sure, we&#39;ll get future dilution, along with every other company raising $$$ to fund expansion. SIMO is now the newest memory storage name. Just borrowed $1B to buy NAND and to fund their 30% QoQ growth. Their boot drives now account for 30% of overall revenue after doubling rev in Q2. They",
-        "created_at": "2026-08-22T16:23:41Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "BullishAaFf",
+        "body": "$FFAI $NIO $RIVN $LCID $TSLA  \nEV stonks are now officially too hot for shorts. \n🚀🔥🌟🌠🚀  \nhttps://youtu.be/yAJnpaFRrlw?is=QD2OuWzWU147RnzH",
+        "created_at": "2026-08-22T17:07:52Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GHbhhjc",
+        "body": "$TSLA If you think that the 5000 cars approval will turn into a 5000 cars fleet anytime soon, you are a moron",
+        "created_at": "2026-08-22T17:03:29Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "beestMod516",
+        "body": "$SPY $MSTR $DJT $BTC.X $TSLA",
+        "created_at": "2026-08-22T17:02:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "davidsestrand",
+        "body": "$TSLA The Cybertrukkk would have sold better if people could find the door",
+        "created_at": "2026-08-22T16:59:19Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "GHbhhjc",
+        "body": "$TSLA Yes, needing promises of restraint to get nevada regulators approval is kinda humiliating. Nevada is literally the state with the lowest scrutiny",
+        "created_at": "2026-08-22T16:56:51Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "christrader7",
+        "body": "$TSLA do people in Tesla trucks pass each other on the road and think how stupid they look",
+        "created_at": "2026-08-22T16:52:18Z",
+        "sentiment": ""
+      },
       {
         "user": "CodymanXS",
         "body": "$TSLA $400 next week. Sorry stinky bears. lol. Wahoo",
@@ -87,45 +123,15 @@
         "body": "$BTC.X $ORCL $TSLA $NVDA $SPY 2029/2030",
         "created_at": "2026-08-22T16:21:41Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Joe_Mama",
-        "body": "$TSLA Listen to Joe Mama",
-        "created_at": "2026-08-22T16:19:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Joe_Mama",
-        "body": "$TSLA Just a sliver left to close the gap.",
-        "created_at": "2026-08-22T16:19:28Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "vgordon",
-        "body": "$TSLA",
-        "created_at": "2026-08-22T16:11:41Z",
-        "sentiment": ""
-      },
-      {
-        "user": "vgordon",
-        "body": "$TSLA \n\nCybercab Event\n\nSept 3 , 2026\n\nGLTA. \n\nHolding Nov20 $375 Calls.",
-        "created_at": "2026-08-22T16:10:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "EffJuu",
-        "body": "$TSLA 🤣🤣🤣🤣 I TOLD YOU!!!!",
-        "created_at": "2026-08-22T16:06:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "$PLTR @howardlindzon going to be in  San Francisco!!! \n \n$SPY $NVDA $TSLA $MRNA",
-        "created_at": "2026-08-22T16:00:12Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "stonedbunny",
+        "body": "$MU \n\nLook at who had no choice but to come around $AAPL",
+        "created_at": "2026-08-22T17:12:13Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "TheTraderVoice",
         "body": "$AAPL  continues to consolidate in the 4H range (299.35 - 316.76) below daily resistance at 314.34, with a gap above and testing 4H support at 308.06. \n \n📊 Weekly Resistance: 300.24 \n \nA breakout from this 4H range could test the daily top at 338.23 or bottom at 290.44. Let&#39;s see! #AAPL #Trading",
@@ -178,12 +184,6 @@
         "user": "OptionsPlayers",
         "body": "$AAPL $SOFI $QQQ Best understand this now..\nhttps://www.facebook.com/share/17NLEsc137/?mibextid=wwXIfr",
         "created_at": "2026-08-22T13:08:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL  can someone please explain to me why is it almost always a certain group of people?",
-        "created_at": "2026-08-22T13:03:02Z",
         "sentiment": ""
       }
     ],
@@ -437,6 +437,18 @@
     ],
     "META": [
       {
+        "user": "MountCapital",
+        "body": "$META The idiot thinks he is making Americans richer with the tariffs",
+        "created_at": "2026-08-22T16:55:37Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MountCapital",
+        "body": "$META The PDF President elected by over 70 million will not stop until he destroys USA and its financial system. \nA 2008 style crash has never been closer with no tools to combat it when it happens",
+        "created_at": "2026-08-22T16:54:30Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "spql8r",
         "body": "$AMFN It’s the weekend and you are just deep in thought. \nWhat if you believe in Bezo early on and invested $AMZN ?\nYou were also using Facebook a lot and could have invested in FB now $META   \nAlso thinking, chips is the future so you found $NVDA  \nNow that $BTC.X is down, should I buy this Trillio",
         "created_at": "2026-08-22T16:49:13Z",
@@ -483,18 +495,6 @@
         "body": "$META just compare the call option Oi to the inverse put option for contracts dated all the way to January. That’ll tell you all you need to know.",
         "created_at": "2026-08-22T15:00:49Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "TheStockRef",
-        "body": "$META ya nice try numbers don’t lie broke boy",
-        "created_at": "2026-08-22T14:39:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TheStockRef",
-        "body": "Fk all u ZUCK haters.  $META IS GOAT. IG n you tube $GOOG BOTH  crush $NFLX",
-        "created_at": "2026-08-22T14:39:17Z",
-        "sentiment": ""
       }
     ]
   }
