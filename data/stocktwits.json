@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-22 10:49:42",
+  "ts": "2026-08-22 11:20:24",
   "tickers": {
     "NVDA": [
+      {
+        "user": "AlphaTrader8",
+        "body": "$MU $SPY Bearish: Cautionary Position $SPX\n\n$NVDA $QQQ",
+        "created_at": "2026-08-22T11:19:24Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Budzi",
+        "body": "$NVDA Buying the dip the  day after earnings! Dont get fooled by after hours! We all know it&#39;S going down not matter what!",
+        "created_at": "2026-08-22T11:11:47Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "WallStJesus",
         "body": "$NVDA",
@@ -49,21 +61,15 @@
         "body": "$NVDA OPTION  OPEN INTEREST  BETWEEN 215 AND 250   VERY HIGH \nDOES THAT MEAN MMS WONT PAY THEM ?????",
         "created_at": "2026-08-22T08:26:01Z",
         "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Nvidia Stock Dubbed &#39;Top Pick&#39; Ahead Of Q2 Earnings $NVDA \nAlso Mentions: $BMO https://talkmarkets.com/article/nvidia-stock-dubbed-top-pick-ahead-of-q2-earnings-1787386430",
-        "created_at": "2026-08-22T08:14:12Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Q3 Earnings Preview: High Expectations, Positive Revisions, And Broad-Based Growth $MU $GOOGL $NVDA $AMZN \nhttps://talkmarkets.com/article/q3-earnings-preview-high-expectations-positive-revisions-and-broad-based-growth-1787384394",
-        "created_at": "2026-08-22T07:40:26Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "HendersonAnalytic",
+        "body": "Up early studying the charts!\nI’m back next week, locked in and ready to go.  $TSLA is on the radar.\nLet’s get to work.",
+        "created_at": "2026-08-22T11:02:35Z",
+        "sentiment": ""
+      },
       {
         "user": "MuskyFlex",
         "body": "$TSLA 5000 in nevada alone… now multiply by 1000… robotaxi growth will be off the charts",
@@ -117,12 +123,6 @@
         "body": "$TSLA 😉",
         "created_at": "2026-08-22T08:14:59Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "MC_Official",
-        "body": "@Jmac93  I’m expecting $TSLA to hit my $371 zone before I can start considering any downside move, right now it still looks bullish",
-        "created_at": "2026-08-22T07:12:54Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
@@ -189,6 +189,12 @@
     ],
     "AMD": [
       {
+        "user": "ajaskey",
+        "body": "$AMD the flow of money into AMD options is very positive.",
+        "created_at": "2026-08-22T11:05:07Z",
+        "sentiment": ""
+      },
+      {
         "user": "AMD_to_610_SOFI_to_71",
         "body": "Just beginning to find my long-term path. Once i exit $SOFI and $AMD after the next run, I will be officially done with individual stocks. My Fidelity Basket:\n45% $VT Global exposure\n32.5% $VUG Growth exposure\n22.5% $VTV Value exposure\n\nThank you to Fidelity for making this easy.",
         "created_at": "2026-08-22T04:13:45Z",
@@ -241,12 +247,6 @@
         "body": "$NLST $MU $SKHY $AMD $NVDA  \nThe Netlist Awakening: 18 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \nhttps://garywallach.substack.com/p/the-netlist-awakening-18-reasons?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
         "created_at": "2026-08-22T00:31:10Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "fellowtradr",
-        "body": "$AMD That was the lowest volume day I think I&#39;ve seen out of AMD. 14M. Definitely the lowest volume day this year. Should go up at least early next week for end of month profit taking/compounding and NVDA ER, but they still have a week to close the month green. I give them until the 200 SMA come",
-        "created_at": "2026-08-22T00:23:20Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
