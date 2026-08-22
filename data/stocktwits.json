@@ -1,7 +1,43 @@
 {
-  "ts": "2026-08-22 04:32:03",
+  "ts": "2026-08-22 05:26:26",
   "tickers": {
     "NVDA": [
+      {
+        "user": "EconomyEngine",
+        "body": "$SPCX $NVDA $BTC.X $SPY $QQQ 🇺🇸🇨🇦 US-Canada trade talks collapse; US imposes 50% tariffs on billions in Canadian goods.🤔🤔",
+        "created_at": "2026-08-22T05:20:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Justsomedipshit",
+        "body": "@StockQazi $NVDA has earnings on Wednesday which could very easily spark a rally. A lot of uncertainty out there though",
+        "created_at": "2026-08-22T05:10:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "rahod",
+        "body": "$NVDA \nHere’s the bottom line\nMarket will  an assign a multiple based on perceived earnings. Period end of story.\nMargins will play a role in this , but future EPS is the bottom line.\nThe current EPS stands at $9.00 and continues to rise. \nDo the math at a 30X multiple..\nWe have a $270 stock \nNo bra",
+        "created_at": "2026-08-22T05:10:09Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "HadronTrade",
+        "body": "$NVDA looking for nice pump to 220-225 Monday . I’ve seen it done before",
+        "created_at": "2026-08-22T04:58:22Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Willie87",
+        "body": "$NVDA the best GPU company in the world going",
+        "created_at": "2026-08-22T04:53:41Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "spud_webb",
+        "body": "I heard $NVDA is looking into partnerships for land / power infrastructure. Good signal in demand for $KEEL ?",
+        "created_at": "2026-08-22T04:46:30Z",
+        "sentiment": ""
+      },
       {
         "user": "CUPandHANDLE_CHARTS",
         "body": "$QQQ ~ Big Tech AI’s 7 Trillion Gamble Is DEAD in Aug 2026. The Multi-Billion (Trillion) USA ECONOMY Delusion. 3 hour “Deep Dive”. $NVDA $NBIS $CRWV $GLD",
@@ -25,45 +61,33 @@
         "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA GOOGL \n \n3 DTE&#39;s \n \n🙃",
         "created_at": "2026-08-22T03:36:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "AJakobi238",
-        "body": "$NVDA this is literally the only thing you should be worried about… and you goons are worried about earnings 🤦‍♂️…  every single time this touches 4.75 - 5% we have a financial meltdown/recession…",
-        "created_at": "2026-08-22T03:34:36Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "spql8r",
-        "body": "@BUFFALOshots You might want to dig deeper Due Diligence on $AMFN   \nOur Executive Chairman Brent Nelson mentioned and it’s on the web\nhttps://americanfusionenergy.com\n\nThat we will be serving the Data Centers in Texas which altogether will be  a 10 Trillion $$ market. So you may say it’s probably a",
-        "created_at": "2026-08-22T03:34:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "techvested",
-        "body": "$SPY $QQQ $NVDA $ORCL $SPX  \nI&#39;ll keep saying it: No infra, no ROI, no AI. Chart One: Trillions of upcoming write downs. \n \nDespite trillions in AI capex, Chinese Ai models offer same quality at 1/100th the cost. Because China built the infra first.  \nGLTA  \nhttps://tinyurl.com/4mtbzjpt",
-        "created_at": "2026-08-22T03:28:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "HIMAX_TSM_NVDA_CPO",
-        "body": "$nvda $tsm $himx https://x.com/nvidia/status/2090944279103635481?s=12&amp;t=U9eP6DIiOkcPAub8MgmBuQ",
-        "created_at": "2026-08-22T03:24:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "samfar",
-        "body": "$NVDA the market is so twisted it’s gonna have us thinking NVDA ER is bearish only because they beat by 71%",
-        "created_at": "2026-08-22T03:12:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nBased on options,\nI don’t see more than 218-221 prior.\nThat’s a modest spot that will let it run up post ER. \nThose expecting “sell the news” will be disappointed.",
-        "created_at": "2026-08-22T03:07:29Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Indiety",
+        "body": "$TSLA is leading tech market in the correction. Below $270 by end of October, possibly by September.",
+        "created_at": "2026-08-22T05:22:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Indiety",
+        "body": "$TSLA Below $270 by end of October, hopefully next month.",
+        "created_at": "2026-08-22T05:19:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "jn2sales",
+        "body": "$TSLA have a feeling that this run is $SPCX buying shares",
+        "created_at": "2026-08-22T05:01:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FedericoUllner",
+        "body": "$TSLA \nhttps://youtu.be/U3TQJxaDZus?is=mljNVy9eou3qosTG",
+        "created_at": "2026-08-22T04:48:20Z",
+        "sentiment": ""
+      },
       {
         "user": "PhishTourFunds",
         "body": "$TSLA \n$393 🎯",
@@ -99,30 +123,6 @@
         "body": "$TSLA $GDC $SPCX Oh how it must feel, to be of the sheep 🐑",
         "created_at": "2026-08-22T02:42:48Z",
         "sentiment": ""
-      },
-      {
-        "user": "BMakingMoney",
-        "body": "$TSLA",
-        "created_at": "2026-08-22T02:41:24Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BMakingMoney",
-        "body": "$DJT $GDC $SPCX $TSLA Where is your spaceship?",
-        "created_at": "2026-08-22T02:41:00Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "BodyByDave",
-        "body": "$TSLA Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems \n \nhttps://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html?__source=iosappshare%7Ccom.google.ch",
-        "created_at": "2026-08-22T02:31:23Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Masonic11",
-        "body": "$DJT $GDC $SPCX $TSLA  Is all really that hard to see. There is a fundamental push to steer away from the nuclear family. These inter worldly conglomerations. There is a fight going on. Good/evil aliens. Fuk the Russians, fuk the core Chinese. America is closing off global access for advancement of ",
-        "created_at": "2026-08-22T02:26:43Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
