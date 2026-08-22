@@ -1,69 +1,81 @@
 {
-  "ts": "2026-08-22 21:46:25",
+  "ts": "2026-08-22 22:21:17",
   "tickers": {
     "NVDA": [
+      {
+        "user": "geotrader",
+        "body": "$NVDA As one of Nvidia’s largest hyperscale customers, higher rack prices mean higher infrastructure costs for Azure AI deployments. This places subtle pressure on capital expenditure efficiency and near-term free cash flow.MSFT - BAD NEWS FOT ALL HYPERSCALERS",
+        "created_at": "2026-08-22T22:17:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "geotrader",
+        "body": "$NVDA Short-Term Market Sentiment: Software and hyperscaler stocks often face slight selling pressure when CapEx cost inflation makes headlines, as analysts recalibrate margin targets for upcoming quarters. \nComponent-Driven Hike: Because the price increase is largely driven by underlying memory cos",
+        "created_at": "2026-08-22T22:17:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "WCoastGuynSocal",
+        "body": "$SNDK $NVDA Nvidia reports after the close on Wednesday plus awaiting news regarding $APPL decision on using Chinese chips from two specific companies.\n\nExpecting $SNDK to end the week above $1,700.\n\nStay tuned for news.\n\np.s. Shorts are out in force. They&#39;re scared.",
+        "created_at": "2026-08-22T22:14:19Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $SPY $QQQ $NVDA $INTC\n\nhttps://spectrum.ieee.org/ai-cpu-comeback",
+        "created_at": "2026-08-22T22:13:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "upsidetrader",
+        "body": "$NVDA has informed its largest customers of AI server price increases exceeding 15% in many cases. Should be a positive for $MU and $SKHY on Monday ( ($MVLL, $SKHL)",
+        "created_at": "2026-08-22T22:13:25Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "jasonleer",
+        "body": "$TRUMP.X easy money here folks $SPY $NVDA $TSLA $QQQ",
+        "created_at": "2026-08-22T22:12:39Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Tradeur_Cueilleur",
+        "body": "@lemayqc Hi, I use fixed Volume profile and Fibonacci retracements separately. \nThe Fibonacci Measured  Moves provide a view of algorithmic and psychological levels. \nThe Fixed Volume Profile reveals the various organic levels/volumes associated with the bidding/auctions activity of traders and mark",
+        "created_at": "2026-08-22T22:12:07Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HadronTrade",
+        "body": "$NVDA 220-223 months will be target and bears will get burned",
+        "created_at": "2026-08-22T22:06:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "OPEN_LIFE",
+        "body": "$NVDA $220 open …calls will print",
+        "created_at": "2026-08-22T22:04:53Z",
+        "sentiment": ""
+      },
       {
         "user": "Kier_Severed",
         "body": "$NVDA Friday put buyers are running scared and amok on this board following news about the price hike - your puts are toast...",
         "created_at": "2026-08-22T21:37:38Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "AnomalyDetective",
-        "body": "Policy Is The Market Now, And It Is Pulling In Three Directions \n \n⏩ The S&amp;P 500 is now driven by conflicting policy interventions, not as much fundamentals, creating heightened uncertainty and volatility. \n \n1.  Intervention One: The July Yen Defense \nThe July action was aimed at the yen, but t",
-        "created_at": "2026-08-22T21:37:36Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LordSteel24",
-        "body": "$NVDA Nobody reads Doomberg any more. Scare mongers and Burry buddies via complicity in giving him a stage as if his prognostications deserve one.",
-        "created_at": "2026-08-22T21:37:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "geotrader",
-        "body": "$NVDA WHAT IF YOUR TOLD your product prioce is going up, your margins will drop , customer will baulk, demand will slow for MU AND NVDA....they will say FU,,,,,dont need them , DEEPSEEK HMMM",
-        "created_at": "2026-08-22T21:30:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "zebriod",
-        "body": "$IREN $NVDA  This marks Nvidia&#39;s latest price adjustment, driven by a global surge in memory component costs (specifically HBM and GDDR7 video memory)",
-        "created_at": "2026-08-22T21:30:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "geotrader",
-        "body": "$NVDA THe $ hike news was forseenn by sellers past few days is why its been dropping,,,,BAD NEWS!",
-        "created_at": "2026-08-22T21:29:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "geotrader",
-        "body": "$NVDA AAPL&quot;S price inscrease crashed the stock....bad news for all AI companies as costs cannot be absorbed as in the [ast especially as demand is dropping...as proved by Fri&#39;s bad news on AI",
-        "created_at": "2026-08-22T21:27:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Miagimoto",
-        "body": "$NVDA China wins the Data center race and crashes the market?",
-        "created_at": "2026-08-22T21:24:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $NVDA 🔐\n\n$AAPL it’s time to Reload dips again ✅\n#pivotgroup🎬🔐",
-        "created_at": "2026-08-22T21:20:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AZZ_MAN",
-        "body": "$NVDA I am going to say this.  If somehow this earnings goes bad it will crash the market big time. The Dow will be under 50,000 in no time.",
-        "created_at": "2026-08-22T21:19:15Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Sleepy_Don",
+        "body": "$DJT $TSLA $QQQ $SPY \n\nTrump knows he is done after midterms and has begun applying for a new job.",
+        "created_at": "2026-08-22T22:20:14Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "jasonleer",
+        "body": "$TRUMP.X easy money here folks $SPY $NVDA $TSLA $QQQ",
+        "created_at": "2026-08-22T22:12:39Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "NauticalTrader",
         "body": "$SPY $TSLA $WMT $DJT  \n \n.",
@@ -111,21 +123,15 @@
         "body": "$TSLA Sell the news event… \n\n330 by Friday… below 300 after this nothin burger event 🤭",
         "created_at": "2026-08-22T21:03:24Z",
         "sentiment": ""
-      },
-      {
-        "user": "ElGordoGekko",
-        "body": "$TSLA retail traders were excited buying fridays news while massive institutional index funds, pension groups, and mutual funds were quietly using that afternoon liquidity to dump blocks of shares right before the weekend. That  late day distribution heavily favors a downward continuation or a red o",
-        "created_at": "2026-08-22T20:52:31Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "NauticalTrader",
-        "body": "$TSLA  \n \nFact: Every dip has been a buying opportunity for the last 3 weeks. \n \nFact: Bears have been wrong for the last 3 weeks. \n \nMoney talks and bullshit walks. No skin the game, then piss-off!  \n.",
-        "created_at": "2026-08-22T20:34:39Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Maggie_Pie",
+        "body": "$AIXI Even though TJ claims the opposite, I am way ahead on $AIXI , since I originally got in at .14 on 4/2/2026. If you&#39;re ahead, I would not sink any money in this company, as fighting $AAPL will not win, IMO. IDK why $AAPL just doesn&#39;t buy $AIXI ? Pennies for $AAPL . To make an example of",
+        "created_at": "2026-08-22T21:57:09Z",
+        "sentiment": ""
+      },
       {
         "user": "PivotPoint_101",
         "body": "$SPY $QQQ $NVDA 🔐\n\n$AAPL it’s time to Reload dips again ✅\n#pivotgroup🎬🔐",
@@ -179,15 +185,21 @@
         "body": "$AAPL which is better this or $NVDA ? My 401k flipped from majority Apple to nvidia",
         "created_at": "2026-08-22T17:28:33Z",
         "sentiment": ""
-      },
-      {
-        "user": "stonedbunny",
-        "body": "$MU \n\nLook at who had no choice but to come around $AAPL",
-        "created_at": "2026-08-22T17:12:13Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "investing_dans_valeur",
+        "body": "$AMD $SPY $QQQ $NVDA $INTC\n\nhttps://spectrum.ieee.org/ai-cpu-comeback",
+        "created_at": "2026-08-22T22:13:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "BasiuMisiu",
+        "body": "$AMD Bullish week ahead awaits. 👍",
+        "created_at": "2026-08-22T21:49:43Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Darsh21",
         "body": "$NBIS $AMD $BABA $CBRS this weekend suspense is killing me!",
@@ -235,18 +247,6 @@
         "body": "$BB $AMD $ONDS  $AMD under $200 $BB under $4 and $ONDS under $7.50 and sold on tops.",
         "created_at": "2026-08-22T15:46:30Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Spanish_guy",
-        "body": "$BB $AMD $ONDS he IS a loser as you see.",
-        "created_at": "2026-08-22T15:42:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Dategmiot",
-        "body": "$AMD take 8 give back almost .8 lolz.",
-        "created_at": "2026-08-22T15:06:38Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -375,6 +375,18 @@
     ],
     "GOOG": [
       {
+        "user": "ShadyAggie40",
+        "body": "$GOOG undervalued. I am very surprised we are not trading around 355s to 370 range",
+        "created_at": "2026-08-22T22:03:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "alwaysinverse",
+        "body": "$GOOG",
+        "created_at": "2026-08-22T22:02:26Z",
+        "sentiment": "Bearish"
+      },
+      {
         "user": "mmritas1",
         "body": "$META : Final result. Meta is force to make 2 versions. One for Adults. Full of nake photos of Mark. Boring version for kids. No strolling. Extremely slow. Photos of old old Jello. That they will never want sex again. 2 versions and we set no monetary damage. $GOOG $AMZN $MSFT.",
         "created_at": "2026-08-22T19:34:51Z",
@@ -421,21 +433,27 @@
         "body": "Fk all u ZUCK haters.  $META IS GOAT. IG n you tube $GOOG BOTH  crush $NFLX",
         "created_at": "2026-08-22T14:39:17Z",
         "sentiment": ""
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $MU $GOOG $SKHY $NVDA  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
-        "created_at": "2026-08-22T11:47:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$NLST $MU $NVDA $GOOG $SKHY  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
-        "created_at": "2026-08-22T09:57:19Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "BullishBear365",
+        "body": "@Nmgupta530 $META what  Santa rally will save it? Even if they are slapped with a minor fine they will have to restructure their algorithms which will take a huge hit on their future earnings. They have already lost billions in similar  isolated lawsuits but this one is a united force of 29 states.",
+        "created_at": "2026-08-22T22:12:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Nmgupta530",
+        "body": "@BullishBear365 You don’t understand the legal system. This is politics and midterm jockeying versus reality. FACT: Zuck is close to Trump.  FACT: Headlines about taking down big bad fb helps every DA looking for a spot in a governor chair or in federal spots. FACT: JnJ walked away with a slap on ha",
+        "created_at": "2026-08-22T21:54:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BullishBear365",
+        "body": "$META how is this stock still 500? They are at the cusp of bankruptcy with 1.4 trillion in claims looming over their heads. Zuck is fucked",
+        "created_at": "2026-08-22T21:50:33Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "MilhouseVanhouten",
         "body": "$SPY $NVDA $AAPL $AMZN $META",
@@ -476,24 +494,6 @@
         "user": "Ep1219",
         "body": "$META 🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉",
         "created_at": "2026-08-22T18:47:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META let Monday come!!!!!\n￼ The Rockets will be rocketing￼ in full motion watermelon NEWS should hit no pain no gain patience always pays off🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
-        "created_at": "2026-08-22T18:45:20Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META he continues to move forward and higher the top top people buy as much as you can come Monday morning. This is going skies the limit don&#39;t worry about the trial case that&#39;s nothing worry about the fundamentals.🍉🍉🍉🚀🚀🚀🍉🍉🍉🚀🚀🚀🍉🍉🍉🚀🚀🚀🍉🍉🍉",
-        "created_at": "2026-08-22T18:34:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "z0DiAc",
-        "body": "$BTC.X just look at $META chart, big parabolic pump and then rugpull, same pattern might play out.",
-        "created_at": "2026-08-22T18:03:16Z",
         "sentiment": ""
       }
     ]
