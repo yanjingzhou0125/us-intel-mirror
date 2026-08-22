@@ -1,7 +1,49 @@
 {
-  "ts": "2026-08-22 19:00:27",
+  "ts": "2026-08-22 19:29:35",
   "tickers": {
     "NVDA": [
+      {
+        "user": "Sergiolke",
+        "body": "$NVDA",
+        "created_at": "2026-08-22T19:26:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "#Nvidia #Earnings Put Downside Risk In Focus $NVDA Mentions: $TYX $SPY https://talkmarkets.com/article/nvidia-earnings-put-downside-risk-in-focus-1787424387",
+        "created_at": "2026-08-22T19:21:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BashNew",
+        "body": "$NVDA $AMD $QQQ",
+        "created_at": "2026-08-22T19:20:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "mmritas1",
+        "body": "$META : Imagine this. I sue Mc Donald because my kids is fat. They purposely made it delicious. They advertise as juice and delicious. That make it addictive to eat. I want 2 billion dollars because my son is an addict to Big Mac. This is what Meta case is about. $GOOG $AMZN $MSFT $NVDA .  Ben sue J",
+        "created_at": "2026-08-22T19:09:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "VirtualAccMillionaire",
+        "body": "$NVDA is this bullish",
+        "created_at": "2026-08-22T19:06:08Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Pinnacle_capital1",
+        "body": "$NVDA now that they offer financing why not!",
+        "created_at": "2026-08-22T19:05:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "houcok",
+        "body": "$NVDA what does this mean? Will NVIDIA now have to loan their customers more money so that they can record 15% more accounts receivable?",
+        "created_at": "2026-08-22T19:01:52Z",
+        "sentiment": ""
+      },
       {
         "user": "XxDramaxX",
         "body": "$NVDA Bought at 214.90\nSelling before earnings \nOr maybe leaving half \n600 shares",
@@ -19,51 +61,33 @@
         "body": "$NVDA $NVDL Nvidia customers notified about AI-related price hikes above 15%",
         "created_at": "2026-08-22T18:45:55Z",
         "sentiment": ""
-      },
-      {
-        "user": "Fresh_1948",
-        "body": "$NVDA this shit literally dumps after every ER. If you’re playing percentages, 210 puts should be in play heavy for this week.",
-        "created_at": "2026-08-22T18:18:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA here’s the problem with earnings Wednesday….\n\nEven if they beat by more than the street estimates because of some extra China rev or pull forward THEY always guide weak and will never include China in the guide\n\nSO the stock will sell off regardless",
-        "created_at": "2026-08-22T18:02:24Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "2026Bear",
-        "body": "$NVDA Everyone  so  bullish  on earnings.",
-        "created_at": "2026-08-22T17:29:16Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Dazedconfused12",
-        "body": "$AAPL which is better this or $NVDA ? My 401k flipped from majority Apple to nvidia",
-        "created_at": "2026-08-22T17:28:33Z",
-        "sentiment": ""
-      },
-      {
-        "user": "loudei",
-        "body": "$NVDA  Baby gonna blow gold!!",
-        "created_at": "2026-08-22T17:28:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BaconGreez",
-        "body": "$SPY $QQQ $NVDA $ORCL $SPX Hey Einstein, Chineaze Ai software is open source. If there are bugs in it you can see them and remove them. They wouldn&#39;t even waste their time bugging open source software.",
-        "created_at": "2026-08-22T17:28:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JohnElder",
-        "body": "$NVDA $INKW  NVIDIA is set to explode and BeWater is my diamond in the rough.",
-        "created_at": "2026-08-22T17:27:17Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "johnrivers0110",
+        "body": "$aixi\n$GDC\n$DJT\n$AMC \n$TSLA \nThe FiB 🔺 \nNever forget the past🔺",
+        "created_at": "2026-08-22T19:19:39Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Dmitriytrades",
+        "body": "$TSLA short squeeze last week, especially Friday was largely fueled by monthly OPEX and puts expiring. Over the past four weeks, the stock was gradually pushed higher as those puts decayed and price moved away from max pain.\n\nNext week is a new game. I’m expecting a pullback into at least the $350S,",
+        "created_at": "2026-08-22T19:16:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$TSLA\n$SPY\n$AIXI \n$GDC\n$AMC\n🔺",
+        "created_at": "2026-08-22T19:02:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stichy",
+        "body": "$BTC.X $TSLA $JAPAN.X $COIN $KOREA.X",
+        "created_at": "2026-08-22T19:00:36Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "eal163",
         "body": "$TSLA https://youtu.be/P4hCB3G6g9U?is=5YDJ0AcDhHUX9TxG",
@@ -99,33 +123,15 @@
         "body": "$SPY $TSLA This is my life",
         "created_at": "2026-08-22T18:07:10Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "MESSPAC",
-        "body": "$TSLA so freaking ugly and it had a driver in it wtf. Cali plates in Philly",
-        "created_at": "2026-08-22T18:05:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CaptainPlanetBro",
-        "body": "$TSLA the more I see this go up and down...the more I see a huge pop in the future. People love swing trading this stock, but they are always sure to push a rally on ANY good news.",
-        "created_at": "2026-08-22T17:52:36Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "baschie",
-        "body": "$TSLA gap up Monday on this Cyber news finally a reality. Best of luck to all.",
-        "created_at": "2026-08-22T17:50:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MuskyFlex",
-        "body": "$TSLA next week setting up to be even more pain for the bear crew… keep the pressure on them bulls… buy every dip until we break $400+",
-        "created_at": "2026-08-22T17:45:22Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "RippleCG",
+        "body": "$SNAP $AAPL \nApple just largely shut down the Vision Pro gaming team and scaled back immersive video.\nMeanwhile Luke Wood (former Apple VP who ran Beats after the acquisition) is sitting on Snap’s board.\nHard not to connect those dots. Apple is clearly pivoting away from heavy headsets toward lighte",
+        "created_at": "2026-08-22T19:28:19Z",
+        "sentiment": ""
+      },
       {
         "user": "ResearchTrends09",
         "body": "$AAPL 🛑🛑🛑yup, wait to see how this ends.     🤣😂🤣 mental illness of the democrat party",
@@ -179,15 +185,15 @@
         "body": "$META is hounded by governments and big entities that want to expand their influence. Not judging, for it is the nature of the jungle we live in. \n \nThey need to reduce (not stop) these high-pie in the sky plans (VR/AR etc.) and instead Integrate with $AAPL $GOOGL $SSNLF etc.  \n \nWhen you&#39;re rel",
         "created_at": "2026-08-22T15:17:40Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "Jumper567",
-        "body": "$AAPL what a shithole!",
-        "created_at": "2026-08-22T14:16:49Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
+      {
+        "user": "BashNew",
+        "body": "$NVDA $AMD $QQQ",
+        "created_at": "2026-08-22T19:20:40Z",
+        "sentiment": ""
+      },
       {
         "user": "Ashton_1nvests",
         "body": "$AMD may have a pretty interesting advantage developing in AI.\n\nNvidia is reportedly evaluating lower-memory configurations for Rubin Ultra as tight HBM supply becomes a bigger constraint.\n\nMeanwhile, AMD says it already has the memory it needs for Helios.\n\nThat matters.\n\nAI compute is scaling so fa",
@@ -240,12 +246,6 @@
         "user": "LizLovesReddit",
         "body": "$AMD 14 hours ago \nhttps://x.com/AMD/status/2090914360109502942?s=20",
         "created_at": "2026-08-22T12:21:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$MSFT $IBM $AVGO $TSM $AMD  \nFrom Litigation to Strategic Powerhouse: Netlist’s 2025–2026 Press Release Trail May Tell the Story of a Company at an Inflection Point \n \nhttps://garywallach.substack.com/p/from-litigation-to-strategic-powerhouse",
-        "created_at": "2026-08-22T12:03:04Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,18 @@
     ],
     "MSFT": [
       {
+        "user": "Marcel_TG",
+        "body": "$PLUG $BE $MSFT $AMZN  He said utility capital is finite, and utilities are being asked to do two things at once: Harden the grid against storms and build additional capacity for very large new customers, such as data centers. https://finance.yahoo.com/personal-finance/insurance/article/power-outage",
+        "created_at": "2026-08-22T19:17:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "mmritas1",
+        "body": "$META : Imagine this. I sue Mc Donald because my kids is fat. They purposely made it delicious. They advertise as juice and delicious. That make it addictive to eat. I want 2 billion dollars because my son is an addict to Big Mac. This is what Meta case is about. $GOOG $AMZN $MSFT $NVDA .  Ben sue J",
+        "created_at": "2026-08-22T19:09:31Z",
+        "sentiment": ""
+      },
+      {
         "user": "Yu8",
         "body": "$SLNH $MSFT  I’ve spent weeks digging into the Microsoft connection around Project Kati 2. \n \nWhat started as a few interesting overlaps turned into a 12-part deep dive across Microsoft Research, EDF, Masdar, Fairwater, Ryan Carver and the 100 MW anchor-tenant process. \n \nFull research here 👇 \nhttps",
         "created_at": "2026-08-22T18:26:59Z",
@@ -359,21 +371,15 @@
         "body": "$TSM $AVGO $IBM $INTC $MSFT  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
         "created_at": "2026-08-22T10:01:29Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "stockpicker63",
-        "body": "A Message From the CEO of SwingStockTraders  “Trading is not about predicting the market. It is about being prepared for the opportunities it creates.”For years, I have watched traders make the same mistakes: chasing stocks after they have already moved, trading emotionally, and spending countless h",
-        "created_at": "2026-08-22T09:05:25Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "NewAge69",
-        "body": "$KLAR $SPY $AXP $MSFT \n\nEven $AAPL could think about it\n\nThey are becoming a US bank\n\n🥰🥰🥰🤑🤑🤑🤑",
-        "created_at": "2026-08-22T06:57:21Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
+      {
+        "user": "mmritas1",
+        "body": "$META : Imagine this. I sue Mc Donald because my kids is fat. They purposely made it delicious. They advertise as juice and delicious. That make it addictive to eat. I want 2 billion dollars because my son is an addict to Big Mac. This is what Meta case is about. $GOOG $AMZN $MSFT $NVDA .  Ben sue J",
+        "created_at": "2026-08-22T19:09:31Z",
+        "sentiment": ""
+      },
       {
         "user": "JoeB07",
         "body": "$SIMO sure, we&#39;ll get future dilution, along with every other company raising $$$ to fund expansion. SIMO is now the newest memory storage name. Just borrowed $1B to buy NAND and to fund their 30% QoQ growth. Their boot drives now account for 30% of overall revenue after doubling rev in Q2. They",
@@ -427,15 +433,27 @@
         "body": "$GOOG $GOOGL COILED SPRING",
         "created_at": "2026-08-22T08:53:04Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$IBM $MSFT $AVGO $GOOG $PLTR  \nThe Netlist Awakening: 18 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \nhttps://garywallach.substack.com/p/the-netlist-awakening-18-reasons?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
-        "created_at": "2026-08-22T05:47:10Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "MountCapital",
+        "body": "$META get off the crack",
+        "created_at": "2026-08-22T19:26:26Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "mmritas1",
+        "body": "$META : Imagine this. I sue Mc Donald because my kids is fat. They purposely made it delicious. They advertise as juice and delicious. That make it addictive to eat. I want 2 billion dollars because my son is an addict to Big Mac. This is what Meta case is about. $GOOG $AMZN $MSFT $NVDA .  Ben sue J",
+        "created_at": "2026-08-22T19:09:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Jumper567",
+        "body": "$META I tried AI on WhatsApp, you gotta be shittin me with the quality. What a waste of resources",
+        "created_at": "2026-08-22T19:00:37Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Carlos_trades",
         "body": "$META mega bullish on meta but a retest of the 200ema on the weekly would be so nice to load the boat up",
@@ -476,24 +494,6 @@
         "user": "MountCapital",
         "body": "$META The idiot thinks he is making Americans richer with the tariffs",
         "created_at": "2026-08-22T16:55:37Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$META The PDF President elected by over 70 million will not stop until he destroys USA and its financial system. \nA 2008 style crash has never been closer with no tools to combat it when it happens",
-        "created_at": "2026-08-22T16:54:30Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "spql8r",
-        "body": "$AMFN It’s the weekend and you are just deep in thought. \nWhat if you believe in Bezo early on and invested $AMZN ?\nYou were also using Facebook a lot and could have invested in FB now $META   \nAlso thinking, chips is the future so you found $NVDA  \nNow that $BTC.X is down, should I buy this Trillio",
-        "created_at": "2026-08-22T16:49:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$META $450 any day",
-        "created_at": "2026-08-22T16:06:14Z",
         "sentiment": "Bearish"
       }
     ]
