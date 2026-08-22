@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-22 18:29:40",
+  "ts": "2026-08-22 19:00:27",
   "tickers": {
     "NVDA": [
+      {
+        "user": "XxDramaxX",
+        "body": "$NVDA Bought at 214.90\nSelling before earnings \nOr maybe leaving half \n600 shares",
+        "created_at": "2026-08-22T18:58:56Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Crakerjac",
+        "body": "$NVDA I had to come back to say the quadrillions of tokens are produced in a month from Google. I had mentioned it might be in a day but looked back and it was a month. I was off a bit but soon daily anyways. Still so",
+        "created_at": "2026-08-22T18:57:57Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SamsonCapital",
+        "body": "$NVDA $NVDL Nvidia customers notified about AI-related price hikes above 15%",
+        "created_at": "2026-08-22T18:45:55Z",
+        "sentiment": ""
+      },
       {
         "user": "Fresh_1948",
         "body": "$NVDA this shit literally dumps after every ER. If you’re playing percentages, 210 puts should be in play heavy for this week.",
@@ -43,24 +61,6 @@
         "body": "$NVDA $INKW  NVIDIA is set to explode and BeWater is my diamond in the rough.",
         "created_at": "2026-08-22T17:27:17Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "bullishforeverbrah",
-        "body": "$NVDA buy after bankruptcy this week",
-        "created_at": "2026-08-22T17:24:30Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "undervaluedtaker",
-        "body": "$NVDA $SKHY $MU Holding all shares through monday with high convidence. Especially memory goes v Wrap. Another 100 billion with $AVGO on the way for new data centers. Ultra",
-        "created_at": "2026-08-22T17:20:29Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "flychicken1991",
-        "body": "$NVDA Reddit heat: top 3 ticker in NewsImpact&#39;s Reddit scan over the past 2 days (rank #3). Mentions: 12; trend score: 42.6. Research only, not financial advice. https://nimpact.tech/newsimpact/ticker/NVDA?utm_source=stocktwits&amp;utm_medium=reddit_heat",
-        "created_at": "2026-08-22T17:12:52Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
@@ -127,6 +127,12 @@
     ],
     "AAPL": [
       {
+        "user": "ResearchTrends09",
+        "body": "$AAPL 🛑🛑🛑yup, wait to see how this ends.     🤣😂🤣 mental illness of the democrat party",
+        "created_at": "2026-08-22T18:42:34Z",
+        "sentiment": ""
+      },
+      {
         "user": "Morteza",
         "body": "$AAPL Up 14.15% for the year. Last year this time was down 9%",
         "created_at": "2026-08-22T18:15:23Z",
@@ -179,12 +185,6 @@
         "body": "$AAPL what a shithole!",
         "created_at": "2026-08-22T14:16:49Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "sfolporone",
-        "body": "$NVDA $BLIN with a relative volume lower than the lakes in Death Valley, be very concerned $AAPL, $TSLA, $NVDA investors don&amp;#39;t start manipulating...on a Friday!",
-        "created_at": "2026-08-22T13:48:02Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
@@ -437,6 +437,30 @@
     ],
     "META": [
       {
+        "user": "Carlos_trades",
+        "body": "$META mega bullish on meta but a retest of the 200ema on the weekly would be so nice to load the boat up",
+        "created_at": "2026-08-22T18:58:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META 🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉",
+        "created_at": "2026-08-22T18:47:32Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META let Monday come!!!!!\n￼ The Rockets will be rocketing￼ in full motion watermelon NEWS should hit no pain no gain patience always pays off🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
+        "created_at": "2026-08-22T18:45:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META he continues to move forward and higher the top top people buy as much as you can come Monday morning. This is going skies the limit don&#39;t worry about the trial case that&#39;s nothing worry about the fundamentals.🍉🍉🍉🚀🚀🚀🍉🍉🍉🚀🚀🚀🍉🍉🍉🚀🚀🚀🍉🍉🍉",
+        "created_at": "2026-08-22T18:34:32Z",
+        "sentiment": ""
+      },
+      {
         "user": "z0DiAc",
         "body": "$BTC.X just look at $META chart, big parabolic pump and then rugpull, same pattern might play out.",
         "created_at": "2026-08-22T18:03:16Z",
@@ -470,30 +494,6 @@
         "user": "MountCapital",
         "body": "$META $450 any day",
         "created_at": "2026-08-22T16:06:14Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$META $450 by the time the trial ends. \nThe bigger risk now is market crash due to policies of the PDF President who is on a mission to destroy USA",
-        "created_at": "2026-08-22T16:05:53Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "howardlindzon",
-        "body": "$SPY good read \n \n \nmoney being made eevrywhere but the old leaders  \n \n \n$META $QQQ $SMH $NVDA",
-        "created_at": "2026-08-22T16:05:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Waleed5727",
-        "body": "$META Any chance they can recover fast if this whole AI thing goes bust?",
-        "created_at": "2026-08-22T15:55:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "goldfrapp0x0309",
-        "body": "$META is hounded by governments and big entities that want to expand their influence. Not judging, for it is the nature of the jungle we live in. \n \nThey need to reduce (not stop) these high-pie in the sky plans (VR/AR etc.) and instead Integrate with $AAPL $GOOGL $SSNLF etc.  \n \nWhen you&#39;re rel",
-        "created_at": "2026-08-22T15:17:40Z",
         "sentiment": "Bearish"
       }
     ]
