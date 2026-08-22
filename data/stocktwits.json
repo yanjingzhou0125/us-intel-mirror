@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22 05:26:26",
+  "ts": "2026-08-22 05:54:26",
   "tickers": {
     "NVDA": [
       {
@@ -65,6 +65,12 @@
     ],
     "TSLA": [
       {
+        "user": "straightup_techfund",
+        "body": "$TSLA only 12% up since our call",
+        "created_at": "2026-08-22T05:39:00Z",
+        "sentiment": ""
+      },
+      {
         "user": "Indiety",
         "body": "$TSLA is leading tech market in the correction. Below $270 by end of October, possibly by September.",
         "created_at": "2026-08-22T05:22:38Z",
@@ -116,12 +122,6 @@
         "user": "Shergasmic",
         "body": "$SPY $TSLA until they&#39;re all vomited all over.",
         "created_at": "2026-08-22T02:46:23Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Masonic11",
-        "body": "$TSLA $GDC $SPCX Oh how it must feel, to be of the sheep 🐑",
-        "created_at": "2026-08-22T02:42:48Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,18 @@
     ],
     "MSFT": [
       {
+        "user": "BGESGroup",
+        "body": "$IBM $MSFT $AVGO $GOOG $PLTR  \nThe Netlist Awakening: 18 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \nhttps://garywallach.substack.com/p/the-netlist-awakening-18-reasons?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-22T05:47:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "dd_dd_Dd_dd",
+        "body": "$CHRN $MSFT $NTNX   \nAll eyes on next week",
+        "created_at": "2026-08-22T05:28:05Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "levy42088",
         "body": "$MSFT who the  heck was behind the name Chinese windows government edition.",
         "created_at": "2026-08-22T03:04:20Z",
@@ -359,21 +371,15 @@
         "body": "Don’t Fight The #Fed - Bond Market Treasury Rates Put Selling Mentions: $MSFT $TGT $SPY $IEF $BTC.X https://talkmarkets.com/article/dont-fight-the-fed---bond-market-treasury-rates-put-selling-1787347361",
         "created_at": "2026-08-21T23:24:25Z",
         "sentiment": ""
-      },
-      {
-        "user": "Bullishrun",
-        "body": "HOW TO TRADE MY ALERTS: Play small. Set a 40% stop loss, Take profit @ 30%, Leave runners and set new stop loss above buy. \n\nI have a 95% win rate.. 100% win rate past 3 months. \n\nCompounding is KEY. Stay DISCIPLINED and I’ll make you RICH!!\n\n$SPY $U $TSLA $MSFT $QQQ",
-        "created_at": "2026-08-21T23:18:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "mmritas1",
-        "body": "$HTZ : Short squeeze is coming. Too many shorts. If you are short. Pain is coming. Get out now and go long. LONG LONG. Now Squeeze. Squeeze Squeeze. $META $GOOG $MSFT",
-        "created_at": "2026-08-21T23:11:47Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "BGESGroup",
+        "body": "$IBM $MSFT $AVGO $GOOG $PLTR  \nThe Netlist Awakening: 18 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \nhttps://garywallach.substack.com/p/the-netlist-awakening-18-reasons?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&amp;showWelcomeOnShare=true",
+        "created_at": "2026-08-22T05:47:10Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "GoldTraderZz",
         "body": "$GOOG look how stupid Google AI is…",
@@ -427,12 +433,6 @@
         "body": "$ANTHZZX.P $GOOG $GOOGL $NVDA",
         "created_at": "2026-08-21T21:40:02Z",
         "sentiment": ""
-      },
-      {
-        "user": "THE_TRADE",
-        "body": "$GOOG $GOOGL \n\nYou don&#39;t know what you are talking about sap\n\nYou own the shares through Alphabet as if you hokd Berkshire you owns shares if the equity through them as a shareholder",
-        "created_at": "2026-08-21T21:32:54Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
