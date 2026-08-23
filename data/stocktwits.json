@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-23 02:44:43",
+  "ts": "2026-08-23 03:50:19",
   "tickers": {
     "NVDA": [
+      {
+        "user": "AZZ_MAN",
+        "body": "$NVDA I just hope the market doesn’t use the 15% as an excuse to drop the stock",
+        "created_at": "2026-08-23T03:30:32Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ProspernCapital",
+        "body": "$MU $NVDA price increase news very bullish for Micron.",
+        "created_at": "2026-08-23T03:28:26Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "rahod",
+        "body": "$NVDA \nGet your popcorn\nBears are out Biggly \nJust stay long",
+        "created_at": "2026-08-23T03:27:25Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "houcok",
+        "body": "$NVDA You got to be such a nice person to warn others on a Saturday to help them not lose money next week.",
+        "created_at": "2026-08-23T03:22:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Hiphoplover",
+        "body": "$NVDA $NVDQ  \n \nIt looks bad for some reason! \n \nhttps://www.waterjournal.co.kr/news/articleView.html?idxno=88527",
+        "created_at": "2026-08-23T03:09:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bullishforeverbrah",
+        "body": "$NVDA don&#39;t fall for the fake pump next week retards. You have been warned.🖕",
+        "created_at": "2026-08-23T02:59:24Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "masonjoel99",
+        "body": "$MU $MVLL $NVDA $SKHL $SKHY   Great move.by Nvidia.  It will help all of us MU as well.  One of our great customers.",
+        "created_at": "2026-08-23T02:53:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "masonjoel99",
+        "body": "$BTC.X $MU $NVDA $QQQ $SPY   Michael zBurry needs to be audited by IRas for non payment of taxes on $100,000,000 of profit he says he made three years ago go short on sub prime mortgage company.  That was a big win and that is after paying out investors that stuck with him.  Some bailed.  He is toyi",
+        "created_at": "2026-08-23T02:53:01Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Riverrat69",
+        "body": "$NVDA https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?st=TZrQys&amp;reflink=article_copyURL_share",
+        "created_at": "2026-08-23T02:47:39Z",
+        "sentiment": ""
+      },
       {
         "user": "emeraldbayrider",
         "body": "$AMZN $META $NVDA \n\nMsft Azure going large on Vera Rubin starting NOW!  See msft ceo comments on website and X",
         "created_at": "2026-08-23T02:27:44Z",
         "sentiment": ""
-      },
-      {
-        "user": "Rex_Kwon_Do",
-        "body": "$AMFN $SPCX $TSLA $NVDA    We have technology you not only can use, but need.  You&#39;ll hear about us soon.",
-        "created_at": "2026-08-23T02:23:00Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Deportivo",
-        "body": "$NVDA is hiking prices of many servers containing its Al chips by more than 15% as memory costs soar, per Bloomberg.\n\nThe price hikes will go into effect on systems shipped early next year and will include those with the flagship Vera Rubin and Grace Blackwell chips.\n\nRight before earnings ...",
-        "created_at": "2026-08-23T02:21:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Rex_Kwon_Do",
-        "body": "$AMFN $TSLA $SPCX $NVDA    \n \nWe are now officially OTCQB. If you don&#39;t know us, you will soon.",
-        "created_at": "2026-08-23T02:19:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "emeraldbayrider",
-        "body": "$AMZN $META $NVDA \n\nAll three of these are about to crank to the upside imo… NVDA And Meta trading at 16x f12m? That reminds me why Mickey left Minnie… she was f Goofy!  But that NVDA ROADMAP? RIP!",
-        "created_at": "2026-08-23T02:15:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "chinaliesandsteals",
-        "body": "$NVDA you missed the run kid from $5 a share pre split you were jealous you’re worthless you’re nothing you are just a little troll. I wish you nothing but the worst that could ever happen in life with Investments.",
-        "created_at": "2026-08-23T02:10:17Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Wick369",
-        "body": "$NVDA stock will fall to 180 post earnings in my view - “The inability of the industry’s most dominant company to hold the line on prices or absorb growing costs shows how much leverage makers of memory chips – Samsung Electronics Co., SK Hynix Inc. and Micron Technology Inc. - have amid a surge in ",
-        "created_at": "2026-08-23T02:02:41Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Bennetthall",
-        "body": "$MRNA $NVDA $PLTR $SPY $TSLA I did have to sell about 20 calls recently to raise capital for that horrific dip once PLTR bounced to 170 but I’ll reinvest that capital in additional calls as I totally agree with you we’re headed to 350 at some point. The question is when of course. this is the operat",
-        "created_at": "2026-08-23T01:55:49Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "alaric_wong89",
-        "body": "@jliebs12  $NVDA sold out with 15% revenue growth in guidance, that is the part that jumps out.",
-        "created_at": "2026-08-23T01:50:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "rahod",
-        "body": "$NVDA \nGF Value™ indicates NVDA is trading at $216.85, which is 43.7% below its intrinsic value estimate of $384.95.\nNVDA’s GF Score™ stands at an impressive 95 out of 100, signaling robust overall fundamentals.",
-        "created_at": "2026-08-23T01:49:55Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "PaddyOoohhYeah",
+        "body": "$SPY $DJT $TSLA Oh yes I forgot about that, said no one intelligent ever.",
+        "created_at": "2026-08-23T03:45:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GreenHydro",
+        "body": "$TSLA I wouldn’t be surprised if we see a pullback followed by a retest of the 50dma when the Cybercab launches on September 3rd",
+        "created_at": "2026-08-23T03:43:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DogFella",
+        "body": "$SPY $DJT $TSLA oh yes I forgot about that",
+        "created_at": "2026-08-23T03:40:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Hiphoplover",
+        "body": "$TSLA  $TSLQ  \n \nTesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring \n \nhttps://x.com/CNBC/status/2090885100804231499",
+        "created_at": "2026-08-23T03:00:09Z",
+        "sentiment": ""
+      },
       {
         "user": "HydrogenH2",
         "body": "$TSLA $DJT  $SPY  Look like USA will be late to the party !! https://www.youtube.com/shorts/CnaaWF6em3I",
@@ -99,33 +123,27 @@
         "body": "$MRNA $NVDA $PLTR $SPY $TSLA I did have to sell about 20 calls recently to raise capital for that horrific dip once PLTR bounced to 170 but I’ll reinvest that capital in additional calls as I totally agree with you we’re headed to 350 at some point. The question is when of course. this is the operat",
         "created_at": "2026-08-23T01:55:49Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Bennetthall",
-        "body": "$TSLA gray it’s a good time to load calls in your ladder to make up for the ones I lost on that crash from 400 to 300 over nothing\n\nMeanwhile, optimism, especially when we use our FSD which essentially renders everything else it’s not a Tesla with FSD and antique and I’m wondering when humanity will",
-        "created_at": "2026-08-23T01:53:42Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Bennetthall",
-        "body": "$BTC.X $DJT $MU $SPY $TSLA",
-        "created_at": "2026-08-23T01:51:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Doozio",
-        "body": "$TSLA 1 or 2 moar MNDY Thursday 🐑 s?  Druck wud say oink oink.  \n\n❤️👑🌈🦄",
-        "created_at": "2026-08-23T01:25:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Thelonius_Stonk",
-        "body": "$TSLA idk im fine with no more dips ever",
-        "created_at": "2026-08-23T01:02:01Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL",
+        "created_at": "2026-08-23T03:22:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL  🛑🛑🛑🛑🛑Read and REPOST!!!",
+        "created_at": "2026-08-23T03:22:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ResearchTrends09",
+        "body": "$AAPL 🛑🛑🛑 and you think it’s bad now in this country? Just wait until the Democrat socialist party when the election in 2028 this is gonna be nothing.  It’s gonna be 10 times worse.",
+        "created_at": "2026-08-23T02:48:49Z",
+        "sentiment": ""
+      },
       {
         "user": "Stenix82",
         "body": "@MilhouseVanhouten what’s your take on $AAPL  this week",
@@ -166,24 +184,6 @@
         "user": "ArcValueTrade",
         "body": "Clues for Stock market directions-                     \n                                                                                                                                              \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                 ",
         "created_at": "2026-08-23T00:01:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL 🛑🛑 take a very good close,Look at this photo. This is how far CNN mainstream media has fallen off a cliff. What do I mean? I will tell you what I mean. Look at their people on the newscast talking politics better yet look in the background. You realize these people are DEI hires with base sala",
-        "created_at": "2026-08-22T23:26:55Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL 🛑🛑🛑lol.  Droopy eyed thing. Gangster. Somebody else is called droopy eyed?   Godfather young Al Pacino. Who remembers that scene? Classic!",
-        "created_at": "2026-08-22T22:51:47Z",
-        "sentiment": ""
-      },
-      {
-        "user": "USAEquityResearch",
-        "body": "$AAPL 📊 USAEquityResearch\n\n▼ 309.35  (-0.63%)\n\nTrend: Bearish 📉\nRSI (14): 57.1 — neutral territory\nMACD: bearish, below signal line\nVolume: normal\n\n📌 Key Levels\nResistance: 339.79  |  Support: 302.25\n20-MA: 314.20  |  50-MA: 309.99\n\n💼 Fundamentals\nMkt Cap: $4.51T\nP/E (TTM): 35.5  |  Fwd P/E: 32.4\nFC",
-        "created_at": "2026-08-22T22:40:00Z",
         "sentiment": ""
       }
     ],
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "USAEquityResearch",
+        "body": "$META 📊 USAEquityResearch\n\n▲ 549.90  (+0.75%)\n\nTrend: Bearish 📉\nRSI (14): 31.3 — weak momentum, approaching oversold\nMACD: bearish, below signal line\nVolume: below average\n\n📌 Key Levels\nResistance: 599.12  |  Support: 539.03\n20-MA: 576.48  |  50-MA: 592.97\n\n💼 Fundamentals\nMkt Cap: $1.40T\nP/E (TTM): ",
+        "created_at": "2026-08-23T03:40:58Z",
+        "sentiment": ""
+      },
+      {
         "user": "emeraldbayrider",
         "body": "$AMZN $META $NVDA \n\nMsft Azure going large on Vera Rubin starting NOW!  See msft ceo comments on website and X",
         "created_at": "2026-08-23T02:27:44Z",
@@ -488,12 +494,6 @@
         "user": "BullishBear365",
         "body": "@Nmgupta530 $META what  Santa rally will save it? Even if they are slapped with a minor fine they will have to restructure their algorithms which will take a huge hit on their future earnings. They have already lost billions in similar  isolated lawsuits but this one is a united force of 29 states.",
         "created_at": "2026-08-22T22:12:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Nmgupta530",
-        "body": "@BullishBear365 You don’t understand the legal system. This is politics and midterm jockeying versus reality. FACT: Zuck is close to Trump.  FACT: Headlines about taking down big bad fb helps every DA looking for a spot in a governor chair or in federal spots. FACT: JnJ walked away with a slap on ha",
-        "created_at": "2026-08-22T21:54:21Z",
         "sentiment": ""
       }
     ]
