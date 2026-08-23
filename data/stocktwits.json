@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-23 09:36:13",
+  "ts": "2026-08-23 10:23:15",
   "tickers": {
     "NVDA": [
+      {
+        "user": "chintu76",
+        "body": "$NVDA back to 225 ahead of earnings by wednesday",
+        "created_at": "2026-08-23T10:12:44Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ChicagoGuy30",
+        "body": "$MU  with $NVDA Wednesday now this could get above $1000 and stay there",
+        "created_at": "2026-08-23T09:44:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BB7622its",
+        "body": "$NVDA Marvel deal does not effect NVDA..  Nice try.",
+        "created_at": "2026-08-23T09:40:19Z",
+        "sentiment": ""
+      },
       {
         "user": "TalkMarkets",
         "body": "Nvidia Stock In Focus As Earnings Loom And GPU Price Hikes Approach $NVDA \nhttps://talkmarkets.com/article/nvidia-stock-in-focus-as-earnings-loom-and-gpu-price-hikes-approach-1787470716",
@@ -43,27 +61,15 @@
         "body": "Major Indexes Lose Momentum Ahead Of A Pivotal Week $NVDA $SPX $SOX $NDX $QQQ https://talkmarkets.com/article/major-indexes-lose-momentum-ahead-of-a-pivotal-week-1787469895",
         "created_at": "2026-08-23T08:36:18Z",
         "sentiment": ""
-      },
-      {
-        "user": "akroller",
-        "body": "$AMD $MU $NVDA $SKHY $SMCI",
-        "created_at": "2026-08-23T07:54:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Fahad109",
-        "body": "$NVDA from Monday all tech down until ndva er announcement, take care everyone",
-        "created_at": "2026-08-23T07:37:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Nvidia Is Investing In Everything Around The AI Boom — Even Space $NVDA \nAlso Mentions: $CSCO https://talkmarkets.com/article/nvidia-is-investing-in-everything-around-the-ai-boom-even-space-1787469477",
-        "created_at": "2026-08-23T07:32:08Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "sam92",
+        "body": "$TSLA \n$TSLW \n\nhttps://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
+        "created_at": "2026-08-23T09:40:40Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "sunman20201",
         "body": "$TSLA It feel like may of 2020 😉 in positive way. Maybe 🤔 it just me. ⚡️",
@@ -117,12 +123,6 @@
         "body": "$TSLA ...you must be new to trading....",
         "created_at": "2026-08-23T05:54:03Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "makefen69",
-        "body": "$TSLA LFG!!!  Vegas just greenlit 5,000 Tesla robotaxis! That’s more than Waymo and Uber combined, absolutely dominating the strip!  Bears were crying about &quot;fake AI promises&quot; but Elon is literally deploying the Cybercab fleet as we speak. This is the FSD inflection point everyone underest",
-        "created_at": "2026-08-23T05:49:56Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "udim",
+        "body": "$META",
+        "created_at": "2026-08-23T10:06:44Z",
+        "sentiment": ""
+      },
+      {
         "user": "newsofthemarket",
         "body": "$META \n \nEverywhere you look it&#39;s META! \n \nTrial of the decade! \n \nDo state AG&#39;s win? or does the judge go soft on META? \n \nhttps://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
         "created_at": "2026-08-23T07:36:12Z",
@@ -488,12 +494,6 @@
         "user": "USAEquityResearch",
         "body": "$META 📊 USAEquityResearch\n\n▲ 549.90  (+0.75%)\n\nTrend: Bearish 📉\nRSI (14): 31.3 — weak momentum, approaching oversold\nMACD: bearish, below signal line\nVolume: below average\n\n📌 Key Levels\nResistance: 599.12  |  Support: 539.03\n20-MA: 576.48  |  50-MA: 592.97\n\n💼 Fundamentals\nMkt Cap: $1.40T\nP/E (TTM): ",
         "created_at": "2026-08-23T03:40:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "emeraldbayrider",
-        "body": "$AMZN $META $NVDA \n\nMsft Azure going large on Vera Rubin starting NOW!  See msft ceo comments on website and X",
-        "created_at": "2026-08-23T02:27:44Z",
         "sentiment": ""
       }
     ]
