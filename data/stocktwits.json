@@ -1,69 +1,93 @@
 {
-  "ts": "2026-08-23 22:20:49",
+  "ts": "2026-08-23 22:48:06",
   "tickers": {
     "NVDA": [
       {
-        "user": "sp122809",
-        "body": "$MU $SKHY   $NVDA nvda is getting too greedy here. They are getting memory for $24K and selling for $200K  to maintain their 85% gross margin \n\nThis madness needs to stop soon \n\nWorse than Apple",
-        "created_at": "2026-08-23T22:15:27Z",
+        "user": "VintageCulture",
+        "body": "$NVDA 220 tmr.",
+        "created_at": "2026-08-23T22:46:23Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "walst",
+        "body": "@OMillionaires  if it does, I’m buying $NVDA into ER this week.  🚀🚀",
+        "created_at": "2026-08-23T22:42:31Z",
         "sentiment": ""
       },
       {
-        "user": "houcok",
-        "body": "$NVDA $300 by 8/28",
-        "created_at": "2026-08-23T22:14:16Z",
-        "sentiment": ""
+        "user": "TheMayorHere",
+        "body": "$NVDA",
+        "created_at": "2026-08-23T22:42:23Z",
+        "sentiment": "Bullish"
       },
       {
         "user": "AlertsAndNews",
-        "body": "$NVDA $MSFT $GOOGL $MU $SKHY AI Server Prices Set To Jump 15%+ As Memory Costs Surge-Bloomberg \n \nGreat timing for their earnings and forward guidance this week.  \n \nNvidia customers are reportedly being warned that AI server prices will rise more than 15% in many cases for systems shipping early ne",
-        "created_at": "2026-08-23T22:13:37Z",
+        "body": "$DJT $SPY $NVDA $BRK.B $V Trump Discloses More Than 1,000 Securities Trades In June \n \nmore than 1000 trades. Jeez trades more than we do.  \n \nPresident Trump made more than 1,000 securities trades in June valued between $78.1M and $263.1M, according to a new financial disclosure. Notable purchases ",
+        "created_at": "2026-08-23T22:34:10Z",
         "sentiment": ""
       },
       {
-        "user": "juneapril",
-        "body": "$CBRS 270 EOW! You are welcome $XLM.X $XRP $NVDA $AMD",
-        "created_at": "2026-08-23T22:12:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Yolo_Betz",
-        "body": "$SPY $QQQ $UVXY $NVDA $TLT wall of worry might be tough to climb next few days\n\n*Canada\n*NVDA Earnings\n*NVDA 15% news\n*Yields / &quot;U.S. Treasury Secretary Scott Bessent is scheduled to hold a press conference on Monday, August 24, 2026, at 2:00 PM ET. The event will outline major new sanctions ag",
-        "created_at": "2026-08-23T22:10:50Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Trade_the_plan",
-        "body": "$NVDA and memory increase prices will for alternatives. And that’s $CBRS come\nQuick 55% institutional ownership since $185 ipo.",
-        "created_at": "2026-08-23T22:10:15Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA first dump underway with futures, then overnight this really dumps",
-        "created_at": "2026-08-23T22:03:39Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "JOEYBUYDEN",
-        "body": "In $NVDA We Trust. 💵\n\n$SNDK $CRWV $NOW",
-        "created_at": "2026-08-23T22:02:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SpudZone",
-        "body": "Weekly watchlist now up for 1,000s of our members. Going to be an action packed week with NVDA earnings/print. All 👀 s will be on the guidance and if the AI/trade has more room to run. Reaction in my opinion will be the most important in terms of price action.. many names will move off their guidanc",
-        "created_at": "2026-08-23T22:02:10Z",
+        "user": "Lecter79",
+        "body": "$NVDA $AMD $AAPL $MSFT $SPY",
+        "created_at": "2026-08-23T22:33:19Z",
         "sentiment": ""
       },
       {
-        "user": "Gilly6666",
-        "body": "$NVDA $290.",
-        "created_at": "2026-08-23T21:48:52Z",
+        "user": "fanttomas",
+        "body": "$NVDA Expectations for Nvidia are so insanely high  \n that very good news alone is no longer enough  \n to move the stock price significantly.  \n Quarterly results that beat forecasts—once a cause for celebration—  \n  are now considered the norm.  \n Nvidia investors increasingly demand confirmation t",
+        "created_at": "2026-08-23T22:30:54Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA China here, China there—strong competition everywhere.  \n Just one question:  \n  if Nvidia chips are so bad, why does everyone want them,   \n  and why are they being smuggled into China?",
+        "created_at": "2026-08-23T22:28:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "runkerad",
+        "body": "@Universaal let’s see. Also $NVDA earnings important to tech and others.",
+        "created_at": "2026-08-23T22:27:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Elsa09012011",
+        "body": "$NVDA",
+        "created_at": "2026-08-23T22:23:31Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$AMD Helios vs. $NVDA Vera Rubin, but $SMCI could win either way. 🚀\n\nThe AI battle is moving beyond individual GPUs. The next frontier is complete rack-scale AI infrastructure: GPUs + CPUs + networking + power + liquid cooling + software.\n\n🟢 NVIDIA Vera Rubin: 72-GPU rack-scale architecture, Vera CP",
+        "created_at": "2026-08-23T22:22:48Z",
         "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "____Elonmusk__",
+        "body": "$TSLA $SPCX  TESLA &#39;s energy division is quietly becoming the world&#39;s largest battery company - yet analysts still treat it as a side note. Meanwhile, SpaceX&#39;s Starlink revenue is growing faster than Tesla did at the same stage. The math is simple: vertical integration wins. Long-term th",
+        "created_at": "2026-08-23T22:33:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$MRNA $SLS  \nDr Karp we have to get back into the TOP 25 in 2026!!! \n$SPY $PLTR $TSLA FOMO MOMO!!!",
+        "created_at": "2026-08-23T22:29:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$BTC.X $AIXI $DJT $TSLA $GDC \n🔺",
+        "created_at": "2026-08-23T22:22:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnrivers0110",
+        "body": "$BTC.X 🔺😈 dreamers want 100k a coin.. but why wait for that .. when you can make 100k in 2 hr with 25k betting down with the Fibonacci...bulls make no sense here since betting arrived\nThe FiB 🔺 \n$AIXI\n$DJT\n$TSLA\n$GDC",
+        "created_at": "2026-08-23T22:21:05Z",
+        "sentiment": ""
+      },
       {
         "user": "DonJuanCapistran",
         "body": "$TSLA $345 big level to hold this week if bullish..",
@@ -99,33 +123,27 @@
         "body": "$TSLA $NVDA THESE 2 WILL BE MOVING THIS WEEK!\n\nWOW NVIDIA POPPING ON HYPERLIQUID\n\n$QQQ",
         "created_at": "2026-08-23T21:08:43Z",
         "sentiment": ""
-      },
-      {
-        "user": "ryank3030",
-        "body": "$TSLA up ~5% this week on Cybercab hype, everyone piling into the headline. The crowd chases the news day — the actual edge is buying the red day that follows it, once the excitement cools but the trend&#39;s still intact. Strength gets expensive fast; a brief pullback inside an uptrend is the disco",
-        "created_at": "2026-08-23T21:04:48Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SvddenDeath",
-        "body": "$TSLA who’s ready to tank this pos tomorrow?",
-        "created_at": "2026-08-23T21:03:38Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Mooney_Maker",
-        "body": "$BTC.X $PLTR $TSLA \n\n4 $SPCX  Monday … Moonday 🚀🤝",
-        "created_at": "2026-08-23T21:01:20Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "seeitmarket",
-        "body": "$TSLA \nTesla&#39;s big rally Friday has its stock price pushing up against its 50-Day MA (resistance).  👀 #IBDPartner \n \n@MarketSurge @InvestorsBusinessDaily",
-        "created_at": "2026-08-23T20:59:46Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Lecter79",
+        "body": "$NVDA $AMD $AAPL $MSFT $SPY",
+        "created_at": "2026-08-23T22:33:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Gumby525",
+        "body": "@Lqmtjunkie $AAPL  Soon",
+        "created_at": "2026-08-23T22:31:59Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Snoopster01",
+        "body": "$AAPL it’s gonna be a rad Sunday night as usual for Apple",
+        "created_at": "2026-08-23T22:22:55Z",
+        "sentiment": ""
+      },
       {
         "user": "DidYouReadThis",
         "body": "$AAPL TV show suggestions?",
@@ -167,27 +185,21 @@
         "body": "$AAPL AAPL around $309 👀 Bulls or bears tomorrow? Let’s see what happens 🍎",
         "created_at": "2026-08-23T17:00:07Z",
         "sentiment": ""
-      },
-      {
-        "user": "Ron_Burn",
-        "body": "$AAPL buy at discount",
-        "created_at": "2026-08-23T16:09:18Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "___TimCook",
-        "body": "$AAPL",
-        "created_at": "2026-08-23T15:35:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "___dog___",
-        "body": "$AMFN $AAPL $TSLA $INTC $EBAY $AMFN thanks for sharing bro",
-        "created_at": "2026-08-23T14:49:12Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "Lecter79",
+        "body": "$NVDA $AMD $AAPL $MSFT $SPY",
+        "created_at": "2026-08-23T22:33:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Big_Timer",
+        "body": "$AMD Helios vs. $NVDA Vera Rubin, but $SMCI could win either way. 🚀\n\nThe AI battle is moving beyond individual GPUs. The next frontier is complete rack-scale AI infrastructure: GPUs + CPUs + networking + power + liquid cooling + software.\n\n🟢 NVIDIA Vera Rubin: 72-GPU rack-scale architecture, Vera CP",
+        "created_at": "2026-08-23T22:22:48Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "juneapril",
         "body": "$CBRS 270 EOW! You are welcome $XLM.X $XRP $NVDA $AMD",
@@ -235,21 +247,15 @@
         "body": "$AMD 492 tomorrow",
         "created_at": "2026-08-23T20:15:23Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "beestMod516",
-        "body": "$NVDA earnings next week. \nY’all know what does it mean? \n$AMD $AAPL $MSFT $SPY",
-        "created_at": "2026-08-23T19:47:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "RunnerSignals",
-        "body": "Wall Street Week Ahead \n$NVDA $MRVL $AMD $MU $ARM face the same test: ai demand can stay strong, but 4.7% yields raise the hurdle. smart money is watching returns on capital, not capex headlines \nhttps://stocksrunner.com/news/2026-08-23-nvidia-pce-and-jackson-hole-reset-wall-street-risk-pricing",
-        "created_at": "2026-08-23T19:45:30Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
+      {
+        "user": "BiglyLeveraged",
+        "body": "$SNDK $MU $BE $NBIS $TSM so why was the volume so low?",
+        "created_at": "2026-08-23T22:33:54Z",
+        "sentiment": ""
+      },
       {
         "user": "stockdog88",
         "body": "$BE $MU $NBIS $SNDK $TSM why should we care Mr. Philly12684???",
@@ -303,15 +309,15 @@
         "body": "$TSM $450 September then $500 by EOY lets gooooo! there&#39;s no stopping the reversal now that all the weak hands have been shaken out",
         "created_at": "2026-08-22T10:49:05Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "BGESGroup",
-        "body": "$TSM $AVGO $IBM $INTC $MSFT  \n“What’s Better Than Sex? Owning Netlist Inc. Stock at $5”: 20 Reasons Why NLST Could Be One of the Most Compelling AI-Memory Stocks to Buy Now \n \nhttps://garywallach.substack.com/p/whats-better-than-sex-owning-netlist?r=3iu9hl&amp;utm_campaign=post&amp;utm_medium=web&am",
-        "created_at": "2026-08-22T10:01:29Z",
-        "sentiment": "Bullish"
       }
     ],
     "MSFT": [
+      {
+        "user": "Lecter79",
+        "body": "$NVDA $AMD $AAPL $MSFT $SPY",
+        "created_at": "2026-08-23T22:33:19Z",
+        "sentiment": ""
+      },
       {
         "user": "AlertsAndNews",
         "body": "$NVDA $MSFT $GOOGL $MU $SKHY AI Server Prices Set To Jump 15%+ As Memory Costs Surge-Bloomberg \n \nGreat timing for their earnings and forward guidance this week.  \n \nNvidia customers are reportedly being warned that AI server prices will rise more than 15% in many cases for systems shipping early ne",
@@ -365,12 +371,6 @@
         "body": "Whit if $MSFT was a gap n eps go on a Thursday  🧠🐑?",
         "created_at": "2026-08-23T19:48:07Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "beestMod516",
-        "body": "$NVDA earnings next week. \nY’all know what does it mean? \n$AMD $AAPL $MSFT $SPY",
-        "created_at": "2026-08-23T19:47:13Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "Ep1219",
+        "body": "$META this is not going to the moon. This is going right to MARRS I&#39;m not a pumper I&#39;m a believer.🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉",
+        "created_at": "2026-08-23T22:34:17Z",
+        "sentiment": ""
+      },
+      {
         "user": "jeal168",
         "body": "$META good buy at 500 or hold off?",
         "created_at": "2026-08-23T21:44:42Z",
@@ -489,12 +495,6 @@
         "body": "$AMZN $META $NVDA \n\nhttps://x.com/satyanadella/status/2090929770779521310?s=42",
         "created_at": "2026-08-23T19:43:00Z",
         "sentiment": ""
-      },
-      {
-        "user": "skcots_13",
-        "body": "$META i&#39;m forced to like this. improbable made possible, and fantasy is the impossible made probable.",
-        "created_at": "2026-08-23T18:43:33Z",
-        "sentiment": "Bullish"
       }
     ]
   }
