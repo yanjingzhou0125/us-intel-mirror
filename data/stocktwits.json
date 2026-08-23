@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-23 10:50:18",
+  "ts": "2026-08-23 11:20:11",
   "tickers": {
     "NVDA": [
+      {
+        "user": "parcha",
+        "body": "Nvidia customers reportedly warned about AI-related price hikes \n$nvda $spy $qqq $dia\n\nNvidia said it will raise prices for some of its largest customers by at least 15%, Bloomberg reported.\nThe increases are expected to take effect on systems shipped early next year. https://www.cnbc.com/2026/08/22",
+        "created_at": "2026-08-23T11:15:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Kier_Severed",
+        "body": "$QQQ $SPY $NVDA $MU $SKHY Cruel bear is seldom wrong. Are you listening bro?",
+        "created_at": "2026-08-23T11:14:05Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AChad",
+        "body": "$NVDA Nvidia’s $105B AI Bet, Memory Prices Surge | AI Investment Briefing Ep. 4\nhttps://youtu.be/1uxDDPhtZ90",
+        "created_at": "2026-08-23T11:10:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "trader36g",
+        "body": "$MU $SNDK why aren&#39;t the memory stocks going parabolic on hyperliquid on the $NVDA price hike news?",
+        "created_at": "2026-08-23T11:02:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "OnTheBalance",
+        "body": "$SLS\nThe investment gains on my stocks where I used the highest number of ST board blocks 🚫 are proportionally that much higher. $NVDA holds the record  (blocking  all the dumb near time options&#39; gamblers posts of no value). Sellas board blocks and gains are fast catching up.. and should eventua",
+        "created_at": "2026-08-23T11:01:50Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "chintu76",
         "body": "$NVDA back to 225 ahead of earnings by wednesday",
@@ -31,39 +61,15 @@
         "body": "Google is finally trying to break free from Nvidia&#39;s grip. \n$GOOGL $NVDA $MRVL",
         "created_at": "2026-08-23T09:28:45Z",
         "sentiment": ""
-      },
-      {
-        "user": "ufcbetter323",
-        "body": "$NVDA",
-        "created_at": "2026-08-23T09:26:34Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "mz08",
-        "body": "$USDE $MRNA $SPCX $NVDA",
-        "created_at": "2026-08-23T09:26:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "GrowingWealth",
-        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;Nvidia customers reportedly warned about AI-related price hikes for some of its largest customers by at least 15% —sounds bullish but.....there is a bearish side: \n \n—the increase is being driven by memory costs, the big question for NVDA&#39;s stock is how much",
-        "created_at": "2026-08-23T09:18:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "NatoshiSakamato",
-        "body": "$BTC.X $SPY $QQQ $SPCX $NVDA \n\nI am just going to leave this here…\n\nhttps://youtu.be/oA_0HBLBp40",
-        "created_at": "2026-08-23T08:51:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Major Indexes Lose Momentum Ahead Of A Pivotal Week $NVDA $SPX $SOX $NDX $QQQ https://talkmarkets.com/article/major-indexes-lose-momentum-ahead-of-a-pivotal-week-1787469895",
-        "created_at": "2026-08-23T08:36:18Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Entropyvx",
+        "body": "$TSLA",
+        "created_at": "2026-08-23T11:06:36Z",
+        "sentiment": ""
+      },
       {
         "user": "heikoscreens",
         "body": "$TSLA closed Friday +5.14% at $362.86 - then this dropped: Tesla and 8 other automakers recalling ~4.3M vehicles in China over doors that could be hard to open in an emergency, the country&#39;s largest auto recall. Market&#39;s framing it as a labeling/software fix, not a structural issue - no dent",
@@ -116,12 +122,6 @@
         "user": "Satiretwit",
         "body": "$TSLA nobody can beat Tesla...",
         "created_at": "2026-08-23T05:56:14Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Satiretwit",
-        "body": "$TSLA nobody can beat Elon....and he&#39;s never wrong..  ..\n\nProve me wrong...",
-        "created_at": "2026-08-23T05:55:52Z",
         "sentiment": "Bullish"
       }
     ],
