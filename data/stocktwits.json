@@ -1,7 +1,25 @@
 {
-  "ts": "2026-08-23 06:49:55",
+  "ts": "2026-08-23 07:32:55",
   "tickers": {
     "NVDA": [
+      {
+        "user": "TalkMarkets",
+        "body": "Nvidia Is Investing In Everything Around The AI Boom — Even Space $NVDA \nAlso Mentions: $CSCO https://talkmarkets.com/article/nvidia-is-investing-in-everything-around-the-ai-boom-even-space-1787469477",
+        "created_at": "2026-08-23T07:32:08Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Shutking",
+        "body": "$NVDA $NVDA The news is saying nvidia is raising prices at least 15%…… hey bears….. what if it’s not 50%….. what if it’s 75%…… or even 100%…….  Or 150%. All other components have skyrocketed…… why not!!!",
+        "created_at": "2026-08-23T07:22:56Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Shutking",
+        "body": "$NVDA The news is saying nvidia is raising prices at least 15%…… hey bears….. what if it’s 50%….. What then cocaine bears….. hmmmm….. sniff sniff!",
+        "created_at": "2026-08-23T07:06:37Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "ShadyAggie40",
         "body": "@StockTraderLog It depends on $NVDA ER.",
@@ -43,27 +61,21 @@
         "body": "@WangSLO $NVDA is 5 trillion SMH 😂",
         "created_at": "2026-08-23T05:04:28Z",
         "sentiment": ""
-      },
-      {
-        "user": "Napoliblue",
-        "body": "$NVDA $NVDA $300 by year end 🚀 \nmomentum supports Nvidia’s long-term outlook, including management’s confidence in generating approximately $1 trillion in combined Blackwell and Rubin revenue from 2025 through calendar 2027.",
-        "created_at": "2026-08-23T04:59:45Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "10xorbust",
-        "body": "$CRWV $IREN $NBIS @ProspernCapital that piece is garbage. Ridiculously pro $IREN . Completely glosses over the $700 million super dilutive stock giveaway to the  co CEOs (the Roberts brothers) that run the company - literally 5% of the company’s entire float given away to the brothers making them am",
-        "created_at": "2026-08-23T04:58:35Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "cruellbear",
-        "body": "Bears gonna say\n&#39;It’s all manipulation&#39;\n&#39;Market is so fkn rigged&#39;\nNah bro it’s normal bro\nU just pick the wrong side bro\n$QQQ $SPY $NVDA $MU $SOXL",
-        "created_at": "2026-08-23T04:56:21Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "Hiphoplover",
+        "body": "$TSLA  $TSLQ  \n \n President Xi looks angry! \n \nhttps://x.com/CNBC/status/2090885100804231499",
+        "created_at": "2026-08-23T07:22:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "tradingmonkey16",
+        "body": "$TSLA $400 next week with cybercab launch. LFG!!!",
+        "created_at": "2026-08-23T07:21:56Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "newsofthemarket",
         "body": "A better car than $TSLA or $NIO or $BYDDF (#BYD) or $VFS is here \n \nAt a cheaper price point of $36K or €33k! \n \nXPEV has highest range of 1,602 km, own &amp; better tech (voice activated curb side parking &amp; optimized for complex urban density), cheaper &amp; longer than Tesla Model Y. \n \n40% ch",
@@ -111,21 +123,15 @@
         "body": "🚀 $TSLA Trade Recap 📊\n\n@ripster47 \nhighlighted the premarket long setup with entry around $243.84, stop under the daily MTF support at $241.50, and a clear MTF resistance around $245.50.\n\nAs price respected the support and 5/12 trend alignment, momentum carried the move cleanly through $245 toward t",
         "created_at": "2026-08-23T05:43:25Z",
         "sentiment": ""
-      },
-      {
-        "user": "i8j0momma666",
-        "body": "$TSLA Hurricanes. Terrorism. Identity theft. DOGE’s year-long campaign of destruction has left all of us more vulnerable to threats. \n[ https://washingtonmonthly.com/2026/08/23/doge-has-made-americans-less-safe/ ]  🙄",
-        "created_at": "2026-08-23T04:57:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "2kingchan",
-        "body": "$TSLA  unitree china down 40 percent from ipo high",
-        "created_at": "2026-08-23T04:35:12Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Maggie_Pie",
+        "body": "@DuckLuck2 my opinion is, for some reason $AAPL wants to fight and spend more in attorney fees than settle. $AIXI thinks they have a case, or they would not pursue. Weight watchers had a $35 mil investor, with experience helping financially strapped corporate workouts. Weight watchers declared bankr",
+        "created_at": "2026-08-23T07:00:46Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "Maggie_Pie",
         "body": "$AIXI I stated, I would not put any money in this company ($AIXI), as they will not win against $AAPL, IMO.",
@@ -178,12 +184,6 @@
         "user": "ResearchTrends09",
         "body": "$AAPL",
         "created_at": "2026-08-23T02:31:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL  🛑🛑could you just imagine how much better this country would be without a certain race living in it just imagine that have better off we would be?  Just imagine.!!!!!!! And BAWK. You and your RAYSIST BS.  RAYCE.   card!!",
-        "created_at": "2026-08-23T01:53:22Z",
         "sentiment": ""
       }
     ],
@@ -437,6 +437,18 @@
     ],
     "META": [
       {
+        "user": "newsofthemarket",
+        "body": "$META \n \nIt&#39;s all over various media, bans happening. \n \nWhat will courts do? \n \nMeta is not the only smart glasses maker, but its AI glasses are by far the most popular.  \n \nAnd as the devices become more common, some public places, including schools, courts, restaurants, and entertainment venu",
+        "created_at": "2026-08-23T07:26:56Z",
+        "sentiment": ""
+      },
+      {
+        "user": "newsofthemarket",
+        "body": "Could $META lose their case and could it cost a ban on their AI glasses or some other bans due to the case filed by several state AG&#39;s costing them a loss of profits of 100-200 billion or even 300 billion (including the fines)? \n \nA Futurism review found large numbers of videos recorded at middl",
+        "created_at": "2026-08-23T06:52:13Z",
+        "sentiment": ""
+      },
+      {
         "user": "Sergiolke",
         "body": "$ORCL $META $QCOM $AVGO Iran’s President Masoud Pezeshkian said “it is better to end the war today” when Iran is “in a position of power and dignity,” according to state news. CNBC PRO",
         "created_at": "2026-08-23T06:38:04Z",
@@ -482,18 +494,6 @@
         "user": "emeraldbayrider",
         "body": "$AMZN $META $NVDA \n\nAll three of these are about to crank to the upside imo… NVDA And Meta trading at 16x f12m? That reminds me why Mickey left Minnie… she was f Goofy!  But that NVDA ROADMAP? RIP!",
         "created_at": "2026-08-23T02:15:34Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$META  🛑🛑READ…",
-        "created_at": "2026-08-23T01:54:30Z",
-        "sentiment": ""
-      },
-      {
-        "user": "omni_man",
-        "body": "$META c’mere kids…. I’m a meta employee and I want to see your foreskin",
-        "created_at": "2026-08-23T01:15:10Z",
         "sentiment": ""
       }
     ]
