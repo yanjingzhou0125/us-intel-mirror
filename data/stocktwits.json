@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-23 08:29:22",
+  "ts": "2026-08-23 08:59:46",
   "tickers": {
     "NVDA": [
+      {
+        "user": "NatoshiSakamato",
+        "body": "$BTC.X $SPY $QQQ $SPCX $NVDA \n\nI am just going to leave this here…\n\nhttps://youtu.be/oA_0HBLBp40",
+        "created_at": "2026-08-23T08:51:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "Major Indexes Lose Momentum Ahead Of A Pivotal Week $NVDA $SPX $SOX $NDX $QQQ https://talkmarkets.com/article/major-indexes-lose-momentum-ahead-of-a-pivotal-week-1787469895",
+        "created_at": "2026-08-23T08:36:18Z",
+        "sentiment": ""
+      },
       {
         "user": "akroller",
         "body": "$AMD $MU $NVDA $SKHY $SMCI",
@@ -49,18 +61,6 @@
         "body": "$INTC will move max to 98 to 103 if $NVDA ER is great.",
         "created_at": "2026-08-23T05:52:19Z",
         "sentiment": ""
-      },
-      {
-        "user": "HerrBroekman",
-        "body": "$SPY $NVDA so they are gonna raise prices of servers by 15% while everybody hates datacentres and the chinese models are becoming more popular everyday? Why is this supposed to be bullish?",
-        "created_at": "2026-08-23T05:28:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ OpenAI “ChatGPT” started this AI Capex infrastructure mania in Q4 2022 &amp; it looks like it is gonna end it in Q4 2026. OpenAI Is FALLING Apart in late Aug 2026 &amp; Sam Altman Is Panicking. Good luck everyone. $NVDA $SPY $ORCL $DRAM",
-        "created_at": "2026-08-23T05:20:54Z",
-        "sentiment": "Bearish"
       }
     ],
     "TSLA": [
