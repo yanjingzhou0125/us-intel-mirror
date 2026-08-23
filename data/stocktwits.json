@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-23 11:20:11",
+  "ts": "2026-08-23 11:46:12",
   "tickers": {
     "NVDA": [
+      {
+        "user": "rovertrades759",
+        "body": "$SPY $QQQ\n\n$NVDA earnings are going to make the market go up. 15% increase is wild",
+        "created_at": "2026-08-23T11:34:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Riverrat69",
+        "body": "$NVDA Microsoft Google Anthropic open AI fucked themselves\nNow Nvidia is gonna have their own large language model and no one will ever touch them because they’re gonna develop on chips that aren’t released yet\n\nAnd they can’t say shit because they all were developing very publicly their own Chip th",
+        "created_at": "2026-08-23T11:25:03Z",
+        "sentiment": ""
+      },
       {
         "user": "parcha",
         "body": "Nvidia customers reportedly warned about AI-related price hikes \n$nvda $spy $qqq $dia\n\nNvidia said it will raise prices for some of its largest customers by at least 15%, Bloomberg reported.\nThe increases are expected to take effect on systems shipped early next year. https://www.cnbc.com/2026/08/22",
@@ -49,21 +61,15 @@
         "body": "$NVDA Marvel deal does not effect NVDA..  Nice try.",
         "created_at": "2026-08-23T09:40:19Z",
         "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Nvidia Stock In Focus As Earnings Loom And GPU Price Hikes Approach $NVDA \nhttps://talkmarkets.com/article/nvidia-stock-in-focus-as-earnings-loom-and-gpu-price-hikes-approach-1787470716",
-        "created_at": "2026-08-23T09:34:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "dalalstreetbets1",
-        "body": "Google is finally trying to break free from Nvidia&#39;s grip. \n$GOOGL $NVDA $MRVL",
-        "created_at": "2026-08-23T09:28:45Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Johnmm98",
+        "body": "$TSLA 420 Monday 🙏",
+        "created_at": "2026-08-23T11:42:19Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Entropyvx",
         "body": "$TSLA",
@@ -117,12 +123,6 @@
         "body": "A better car than $TSLA or $NIO or $BYDDF (#BYD) or $VFS is here \n \nAt a cheaper price point of $36K or €33k! \n \nXPEV has highest range of 1,602 km, own &amp; better tech (voice activated curb side parking &amp; optimized for complex urban density), cheaper &amp; longer than Tesla Model Y. \n \n40% ch",
         "created_at": "2026-08-23T06:47:52Z",
         "sentiment": ""
-      },
-      {
-        "user": "Satiretwit",
-        "body": "$TSLA nobody can beat Tesla...",
-        "created_at": "2026-08-23T05:56:14Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
