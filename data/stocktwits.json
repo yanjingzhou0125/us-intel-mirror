@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-23 05:57:31",
+  "ts": "2026-08-23 06:49:55",
   "tickers": {
     "NVDA": [
+      {
+        "user": "ShadyAggie40",
+        "body": "@StockTraderLog It depends on $NVDA ER.",
+        "created_at": "2026-08-23T06:32:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "arnobusyness",
+        "body": "$CIFR $NVDA is hiking prices of many servers containing its AI chips by more than 15% as memory costs soar according to Bloomberg.\n\nIf hardware prices surge, $CIFR holds a structural advantage over $IREN and $NBIS due to its business model.",
+        "created_at": "2026-08-23T05:57:57Z",
+        "sentiment": ""
+      },
       {
         "user": "ShadyAggie40",
         "body": "$INTC will move max to 98 to 103 if $NVDA ER is great.",
@@ -49,21 +61,15 @@
         "body": "Bears gonna say\n&#39;It’s all manipulation&#39;\n&#39;Market is so fkn rigged&#39;\nNah bro it’s normal bro\nU just pick the wrong side bro\n$QQQ $SPY $NVDA $MU $SOXL",
         "created_at": "2026-08-23T04:56:21Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Napoliblue",
-        "body": "$NVDA NVIDIA  ’s next-generation Blackwell platform remains one of the company’s most important growth catalysts. Demand for both Blackwell and Blackwell Ultra systems remains solid, while Hopper-based products are also maintaining healthy demand. $250 by Friday",
-        "created_at": "2026-08-23T04:55:54Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "10xorbust",
-        "body": "@ProspernCapital that piece is garbage. Ridiculously pro $IREN . Completely glosses over the $700 million super dilutive  stock giveaway to the  co CEOs (the Roberts brothers) that run the company - literally 5% of the company’s entire float given away to the brothers making them among the highest c",
-        "created_at": "2026-08-23T04:51:34Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "newsofthemarket",
+        "body": "A better car than $TSLA or $NIO or $BYDDF (#BYD) or $VFS is here \n \nAt a cheaper price point of $36K or €33k! \n \nXPEV has highest range of 1,602 km, own &amp; better tech (voice activated curb side parking &amp; optimized for complex urban density), cheaper &amp; longer than Tesla Model Y. \n \n40% ch",
+        "created_at": "2026-08-23T06:47:52Z",
+        "sentiment": ""
+      },
       {
         "user": "Satiretwit",
         "body": "$TSLA nobody can beat Tesla...",
@@ -117,15 +123,15 @@
         "body": "$TSLA  unitree china down 40 percent from ipo high",
         "created_at": "2026-08-23T04:35:12Z",
         "sentiment": ""
-      },
-      {
-        "user": "Hiphoplover",
-        "body": "$TSLA  $TSLQ  \n \nI ended up investing in $TSLQ while looking for undervalued stocks!",
-        "created_at": "2026-08-23T04:04:28Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Maggie_Pie",
+        "body": "$AIXI I stated, I would not put any money in this company ($AIXI), as they will not win against $AAPL, IMO.",
+        "created_at": "2026-08-23T06:19:07Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "BiHiCellLo",
         "body": "$QQQ $SPY $NVDA $AAPL AMZN MSFT TSLA GOOGL  \n  \n2 DTE&#39;s  \n  \n🙃",
@@ -179,15 +185,15 @@
         "body": "$AAPL  🛑🛑could you just imagine how much better this country would be without a certain race living in it just imagine that have better off we would be?  Just imagine.!!!!!!! And BAWK. You and your RAYSIST BS.  RAYCE.   card!!",
         "created_at": "2026-08-23T01:53:22Z",
         "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$AAPL",
-        "created_at": "2026-08-23T01:13:40Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD https://www.thestreet.com/investing/stocks/bank-of-america-raises-amd-stock-price-target-for-2026",
+        "created_at": "2026-08-23T06:44:13Z",
+        "sentiment": ""
+      },
       {
         "user": "Flickted",
         "body": "$NVDA $AMD $MU $SMCI $SKHY Get ready for next week.",
@@ -241,12 +247,6 @@
         "body": "$NVDA $AMD $QQQ",
         "created_at": "2026-08-22T19:20:40Z",
         "sentiment": ""
-      },
-      {
-        "user": "Ashton_1nvests",
-        "body": "$AMD may have a pretty interesting advantage developing in AI.\n\nNvidia is reportedly evaluating lower-memory configurations for Rubin Ultra as tight HBM supply becomes a bigger constraint.\n\nMeanwhile, AMD says it already has the memory it needs for Helios.\n\nThat matters.\n\nAI compute is scaling so fa",
-        "created_at": "2026-08-22T17:42:55Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "newsofthemarket",
+        "body": "$AMZN $MSFT $GOOGL $META \n \nBut, she qualified, “Land is what grounds you. It’s your heritage.  \n \nWe produce food for people, which I think is a humble and noble pursuit.  \n \nI think at one point, I said, ‘You can’t eat data centres,’ and one of the people in our group wanted to make T-shirts.” The",
+        "created_at": "2026-08-23T06:33:29Z",
+        "sentiment": ""
+      },
+      {
         "user": "Agent8",
         "body": "$MSFT “Few companies are as diversified as Microsoft, especially in the tech world. It has a strong case for being the most diversified tech company in the world, with tons of software and hardware, the world&#39;s second-largest cloud platform (Azure), Xbox, LinkedIn, and more.”\nhttps://www.fool.co",
         "created_at": "2026-08-23T05:41:23Z",
@@ -365,15 +371,15 @@
         "body": "$NVDA If you want to know where hyperscaler capex is actually going, look at the physical datacenter floor. Satya Nadella confirming Microsoft&#39;s first production Vera Rubin deployments right before Wednesday&#39;s Nvidia ER tells you everything you need to know! $MSFT",
         "created_at": "2026-08-22T22:35:39Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "TheStockRef",
-        "body": "$GOOGL $MSFT $NVDA $QQQ $SPY \n\nLOL Google and Microsoft will both print money without LLMs. So this means NOTHING.",
-        "created_at": "2026-08-22T20:19:14Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "USAEquityResearch",
+        "body": "$GOOG 📊 USAEquityResearch\n\n▲ 341.75  (+1.05%)\n\nTrend: Bearish 📉\nRSI (14): 20.6 — oversold, potential bounce territory\nMACD: bearish, below signal line\nVolume: normal\n\n📌 Key Levels\nResistance: 375.35  |  Support: 326.57\n20-MA: 346.82  |  50-MA: 350.16\n\n💼 Fundamentals\nMkt Cap: $4.18T\nP/E (TTM): 17.2  ",
+        "created_at": "2026-08-23T06:41:50Z",
+        "sentiment": ""
+      },
       {
         "user": "MountCapital",
         "body": "$GOOG $250 in 2026",
@@ -427,15 +433,27 @@
         "body": "$META : Imagine this. I sue Mc Donald because my kids is fat. They purposely made it delicious. They advertise as juice and delicious. That make it addictive to eat. I want 2 billion dollars because my son is an addict to Big Mac. This is what Meta case is about. $GOOG $AMZN $MSFT $NVDA .  Ben sue J",
         "created_at": "2026-08-22T19:09:31Z",
         "sentiment": ""
-      },
-      {
-        "user": "JoeB07",
-        "body": "$SIMO sure, we&#39;ll get future dilution, along with every other company raising $$$ to fund expansion. SIMO is now the newest memory storage name. Just borrowed $1B to buy NAND and to fund their 30% QoQ growth. Their boot drives now account for 30% of overall revenue after doubling rev in Q2. They",
-        "created_at": "2026-08-22T16:23:41Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "Sergiolke",
+        "body": "$ORCL $META $QCOM $AVGO Iran’s President Masoud Pezeshkian said “it is better to end the war today” when Iran is “in a position of power and dignity,” according to state news. CNBC PRO",
+        "created_at": "2026-08-23T06:38:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "newsofthemarket",
+        "body": "$AMZN $MSFT $GOOGL $META \n \nBut, she qualified, “Land is what grounds you. It’s your heritage.  \n \nWe produce food for people, which I think is a humble and noble pursuit.  \n \nI think at one point, I said, ‘You can’t eat data centres,’ and one of the people in our group wanted to make T-shirts.” The",
+        "created_at": "2026-08-23T06:33:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "LQDT",
+        "body": "$AVGO If they can prevail and meet this jump in guidance which they set themselves, I&#39;d be surprised. I don&#39;t even ask for a solid beat, just come in-line because most people are skeptical then it&#39;s AVGO 2.0. There are many references. TPU, Jalapeno and $META MTIA 400,450 in September an",
+        "created_at": "2026-08-23T06:32:30Z",
+        "sentiment": ""
+      },
       {
         "user": "ResearchTrends09",
         "body": "$META 2",
@@ -476,24 +494,6 @@
         "user": "omni_man",
         "body": "$META c’mere kids…. I’m a meta employee and I want to see your foreskin",
         "created_at": "2026-08-23T01:15:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ResearchTrends09",
-        "body": "$META  please tell me….",
-        "created_at": "2026-08-23T01:14:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "chursinow62",
-        "body": "$META Trump unloaded in June and you should get out too . Dead money. They know something",
-        "created_at": "2026-08-23T01:03:11Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "ArcValueTrade",
-        "body": "Clues for Stock market directions-                     \n                                                                                                                                              \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                 ",
-        "created_at": "2026-08-23T00:01:34Z",
         "sentiment": ""
       }
     ]
