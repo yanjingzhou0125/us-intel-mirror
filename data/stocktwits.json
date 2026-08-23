@@ -1,7 +1,19 @@
 {
-  "ts": "2026-08-23 07:32:55",
+  "ts": "2026-08-23 08:29:22",
   "tickers": {
     "NVDA": [
+      {
+        "user": "akroller",
+        "body": "$AMD $MU $NVDA $SKHY $SMCI",
+        "created_at": "2026-08-23T07:54:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Fahad109",
+        "body": "$NVDA from Monday all tech down until ndva er announcement, take care everyone",
+        "created_at": "2026-08-23T07:37:52Z",
+        "sentiment": ""
+      },
       {
         "user": "TalkMarkets",
         "body": "Nvidia Is Investing In Everything Around The AI Boom — Even Space $NVDA \nAlso Mentions: $CSCO https://talkmarkets.com/article/nvidia-is-investing-in-everything-around-the-ai-boom-even-space-1787469477",
@@ -49,21 +61,15 @@
         "body": "$QQQ ~ OpenAI “ChatGPT” started this AI Capex infrastructure mania in Q4 2022 &amp; it looks like it is gonna end it in Q4 2026. OpenAI Is FALLING Apart in late Aug 2026 &amp; Sam Altman Is Panicking. Good luck everyone. $NVDA $SPY $ORCL $DRAM",
         "created_at": "2026-08-23T05:20:54Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "TriadDynamics",
-        "body": "$NVDA I promise you that this is the end, for now \n\nPlease brace yourselves for something far beyond unforgettable.",
-        "created_at": "2026-08-23T05:16:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "___dog___",
-        "body": "@WangSLO $NVDA is 5 trillion SMH 😂",
-        "created_at": "2026-08-23T05:04:28Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "HonestJoe",
+        "body": "$TSLA Robots Robots Robots \nChinese robots are beating Usain Bolt&#39;s 100M record and doing all kinds of weird and wonderful stuff On the TV for all to see. \nSo is America trying to steal their IP? \nAaah wait, Tesla has this fantastic robot that absolutely no-one has seen, It lives in Elon&#39;s h",
+        "created_at": "2026-08-23T08:07:38Z",
+        "sentiment": ""
+      },
       {
         "user": "Hiphoplover",
         "body": "$TSLA  $TSLQ  \n \n President Xi looks angry! \n \nhttps://x.com/CNBC/status/2090885100804231499",
@@ -117,12 +123,6 @@
         "body": "$SPCX \n\n- Italys largest bank, Intesa Sanpaolo, has built a multi-billion dollar position in SpaceX, while simultaneously almost completely reducing a crypto investment.\n-  Bernstein Research reaffirmed its Outperform rating for SpaceX, maintaining a price target of $248.\n- Cathie Wood ARK ETFs rele",
         "created_at": "2026-08-23T05:47:25Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "ripster47",
-        "body": "🚀 $TSLA Trade Recap 📊\n\n@ripster47 \nhighlighted the premarket long setup with entry around $243.84, stop under the daily MTF support at $241.50, and a clear MTF resistance around $245.50.\n\nAs price respected the support and 5/12 trend alignment, momentum carried the move cleanly through $245 toward t",
-        "created_at": "2026-08-23T05:43:25Z",
-        "sentiment": ""
       }
     ],
     "AAPL": [
@@ -190,6 +190,18 @@
     "AMD": [
       {
         "user": "Iamwillwexler",
+        "body": "$AMD cello",
+        "created_at": "2026-08-23T08:16:37Z",
+        "sentiment": ""
+      },
+      {
+        "user": "akroller",
+        "body": "$AMD $MU $NVDA $SKHY $SMCI",
+        "created_at": "2026-08-23T07:54:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Iamwillwexler",
         "body": "$AMD https://www.thestreet.com/investing/stocks/bank-of-america-raises-amd-stock-price-target-for-2026",
         "created_at": "2026-08-23T06:44:13Z",
         "sentiment": ""
@@ -235,18 +247,6 @@
         "body": "$NBIS $AMD $BABA $CBRS this weekend suspense is killing me!",
         "created_at": "2026-08-22T21:33:58Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "AStrokeOfLuck",
-        "body": "$NVDA $SOXL $SPY $AMD memory cost part of it I suppose",
-        "created_at": "2026-08-22T21:05:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BashNew",
-        "body": "$NVDA $AMD $QQQ",
-        "created_at": "2026-08-22T19:20:40Z",
-        "sentiment": ""
       }
     ],
     "TSM": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "DiligentInvesting",
+        "body": "$SLNH Perfect storm brewing. $BTC.X to $200k an $MSFT signing the energy deal will launch this one.",
+        "created_at": "2026-08-23T07:56:05Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "newsofthemarket",
         "body": "$AMZN $MSFT $GOOGL $META \n \nBut, she qualified, “Land is what grounds you. It’s your heritage.  \n \nWe produce food for people, which I think is a humble and noble pursuit.  \n \nI think at one point, I said, ‘You can’t eat data centres,’ and one of the people in our group wanted to make T-shirts.” The",
         "created_at": "2026-08-23T06:33:29Z",
@@ -365,12 +371,6 @@
         "body": "Clues for Stock market directions-                     \n                                                                                                                                              \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                 ",
         "created_at": "2026-08-23T00:01:34Z",
         "sentiment": ""
-      },
-      {
-        "user": "rubystocks",
-        "body": "$NVDA If you want to know where hyperscaler capex is actually going, look at the physical datacenter floor. Satya Nadella confirming Microsoft&#39;s first production Vera Rubin deployments right before Wednesday&#39;s Nvidia ER tells you everything you need to know! $MSFT",
-        "created_at": "2026-08-22T22:35:39Z",
-        "sentiment": "Bullish"
       }
     ],
     "GOOG": [
@@ -438,6 +438,12 @@
     "META": [
       {
         "user": "newsofthemarket",
+        "body": "$META \n \nEverywhere you look it&#39;s META! \n \nTrial of the decade! \n \nDo state AG&#39;s win? or does the judge go soft on META? \n \nhttps://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+        "created_at": "2026-08-23T07:36:12Z",
+        "sentiment": ""
+      },
+      {
+        "user": "newsofthemarket",
         "body": "$META \n \nIt&#39;s all over various media, bans happening. \n \nWhat will courts do? \n \nMeta is not the only smart glasses maker, but its AI glasses are by far the most popular.  \n \nAnd as the devices become more common, some public places, including schools, courts, restaurants, and entertainment venu",
         "created_at": "2026-08-23T07:26:56Z",
         "sentiment": ""
@@ -488,12 +494,6 @@
         "user": "emeraldbayrider",
         "body": "$AMZN $META $NVDA \n\nMsft Azure going large on Vera Rubin starting NOW!  See msft ceo comments on website and X",
         "created_at": "2026-08-23T02:27:44Z",
-        "sentiment": ""
-      },
-      {
-        "user": "emeraldbayrider",
-        "body": "$AMZN $META $NVDA \n\nAll three of these are about to crank to the upside imo… NVDA And Meta trading at 16x f12m? That reminds me why Mickey left Minnie… she was f Goofy!  But that NVDA ROADMAP? RIP!",
-        "created_at": "2026-08-23T02:15:34Z",
         "sentiment": ""
       }
     ]
