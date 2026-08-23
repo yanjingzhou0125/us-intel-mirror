@@ -1,7 +1,37 @@
 {
-  "ts": "2026-08-23 08:59:46",
+  "ts": "2026-08-23 09:36:13",
   "tickers": {
     "NVDA": [
+      {
+        "user": "TalkMarkets",
+        "body": "Nvidia Stock In Focus As Earnings Loom And GPU Price Hikes Approach $NVDA \nhttps://talkmarkets.com/article/nvidia-stock-in-focus-as-earnings-loom-and-gpu-price-hikes-approach-1787470716",
+        "created_at": "2026-08-23T09:34:54Z",
+        "sentiment": ""
+      },
+      {
+        "user": "dalalstreetbets1",
+        "body": "Google is finally trying to break free from Nvidia&#39;s grip. \n$GOOGL $NVDA $MRVL",
+        "created_at": "2026-08-23T09:28:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ufcbetter323",
+        "body": "$NVDA",
+        "created_at": "2026-08-23T09:26:34Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "mz08",
+        "body": "$USDE $MRNA $SPCX $NVDA",
+        "created_at": "2026-08-23T09:26:12Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GrowingWealth",
+        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;Nvidia customers reportedly warned about AI-related price hikes for some of its largest customers by at least 15% —sounds bullish but.....there is a bearish side: \n \n—the increase is being driven by memory costs, the big question for NVDA&#39;s stock is how much",
+        "created_at": "2026-08-23T09:18:31Z",
+        "sentiment": ""
+      },
       {
         "user": "NatoshiSakamato",
         "body": "$BTC.X $SPY $QQQ $SPCX $NVDA \n\nI am just going to leave this here…\n\nhttps://youtu.be/oA_0HBLBp40",
@@ -31,39 +61,15 @@
         "body": "Nvidia Is Investing In Everything Around The AI Boom — Even Space $NVDA \nAlso Mentions: $CSCO https://talkmarkets.com/article/nvidia-is-investing-in-everything-around-the-ai-boom-even-space-1787469477",
         "created_at": "2026-08-23T07:32:08Z",
         "sentiment": ""
-      },
-      {
-        "user": "Shutking",
-        "body": "$NVDA $NVDA The news is saying nvidia is raising prices at least 15%…… hey bears….. what if it’s not 50%….. what if it’s 75%…… or even 100%…….  Or 150%. All other components have skyrocketed…… why not!!!",
-        "created_at": "2026-08-23T07:22:56Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Shutking",
-        "body": "$NVDA The news is saying nvidia is raising prices at least 15%…… hey bears….. what if it’s 50%….. What then cocaine bears….. hmmmm….. sniff sniff!",
-        "created_at": "2026-08-23T07:06:37Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ShadyAggie40",
-        "body": "@StockTraderLog It depends on $NVDA ER.",
-        "created_at": "2026-08-23T06:32:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "arnobusyness",
-        "body": "$CIFR $NVDA is hiking prices of many servers containing its AI chips by more than 15% as memory costs soar according to Bloomberg.\n\nIf hardware prices surge, $CIFR holds a structural advantage over $IREN and $NBIS due to its business model.",
-        "created_at": "2026-08-23T05:57:57Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadyAggie40",
-        "body": "$INTC will move max to 98 to 103 if $NVDA ER is great.",
-        "created_at": "2026-08-23T05:52:19Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "sunman20201",
+        "body": "$TSLA It feel like may of 2020 😉 in positive way. Maybe 🤔 it just me. ⚡️",
+        "created_at": "2026-08-23T09:07:17Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "HonestJoe",
         "body": "$TSLA Robots Robots Robots \nChinese robots are beating Usain Bolt&#39;s 100M record and doing all kinds of weird and wonderful stuff On the TV for all to see. \nSo is America trying to steal their IP? \nAaah wait, Tesla has this fantastic robot that absolutely no-one has seen, It lives in Elon&#39;s h",
@@ -117,12 +123,6 @@
         "body": "$TSLA LFG!!!  Vegas just greenlit 5,000 Tesla robotaxis! That’s more than Waymo and Uber combined, absolutely dominating the strip!  Bears were crying about &quot;fake AI promises&quot; but Elon is literally deploying the Cybercab fleet as we speak. This is the FSD inflection point everyone underest",
         "created_at": "2026-08-23T05:49:56Z",
         "sentiment": ""
-      },
-      {
-        "user": "Mooney_Maker",
-        "body": "$SPCX \n\n- Italys largest bank, Intesa Sanpaolo, has built a multi-billion dollar position in SpaceX, while simultaneously almost completely reducing a crypto investment.\n-  Bernstein Research reaffirmed its Outperform rating for SpaceX, maintaining a price target of $248.\n- Cathie Wood ARK ETFs rele",
-        "created_at": "2026-08-23T05:47:25Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "GrowingWealth",
+        "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;Nvidia customers reportedly warned about AI-related price hikes for some of its largest customers by at least 15% —sounds bullish but.....there is a bearish side: \n \n—the increase is being driven by memory costs, the big question for NVDA&#39;s stock is how much",
+        "created_at": "2026-08-23T09:18:31Z",
+        "sentiment": ""
+      },
+      {
         "user": "DiligentInvesting",
         "body": "$SLNH Perfect storm brewing. $BTC.X to $200k an $MSFT signing the energy deal will launch this one.",
         "created_at": "2026-08-23T07:56:05Z",
@@ -365,12 +371,6 @@
         "body": "$MSFT 400 in 3 weeks. Load puts.",
         "created_at": "2026-08-23T00:08:41Z",
         "sentiment": "Bearish"
-      },
-      {
-        "user": "ArcValueTrade",
-        "body": "Clues for Stock market directions-                     \n                                                                                                                                              \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                 ",
-        "created_at": "2026-08-23T00:01:34Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
