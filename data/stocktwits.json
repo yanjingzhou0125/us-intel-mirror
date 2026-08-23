@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-23 10:23:15",
+  "ts": "2026-08-23 10:50:18",
   "tickers": {
     "NVDA": [
       {
@@ -65,6 +65,18 @@
     ],
     "TSLA": [
       {
+        "user": "heikoscreens",
+        "body": "$TSLA closed Friday +5.14% at $362.86 - then this dropped: Tesla and 8 other automakers recalling ~4.3M vehicles in China over doors that could be hard to open in an emergency, the country&#39;s largest auto recall. Market&#39;s framing it as a labeling/software fix, not a structural issue - no dent",
+        "created_at": "2026-08-23T10:30:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Green_Is_Beautiful",
+        "body": "$BYDDF $NIO $TSLA $VFS \nBut when the battery in an XPEV loses 30% of it charge capacity you might as well scrap the EV. \n\nAlso, XPEV’s gross margins suck. Nio has double the revenue as XPEV on the same number of deliveries.",
+        "created_at": "2026-08-23T10:29:45Z",
+        "sentiment": ""
+      },
+      {
         "user": "sam92",
         "body": "$TSLA \n$TSLW \n\nhttps://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
         "created_at": "2026-08-23T09:40:40Z",
@@ -110,18 +122,6 @@
         "user": "Satiretwit",
         "body": "$TSLA nobody can beat Elon....and he&#39;s never wrong..  ..\n\nProve me wrong...",
         "created_at": "2026-08-23T05:55:52Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Satiretwit",
-        "body": "$TSLA you must be new ....",
-        "created_at": "2026-08-23T05:54:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Satiretwit",
-        "body": "$TSLA ...you must be new to trading....",
-        "created_at": "2026-08-23T05:54:03Z",
         "sentiment": "Bullish"
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "heikoscreens",
+        "body": "$MSFT $GOOGL $PG - a US House rep (David J. Taylor, OH-02) filed same-day trades from Aug 11, just disclosed Aug 20: sold MSFT, bought both GOOGL and PG. Not his first rotation either - he moved MSFT/GOOGL/AVGO/KR positions around back in July too. Nothing improper about it (STOCK Act gives 45 days ",
+        "created_at": "2026-08-23T10:40:23Z",
+        "sentiment": ""
+      },
+      {
         "user": "GrowingWealth",
         "body": "$SPY $QQQ $NVDA $MSFT &lt;&lt;&lt;&lt;Nvidia customers reportedly warned about AI-related price hikes for some of its largest customers by at least 15% —sounds bullish but.....there is a bearish side: \n \n—the increase is being driven by memory costs, the big question for NVDA&#39;s stock is how much",
         "created_at": "2026-08-23T09:18:31Z",
@@ -365,12 +371,6 @@
         "body": "AI infrastructure spending continues to grow and $AMZN $GOOG $MSFT expected spend all of their AI cloud revenue on more expansion through 2028. \n\nThat’s a good news for supplier side thats getting all that as revenue and profit, and then gradually these hyperscalers will slow the spending and start ",
         "created_at": "2026-08-23T00:10:37Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Neoleo19",
-        "body": "$MSFT 400 in 3 weeks. Load puts.",
-        "created_at": "2026-08-23T00:08:41Z",
-        "sentiment": "Bearish"
       }
     ],
     "GOOG": [
@@ -437,6 +437,12 @@
     ],
     "META": [
       {
+        "user": "flywithfitz81",
+        "body": "@white_knuckling Trump dumped $META very possibly.",
+        "created_at": "2026-08-23T10:43:50Z",
+        "sentiment": ""
+      },
+      {
         "user": "udim",
         "body": "$META",
         "created_at": "2026-08-23T10:06:44Z",
@@ -488,12 +494,6 @@
         "user": "ResearchTrends09",
         "body": "$META I want you peoples. To read this… I think for a second before you send me a comment",
         "created_at": "2026-08-23T03:58:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "USAEquityResearch",
-        "body": "$META 📊 USAEquityResearch\n\n▲ 549.90  (+0.75%)\n\nTrend: Bearish 📉\nRSI (14): 31.3 — weak momentum, approaching oversold\nMACD: bearish, below signal line\nVolume: below average\n\n📌 Key Levels\nResistance: 599.12  |  Support: 539.03\n20-MA: 576.48  |  50-MA: 592.97\n\n💼 Fundamentals\nMkt Cap: $1.40T\nP/E (TTM): ",
-        "created_at": "2026-08-23T03:40:58Z",
         "sentiment": ""
       }
     ]
