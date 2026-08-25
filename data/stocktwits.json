@@ -1,69 +1,105 @@
 {
-  "ts": "2026-08-25 08:41:21",
+  "ts": "2026-08-25 09:34:44",
   "tickers": {
     "NVDA": [
       {
-        "user": "OneBrightDay",
-        "body": "$QMLS 85% down since it&#39;s recent IPO and with so much positive momentum since, let&#39;s hope update during  earnings is the first shake and wake up the markets needs to find the sleeping beauty of an Ai/data centre play.\n\n$NVDA $INTC $GOOGL $MSFT",
-        "created_at": "2026-08-25T08:38:10Z",
+        "user": "blueblood12",
+        "body": "$MU $SMH jim cramer wants you to buy memory and $NVDA",
+        "created_at": "2026-08-25T09:31:02Z",
         "sentiment": ""
       },
       {
-        "user": "stockdog88",
-        "body": "$MU $NVDA $SKHY $SNDK $SPY",
-        "created_at": "2026-08-25T08:34:57Z",
+        "user": "Igggyyy",
+        "body": "$NVDA let&#39;s go baby!!!",
+        "created_at": "2026-08-25T09:30:23Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "darioras",
-        "body": "$NVDA We are gonna be at $230 after earnings",
-        "created_at": "2026-08-25T08:27:24Z",
+        "user": "HIRISKtrades",
+        "body": "$SPY Bulls and Bears front running $NVDA all day.",
+        "created_at": "2026-08-25T09:28:34Z",
+        "sentiment": ""
+      },
+      {
+        "user": "sam92",
+        "body": "$QUBT $RGTI $NVDA",
+        "created_at": "2026-08-25T09:28:25Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Lucy888",
-        "body": "$NVDA bears waking up to a big surprise",
-        "created_at": "2026-08-25T08:24:08Z",
+        "user": "Tradeur_Cueilleur",
+        "body": "$NVDA Distrib. or liquidity",
+        "created_at": "2026-08-25T09:26:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "twit_one",
+        "body": "$NVDA  \nROCE 85% \nROI 4%",
+        "created_at": "2026-08-25T09:19:59Z",
+        "sentiment": ""
+      },
+      {
+        "user": "iseeshit",
+        "body": "$NVDA",
+        "created_at": "2026-08-25T09:19:54Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "JJG1005",
-        "body": "$NVDA wow earnings tomorrow and the other chip stocks are blowing this away in PM..if thst isn&#39;t a big FU, i dont know what is",
-        "created_at": "2026-08-25T08:15:06Z",
-        "sentiment": ""
+        "user": "ycdctx",
+        "body": "$SNDK $MU $NVDA $INTC  \neverything up today. KOSPI closed up. US index futures up. VIX is down around 15. all in anticipation of NVDA earnings tomorrow, and MRVL earnings the day after, i guess",
+        "created_at": "2026-08-25T09:18:51Z",
+        "sentiment": "Bullish"
       },
       {
-        "user": "HeyTheo",
-        "body": "$NVDA How convenient to shift sentiment from bearish to neutral just ahead of earnings, despite the broader reality: the company and its entire ecosystem remain under pressure from the widening gap between massive capex and earnings. Add customer bailouts too.",
-        "created_at": "2026-08-25T08:10:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "$SPY $SKHY $MU $SNDK $NVDA",
-        "created_at": "2026-08-25T08:08:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "lasmanoz",
-        "body": "$NVDA $204-$206 today",
-        "created_at": "2026-08-25T08:06:27Z",
-        "sentiment": ""
-      },
-      {
-        "user": "mz08",
-        "body": "$AMIX Lousy, repetitive patent news look at this pumpers lol coming soon $3 down  $SPCX $NVDA $QQQ $SPY",
-        "created_at": "2026-08-25T08:06:08Z",
+        "user": "Lexusread",
+        "body": "$NVDA fear when others greed",
+        "created_at": "2026-08-25T09:18:37Z",
         "sentiment": "Bearish"
       },
       {
-        "user": "FrankieSmilez",
-        "body": "$SPY $SKHY $MU $SNDK $NVDA",
-        "created_at": "2026-08-25T07:32:01Z",
+        "user": "JohnManUnited",
+        "body": "$NVDA It’s a make-or-break moment. Something really ugly could trigger an avalanche across the entire sector.",
+        "created_at": "2026-08-25T09:17:00Z",
         "sentiment": ""
       }
     ],
     "TSLA": [
+      {
+        "user": "Alessandro437",
+        "body": "$TSLA https://c.org/WssDY2tzm2",
+        "created_at": "2026-08-25T09:32:53Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Franking71",
+        "body": "$TSLA shorts are warned: $360.00 open 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
+        "created_at": "2026-08-25T09:05:28Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TheNew_Mr_Investor",
+        "body": "$TSLA September is shaping up to be a great month for Tesla ...",
+        "created_at": "2026-08-25T09:03:49Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TheNew_Mr_Investor",
+        "body": "$TSLA September events:  \n1. cybercab Austin launch  \n2. Semi roll out event",
+        "created_at": "2026-08-25T09:01:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Franking71",
+        "body": "$TSLA Tesla&#39;s Website Shows Updated US Cybertruck Pricing, With Dual Motor AWD At $74,990 And Premium All-Wheel Drive At $84,990",
+        "created_at": "2026-08-25T08:57:24Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Franking71",
+        "body": "$TSLA easy $360.00💰💰💰💰💰💰💰💰💰💰💰💰💰💰💰",
+        "created_at": "2026-08-25T08:47:54Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Tj_strippers_and_blow",
         "body": "$SPY $SPCX  $TSLA - it’s Pennie’s but Trump doesn’t give a fvck about Americans period",
@@ -86,42 +122,6 @@
         "user": "EpicComeback",
         "body": "$MRNA didn&#39;&#39;t $TSLA lose money forever also? LOL",
         "created_at": "2026-08-25T08:13:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PCX_Trading",
-        "body": "$TSLA LSE - Delayed Quote • USD \nTesla, Inc. (0R0X.L) \n350.98    -3.42     (-0.97%) \nAs of 8:51:04 AM GMT+1. Market Open",
-        "created_at": "2026-08-25T08:07:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SerinTech",
-        "body": "$TSLA $NVDA\n\nHumanoid robotics is heating up again.\n\nXPeng’s robotics unit just closed over $900M in new funding.\nFigure AI continues scaling real-world physical AI deployments.\n\nCapital is clearly flowing into embodied AI right now.\nIs this sector moving faster than most expected?",
-        "created_at": "2026-08-25T07:28:01Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "China has issued a statement defending its bilateral cooperation with Iran from external interference, particularly as the United States prepares to implement secondary sanctions targeting Tehran&#39;s trading partners. \n\nThese remarks come after recent high-level discussions between China and Iran ",
-        "created_at": "2026-08-25T07:27:03Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StocktwitsNews",
-        "body": "Tesla’s $5,000 Cybertruck Price Hike Sparks A Bigger Question: Is Demand Really Strong?\n\n$TSLA $TSLL $TSLT $TSLQ $TSLS\n\nhttps://stocktwits.com/news/equity/markets/tesla-cybertruck-price-hike-is-demand-really-strong/cZYkL7YRJ87",
-        "created_at": "2026-08-25T07:24:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TheNew_Mr_Investor",
-        "body": "$TSLA 600$ after cybercab and Optimous event is possible ...",
-        "created_at": "2026-08-25T07:15:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ConstanceSteinberg914",
-        "body": "$RUM $TSLA $SMCI $MRNA $GRRR Rumble benefits from digital-media engagement and monetization, Tesla remains tied to EVs and autonomy, Super Micro benefits from AI-server demand, Moderna remains focused on vaccines and its pipeline, and GRRR remains highly speculative. I&#39;m watching user growth, ve",
-        "created_at": "2026-08-25T07:01:15Z",
         "sentiment": ""
       }
     ],
@@ -189,6 +189,36 @@
     ],
     "AMD": [
       {
+        "user": "Smart_Investment",
+        "body": "$AMD $MU $SOXL All went up after your bearish post &amp; signal$SPY $QQQ",
+        "created_at": "2026-08-25T09:14:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "tievLeaf",
+        "body": "$INFQ $QQQ $SPY $NVDA $AMD",
+        "created_at": "2026-08-25T09:05:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "fanttomas",
+        "body": "$AMD NVIDIA: Vera Rubin NVL72 Delivers Up To   \n30x More Agentic AI Throughput Per Megawatt And 35x Lower Token Cost  \nhttps://pulse2.com/nvidia-vera-rubin-nvl72-delivers-up-to-30x-more-agentic-ai-throughput-per-megawatt-and-35x-lower-token-cost/",
+        "created_at": "2026-08-25T09:00:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$AMD Samsung Starts Mass Production Nvidia’s ‘Groq 3’ Chip  \nhttps://www.businesskorea.co.kr/news/articleView.html?idxno=275491",
+        "created_at": "2026-08-25T08:54:18Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Kier_Severed",
+        "body": "$AMD $NVDA You got lucky yesterday, bashnew - I hope you took your winnings and ran...",
+        "created_at": "2026-08-25T08:52:07Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "theNaive",
         "body": "$AMD something in the way she moves…",
         "created_at": "2026-08-25T08:16:59Z",
@@ -216,36 +246,6 @@
         "user": "Paragonlives",
         "body": "$AMD Morgan Stanley: Nvidia&#39;s CoWoS allocation to drop from an estimated 53.4% in 2026, to 45.6% in 2027. Largest percentage increase going to AMD from 9.4% to 19.8%.  https://www.kucoin.com/news/flash/morgan-stanley-report-cowos-demand-to-double-by-2027-amd-and-asics-drive-ai-chip-growth",
         "created_at": "2026-08-25T06:51:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BigBreakingWire",
-        "body": "Nvidia Puts Groq 3 LPX Into Full Production, Claims 3,400 Tokens/sec\n\n  Nvidia said its Groq 3 LPX AI accelerator rack is now in full production, commercialising technology from its $20 billion acq... https://bigbreakingwire.in/bbw-live-news-blog-today/#pennion-live-blogging-update-10755\n\n$NVDA $AMD",
-        "created_at": "2026-08-25T06:46:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "LizLovesReddit",
-        "body": "$AMD  7 hours ago \nhttps://x.com/PolymarketMoney/status/2092018614689726920?s=20",
-        "created_at": "2026-08-25T06:37:11Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Roar01",
-        "body": "$AVGO Broadcom is ridiculously cheap at fwd PE of 22 only, historically its always been double that for this hyper growth company, load up while you can, this will be over 450$ after killer earnings on 2nd Sept. Trump also bought shit load of these on 2nd June wink wink $SPY $NVDA $AMD 🍀🍀🍀🍀🚀🚀🚀🚀",
-        "created_at": "2026-08-25T06:31:17Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "LawrenceGoolsby946",
-        "body": "$AMD $AAL $RETIRE $VST $GE AMD benefits from AI and data-center semiconductor demand, American Airlines benefits from travel demand and operating efficiency, RETIRE remains speculative, Vistra benefits from power demand and electricity pricing, and GE benefits from aerospace and industrial activity.",
-        "created_at": "2026-08-25T06:12:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JanetJaynes1026",
-        "body": "$BB $TRUMP $SOUN $AMD $SOXL BlackBerry remains focused on software and cybersecurity, TRUMP remains highly sentiment-driven, SoundHound benefits from voice-AI adoption, AMD benefits from data-center and AI demand, and SOXL provides leveraged semiconductor exposure. I&#39;m watching software bookings",
-        "created_at": "2026-08-25T06:01:20Z",
         "sentiment": ""
       }
     ],
