@@ -1,69 +1,99 @@
 {
-  "ts": "2026-08-26 07:45:44",
+  "ts": "2026-08-26 08:42:24",
   "tickers": {
     "NVDA": [
       {
-        "user": "Tradova_Markets",
-        "body": "$SPY $777 $TSLA $370 $NVDA $240",
-        "created_at": "2026-08-26T07:44:19Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Itsokman",
-        "body": "$NVDA The word “compute” should be banned. Especially when it’s being thrown around by some finance industry dipshit who doesn’t really even know what they’re talking about. Stick the vocabulary you understand—Ponzi scheme, for example.",
-        "created_at": "2026-08-26T07:43:00Z",
+        "user": "Mrjanes1988",
+        "body": "$NVDA",
+        "created_at": "2026-08-26T08:39:38Z",
         "sentiment": ""
       },
       {
-        "user": "dr_isk",
-        "body": "$NVDA  setup is bullish IMO. Demand still looks insanely strong: big customers are basically doubling infrastructure spend and the Asian supply-chain numbers are ripping. But Nvidia isn’t just selling chips anymore, it’s helping fund and lock down the whole AI buildout, which is bullish but also add",
-        "created_at": "2026-08-26T07:40:34Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "RoverRodder",
-        "body": "$NVDA A russian autonomous drone using Nvidia chips just killed Ukrainian civilians in Ukraine. \n \nThis is the first time in history that autonomous drone has killed a civilian. \n \nThe chips are still finding their way into russia. A total f-up.",
-        "created_at": "2026-08-26T07:36:37Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "iseeshit",
-        "body": "$SPY $BTC.X $NVDA $BULL  $MYO 😤🐂💎🟩🔒🇺🇸 HOLD💪",
-        "created_at": "2026-08-26T07:35:06Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Tradova_Markets",
-        "body": "$SPY $NVDA $TSLA $QQQ \nMy outlook\n\nI think the 8:30 data sets the tone for today, but NVIDIA determines the direction for the rest of the week.\n\nS:(45%) — Goldilocks (my base case)\n\n* GDP is close to expectations.\n* PCE is at or below expectations.\n* Personal spending is steady.\n\nMarket reaction:\n\n*",
-        "created_at": "2026-08-26T07:25:32Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "flywithfitz81",
-        "body": "$DIA $VTI $VOO $VTIP \n&quot;Stock futures are little changed as traders await key inflation report, Nvidia earnings&quot;\n\nWhile we wait to hear the obvious from $NVDA and the Fed:  \n&quot;no rate hikes, everything is gold, financial engineering is great and infinite profit machines do exist&quot;, ",
-        "created_at": "2026-08-26T07:16:35Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "cosmicdog76",
-        "body": "$AMD Prob worth more than 1/10 of $NVDA \n2/10 maybe 3/8s \n\n$SPY $MS $QQQ \n\n1000 then split",
-        "created_at": "2026-08-26T07:12:52Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SteveTheStampede",
-        "body": "$INTC as semis sold off, software rallied. Well yesterday $INTU  sold off after hours on weak guidance dragging software stocks with it. Now all eyes are on $NVDA to see if we rotate back into semis.",
-        "created_at": "2026-08-26T07:05:49Z",
+        "user": "IanMcelwee230",
+        "body": "$SPY $BTC $NVDA $QQQ $SLS SPY provides broad U.S. equity exposure, Bitcoin remains driven by liquidity and institutional flows, Nvidia benefits from AI-computing demand, QQQ provides concentrated large-cap growth exposure, and SLS remains dependent on clinical progress. I&#39;m watching market bread",
+        "created_at": "2026-08-26T08:39:20Z",
         "sentiment": ""
       },
       {
-        "user": "TanesteinX",
-        "body": "$NVDA All eyes on me..",
-        "created_at": "2026-08-26T07:05:13Z",
+        "user": "SerinTech",
+        "body": "$NVDA $SPCX\n\nElon just confirmed SpaceX’s first AI satellites will use a space-optimized NVIDIA Vera Rubin NVL72 architecture.\n\nTargeting launches starting Q4 next year, with significant scale in 2028.\n\nExtending GPU and agentic CPU infrastructure into orbit opens up a completely new TAM.\nAre orbita",
+        "created_at": "2026-08-26T08:36:47Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Philly12684",
+        "body": "$NVDA typically this name is well within its IV. Best strategy is an iron condor come earnings. Good luck 🍀",
+        "created_at": "2026-08-26T08:36:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BarbraClark660",
+        "body": "$NVDA $BTC $SLS $PURR Nvidia benefits from AI-computing demand, Bitcoin remains driven by liquidity and institutional flows, SLS remains dependent on clinical progress, and PURR remains highly speculative. I&#39;m watching AI capex, crypto flows, clinical milestones, and token liquidity.",
+        "created_at": "2026-08-26T08:35:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ScalperAmos1",
+        "body": "$NVDA Wednesday ! \nBreakfast time! \nBig day today! Reports",
+        "created_at": "2026-08-26T08:35:35Z",
+        "sentiment": ""
+      },
+      {
+        "user": "FunInvestor",
+        "body": "$NVDA Get Ready for 10-30% UP today!!!!!\n $CIFR $CRWV",
+        "created_at": "2026-08-26T08:33:10Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "VictorTwits",
+        "body": "$NVDA So, Apollo is trying to pull off another sell off if American distressed assets like they did four decades ago when they basically wiped our American-and European—luxury indistry and created a Leviathan monstrosity in France??? $KER $LVMH (the Wolf in cashmere)   the same time as Blackrock eng",
+        "created_at": "2026-08-26T08:30:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DoloresHarper404",
+        "body": "$XRP $NVDA $CAPR $MSTR $ETH XRP remains sensitive to regulation and institutional adoption, Nvidia benefits from AI-computing demand, Capricor advances cell and vaccine technologies, Strategy remains heavily exposed to Bitcoin, and Ethereum benefits from network activity and institutional adoption. ",
+        "created_at": "2026-08-26T08:29:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DrCapulet",
+        "body": "$RYCEY green again, hope this runs with $NVDA today.",
+        "created_at": "2026-08-26T08:24:49Z",
         "sentiment": "Bullish"
       }
     ],
     "TSLA": [
+      {
+        "user": "CameliaMcdougal538",
+        "body": "$RUM $TSLA $SMCI $MRNA $GRRR Rumble benefits from digital-media engagement and monetization, Tesla remains tied to EVs and autonomy, Super Micro benefits from AI-server demand, Moderna remains focused on vaccines and its pipeline, and GRRR remains highly speculative. I&#39;m watching user growth, ve",
+        "created_at": "2026-08-26T08:39:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BarbraClark660",
+        "body": "$XRP $AAPL $TSLA $GOOGL XRP remains sensitive to regulation and institutional adoption, Apple benefits from ecosystem strength and device demand, Tesla remains tied to EVs and autonomy, and Alphabet benefits from advertising, cloud, and AI growth. I&#39;m watching regulatory developments, product de",
+        "created_at": "2026-08-26T08:35:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DoloresHarper404",
+        "body": "$SPCX $TSLA $DOGE $NBIS $IBRX SPCX remains speculative, Tesla remains focused on EVs, autonomy, and energy, Dogecoin remains highly sentiment-driven, Nebius benefits from AI-cloud infrastructure demand, and IBRX advances cancer immunotherapy. I&#39;m watching liquidity, vehicle deliveries, crypto fl",
+        "created_at": "2026-08-26T08:29:45Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PCX_Trading",
+        "body": "$TSLA Today",
+        "created_at": "2026-08-26T08:23:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ElizabethHoover703",
+        "body": "$CAPR $RUM $INTU $SPCX $TSLA Capricor advances cell and vaccine technologies, Rumble benefits from digital-media engagement, Intuit benefits from financial software and AI adoption, SPCX remains speculative, and Tesla remains tied to EV demand and autonomy. I&#39;m watching clinical catalysts, user ",
+        "created_at": "2026-08-26T08:22:03Z",
+        "sentiment": ""
+      },
       {
         "user": "Tradova_Markets",
         "body": "$SPY $777 $TSLA $370 $NVDA $240",
@@ -93,39 +123,27 @@
         "body": "$SPCX $TSLA https://youtu.be/jOCtcov28_w?is=27kvaPKPJFYb9jSJ",
         "created_at": "2026-08-26T04:27:30Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "JLB92",
-        "body": "$TSLA 380+ Friday. Pin this.",
-        "created_at": "2026-08-26T04:17:02Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "tradingmonkey16",
-        "body": "$TSLA $400",
-        "created_at": "2026-08-26T04:11:54Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DogFella",
-        "body": "$SPY $DJT $TSLA I really don&#39;t know why we are bashing plants like this tbh",
-        "created_at": "2026-08-26T03:52:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SnakeEyes11",
-        "body": "$MRDN $TSLA  $META $MSFT  $AAPL",
-        "created_at": "2026-08-26T03:36:21Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Cpstrag",
-        "body": "$TSLA go Tesla! It took a beautiful souls death of Dolly Parton to finally get trump off every site  .she got the entire media attention away from His  mania ! bless you Dolly Parton..will.name a real.star in the heavens for you..right Elon.?! Spacex will travel.past your star!🌌💕😔",
-        "created_at": "2026-08-26T03:33:07Z",
-        "sentiment": "Bullish"
       }
     ],
     "AAPL": [
+      {
+        "user": "DonnaChapman855",
+        "body": "$INFQ $APLD $KEEL $IOVA $AAPL INFQ remains highly speculative, Applied Digital benefits from AI-data-center demand, KEEL remains speculative, Iovance advances cancer cell therapies, and Apple benefits from ecosystem strength and device demand. I&#39;m watching funding, data-center contracts, clinica",
+        "created_at": "2026-08-26T08:40:32Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BarbraClark660",
+        "body": "$XRP $AAPL $TSLA $GOOGL XRP remains sensitive to regulation and institutional adoption, Apple benefits from ecosystem strength and device demand, Tesla remains tied to EVs and autonomy, and Alphabet benefits from advertising, cloud, and AI growth. I&#39;m watching regulatory developments, product de",
+        "created_at": "2026-08-26T08:35:52Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Investvgj12345",
+        "body": "$AAPL",
+        "created_at": "2026-08-26T08:32:20Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "BearBoB",
         "body": "$AAPL New Mac Mini is gonna sell like hot cakes, and the bears are gonna cry they didn’t buy the dips. 📈🚀🚀",
@@ -167,27 +185,51 @@
         "body": "$SPY $QQQ $NVDA $AAPL \n\nRussian state-owned agency RIA reported the deal, citing Pakistani and Iranian sources. The reported deal includes free navigation through Hormuz and is expected to be announced in the coming days.",
         "created_at": "2026-08-26T02:57:00Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "techvested",
-        "body": "$AAPL $SPY $QQQ $NVDA  \nI&#39;m here to make sure you don&#39;t make the same mistake South Koreans did.  \n \nDon&#39;t buy calls (S&amp;P QQQ).  \nAnd read my easy to understand posts here: https://tinyurl.com/2j7w7xa8 \n \nAfter the crash, become a paying Substack subscriber. It will crash before midt",
-        "created_at": "2026-08-26T02:44:26Z",
-        "sentiment": ""
-      },
-      {
-        "user": "starman1564",
-        "body": "$MU $NVDA $QQQ $SPY $AAPL \n\nTo all the degens out here:\n\nQuit having an options mindset -  it’s a loser’s proposition.\n\nBuy and HODL good companies like Mu and NVDA",
-        "created_at": "2026-08-26T02:34:41Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Elliottwave_Analysis",
-        "body": "$AAPL #Apple latest Post market update available at https://elliottwave-forecast.com?fpr=ewfhendra63 shows the stock looking to extend lower below $344.5 #elliottwave",
-        "created_at": "2026-08-26T01:55:30Z",
-        "sentiment": ""
       }
     ],
     "AMD": [
+      {
+        "user": "Luvaly_Ray",
+        "body": "$AMD $GOOG $MRVL",
+        "created_at": "2026-08-26T08:40:22Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DonnaChapman855",
+        "body": "$AMD $SOXL $IREN $COIN $BABA AMD benefits from AI and data-center semiconductor demand, SOXL provides leveraged semiconductor exposure, IREN benefits from Bitcoin mining and AI-data-center opportunities, Coinbase benefits from crypto trading and institutional adoption, and Alibaba benefits from Chin",
+        "created_at": "2026-08-26T08:40:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CarlosJett911",
+        "body": "$FCX $AMD $RDW $USDE Freeport-McMoRan benefits from copper demand and pricing, AMD benefits from AI and data-center semiconductor demand, Redwire benefits from space-infrastructure contracts, and USDE remains crypto-sensitive. I&#39;m watching copper prices, AI capex, space contracts, and crypto liq",
+        "created_at": "2026-08-26T08:38:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CarlaFortson1026",
+        "body": "$AMD $BMNR $ONDS $ASTS $DIA AMD benefits from AI and data-center semiconductor demand, BMNR remains highly crypto-sensitive, Ondas advances autonomous drone and private-wireless technologies, AST SpaceMobile advances satellite-to-phone connectivity, and DIA provides diversified Dow exposure. I&#39;m",
+        "created_at": "2026-08-26T08:30:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AVGOmysugardaddy",
+        "body": "$AVGO$NVDA $GOOG $MRVL $AMD Stocktwits posted this on our board.",
+        "created_at": "2026-08-26T08:24:40Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AmyJanssen995",
+        "body": "$NKE $IBRX $AMD $AMFN $AMC Nike remains focused on brand and consumer recovery, IBRX advances cancer immunotherapies, AMD benefits from AI and data-center demand, AMFN remains speculative, and AMC remains highly sentiment-driven. I&#39;m watching consumer spending, clinical milestones, AI capex, fun",
+        "created_at": "2026-08-26T08:22:23Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ObsidianSecurities",
+        "body": "$AMD Yes i know.",
+        "created_at": "2026-08-26T08:13:13Z",
+        "sentiment": ""
+      },
       {
         "user": "ElliottwaveForecast",
         "body": "$AMD — strong reaction higher unfolding from the 🔵 BlueBox area. Now comes the moment of truth: price can either push to new highs or roll into a double correction lower. Traders should stay nimble as the Elliott Wave structure decides. #Elliottwave #Trading",
@@ -205,51 +247,15 @@
         "body": "$NVDA $AMD $MU $SMCI $SKHY It&#39;s now or never. The last several earnings reports have been seriously tamped down. If the share price action tomorrow after ER doesn&#39;t reflect the crushed numbers. I&#39;ll be seriously surprised. Show us what you got Nvidia!",
         "created_at": "2026-08-26T04:30:10Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "russianbeer",
-        "body": "$NVDA We know gaming is down. $AMD and others have said as much, and it&#39;s more severe than predicted. If Nvidia&#39;s revenue is too concentrated on a handful of customers, that could be bearish even with record revenue. I think guidance and evidence of diversified revenue streams will be import",
-        "created_at": "2026-08-26T04:21:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "stockdog88",
-        "body": "$AMD $MU $NVDA $SMH $SOXX",
-        "created_at": "2026-08-26T04:12:22Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Martinez2k19",
-        "body": "$AMD looking good can’t wait for the AM",
-        "created_at": "2026-08-26T04:06:34Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TNNStockAnalysisNews",
-        "body": "Top Gaining Stocks Today (Aug 25, 2026) — \n \n$BE +5%+ at ~$302 — Pelosi Disclosure + AI Power Demand Supercharges the Move \n$INTC +3.19% at ~$87.89 — Nvidia’s $30B Strategic Stake Changes Everything \n$FOUR +3.4% Pre-Market — Wells Fargo Upgrades to Overweight With $59 Target \n$AMD +2.5% Pre-Market —",
-        "created_at": "2026-08-26T04:03:56Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Valueiskey",
-        "body": "$AMD It’s going to be a wild day tomorrow. $NVDA",
-        "created_at": "2026-08-26T03:44:39Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Unhappytrader28",
-        "body": "$AMD calls play went up 300% today, called this play for the group  yesterday morning🔥great gains overnight. ⬇️great week so far",
-        "created_at": "2026-08-26T03:32:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "charliesdollar",
-        "body": "$NVDA DO I NEED TO REMIND THE BULLS WHAT HAPPENED THE LAST TIME NVDA BEAT EARNINGS? HINT, IT DIDNT GO UP $SMH $AMD $MU $SOXX",
-        "created_at": "2026-08-26T03:24:35Z",
-        "sentiment": "Bearish"
       }
     ],
     "TSM": [
+      {
+        "user": "RebaLloyd1097",
+        "body": "$IMMX $PSNL $RDW $TSM $MLTX Immix advances cancer immunotherapies, Personalis focuses on precision-genomics and cancer monitoring, Redwire benefits from space infrastructure demand, TSM benefits from leading-edge semiconductor manufacturing, and MoonLake advances immunology treatments. I&#39;m watch",
+        "created_at": "2026-08-26T08:34:56Z",
+        "sentiment": ""
+      },
       {
         "user": "LQDT",
         "body": "$AVGO Notice how constructive it is though! This is just the typical cycle for $AVGO and we have the biggest jump in earnings in the last 8 quarters so far. 84% growth yoy.  \n \nJalapeno is only like 30% of what&#39;s to come. $GOOGL scaling TPU over 8 million units in 2027 because of cloud backlog, ",
@@ -303,15 +309,27 @@
         "body": "$TSM — Automated swing setup flagged tonight (8/25), appeared in 2 of the last 5 sessions. \nPULLBACK setup, price +0.02% above EMA20. Fundamentals 90/100. \nRef price: $417.41 \nSupport: $404.56 | Resistance: $420.98 \nInvalidation: $396.54 \nTheoretical targets: $438.28 / $459.15 \nRSI: 49.9 (neutral) \n",
         "created_at": "2026-08-25T20:53:51Z",
         "sentiment": ""
-      },
-      {
-        "user": "ForestLiR8pdme",
-        "body": "$GFS dogs asşhole, got out of this thing and went with $META $GOOGL $TSM",
-        "created_at": "2026-08-25T15:56:08Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "TanyaRoberson1082",
+        "body": "$CBRS $PSKY $AMZN $BBAI $MSFT CBRS remains speculative, Paramount Skydance focuses on streaming and media monetization, Amazon benefits from AWS and e-commerce growth, BigBear.ai focuses on AI analytics and government opportunities, and Microsoft benefits from cloud and AI demand. I&#39;m watching l",
+        "created_at": "2026-08-26T08:41:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "focafoca99",
+        "body": "$MSFT partners with HUMAIN to boost AI transformation in Saudi Arabia, integrating ALLAM models into Foundry &amp; M365 Copilot. https://www.rapidticker.com/news/msft-microsoft-y-humain-se-unen-e86bbd",
+        "created_at": "2026-08-26T08:40:41Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BarbraClark660",
+        "body": "$MSFT $MRNA $HYPE $BABA Microsoft benefits from enterprise software, cloud, and AI spending, Moderna remains focused on vaccines and its pipeline, HYPE remains highly speculative, and Alibaba benefits from Chinese e-commerce and cloud demand. I&#39;m watching cloud bookings, clinical milestones, liq",
+        "created_at": "2026-08-26T08:36:04Z",
+        "sentiment": ""
+      },
       {
         "user": "SnakeEyes11",
         "body": "$MRDN $TSLA  $META $MSFT  $AAPL",
@@ -353,27 +371,45 @@
         "body": "$META $AMZN $NVDA $MSFT $AAPL \nhttps://finance.yahoo.com/news/cheapest-magnificent-seven-stock-screaming-045000623.html",
         "created_at": "2026-08-26T01:43:39Z",
         "sentiment": "Bullish"
-      },
+      }
+    ],
+    "GOOG": [
       {
-        "user": "TalkMarkets",
-        "body": "SpaceX Just Gave Nvidia Investors A New Reason To Watch $SPCX $NVDA \nAlso Mentions: $AMD $META $MSFT https://talkmarkets.com/article/spacex-just-gave-nvidia-investors-a-new-reason-to-watch-1787703391",
-        "created_at": "2026-08-26T01:16:47Z",
+        "user": "DavidPetry163",
+        "body": "$VKTX $GOOG $ORCL $SLV $CLSK Viking Therapeutics advances obesity and metabolic treatments, Google benefits from advertising, cloud, and AI, Oracle benefits from cloud and AI workloads, SLV provides silver exposure, and CleanSpark benefits from Bitcoin-mining economics. I&#39;m watching clinical dat",
+        "created_at": "2026-08-26T08:41:49Z",
         "sentiment": ""
       },
       {
-        "user": "TheAce0fSpades",
-        "body": "$MSFT On the daily chart you have the RSI pushing 70, the MACd about to cross the Signal line with bearish divergence, low Stochastic, price entering a triangle wedge bollinger bands converging, while volume drops to 1/3rd historical average. All these indicators converge on Thursday. Check it out.\n",
-        "created_at": "2026-08-26T01:10:27Z",
+        "user": "Luvaly_Ray",
+        "body": "$AMD $GOOG $MRVL",
+        "created_at": "2026-08-26T08:40:22Z",
+        "sentiment": ""
+      },
+      {
+        "user": "RebaLloyd1097",
+        "body": "$GOOG $OMER $DRAM $AVXL $XLM Alphabet benefits from advertising, cloud, and AI growth, Omeros advances immunology therapies, DRAM remains semiconductor-cycle sensitive, Anavex advances neurological treatments, and Stellar benefits from payments and blockchain adoption. I&#39;m watching ad growth, cl",
+        "created_at": "2026-08-26T08:34:38Z",
         "sentiment": ""
       },
       {
         "user": "AVGOmysugardaddy",
-        "body": "$AVGO $MSFT I feel something is brewing. This price action just isn’t normal for AVGO. MSFT previous quarter wasn’t as good as this quarter they just had.",
-        "created_at": "2026-08-26T00:52:58Z",
+        "body": "$AVGO$NVDA $GOOG $MRVL $AMD Stocktwits posted this on our board.",
+        "created_at": "2026-08-26T08:24:40Z",
         "sentiment": "Bullish"
-      }
-    ],
-    "GOOG": [
+      },
+      {
+        "user": "RobertWilliams257",
+        "body": "$GOOG $JASMY $DIA $NVTS $ALT Google benefits from advertising, cloud, and AI growth, Jasmy remains tied to blockchain and the data economy, DIA provides diversified Dow exposure, Navitas benefits from power-semiconductor adoption, and Altimmune advances metabolic-disease treatments. I&#39;m watching",
+        "created_at": "2026-08-26T08:24:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JamesMiller977",
+        "body": "$LUNR $QBTS $ADA $GOOG $RUM Intuitive Machines benefits from lunar and space contracts, D-Wave advances commercial quantum computing, Cardano remains tied to blockchain adoption, Google benefits from advertising, cloud, and AI, and Rumble benefits from digital-media engagement. I&#39;m watching laun",
+        "created_at": "2026-08-26T08:19:59Z",
+        "sentiment": ""
+      },
       {
         "user": "SwingPlay",
         "body": "$GOOG being a bitch past one month.",
@@ -397,45 +433,51 @@
         "body": "$GOOG 📊 USAEquityResearch\n\n▼ 343.34  (-0.36%)\n\nTrend: Bearish 📉\nRSI (14): 28.1 — oversold, potential bounce territory\nMACD: bearish, below signal line\nVolume: normal\n\n📌 Key Levels\nResistance: 375.35  |  Support: 333.68\n20-MA: 348.26  |  50-MA: 349.62\n\n💼 Fundamentals\nMkt Cap: $4.20T\nP/E (TTM): 17.3  ",
         "created_at": "2026-08-26T05:32:27Z",
         "sentiment": ""
-      },
-      {
-        "user": "snowPOW",
-        "body": "$BB HERE map tech, along with Tom Tom apparently are leaders in HD maps. &quot;Down to the centimeter&quot; \n \nI mentioned to @Dugstr2 that I noticed our $HYMTF Kona shows Google maps now, as opposed to HERE after the last update. Seemed curious to me. \n \nThe Google $GOOG and Apple $AAPL visible on ",
-        "created_at": "2026-08-26T04:52:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StocktwitsNews",
-        "body": "Why DOCU, TRI Stocks Slid Over 3% After Google Cloud’s Latest AI Release\n\n$TRI $DOCU $GOOGL $GOOG\n\nhttps://stocktwits.com/news/equity/markets/why-docu-tri-stocks-slid-over-3-after-google-cloud-s-latest-ai-release/cZYN1DeRJov",
-        "created_at": "2026-08-26T04:36:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BubbleBanker",
-        "body": "$GOOG No need to buy junk software when the best of breed if going on sale.",
-        "created_at": "2026-08-26T04:12:55Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ElRaydelRiO13",
-        "body": "@Metacognitive_Drivel  thats what project suncatcher is for! Huge alliance with $GOOG for orbital cloud data centers",
-        "created_at": "2026-08-26T04:03:35Z",
-        "sentiment": ""
-      },
-      {
-        "user": "GDoGGT",
-        "body": "@BeachLife858 @Notalotoftime  \nperhaps M&amp;A? \nLooking at their team...and direct connections... \n \n $ZPTA  X  $NVDA  \nX $GOOG X $MRK X$NOC ??? \n \nBut theres so much IP behind them, and we&#39;ve got Johnny Olson, IP attorney in charge. \n \nJust a hunch.",
-        "created_at": "2026-08-26T02:44:04Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ironmantrader777",
-        "body": "$GOOG doubled down 360 weekly puts before close looks like payday tomorrow",
-        "created_at": "2026-08-26T01:30:55Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
+      {
+        "user": "DonnaChapman855",
+        "body": "$WEN $CIFR $APP $RKLB $META Wendy&#39;s benefits from restaurant traffic and franchise activity, Cipher benefits from Bitcoin mining and data-center economics, AppLovin benefits from AI-driven advertising optimization, Rocket Lab benefits from launch and space-systems demand, and Meta benefits from ",
+        "created_at": "2026-08-26T08:40:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BarbraClark660",
+        "body": "$META $ETH $AMZN $AAOI Meta benefits from digital advertising and AI investment, Ethereum benefits from network activity and institutional adoption, Amazon benefits from AWS and e-commerce growth, and Applied Optoelectronics benefits from AI-networking demand. I&#39;m watching ad growth, crypto flow",
+        "created_at": "2026-08-26T08:35:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "kindness123",
+        "body": "$META",
+        "created_at": "2026-08-26T08:28:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JamesMiller977",
+        "body": "$ZM $CRWD $MLTX $XRP $META Zoom remains focused on enterprise communications and AI features, CrowdStrike benefits from cybersecurity spending, MoonLake advances immunology treatments, XRP remains sensitive to regulation and crypto liquidity, and Meta benefits from advertising and AI investment. I&#",
+        "created_at": "2026-08-26T08:20:11Z",
+        "sentiment": ""
+      },
+      {
+        "user": "1Take",
+        "body": "$META This is good news.",
+        "created_at": "2026-08-26T08:18:44Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "dumb_money_wins_again",
+        "body": "$META yup it&#39;s blast off time for META! can&#39;t stop this anymore.  it&#39;s about to go to the metamooon!!!",
+        "created_at": "2026-08-26T08:18:11Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "armave",
+        "body": "$META in talks to settle the Oakland teen social media trial. Settling replaces trial risk with a set payout, removing legal uncertainty and clearing a path toward $600+ 🚀",
+        "created_at": "2026-08-26T07:54:00Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "realWBuffet",
         "body": "$META \nCathiewood bought meta \nhttps://bullxbear.com/meta-buys-and-sells-in-etfs-finsu/",
@@ -453,48 +495,6 @@
         "body": "Meta Could Pay Billions To End Teen Addiction Trial – Gary Black Says That Could Boost META Stock\n\n$META $SNAP $GOOG $GOOGL\n\nhttps://stocktwits.com/news/equity/markets/meta-billions-teen-addiction-trial-gary-black-boost-stock/cZYNmxMRJo6",
         "created_at": "2026-08-26T06:29:34Z",
         "sentiment": ""
-      },
-      {
-        "user": "LQDT",
-        "body": "$AVGO Notice how constructive it is though! This is just the typical cycle for $AVGO and we have the biggest jump in earnings in the last 8 quarters so far. 84% growth yoy.  \n \nJalapeno is only like 30% of what&#39;s to come. $GOOGL scaling TPU over 8 million units in 2027 because of cloud backlog, ",
-        "created_at": "2026-08-26T06:21:43Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META \nJust the word settlement is gonna  \n￼ Make a gigantic huge move tomorrow well actually today because it&#39;s already 1:30 in the morning🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🍉🍉🍉🍉🍉🚀🚀🚀🚀🚀🚀🚀🚀🚀",
-        "created_at": "2026-08-26T05:32:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Armaster23",
-        "body": "$META that pump lasted half a second gg",
-        "created_at": "2026-08-26T05:20:28Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ep1219",
-        "body": "$META settlement news  wow🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
-        "created_at": "2026-08-26T05:04:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Wongiiee",
-        "body": "$META buying tmmw",
-        "created_at": "2026-08-26T04:46:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ZOMEDICAisHeatingUP",
-        "body": "$META prone for   looking to buy META for the first time. A multi year break out from a &quot;Bullish Wedge&quot; may be investible in the coming weeks/few months if the things play out right (litigation risk, CAPEX spending vs revenue growth, etc.)",
-        "created_at": "2026-08-26T04:41:40Z",
-        "sentiment": ""
-      },
-      {
-        "user": "the_big_gains",
-        "body": "$META looks like it could be a descending triangle. Watch for a bounce down.",
-        "created_at": "2026-08-26T03:58:40Z",
-        "sentiment": "Bearish"
       }
     ]
   }
