@@ -1,131 +1,143 @@
 {
-  "ts": "2026-09-06 08:03:19",
+  "ts": "2026-09-06 12:15:04",
   "tickers": {
     "NVDA": [
+      {
+        "user": "tradernomad",
+        "body": "PST Terminal is now fully mobile. Watchlist, live charts, key stats, EW bias, news feed and the trading room — same terminal, built for a small screen. No stripped-down version.\n7-day trial, €8.99 → prosignaltrades.com/setup/ $NVDA $BE $QQQ",
+        "created_at": "2026-09-06T12:03:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Loudermilk64",
+        "body": "$SOUN Dung Huang of $NVDA over at Dung Keyvans house again on a sunday seeing what else to steal off the sound bag holders again? God bless those American tax payer dollars.",
+        "created_at": "2026-09-06T11:40:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "akroller",
+        "body": "$NVDA $NBIS $MRVL $MU $SNDK \n\nThis party is just getting started. \n\n&quot;Nvidia Says Memory Pricing Has Turned ‘Extreme’ and Is ‘Headed Even Higher Into Next Year.&quot;\n\nhttps://finance.yahoo.com/technology/ai/articles/nvidia-says-memory-pricing-turned-140002011.html",
+        "created_at": "2026-09-06T11:18:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "fanttomas",
+        "body": "$NVDA   Nvidia expands LINEUP OF local AI models, agent tools \nhttps://www.manilatimes.net/2026/09/06/business/sunday-business-it/nvidia-expands-lineup-of-local-ai-models-agent-tools/2419151",
+        "created_at": "2026-09-06T10:52:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Catan19ghy23",
+        "body": "$GOOG not so long ago this was being said $MSFT $META $NVDA . Patience",
+        "created_at": "2026-09-06T10:35:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Catan19ghy23",
+        "body": "$QQQM my take (FWIW) is that SaaSpocalypse was correct, but too early. It came during what we could call the Copilot era when humans were still doing tasks and using software with AI helping or integrated. The recent Software-as-a-Service (SaaS) recovery was built belatedly on realising SaaS compani",
+        "created_at": "2026-09-06T09:28:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TalkMarkets",
+        "body": "The Middle Of The Barrel Is Where The Trouble Lives $NVDA $USO.X $OIL $UCO https://talkmarkets.com/article/the-middle-of-the-barrel-is-where-the-trouble-lives-1788685797",
+        "created_at": "2026-09-06T09:11:48Z",
+        "sentiment": ""
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $NTDOY oh piece of candy $BTC.X $NVDA",
+        "created_at": "2026-09-06T09:04:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "IAIEMN",
+        "body": "$VST $NVDA $FNGU $SOXL",
+        "created_at": "2026-09-06T08:09:21Z",
+        "sentiment": ""
+      },
       {
         "user": "Deportivo",
         "body": "$NVDA Some key catalysts: TSMC August sales Thursday, PPI Thursday at 8:30 AM EDT, and CPI Friday at 8:30 AM EDT.",
         "created_at": "2026-09-06T07:19:16Z",
         "sentiment": ""
-      },
-      {
-        "user": "Heare2dare",
-        "body": "Z Cash: $ZEC ...... https://www.youtube.com/live/OknTXLZBZdQ?si=UKWBgwBE90QZ1TIy .... The Big n . nVidia . $NVDA  . $2,026+ .... CostCo: $COST ....",
-        "created_at": "2026-09-06T06:36:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "DidYouReadThis",
-        "body": "I like $NVDA",
-        "created_at": "2026-09-06T06:24:09Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "William_Lineese",
-        "body": "$ARBE $NVDA $TSLA Dr. FOMO, that retreat was FAST.\n\nLast episode:\n\n“That same radar IS currently powering 100 robotaxis.”\n\nNow:\n\n“Which is more likely?”\n\nWait, how did “IS” suddenly become a guessing game?\n\nYOU claimed those 100 robotaxis use Arbe. The burden is yours.\n\nI don’t need to identify anot",
-        "created_at": "2026-09-06T06:19:50Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Heare2dare",
-        "body": "Thank Most High God All Ways and me later, whenever or never.  .... Z Cash: ZEC.X .... $ZEC-USD  ...... $NVDA .... $COST .....",
-        "created_at": "2026-09-06T06:16:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JDJ27",
-        "body": "$ARBE $NVDA $TSLA \nProfessor Fuddlesticks...\n\nThen which 100 robotaxi fleet is it?  Which is more likely?",
-        "created_at": "2026-09-06T06:10:12Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "funkymonkey_",
-        "body": "$APP monkeys sitting here in the office on a Saturday night waiting for the goddam long weekend to pass by 🐒  $NVDA $MU $SPY ….",
-        "created_at": "2026-09-06T05:32:11Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "PatienceRewards",
-        "body": "$NVDA pull back Tuesday and then new highs.",
-        "created_at": "2026-09-06T05:08:10Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "William_Lineese",
-        "body": "$ARBE $NVDA $TSLA Dr. FOMO, your logic bug remains:\n\nWorking with NVIDIA does NOT mean using NVIDIA requires Arbe.\n\nArbe has been in NVIDIA/Orin’s ecosystem for years. So what?\n\nCompatibility never meant every NVIDIA customer must choose Arbe, nor does it prove production adoption.\n\nArbe + NVIDIA: r",
-        "created_at": "2026-09-06T04:55:22Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BiHiCellLo",
-        "body": "$QQQ $SPY $AAPL $NVDA MSFT TSLA AMZN META GOOGL  \n  \n3/4 DTE&#39;s  \n \n💪 🙃",
-        "created_at": "2026-09-06T04:07:38Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
       {
-        "user": "MuskyFlex",
-        "body": "$TSLA https://youtu.be/1trrzaczsOA?is=ypDRpVJue1Wx933z",
-        "created_at": "2026-09-06T08:02:46Z",
+        "user": "Boomskitothemoonski",
+        "body": "$TSLA 🇨🇦 Canada opened the door to China-built EVs — and guess what Canadians chose? \n \nTESLA. ⚡️ \n \nCanada’s new quota allows 49,000 China-built EVs annually at the lower tariff. Early imports have been overwhelmingly Shanghai-built Teslas — not BYD, not a flood of Chinese brands. \n \nThat tells you",
+        "created_at": "2026-09-06T12:07:34Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "blanc1pain",
-        "body": "$ARBE there are possibility that lcid robotaxi can use arbe \n \nthat can give life breath to arbe, but still not make a succesfull investment. \n \nuntil officially announced, your ”researches” never find any clue and warn investors about oem deal postpone. \n \nyou just try to make arbe related with eve",
-        "created_at": "2026-09-06T06:31:01Z",
+        "user": "grampagrit",
+        "body": "It&#39;s happening. \n$TSLA $SPCX $ETH.X $XRP.X $BTC.X",
+        "created_at": "2026-09-06T12:06:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Samurai0",
+        "body": "$TSLA possible 50% drop here. Watch the broader market. If the broad market brakes down likely this will too. Not necessarily bearish, though, when you look at that rebound. Timing this will be a trick. Likely real self driving is close, and likely there is a real announcement waiting in the wings. ",
+        "created_at": "2026-09-06T11:57:49Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Boomskitothemoonski",
+        "body": "$TSLA over 80% of the Canadian quota for Chinese EV’s went to Tesla…., Canadians love buying Teslas. It’s the number one selling EV..   even with the Chinese offerings people still prefer the Tesla…… in fact that a brand new Tesla model 3  imported from China arrives in Canada at approximately $ 26,",
+        "created_at": "2026-09-06T11:55:53Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Hiphoplover",
+        "body": "$TSLA  $TSLQ  \nThe conclusion is trash!",
+        "created_at": "2026-09-06T11:51:06Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "amanda1986",
+        "body": "$BYDDY $TSLA $BYDDF while USA has an ocean of expensive outdated vehicles, Camada is getting the cleanest, best, most affordable tech from CHINA! https://cleantechnica.com/2026/09/03/could-canada-get-fresh-byds-rather-than-leftovers/",
+        "created_at": "2026-09-06T11:42:21Z",
         "sentiment": ""
       },
       {
-        "user": "1D1D",
-        "body": "$DOGE.X $BTC.X  $TSLA  $SPCX",
-        "created_at": "2026-09-06T06:26:46Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "JeremyGreene2020",
-        "body": "$TSLA https://x.com/davelee/status/2096344225717600720/video/1?s=46",
-        "created_at": "2026-09-06T06:26:08Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "William_Lineese",
-        "body": "$ARBE $NVDA $TSLA Dr. FOMO, that retreat was FAST.\n\nLast episode:\n\n“That same radar IS currently powering 100 robotaxis.”\n\nNow:\n\n“Which is more likely?”\n\nWait, how did “IS” suddenly become a guessing game?\n\nYOU claimed those 100 robotaxis use Arbe. The burden is yours.\n\nI don’t need to identify anot",
-        "created_at": "2026-09-06T06:19:50Z",
+        "user": "MyrnaRiddick849",
+        "body": "$TSLA momentum feels shaky here. Are we actually breaking out or just chopping around waiting for a catalyst? Volume doesn&#39;t seem to confirm much either way. Anyone else on the fence or is it just me",
+        "created_at": "2026-09-06T11:28:41Z",
         "sentiment": ""
       },
       {
-        "user": "JDJ27",
-        "body": "$ARBE $NVDA $TSLA \nProfessor Fuddlesticks...\n\nThen which 100 robotaxi fleet is it?  Which is more likely?",
-        "created_at": "2026-09-06T06:10:12Z",
+        "user": "c4mtrades",
+        "body": "$SPY $TSLA $QQQ sleeping well tonight holding $150K+ in calls",
+        "created_at": "2026-09-06T11:23:33Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "1D1D",
-        "body": "$DOGE.X $BTC.X  $TSLA $SPCX   https://m.youtube.com/watch?v=AWs8_yQvZ8A&amp;pp=ygUNRG9nZWNvaW4gZWxvbg%3D%3D&amp;ra=m",
-        "created_at": "2026-09-06T06:07:43Z",
+        "user": "kratosss",
+        "body": "$TSLA only does this after the cyber cab comes out.",
+        "created_at": "2026-09-06T11:22:42Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "ToeJoe",
-        "body": "$TSLA  In 5 years BYD will be the largest automaker in th eworld. They sold 419,000 EVs in August",
-        "created_at": "2026-09-06T05:52:32Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "McNacho",
-        "body": "$TSLA OPEN THE F***ING STOCK MARKET ALREADY!! 👀",
-        "created_at": "2026-09-06T05:34:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StockedUp57",
-        "body": "$TSLA  step 1 to 370+ complete .. profits secured  IYKYK 💰🤝 time to watch the KPLs and run it back by adding the dips at major KPLs 350-354  to start with 🤔🤔NFA",
-        "created_at": "2026-09-06T05:31:57Z",
+        "user": "Thelonius_Stonk",
+        "body": "$RIVN $TSLA we got some work to do 🥴🤪",
+        "created_at": "2026-09-06T11:20:47Z",
         "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "matrixman68",
+        "body": "$AAPL $SPX $SPY Some people will see this as  a bull flag. I doubt it. Oil is spiking and it will take down the markets.",
+        "created_at": "2026-09-06T11:59:08Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "IAIEMN",
+        "body": "$AAPL $TSLA $BE",
+        "created_at": "2026-09-06T08:06:26Z",
+        "sentiment": ""
+      },
       {
         "user": "BiHiCellLo",
         "body": "$QQQ $SPY $AAPL $NVDA MSFT TSLA AMZN META GOOGL  \n  \n3/4 DTE&#39;s  \n \n💪 🙃",
@@ -172,18 +184,6 @@
         "user": "G_R_",
         "body": "$AAPL &quot;Surprise and Shine&quot; - Next week on Wednesday September 9th Apple kicks off their biggest run of device releases in history. What are they? \n \n🍎Their latest iPhones inculding the much anticipated foldable phone. \n \n🍎MacBook with touchscreens and OLED display \n \n🍎Apple Watches with ne",
         "created_at": "2026-09-05T20:32:38Z",
-        "sentiment": ""
-      },
-      {
-        "user": "In_N__Out",
-        "body": "$AAPL $MSFT $NVDA $EQIX $DLR This escolated quickly. There goes our farmers and our food production. ￼",
-        "created_at": "2026-09-05T19:40:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "kylevallans",
-        "body": "Biggest Companies By Market Cap \n \n$NVDA +0.84% \n$AAPL -2.51% \n$GOOGL -1.11% \n$MSFT -2.04% \n$AMZN -0.15% \n \nView this Biggest Companies By Market Cap Scanner here. \nhttps://stockanalysis.com/list/biggest-companies/?ref=saveontrading",
-        "created_at": "2026-09-05T18:51:08Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "MSFT": [
       {
+        "user": "Catan19ghy23",
+        "body": "$GOOG not so long ago this was being said $MSFT $META $NVDA . Patience",
+        "created_at": "2026-09-06T10:35:06Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "El555",
         "body": "$ORCL Question is : why it is trending # 2 ?  \nWhy not number ONE ! \nA stock selling quarter price because a shorting hedge funds or M M decided to short this gem so hard and so bad.  \nEven $NOW market cap less than a third with higher price ! \nMaybe gonna catch $NVDA AND $MSFT ONE DAY.  \non our way",
         "created_at": "2026-09-06T03:47:33Z",
@@ -365,15 +371,27 @@
         "body": "$AAPL $MSFT $NVDA $EQIX $DLR This escolated quickly. There goes our farmers and our food production. ￼",
         "created_at": "2026-09-05T19:40:43Z",
         "sentiment": ""
-      },
-      {
-        "user": "AshHydrogen",
-        "body": "$SPY April $IGV $PLTR #1 ahead of $MSFT !!!",
-        "created_at": "2026-09-05T19:22:57Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "mrdan321",
+        "body": "$MGNI $GOOG \n\nProfessor ChatGPT (Lecture 2):\n\n(part 1)\n\nOnce you include the first-party and commerce data being activated inside Magnite, plus Magnite Orchestration, the thesis moves well beyond “Magnite processes lots of auctions.”\n\nIt becomes:\n\nMagnite could become the intelligence and coordinati",
+        "created_at": "2026-09-06T12:10:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "mrdan321",
+        "body": "$MGNI $GOOG \n\nProfessor ChatGPT (Lecture 1):\n\n(part 1)\n\nMagnite could plausibly become the Google-like control layer for advertising across the open internet, not “the next Google” as an all-purpose technology giant.\n\nYour inference-AI thesis strengthens the Magnite bull case because AI agents will ",
+        "created_at": "2026-09-06T11:53:39Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Catan19ghy23",
+        "body": "$GOOG not so long ago this was being said $MSFT $META $NVDA . Patience",
+        "created_at": "2026-09-06T10:35:06Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Ronald_Mkdonald911",
         "body": "$AVGO Megagiant blackrock invests in tiny company REI ring energy  \n \n$REI  \n \n$GOOG  \n \n$SNDK  \n \n$AMZN",
@@ -415,27 +433,27 @@
         "body": "$RZLV Dan might be right. This $GOOG partnership may ultimately be worth billions to Rezolve. \nhttps://www.konsulteer.com/article/rezolve-ai-deploys-distributed-database-technology-inside-google-cloud",
         "created_at": "2026-09-05T19:36:02Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Lowkeyoptions",
-        "body": "$SKR.X $GOOG $BTC.X $ETH.X $SOL.X when this one lands in the app store insert mass adoption \n\nBitwise&#39;s Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket\nBitwise CIO envisions tokenization spreading beyond crypto into a possible $500 trillion asset market.\nhttp",
-        "created_at": "2026-09-05T18:39:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "VixPlace",
-        "body": "$PSKY $WBD $NFLX $GOOG \nEntertainment pedos losing their fake lib hipster karma.",
-        "created_at": "2026-09-05T17:33:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "PivotPoint_101",
-        "body": "$SPY $QQQ $IWM $GOOG",
-        "created_at": "2026-09-05T17:04:44Z",
-        "sentiment": ""
       }
     ],
     "META": [
+      {
+        "user": "DrDizrespect",
+        "body": "$AVGO $META $NOW EXACTLY. 👌🏽",
+        "created_at": "2026-09-06T11:24:19Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Catan19ghy23",
+        "body": "$GOOG not so long ago this was being said $MSFT $META $NVDA . Patience",
+        "created_at": "2026-09-06T10:35:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "pmcapitaltrading",
+        "body": "$SPY $MCD is the economy doing ok? $BTC.X $META",
+        "created_at": "2026-09-06T09:39:43Z",
+        "sentiment": ""
+      },
       {
         "user": "BB825",
         "body": "@Iknowu2 I’m sure buyers will step in somewhere, but there’s so many better companies to invest in imo\n\nI told myself \n\n1. The ceo bought 150m worth of stock at 22-26 surely it will get back to $50\n\n2. They got ad partnership with asdf company or ghjk company \n\n3. This must be a good company if the ",
@@ -476,24 +494,6 @@
         "user": "pmcapitaltrading",
         "body": "$SPY $UBER boys weekend $META $BTC.X",
         "created_at": "2026-09-05T23:22:00Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ArcValueTrade",
-        "body": "Clues for Stock market directions-  \n                                                                                                                                                \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                                  ",
-        "created_at": "2026-09-05T20:44:46Z",
-        "sentiment": ""
-      },
-      {
-        "user": "K_Money11",
-        "body": "$AMZN $GOOGL $META $QQQ $SPY Year 3000 the human race is at war with Robots over water supply to survive.",
-        "created_at": "2026-09-05T20:02:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "Weekly Commentary: Unhinged Friday \nMentions: $NVDA $META $AMZN $MSFT $MPC https://talkmarkets.com/article/weekly-commentary-unhinged-friday-1788601533",
-        "created_at": "2026-09-05T19:54:45Z",
         "sentiment": ""
       }
     ]
