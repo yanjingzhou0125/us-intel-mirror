@@ -1,131 +1,149 @@
 {
-  "ts": "2026-09-05 23:35:13",
+  "ts": "2026-09-06 03:13:35",
   "tickers": {
     "NVDA": [
       {
-        "user": "ryank3030",
-        "body": "$NVDA: stock near its 52-week high, but implied vol just hit a 52-week low. Market&#39;s pricing in zero drama into earnings. That complacency is exactly when a surprise gets expensive — options are cheap right now for anyone with a view.",
-        "created_at": "2026-09-05T23:29:32Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ScalperAmos1",
-        "body": "$NVDA Ex dividend date in 5 days.",
-        "created_at": "2026-09-05T23:10:15Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "It appears we are anticipating an intriguing extended weekend, with the possibility of increased activity. The Treasury market&#39;s response next week will be particularly significant, especially considering Thursday&#39;s calming period and Friday&#39;s modest increase. The broader market seemed t",
-        "created_at": "2026-09-05T22:56:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "At 6:24 PM ET Iran’s Islamic Revolutionary Guard Corps claimed that it attacked a U.S. aircraft carrier and destroyer with ballistic missiles after they allegedly interfered with Iranian ships and took part in a naval blockade. \n\nThe IRGC said both ships were damaged and left the area to avoid anoth",
-        "created_at": "2026-09-05T22:44:43Z",
-        "sentiment": ""
-      },
-      {
-        "user": "JDJ27",
-        "body": "$ARBE look at this ignoramous pulling a photo of the company founder that just formed the company before NVIDIA Orin or Thor were ever announced.  ADAS and Autonomous vehicles were purely rules based...\n\nThis person knows nothing. \n\nThis company founded to build radar for drones, and was quickly app",
-        "created_at": "2026-09-05T22:32:36Z",
+        "user": "Wags241",
+        "body": "$NVDA Huang suggested that 2028 70% sales growth could go even higher if supply bottlenecks are resolved. And what about if NVDA sales to China resume? Not to mention that NVDA could be like Apple in the old days, prior to buybacks and dividends. I am not selling any of my shares!",
+        "created_at": "2026-09-06T03:10:40Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "RealGambler",
-        "body": "I said the stock market is going down next week bro \nbut you’re not listening bro\nI think you’re having trouble listening bro\nI’ll use sign language for ya bro\n\n$QQQ $SPY $NVDA $MU $TSLA",
-        "created_at": "2026-09-05T22:28:17Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Sleepy_Don",
-        "body": "$QQQ $SPY $DJIA $TSLA $NVDA \n\nEscalation of the war is inevitable. Ecomoic and market woes to follow. Trump is under immense pressure from many bad players to finish Iran off. GLTA except magats.",
-        "created_at": "2026-09-05T22:02:43Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Twocyprus6",
-        "body": "$NVDA Tuesday dump incoming",
-        "created_at": "2026-09-05T21:37:02Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MilhouseVanhouten",
-        "body": "$MSFT $SPY $NVDA literally no one cares about this anymore. This is what my grandpa used to look at with his $KO stock. Get with the times",
-        "created_at": "2026-09-05T21:35:33Z",
+        "user": "JDKING",
+        "body": "$ORCL We moon next week. $500+ before 2030. $PLTR $INTC $NVDA $MSFT",
+        "created_at": "2026-09-06T02:54:12Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "urmybluesky",
-        "body": "$NVDA",
-        "created_at": "2026-09-05T21:31:51Z",
+        "user": "adamthelarper",
+        "body": "$NVDA AI is going to crash.",
+        "created_at": "2026-09-06T02:48:22Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$SPY $NVDA  how about that pump last week. $4-5 in 10 mins",
+        "created_at": "2026-09-06T02:45:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$amd $NVDA $TSLA $SPY $QQQ \nthe AI BUILDOUT:",
+        "created_at": "2026-09-06T02:27:24Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "iatsebob",
+        "body": "$AVGO $GOOGL $MU $NVDA $SPX I’m not buying this Chinese propaganda.",
+        "created_at": "2026-09-06T02:15:08Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "snowPOW",
+        "body": "$BB white label MiH (BlackBerry IVY users) vehicles are already on the road. \n \nhttps://www.reuters.com/world/asia-pacific/foxconn-says-third-quarter-outperform-market-expectations-ai-strength-2026-09-05/ \n \nNice! $AAPL for iPhone \n$AMZN for IVY 50/50 \n$NVDA for Thor \n \nThe same Foxconn that called ",
+        "created_at": "2026-09-06T02:13:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PoundinBurgers",
+        "body": "$SNDK $SKHY $NVDA $DELL",
+        "created_at": "2026-09-06T02:12:47Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "StockThingzs02",
+        "body": "$NVDA the Zcat is impressive great tech $BTC.X $SOL.X",
+        "created_at": "2026-09-06T01:58:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "KingWarsh",
+        "body": "$SPX $NVDA  $GOOGL $MU $AVGO Nobody wants these data centers.",
+        "created_at": "2026-09-06T01:56:57Z",
         "sentiment": ""
       }
     ],
     "TSLA": [
       {
-        "user": "HydrogenH2",
-        "body": "$DJT $TSLA  $SPCX $ASTS  Little competition to Elon and ASTS ... won&#39;t be that bad....right ?? lol https://www.reuters.com/business/media-telecom/german-space-rocket-lifts-off-norway-base-2026-09-05/",
-        "created_at": "2026-09-05T23:33:12Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "c4mtrades",
-        "body": "$TSLA $SPY $QQQ biggest yolo i have ever done. $153K in midweek calls. I can barely sleep",
-        "created_at": "2026-09-05T23:13:24Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Samurai0",
-        "body": "$TSLA I think he&#39;s trying to crash the stock knowing things are going to be bad for the midterms and then making any announcements of real improvement afterwards. Either that or the whole program is failing spectacularly.",
-        "created_at": "2026-09-05T22:35:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Joe_Mama",
-        "body": "$TSLA Another revenue stream. Bears in total denial. They’ve been that way since day 1\n\nLet’s see where that’s gotten them. Best is yet to come …",
-        "created_at": "2026-09-05T22:33:32Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "RealGambler",
-        "body": "I said the stock market is going down next week bro \nbut you’re not listening bro\nI think you’re having trouble listening bro\nI’ll use sign language for ya bro\n\n$QQQ $SPY $NVDA $MU $TSLA",
-        "created_at": "2026-09-05T22:28:17Z",
+        "user": "thecuzzin",
+        "body": "$TSLA HAPPY 352 BULL&#39;S!! 🥳📉",
+        "created_at": "2026-09-06T03:04:25Z",
         "sentiment": "Bearish"
       },
       {
         "user": "LizLovesReddit",
-        "body": "$TSLA $SPCX  \nhttps://x.com/elonmusk/status/2096332964485296204?s=20",
-        "created_at": "2026-09-05T22:10:09Z",
+        "body": "$TSLA  \nhttps://x.com/i/trending/2096354817899725111?s=20",
+        "created_at": "2026-09-06T03:03:56Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "Sleepy_Don",
-        "body": "$QQQ $SPY $DJIA $TSLA $NVDA \n\nEscalation of the war is inevitable. Ecomoic and market woes to follow. Trump is under immense pressure from many bad players to finish Iran off. GLTA except magats.",
-        "created_at": "2026-09-05T22:02:43Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "MichaelTheStockMaster",
-        "body": "$TSLA",
-        "created_at": "2026-09-05T21:59:46Z",
+        "user": "maurisso13",
+        "body": "$TSLA \nhttps://finance.yahoo.com/technology/articles/elon-musk-says-foundry-gas-015000777.html",
+        "created_at": "2026-09-06T02:53:54Z",
         "sentiment": ""
       },
       {
-        "user": "Dutchmaster02",
-        "body": "$TSLA oh there’s a “re-rating” coming soon, this shit is the most overvalued, priced to dreamland perfection stock that’s going to fundamentally imploded and having 30 piss colored cars being remote operated isn’t helping shit 😂",
-        "created_at": "2026-09-05T21:58:16Z",
-        "sentiment": "Bearish"
+        "user": "snowPOW",
+        "body": "$BB is this a real picture? \n \nCan&#39;t $TSLA park them square? \n \nhttps://www.nbcnews.com/tech/tech-news/tesla-cybercab-no-steering-wheel-emergency-plan-push-musk-austin-rcna595741",
+        "created_at": "2026-09-06T02:39:17Z",
+        "sentiment": ""
       },
       {
-        "user": "ReposedAnchor",
-        "body": "$TSLA  The doubts are everywhere. The stock has been sideways for 6 years, significantly underperforming. Sentiment is terrible. \n\nCybercab is already on the road and they barely said a word — no livestream, very vague. Classic Tesla strategy to get people talking and let the product sell itself.\n\nW",
-        "created_at": "2026-09-05T21:55:55Z",
+        "user": "investing_dans_valeur",
+        "body": "$amd $NVDA $TSLA $SPY $QQQ \nthe AI BUILDOUT:",
+        "created_at": "2026-09-06T02:27:24Z",
         "sentiment": "Bullish"
+      },
+      {
+        "user": "Ronald_Mkdonald911",
+        "body": "$TSLA  Mega giant Goliath company invests  big on small company rei ring energy. \n \n$REI",
+        "created_at": "2026-09-06T02:19:07Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Atomickb",
+        "body": "$TSLA  -  remember 3rd party ?\nWht happened.\nLooks like felon as usual started something but cannot finish it.\nFloptimus hobotaxi barber cab",
+        "created_at": "2026-09-06T02:11:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "vaccigen",
+        "body": "$TSLA I started playing options only in last two months, wondering if brokerage will restrict you for big winnings.  any comments?",
+        "created_at": "2026-09-06T01:46:01Z",
+        "sentiment": ""
+      },
+      {
+        "user": "KingWarsh",
+        "body": "$SPY $QQQ $AMZN $META $TSLA Nobody wants your data centers. More than 70% of Americans say no! \n\nhttps://m.youtube.com/watch?v=g4IcDVjg_AM&amp;ra=m",
+        "created_at": "2026-09-06T01:38:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Miyagi_Moto",
+        "body": "$TSLA Boy, when she moves… It sure is something…",
+        "created_at": "2026-09-06T01:36:26Z",
+        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "Ronald_Mkdonald911",
+        "body": "$AAPL Megagiant blackrock invests in tiny company REI ring energy. \n \n​$REI",
+        "created_at": "2026-09-06T02:49:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "snowPOW",
+        "body": "$BB white label MiH (BlackBerry IVY users) vehicles are already on the road. \n \nhttps://www.reuters.com/world/asia-pacific/foxconn-says-third-quarter-outperform-market-expectations-ai-strength-2026-09-05/ \n \nNice! $AAPL for iPhone \n$AMZN for IVY 50/50 \n$NVDA for Thor \n \nThe same Foxconn that called ",
+        "created_at": "2026-09-06T02:13:16Z",
+        "sentiment": ""
+      },
+      {
+        "user": "darkshadow227",
+        "body": "$AAPL aapl about to have so much relative strength and inverse the whole market if it goes down",
+        "created_at": "2026-09-06T00:13:13Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "charliesdollar",
         "body": "$SPY DIESEL HITS HIGHEST RECORDED PRICE IN RECORDED HISTORY BUT F***C IT LETS BUY CALLS RIGHT?  $QQQ $IWM $AAPL $SPX",
@@ -167,27 +185,27 @@
         "body": "U.S. Companies That Pay The Highest Taxes \n \n$GOOGL -1.11% \n$AMZN -0.15% \n$NVDA +0.84% \n$MSFT -2.04% \n$AAPL -2.51% \n \nView this U.S. Companies That Pay The Highest Taxes Scanner here. \nhttps://stockanalysis.com/list/most-taxes-us/?ref=saveontrading",
         "created_at": "2026-09-05T17:42:01Z",
         "sentiment": ""
-      },
-      {
-        "user": "_JohnTernus_",
-        "body": "$AAPL",
-        "created_at": "2026-09-05T17:15:45Z",
-        "sentiment": ""
-      },
-      {
-        "user": "kylevallans",
-        "body": "U.S. Companies With The Most Revenue \n \n$AMZN -0.15% \n$WMT -1.18% \n$AAPL -2.51% \n$UNH -0.95% \n$GOOGL -1.11% \n \nView this U.S. Companies With The Most Revenue Scanner here. \nhttps://stockanalysis.com/list/highest-revenue/?ref=saveontrading",
-        "created_at": "2026-09-05T17:10:07Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Seanpeee",
-        "body": "$AAPL whoevers in those 330/325 calls gonna get wnoked next week , going to 300",
-        "created_at": "2026-09-05T16:15:49Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
+      {
+        "user": "Iamwillwexler",
+        "body": "$AMD a smooth 25% up from here and we are at 600 - just sayin&#39;",
+        "created_at": "2026-09-06T02:57:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investing_dans_valeur",
+        "body": "$amd $NVDA $TSLA $SPY $QQQ \nthe AI BUILDOUT:",
+        "created_at": "2026-09-06T02:27:24Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "StokTrekR",
+        "body": "$VIVK $MSTR $SPCX $AMD  $LUNR",
+        "created_at": "2026-09-06T01:27:24Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "Jerkmate",
         "body": "$XRP.X the same people doubting me are the same ones that told me not to buy $GE and $AMD all those years ago. I got the last laugh. 😆 just check my profile!",
@@ -228,24 +246,6 @@
         "user": "Iamwillwexler",
         "body": "$AMD $AMD memes are just this century’s wacky packages",
         "created_at": "2026-09-05T19:01:09Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ProfitBuilders",
-        "body": "$166.18M into $MU leads tech options sector ($687.30M total). $SNDK $152.30M, $NVDA $69.88M, $AMD $40.32M show strong action too. Unnamed tickers fill $170.63M gap. Where will this momentum lead next? #OptionsFlow",
-        "created_at": "2026-09-05T18:29:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "dojidad",
-        "body": "$AMD IMO, when something tests the 21, or pivot line, 3 times, the probability of it breaking through are higher. I look directly below at the RSI and MACD the first two tests. They were flat and not supporting a breakthrough. Now, for the 3rd test, they look better. Unless there is a geopolitical r",
-        "created_at": "2026-09-05T17:28:54Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StageAnalysis",
-        "body": "Stage Analysis Screener – Tech Stocks with SATA Strong (W) + Change to SATA 4 (D) or Higher \n \n$MU, $SNDK, $AMD, $INTC, MRVL, TSM, NBIS, RIOT, ZM, SITM, SIMO, P, ZBRA, VSAT, AUR, CGNX, IDCC, CCC, BDC, KN, ADEA, ATEYY \n \nFilters: \nSector: Information Technology \nSATA Score: Strong, Neutral \nSATA Chan",
-        "created_at": "2026-09-05T17:24:30Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,18 @@
     ],
     "MSFT": [
       {
+        "user": "JDKING",
+        "body": "$ORCL We moon next week. $500+ before 2030. $PLTR $INTC $NVDA $MSFT",
+        "created_at": "2026-09-06T02:54:12Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "MacroHard26",
+        "body": "$MRVL $GOOG $AMZN $MSFT $NVDA",
+        "created_at": "2026-09-05T23:43:56Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "MilhouseVanhouten",
         "body": "$MSFT $SPY $NVDA literally no one cares about this anymore. This is what my grandpa used to look at with his $KO stock. Get with the times",
         "created_at": "2026-09-05T21:35:33Z",
@@ -359,21 +371,15 @@
         "body": "$POET + $MSFT ??",
         "created_at": "2026-09-05T19:09:21Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "kylevallans",
-        "body": "Biggest Companies By Market Cap \n \n$NVDA +0.84% \n$AAPL -2.51% \n$GOOGL -1.11% \n$MSFT -2.04% \n$AMZN -0.15% \n \nView this Biggest Companies By Market Cap Scanner here. \nhttps://stockanalysis.com/list/biggest-companies/?ref=saveontrading",
-        "created_at": "2026-09-05T18:51:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "AlphaBull_10M",
-        "body": "Must read for AI traders.  Financially speaking,  $GOOGL is in best shape followed by $MSFT, and $ORCL is in worst shape with $SPCX being little better.   $AMZN and META are in the middle.  \n\n“S&amp;P estimates that the six largest US hyperscalers could spend more than 7 trillion dollars over five y",
-        "created_at": "2026-09-05T18:10:42Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "MacroHard26",
+        "body": "$MRVL $GOOG $AMZN $MSFT $NVDA",
+        "created_at": "2026-09-05T23:43:56Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "TrendSpider",
         "body": "Google is approaching the 200 👀 \n$GOOG  \n$GOOGL",
@@ -427,15 +433,33 @@
         "body": "$GOOG 36billion &amp; if they of corse they build a data center correct they Wii supply $ to run it with aqua too",
         "created_at": "2026-09-05T16:42:25Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "MountCapital",
-        "body": "$GOOG $250 in 2026. \nAvoid like the plague. \nMajor talent drain. \nGemini is losing.",
-        "created_at": "2026-09-05T16:27:46Z",
-        "sentiment": "Bearish"
       }
     ],
     "META": [
+      {
+        "user": "Ronald_Mkdonald911",
+        "body": "$META Megagiant blackrock invests in tiny  company REI ring energy.  \n \n$REI",
+        "created_at": "2026-09-06T02:25:45Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "KingWarsh",
+        "body": "$SPY $QQQ $AMZN $META $TSLA Nobody wants your data centers. More than 70% of Americans say no! \n\nhttps://m.youtube.com/watch?v=g4IcDVjg_AM&amp;ra=m",
+        "created_at": "2026-09-06T01:38:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MountCapital",
+        "body": "$META wishful thinking. \n$450 ny year end",
+        "created_at": "2026-09-06T01:17:06Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MountCapital",
+        "body": "$META $450 by year end",
+        "created_at": "2026-09-06T01:16:16Z",
+        "sentiment": "Bearish"
+      },
       {
         "user": "pmcapitaltrading",
         "body": "$SPY $UBER boys weekend $META $BTC.X",
@@ -471,30 +495,6 @@
         "body": "$META $680 by Oct, $790 by next year end",
         "created_at": "2026-09-05T19:01:11Z",
         "sentiment": ""
-      },
-      {
-        "user": "pmcapitaltrading",
-        "body": "$SPY $NVDA the movies rights to certain prisoners are worth millions $GOOGL $RDDT $META",
-        "created_at": "2026-09-05T18:45:17Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Markus01",
-        "body": "$META Chart Update:\n\n3 weeks ago I said buy this name at $540&#39;s with a 1st PT of $600 and then a 2nd PT of the 200dma at around $621.\n\n...And here we are today.\n\nNow bulls need to actually close above the 200dma at $621ISH and fill that first gap at $627ISH. That will lead us to the big kahuna o",
-        "created_at": "2026-09-05T18:44:08Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MountCapital",
-        "body": "$META to $450 in 2026. \nTake advantage of the short term gain. \nSell and run. \nBuy back below $500 before end of year",
-        "created_at": "2026-09-05T16:26:30Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "YNK",
-        "body": "$DJT $SPY $QQQ $AMZN $META \nMAGA has no clue that the US already has 10x more Data Centers than any country in the World. Maybe China would have a harder time building theirs if the Big Dummy quit selling them everything they need to build them...🐑",
-        "created_at": "2026-09-05T16:23:26Z",
-        "sentiment": "Bearish"
       }
     ]
   }
