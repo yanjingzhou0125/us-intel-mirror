@@ -1,4 +1,501 @@
 {
-  "ts": "2026-09-20 14:32:12",
-  "tickers": {}
+  "ts": "2026-09-20 18:00:24",
+  "tickers": {
+    "NVDA": [
+      {
+        "user": "giocatore",
+        "body": "$BTC.X $MU $NVDA $SPY $TSLA \n\nEvery Fckng Time!! ]+}%&gt;.&amp;0”$.’!!!\n\nFML 🤣",
+        "created_at": "2026-09-20T17:58:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Mrbullsociety",
+        "body": "What stocks are you most BULLISH on this week? If you had to pick one. \n\nMine is $NVDA BIG WEEK AHEAD",
+        "created_at": "2026-09-20T17:57:06Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Money247_com",
+        "body": "$NVDA $SPY $TSLA $MU $BTC.X  \nMy strategy for trading…",
+        "created_at": "2026-09-20T17:55:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "biohazardous",
+        "body": "$NVDA Should be a nice green Monday!",
+        "created_at": "2026-09-20T17:49:00Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Loudermilk64",
+        "body": "$SOUN $NVDA  thieveing  dung  shitti  CEOs",
+        "created_at": "2026-09-20T17:46:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "seven01trades",
+        "body": "$NVDA $AMD $INTC $MU $MP — NEW: U.S.–China talks begin in New York with AI and critical minerals on the agenda\n\nU.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng began high-level talks in New York on Sunday, Sept. 20, ahead of the upcoming Trump–Xi summit.\n\nReuters reports the",
+        "created_at": "2026-09-20T17:46:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Oiljunkie",
+        "body": "$NVDA $QQQ $SPY $TSLA",
+        "created_at": "2026-09-20T17:31:31Z",
+        "sentiment": ""
+      },
+      {
+        "user": "CaptainRonRico",
+        "body": "$NVDA I was hoping for $235 at the open.",
+        "created_at": "2026-09-20T17:31:14Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "GlorifiedWon",
+        "body": "$NOK BULLISH — AI-RAN story keeps getting stronger\n\nT-Mobile is going hard on AI-RAN while AT&amp;T &amp; Verizon are taking a more cautious approach. T-Mobile says live-site AI-RAN testing is showing ~10% spectral-efficiency gains and ~15% higher downlink throughput. \n\nHere’s where Nokia comes in: ",
+        "created_at": "2026-09-20T17:30:09Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PayPalWasMyFirstStonk",
+        "body": "$NVDA 275-300 by Xmas",
+        "created_at": "2026-09-20T17:18:19Z",
+        "sentiment": "Bullish"
+      }
+    ],
+    "TSLA": [
+      {
+        "user": "giocatore",
+        "body": "$BTC.X $MU $NVDA $SPY $TSLA \n\nEvery Fckng Time!! ]+}%&gt;.&amp;0”$.’!!!\n\nFML 🤣",
+        "created_at": "2026-09-20T17:58:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Money247_com",
+        "body": "$NVDA $SPY $TSLA $MU $BTC.X  \nMy strategy for trading…",
+        "created_at": "2026-09-20T17:55:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Stichy",
+        "body": "$BTC.X $TSLA $NFLX $SPCX $RDDT Good boys go to hell and bad girls go to heaven",
+        "created_at": "2026-09-20T17:44:46Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "NauticalTrader",
+        "body": "$SPY $QQQ $DJT $TSLA  \n \nI didn&#39;t vote for either of the two idiots.",
+        "created_at": "2026-09-20T17:44:36Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ragingOx",
+        "body": "$DJT $TSLA $PLTR $QQQ &quot;Family values&quot; \nhttps://x.com/PopBase/status/2101380919743684634",
+        "created_at": "2026-09-20T17:44:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ospreyeye",
+        "body": "$SPY $DJT $TRUMP.X $TSLA $SPCX &gt;&gt;&gt;&gt;\n\nJared Kushner is an Israeli 🇮🇱 asset who lied about Iran&#39;s aggression and is personally enriching himself off the war \n\nThese are war crimes! / Kushner is NOT a US politician or elected official \n\nThis is Hunter Biden times $10 Billion 💸 💵 💲 \n\nThe",
+        "created_at": "2026-09-20T17:39:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NauticalTrader",
+        "body": "$SPY $QQQ $DJT $TSLA  \n \n.",
+        "created_at": "2026-09-20T17:35:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "jerchess",
+        "body": "$TSLA $PBR $MSTR  Dr J and friends presents https://youtu.be/0bwXZTbrRJQ?feature=shared￼",
+        "created_at": "2026-09-20T17:35:38Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Gmoney2020",
+        "body": "$TSLA Still in the 358-374 range—???",
+        "created_at": "2026-09-20T17:33:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Oiljunkie",
+        "body": "$NVDA $QQQ $SPY $TSLA",
+        "created_at": "2026-09-20T17:31:31Z",
+        "sentiment": ""
+      }
+    ],
+    "AAPL": [
+      {
+        "user": "bullrider19",
+        "body": "$AAPL",
+        "created_at": "2026-09-20T17:49:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Tripple0toMillion",
+        "body": "$AAPL $GME",
+        "created_at": "2026-09-20T17:10:54Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "CNGLLC",
+        "body": "$SNDK $MU $NVDA $PLTR $AAPL  \n \nLETS HAVE A CHRISTMAS RALLY NOW UNTIL THE END OF THE YEAR !!!!",
+        "created_at": "2026-09-20T17:08:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "TradeQuant",
+        "body": "$AAPL Own it don&#39;t trade it. On average AAPL returns 1.8% every 18 days. One of the best long term positions you can own.",
+        "created_at": "2026-09-20T16:56:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GrindTime",
+        "body": "THANK U FOR TURNING MY IPHONE INTO A KINDLE FROM 1999 $AAPL",
+        "created_at": "2026-09-20T16:39:12Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "10D_west",
+        "body": "$SPY $AAPL $QQQ This is why a lot of things suck now influencers hyping up sht for money and clout. This is a even bigger deal with food influncers.",
+        "created_at": "2026-09-20T16:34:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "H143capital",
+        "body": "🏈 NFL is back — and so is my latest portfolio update for paid subscribers $META $NVDA $AAPL $TLT \n\nIn this edition, I break down my current view of the market, recent portfolio moves, and some new ideas I’m exploring to generate income while keeping risk under control.\n\nFrom market offense to portfo",
+        "created_at": "2026-09-20T16:31:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "GrindTime",
+        "body": "$AAPL Ai may put this to shame and the way apple put creative labs out may do the same to apple?",
+        "created_at": "2026-09-20T16:31:31Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "kcphaeton",
+        "body": "$AAPL $NVDA $SPCX apple is a whole different value proposition. It’s definitely not a luxury trap. It’s a tool that people enjoy, definitely worth upgrading. With all the money I’ve made in my Apple stock over the last couple years, it’s enabled a nice lifestyle. Nvidia stock is the same way. Own bo",
+        "created_at": "2026-09-20T16:25:15Z",
+        "sentiment": ""
+      },
+      {
+        "user": "kcphaeton",
+        "body": "$AAPL @Rickyjg866 yep, that’s why the Apple Store I was in yesterday indicated that by 2 PM they had sold 3500 new iPhones. Including one to me and A new Apple Ultra 4 watch.   You do the math.",
+        "created_at": "2026-09-20T16:23:47Z",
+        "sentiment": ""
+      }
+    ],
+    "AMD": [
+      {
+        "user": "Trading_up_portfolio",
+        "body": "Trading after hours \n\n$AMD $GOOG $EO",
+        "created_at": "2026-09-20T17:57:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "seven01trades",
+        "body": "$NVDA $AMD $INTC $MU $MP — NEW: U.S.–China talks begin in New York with AI and critical minerals on the agenda\n\nU.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng began high-level talks in New York on Sunday, Sept. 20, ahead of the upcoming Trump–Xi summit.\n\nReuters reports the",
+        "created_at": "2026-09-20T17:46:29Z",
+        "sentiment": ""
+      },
+      {
+        "user": "flychicken1991",
+        "body": "$AMD Reddit heat: top 3 ticker in NewsImpact&#39;s Reddit scan over the past 2 days (rank #3). Mentions: 7; trend score: 19.8. Research only, not financial advice. https://nimpact.tech/newsimpact/ticker/AMD?utm_source=stocktwits&amp;utm_medium=reddit_heat",
+        "created_at": "2026-09-20T17:13:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "wader2k",
+        "body": "$AMD Packers Jets game not broadcast locally here. Thank goodness for StreamEast......",
+        "created_at": "2026-09-20T17:10:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Tripple0toMillion",
+        "body": "$BTC.X $NVDA $AMD \nFOMO alert ⚠️ 📢",
+        "created_at": "2026-09-20T17:09:47Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SonGoku",
+        "body": "I think by 2035-2037 $AMD will be a $10 trillion company and $NVDA will be a $50 trillion company. $SMH",
+        "created_at": "2026-09-20T16:36:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JFDI",
+        "body": "It’s Lisa’s turn, cmon now baby, giddy up! \n\n$AMD",
+        "created_at": "2026-09-20T16:23:39Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "SonGoku",
+        "body": "$MU $AMD $ARM $PLTR $MRVL 5 year estimate profit growth",
+        "created_at": "2026-09-20T15:42:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Sam1965",
+        "body": "$AMD Hey Shorty!  Go ahead and load up on Monday so we can bankrupt you by the end of the week.  Better yesterday use margins and wait for the call that bankrupts you.",
+        "created_at": "2026-09-20T15:34:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "harmongreg",
+        "body": "5 Trade Ideas for Monday: Advanced Micro Devices, Arm, Amgen, Eaton and 3M $AMD $ARM $AMGN $ETN $MMM https://dragonflycap.com/5-trade-ideas-for-monday-advanced-micro-devices-arm-amgen-eaton-and-3m/",
+        "created_at": "2026-09-20T14:57:51Z",
+        "sentiment": ""
+      }
+    ],
+    "TSM": [
+      {
+        "user": "peloswing",
+        "body": "Should&#39;ve just bought every dip on $TSM 😂 \n \nThe stock saw a nice bounce off the marked support area + VPoC, likely heading towards $475-478! \n \nNetflow also spiked VERY BULLISH before close on Friday!",
+        "created_at": "2026-09-20T14:18:55Z",
+        "sentiment": ""
+      },
+      {
+        "user": "johnnyx2",
+        "body": "@Puneetd @escapegrl let say you&#39;re Apple and you are fighting with Nvidia, Amazon, Google, and 20 other companies to get a bigger capacity &quot;allocation&quot; from $TSM . Do you want to announce to the world that you&#39;re using Intel as well?",
+        "created_at": "2026-09-20T14:04:17Z",
+        "sentiment": ""
+      },
+      {
+        "user": "cubie",
+        "body": "@TraderRapp @itsphd @Jeremymartin007 @judgeyoung2 @jenbunn @ZY786 @Tradermikes40 @tonyctl @Jeremy4 @zuby34\n\n didn&#39;t even knew bout $MRVL $TSM till u just mentioned now, those bueno too.   $SNDK $AMD  popped most.\n\nans maybe $DELL had  buyers read to btfd bc thats the new scam street darling",
+        "created_at": "2026-09-19T02:54:20Z",
+        "sentiment": ""
+      },
+      {
+        "user": "investor226",
+        "body": "$TSM if anyone is interested in option trades https://www.instagram.com/options_journalist?stkn=azNxdG9qMjZrZTBs&amp;utm_source=qr",
+        "created_at": "2026-09-19T02:48:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $INTC $NVDA $TSM looks like the rotation into the chip sector is back",
+        "created_at": "2026-09-19T00:36:57Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Gluteshevaa",
+        "body": "$TSM yes",
+        "created_at": "2026-09-18T22:32:08Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "thszda",
+        "body": "$NVDA $TSM $SMCI $NBIS $DRAM\nBREAKING NEWS —- (SEEKINGALPHA) https://seekingalpha.com/news/4644505-nvidia-backed-neocloud-nscale-files-for-ipo?share_source=shared_news",
+        "created_at": "2026-09-18T22:12:44Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SteveJohnsonis",
+        "body": "$AMD $TSM",
+        "created_at": "2026-09-18T22:05:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Clargy",
+        "body": "$TSM One of the more resilient semis since the great software flippening in June.",
+        "created_at": "2026-09-18T21:28:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Wall_street_veteran",
+        "body": "$NVTS $AMD $NVDA the $TSM wafer price hike signals extremely high demand ! Another bottleneck",
+        "created_at": "2026-09-18T20:39:52Z",
+        "sentiment": "Bullish"
+      }
+    ],
+    "MSFT": [
+      {
+        "user": "August_West",
+        "body": "$GOOGL $META $MSFT $ORCL Have you heard of free speech?  I think we’re are allowed to have an opinion on AI.",
+        "created_at": "2026-09-20T17:15:18Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "RohR1",
+        "body": "$GOOGL $META $MSFT $ORCL That new AI Force should investigate hate mongers like Burry Zitron who are doing their best to put our country’s AI efforts begind. . Are they getting money from our enemies  to do this ?",
+        "created_at": "2026-09-20T17:06:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HITTHEHOLE",
+        "body": "$APLD \n\nOn the July 27 call, Wes said the 100 MW PF2 expansion and 150 MW Delta Forge expansion are already in advanced negotiations with the two existing investment-grade customers. \n\nBut when an analyst specifically asked about the remaining roughly 1.5 GW of marketed capacity and whether it would",
+        "created_at": "2026-09-20T16:54:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR on the left and $MSFT on the right!!! \n \n \nMicrosoft has gone so far to call their fake Ai ”FOUNDRY “!?!?!?  \n \n$SPY if you can’t beat them, then copy the name of Palantir&#39;s PRODUCTS!!! $SNOW $JOB",
+        "created_at": "2026-09-20T16:24:25Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NoCryingInDaCasino69",
+        "body": "$MSFT my co worker won’t shut up about using co pilot for everything +$520",
+        "created_at": "2026-09-20T16:17:25Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$GLD.X $MSFT $PLTR $SPY",
+        "created_at": "2026-09-20T16:14:27Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$PLTR only has 1 20% day in company history and that was the day after the last ER CC!!!  We trended the entire day after as #1 on Stocktwits!!! \n \n$SPY $DJT $GLD.X Dome with Xi in DC this week!?!?!? GREENLAND 🇬🇱 a GO GO!!!        $MSFT ??? NOOOOOOOOOOOO!!! \n \nhttps://media.stocktwits-cdn.com/api/3/",
+        "created_at": "2026-09-20T16:04:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "AshHydrogen",
+        "body": "$SPY $DJT gets Greenland 🇬🇱 $PLTR $GLD.X Dome!!! No $MSFT patch!!",
+        "created_at": "2026-09-20T14:18:42Z",
+        "sentiment": ""
+      },
+      {
+        "user": "cryptoforecast",
+        "body": "$MSFT Microsoft Stock Price Prediction 2026, 2030, 2040 \n \nhttps://telegaon.com/microsoft-price-prediction/",
+        "created_at": "2026-09-20T13:28:51Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "doctorslopadopolis",
+        "body": "$MSFT",
+        "created_at": "2026-09-20T12:20:38Z",
+        "sentiment": ""
+      }
+    ],
+    "GOOG": [
+      {
+        "user": "Trading_up_portfolio",
+        "body": "Trading after hours \n\n$AMD $GOOG $EO",
+        "created_at": "2026-09-20T17:57:26Z",
+        "sentiment": ""
+      },
+      {
+        "user": "MountCapital",
+        "body": "$GOOG US financial markets on the brink of panic thanks to the PDF running the White  House",
+        "created_at": "2026-09-20T16:39:40Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "MountCapital",
+        "body": "$GOOG $250 by year end.",
+        "created_at": "2026-09-20T16:39:03Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "DonCorleone77",
+        "body": "$GOOGL $GOOG $OPEAZZX.P $ANTHZZX.P $META  \n \nGoogle&#39;s Gemini model hacked into three systems during testing, Bloomberg says \n \nIn May, Google&#39;s (GOOGL) Gemini AI model inadvertently hacked into three company systems during cybersecurity testing, Julia Love and Davey Alba of Bloomberg reports",
+        "created_at": "2026-09-20T16:17:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Eidmar",
+        "body": "$MU Netlist CEO Speaks: Samsung May Be Just the Beginning | NLST \nhttps://youtu.be/YNk8dxDDie0?si=HdtJ14tGg4cOr6CE $GOOG $GOOGL $SKHY",
+        "created_at": "2026-09-20T15:33:10Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TheOptionsOracleUSA",
+        "body": "$GOOG gave me the trade I wanted in July, I took the profit, and moved on. Now I am looking at it again. \nThe stock has spent the last several weeks consolidating after another pullback, the major moving averages have compressed underneath the current price, and several fresh developments around Goo",
+        "created_at": "2026-09-20T13:59:14Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ChillerID",
+        "body": "$NVDA $AMD $GOOG $IBM 🚀",
+        "created_at": "2026-09-20T06:44:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "PivotPoint_101",
+        "body": "$GOOG $NVDA $QQQ $SPY \n#pivotgroup🔐🎬 we’re trading",
+        "created_at": "2026-09-20T03:01:47Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ManifestVisions",
+        "body": "$GOOG green Monday, just got that feeling.",
+        "created_at": "2026-09-20T00:02:58Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions-   \n                                                                                                                                                  \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                               ",
+        "created_at": "2026-09-19T22:49:52Z",
+        "sentiment": ""
+      }
+    ],
+    "META": [
+      {
+        "user": "August_West",
+        "body": "$GOOGL $META $MSFT $ORCL Have you heard of free speech?  I think we’re are allowed to have an opinion on AI.",
+        "created_at": "2026-09-20T17:15:18Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Gainer400percent",
+        "body": "$META they call it muse. I call it crash.",
+        "created_at": "2026-09-20T17:07:43Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "RohR1",
+        "body": "$GOOGL $META $MSFT $ORCL That new AI Force should investigate hate mongers like Burry Zitron who are doing their best to put our country’s AI efforts begind. . Are they getting money from our enemies  to do this ?",
+        "created_at": "2026-09-20T17:06:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "howardlindzon",
+        "body": "$META",
+        "created_at": "2026-09-20T17:01:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "HITTHEHOLE",
+        "body": "$APLD \n\nOn the July 27 call, Wes said the 100 MW PF2 expansion and 150 MW Delta Forge expansion are already in advanced negotiations with the two existing investment-grade customers. \n\nBut when an analyst specifically asked about the remaining roughly 1.5 GW of marketed capacity and whether it would",
+        "created_at": "2026-09-20T16:54:46Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "H143capital",
+        "body": "🏈 NFL is back — and so is my latest portfolio update for paid subscribers $META $NVDA $AAPL $TLT \n\nIn this edition, I break down my current view of the market, recent portfolio moves, and some new ideas I’m exploring to generate income while keeping risk under control.\n\nFrom market offense to portfo",
+        "created_at": "2026-09-20T16:31:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NoCryingInDaCasino69",
+        "body": "$META 🚨 WARNING🚨 they will announce -10 billion dollar loss on Q3 earnings for trial settlement just buy the dip if it goes below $615",
+        "created_at": "2026-09-20T16:21:57Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "DonCorleone77",
+        "body": "$GOOGL $GOOG $OPEAZZX.P $ANTHZZX.P $META  \n \nGoogle&#39;s Gemini model hacked into three systems during testing, Bloomberg says \n \nIn May, Google&#39;s (GOOGL) Gemini AI model inadvertently hacked into three company systems during cybersecurity testing, Julia Love and Davey Alba of Bloomberg reports",
+        "created_at": "2026-09-20T16:17:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Ep1219",
+        "body": "$META is everyone ready for Monday? this is just the beginning I mean the beginning we waited long enough. It&#39;s been stuck in mud for the last two years. Never mind the last nine months especially the last three months. The weight is officially over. It&#39;s king of Kings now by these levels ar",
+        "created_at": "2026-09-20T16:12:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "kindness123",
+        "body": "$META",
+        "created_at": "2026-09-20T15:49:31Z",
+        "sentiment": ""
+      }
+    ]
+  }
 }
