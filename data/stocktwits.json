@@ -1,131 +1,167 @@
 {
-  "ts": "2026-10-18 03:18:03",
+  "ts": "2026-10-18 08:15:14",
   "tickers": {
     "NVDA": [
       {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $INTC $NVDA $TSM  \nNvidia is legally and financially permitted to buy CoreWeave bonds, though CEO Jensen Huang recently stated that Nvidia does not need to backstop or rescue CoreWeave. i think that if the draw-down in semiconductor stocks keeps going at this rate, Nvidia might just step i",
+        "created_at": "2026-10-18T07:51:02Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Hanover_Fiste",
+        "body": "$CBRS $CRWV $NVDA \n\nBULLSHIT",
+        "created_at": "2026-10-18T07:26:35Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "guil2007",
+        "body": "$NVDA The sell Signal is Over",
+        "created_at": "2026-10-18T07:02:50Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Merlintrader",
+        "body": "NVIDIA $NVDA: AI Infrastructure And GTC Berlin \n \nhttps://www.merlintrader.com/nvidia-stock-hub/",
+        "created_at": "2026-10-18T06:37:23Z",
+        "sentiment": ""
+      },
+      {
         "user": "BigBreakingWire",
-        "body": "South Korea Says Semiconductor Boom Could Last Through 2027\n\nBoom expected to continue: South Korean Finance Minister Lee Hyung-il said the semiconductor industry’s growth cycle could continue at... https://bigbreakingwire.in/bbw-live-news-blog-today/#pennion-live-blogging-update-4563 \n\n$SKHY $KORU ",
-        "created_at": "2026-10-18T02:55:23Z",
+        "body": "Accenture Caps Claude AI Spending at $29 per Employee per Month\n\nMonthly AI spending limit: Accenture is reportedly covering only $29 per employee per month for Claude usage, with additional cost... https://bigbreakingwire.in/bbw-live-news-blog-today/#pennion-live-blogging-update-4567 \n\n$ACN $SPY $Q",
+        "created_at": "2026-10-18T06:23:18Z",
         "sentiment": ""
       },
       {
-        "user": "Fang76",
-        "body": "$MU $NVDA https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
-        "created_at": "2026-10-18T02:48:42Z",
+        "user": "blanc1pain",
+        "body": "$ARBE $INVZ $AEVA $NVDA $TSLA  \n \nWhen everyone’s stomach started turning from their constant random speculations and the path to bankruptcy became certain, they organized fake expectation calendars. \nThis actually turned out well. We’ll be able to clearly see just how empty the nonsense they made u",
+        "created_at": "2026-10-18T05:57:30Z",
         "sentiment": ""
       },
       {
-        "user": "Mercy_forever",
-        "body": "$SPY $MU $NVDA $QQQ $GOOGL \nFirst I posted about GS Mike Wilson that the panic selling is over done now BOFA Hartnett that WS literally listen to said…The Technical &quot;Sell Signal&quot; Has Ended:\n Bank of America&#39;s proprietary Bull &amp; Bear indicator (or tactical model) is no longer trigge",
-        "created_at": "2026-10-18T02:44:03Z",
+        "user": "tradegod692",
+        "body": "$CBRS $CRWV $NVDA deepseek new model will destroy every AI stock on Monday. Similar performance at 10% cost",
+        "created_at": "2026-10-18T05:44:45Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "PaddyOoohhYeah",
+        "body": "$BTC.X $TAO.X $ICP.X $NVDA $ASML",
+        "created_at": "2026-10-18T05:10:35Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "eal163",
-        "body": "$CRWV $NBIS $IREN $NVDA $MU the party is just getting started",
-        "created_at": "2026-10-18T02:37:03Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BullseyeGains",
-        "body": "$MU $NVDA $CIFR $IREN $APLD  We were featured as July&#39;s top trader in a blog post by the Stocktwits CEO because we pivoted before the crowd. This time, we side-stepped October&#39;s pullback by dropping overnight AI holds, then we locked in bearish options plays on Friday that should pay out big",
-        "created_at": "2026-10-18T02:33:08Z",
+        "user": "TickrTalk0007",
+        "body": "$NVDA $SOXL FUD police heavy presence",
+        "created_at": "2026-10-18T05:07:47Z",
         "sentiment": ""
       },
       {
-        "user": "Yourdaddy10",
-        "body": "$CIFR $NVDA $CRWV $NBIS.X",
-        "created_at": "2026-10-18T02:18:16Z",
-        "sentiment": ""
-      },
-      {
-        "user": "dragon_heart",
-        "body": "#Deepseek is going to tank $NVDA  $SOXX and $SMH\n\nSo glad I hoarded $TGRZ on Friday. That is the only AI trade I am in.\n\nBut forget about semis and AI for a second. The biggest AI threat is cyber security.  Come to play Quantum security $QUBT !!!",
-        "created_at": "2026-10-18T02:14:04Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Supraman1",
-        "body": "$SPCX  $NVDA      https://www.tiktok.com/t/ZPLS3uUh7/",
-        "created_at": "2026-10-18T02:11:19Z",
-        "sentiment": ""
-      },
-      {
-        "user": "bullsbearsrtds",
-        "body": "$SPY $MU $NVDA $SPCX  \n \nForward PE of S&amp;P is now almost at liberation day level when SP500 was 5400.....",
-        "created_at": "2026-10-18T01:54:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SpartanTradeAlerts",
-        "body": "@Maribor That is the Jevons point for $MU and $NVDA. Running a model at GPT-3.5 level got roughly 280x cheaper in two years per Stanford HAI, yet total use rose faster, with Bain putting token consumption up 450% in a year as agents took bigger jobs. Leaner expands the workload, it does not shrink i",
-        "created_at": "2026-10-18T01:53:11Z",
+        "user": "Utreggg",
+        "body": "$BTC.X $TAO.X $ICP.X $NVDA $ASML Europe may be heading toward a serious financial and political crisis. France is facing growing social unrest, political instability and rising government borrowing costs, while Italy continues to struggle with its high public debt. Across Europe, governments are fin",
+        "created_at": "2026-10-18T05:03:13Z",
         "sentiment": ""
       }
     ],
     "TSLA": [
       {
-        "user": "SpartanTradeAlerts",
-        "body": "@TrumpAndWolrd Exactly, and the timing matters on $TSLA. NHTSA has about 120 days from the Sept 23 filing to grant or deny DP26010, so that decision lands around late January, not at earnings. The nearer robotaxi date is Oct 30, when Tesla owes sworn answers on the Cybercab certification audit. Earn",
-        "created_at": "2026-10-18T03:07:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "jimmybuckets727",
-        "body": "$TSLA $SPCX how can you be real when your lead line is tesla $5 u gotta do better kiddo....",
-        "created_at": "2026-10-18T03:02:45Z",
+        "user": "Zt09",
+        "body": "$TSLA , $SPY, $ QQQ\nBut for real though, Elon Musk’s birthday should straight up be International Scientist Day, World Engineer Day, Science Day, or Aerospace Day. Basically, something that actually does justice to TSLA stock.",
+        "created_at": "2026-10-18T08:06:32Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "DIRTYCASH",
-        "body": "$TSLA \n\nLIFTED SANCTIONS AGAINST RUSSIA BUT HEY LOOK AT THE FLYING CAR!\n\nWTF IS HAPPENING????????",
-        "created_at": "2026-10-18T02:50:22Z",
+        "user": "RandyLehey69",
+        "body": "$DJT $SPCX $SPY $TSLA people still fight with each other over political parties? You know they both want to bend you over right?",
+        "created_at": "2026-10-18T08:00:56Z",
         "sentiment": ""
       },
       {
-        "user": "SpartanTradeAlerts",
-        "body": "@TrumpAndWolrd Worth separating the headline on $TSLA here: NHTSA opened a defect petition review, DP26010 on Oct 9, not a formal investigation yet. It covers about 1,000 2026 Model Y and Cybercab robotaxis, four reports and three videos, with no crashes or injuries listed. The watch is whether NHTS",
-        "created_at": "2026-10-18T02:48:16Z",
+        "user": "lekamaci",
+        "body": "$TSLA 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🙌",
+        "created_at": "2026-10-18T08:00:48Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Charizardforlife",
+        "body": "$SPCX $TSLA",
+        "created_at": "2026-10-18T07:29:04Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "imjustjimmymoore",
+        "body": "#Facts about #elonmusk #childhood #dreams \n\n$TSLA https://x.com/turfnetworkchan/status/2111717263644520571?s=46",
+        "created_at": "2026-10-18T07:26:06Z",
         "sentiment": ""
       },
       {
-        "user": "SpartanTradeAlerts",
-        "body": "@Justwin100 Good list, and $QQQ already priced a chunk of it this week: closed Friday at $709.80, down 5.5% on the week. The near term test is less the headlines and more earnings, $NFLX Tuesday, then $META and $TSLA Wednesday, especially whether $META capex guidance calms the AI debt worry or feeds",
-        "created_at": "2026-10-18T02:43:45Z",
+        "user": "PhishTourFunds",
+        "body": "$SPCX  $TSLA",
+        "created_at": "2026-10-18T07:21:46Z",
         "sentiment": ""
       },
       {
-        "user": "TrumpAndWolrd",
-        "body": "Federal investigators are reportedly looking into Tesla&#39;s Cybercab robotaxi pilot over school-zone speeding. \n \nWhere it lands: \n▼ $TSLA -2.0% \n \nThis is a regulatory headline with no confirmed penalty, and TSLA has already sold off hard this week…",
-        "created_at": "2026-10-18T02:37:29Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Apex_101",
-        "body": "$TSLA",
-        "created_at": "2026-10-18T02:36:55Z",
+        "user": "Barkee",
+        "body": "$SPY $DJT $TSLA $SPCX",
+        "created_at": "2026-10-18T07:16:31Z",
         "sentiment": ""
       },
       {
-        "user": "SpartanTradeAlerts",
-        "body": "@Sub_Zero0 That is a real watch for $TSLA into Wednesday. Free cash flow was already negative $1.1B in Q2 with capex guided above $25B for the year, and spending for Optimus and Cybercab adjustments sits inside that. Goldman has said the robot and robotaxi updates may matter more than the EPS print ",
-        "created_at": "2026-10-18T02:28:37Z",
+        "user": "HeroicJobCreator",
+        "body": "$DJT $SPCX $SPY $TSLA",
+        "created_at": "2026-10-18T07:15:31Z",
         "sentiment": ""
       },
       {
-        "user": "Sub_Zero0",
-        "body": "$TSLA did they delay the roadster event because they wanted one last pump before the bad earnings? Just my two cents.",
-        "created_at": "2026-10-18T02:24:48Z",
-        "sentiment": "Bearish"
+        "user": "blameme",
+        "body": "$QQQ $SPY $TSLA $DJT Saw this today.",
+        "created_at": "2026-10-18T07:11:43Z",
+        "sentiment": ""
       },
       {
-        "user": "TALENT_ON_LOAN_FROM_GOD",
-        "body": "$TSLA to $5 \n$SPCX   SPACEJUNK  SCAM\n\nBEFORE OR AFTER  INVESTIGATIONS???\n\nELON WAR CRIMINAL \nDOGE CRIMES \nTWITTER PROPAGANDA MOGUL\nPOLITICAL TRICKSTER \n—DEMOCRTATS ARE COMING!🫵",
-        "created_at": "2026-10-18T02:06:52Z",
-        "sentiment": "Bearish"
+        "user": "sooo0O00oOoO0ooor",
+        "body": "$SPY $DJT $TSLA $SPCX \n\nMAGA knows Trump is the dumbest US president in history and is hoping he will accidentally be great at the economy and  wars. You are dumb fucks.",
+        "created_at": "2026-10-18T07:04:41Z",
+        "sentiment": ""
       }
     ],
     "AAPL": [
+      {
+        "user": "cryptoforecast",
+        "body": "$AAPL Apple Stock Prediction 2026, 2027, 2030 \n \nhttps://telegaon.com/apple-stock-prediction/",
+        "created_at": "2026-10-18T07:30:13Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Bookrunner",
+        "body": "$SPY $TSLA $AAPL $BTC.X \nHouse Poor:👇😉",
+        "created_at": "2026-10-18T05:00:50Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ksbear",
+        "body": "$AAPL duo hyped sold out that&#39;s the trick appl does eveytime low ball estimates and create Artificially demand.  \n \nImportant iphone sales down 18-20% which is the key. At  these that&#39;s the case then why would any one want to buy at these levels at the peak. Its will pull back then ot will b",
+        "created_at": "2026-10-18T04:59:53Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--  \n                                                                                                                                                     \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                            ",
+        "created_at": "2026-10-18T04:21:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BiHiCellLo",
+        "body": "$QQQ $SPY $AAPL $NVDA MSFT AMZN SPCX TSLA META GOOGL \n \n2 DTE&#39;s",
+        "created_at": "2026-10-18T03:36:21Z",
+        "sentiment": ""
+      },
+      {
+        "user": "lemonaids",
+        "body": "$AAPL is next week green or red? Thoughts?",
+        "created_at": "2026-10-18T03:20:56Z",
+        "sentiment": ""
+      },
       {
         "user": "devilinblue",
         "body": "$AAPL",
@@ -149,45 +185,27 @@
         "body": "$AAPL 102% already; congrats 🔆🌿🌷\n\nCheckout $FIS and $RXRX all the best",
         "created_at": "2026-10-18T00:31:59Z",
         "sentiment": ""
-      },
-      {
-        "user": "LoneBroker",
-        "body": "$NVDA  $AAPL  $MSFT",
-        "created_at": "2026-10-17T23:49:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Ihatemylifesavings",
-        "body": "$XCN.X $BTC.X $DOGE.X $TSLA $AAPL https://x.com/Onyx/status/2111096736378945569",
-        "created_at": "2026-10-17T23:45:15Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Alexchennn195",
-        "body": "$MU but Trump said the Strait of Hormuz is open 😭😭😭🩸🩸🩸🩸🛢️🛢️🔥🔥 $SNDK $AAPL",
-        "created_at": "2026-10-17T23:23:59Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "lasercut",
-        "body": "$INTC \n\n$AAPL $AVGO $AMD $GOOGL \n\nAccumulate everyweek ups and down.",
-        "created_at": "2026-10-17T22:27:05Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "ElliottwaveForecast",
-        "body": "$AAPL’s top may still be ahead—the Elliott Wave structure points to more upside before the next pullback. \n \nSee the anticipated sequence before it unfolds: https://elliottwave-forecast.com/news/apple-aapl-tops-out-elliott-wave-says-not-yet/ \n \nTrade the Blue Boxes, High Frequency areas. \n#elliottwa",
-        "created_at": "2026-10-17T22:02:05Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Jumper567",
-        "body": "$AAPL sold out? GTFOH with the lies make a ten units and claim that as sold out 🤣🤣🤣🤣🤣",
-        "created_at": "2026-10-17T21:58:50Z",
-        "sentiment": "Bearish"
       }
     ],
     "AMD": [
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions-  \n                                                                                                                                                     \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                             ",
+        "created_at": "2026-10-18T04:21:04Z",
+        "sentiment": ""
+      },
+      {
+        "user": "graph",
+        "body": "$CBRS $AMD $NVDA $AVGO",
+        "created_at": "2026-10-18T03:47:03Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "lemonaids",
+        "body": "$AMD how is everyone feeling about the earnings announcement in a couple weeks?",
+        "created_at": "2026-10-18T03:29:12Z",
+        "sentiment": ""
+      },
       {
         "user": "APEDM",
         "body": "$SNDK $MU $STX $LITE $AMD",
@@ -229,27 +247,15 @@
         "body": "ASML: “We are increasingly receiving orders for 2028, and customers are also expressing interest in placing orders for 2029 and even 2030.”\n\nThe fear of an AI bubble weighing on semiconductor stocks looks increasingly ridiculous given the massive demand and bullish outlook that $ASML, $TSM, $Dell, $",
         "created_at": "2026-10-18T00:27:06Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "stockmongerer",
-        "body": "$SPY $QQQ  $AMD $TSLA \n\nExpecting some relief early next week - enough to destroy puts but still print higher lows… looking to both bail out &amp; trap bulls before lower lows imo",
-        "created_at": "2026-10-18T00:19:06Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MAs_Crxss",
-        "body": "@ihavethekavorka you’re absolutely trippin dude. I’ve been in $AMD since $17. You don’t see me with a gazzilion bodies behind me ready to jump at every trade I make!!! Dude got CVNA right one time… cool shit dude!!! How many did he get wrong before that, and how many are wrong after that???? I’m a b",
-        "created_at": "2026-10-18T00:13:59Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "LizLovesReddit",
-        "body": "$AMD 4:36 PM Oct 17, 2026 \nhttps://x.com/AMD/status/2111556859660243165?s=20",
-        "created_at": "2026-10-18T00:08:57Z",
-        "sentiment": "Bullish"
       }
     ],
     "TSM": [
+      {
+        "user": "ycdctx",
+        "body": "$SNDK $MU $INTC $NVDA $TSM  \nNvidia is legally and financially permitted to buy CoreWeave bonds, though CEO Jensen Huang recently stated that Nvidia does not need to backstop or rescue CoreWeave. i think that if the draw-down in semiconductor stocks keeps going at this rate, Nvidia might just step i",
+        "created_at": "2026-10-18T07:51:02Z",
+        "sentiment": ""
+      },
       {
         "user": "ShadowBanningIsBad",
         "body": "$MU  $DELL CEO doesn&#39;t have a clue.  EVEN if you can build a clean room in 4 years you have to put the EUV and DUV in.  Production can ONLY increase at the speed DUV and EUV machines can be made.   $TSM has a lot of EUV so they can do the base board for HBM but the DUV still takes time.    There",
@@ -303,15 +309,27 @@
         "body": "$SNDK $MU $NVDA $TSM $INTC  \nso far, it&#39;s been nothing but a continuation of september. and it all seems to hinge on what happens to CRWV, because their bond yields have gone up and stayed up. Now it&#39;s known that CoreWeave exclusively builds its GPU acceleration systems around NVIDIA hardwar",
         "created_at": "2026-10-17T18:15:54Z",
         "sentiment": ""
-      },
-      {
-        "user": "ShadowBanningIsBad",
-        "body": "$QQQ $AMD has about 1 billion tied up in new CPU.  I don&#39;t think there is a market for expensive CPU because of the memory shortage.  \n \n$TSM really needs to shift new fabs to make memory. its not that different.    \n \nBUT if there is a funding issue for AI hardware they $AMD EPS goes negative w",
-        "created_at": "2026-10-17T15:06:56Z",
-        "sentiment": ""
       }
     ],
     "MSFT": [
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--  \n                                                                                                                                                     \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                            ",
+        "created_at": "2026-10-18T04:21:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SpartanTradeAlerts",
+        "body": "@Stockmarketinvest Worth separating the two buckets in $MSFT and $META. The reported pullback was internal Claude use, $META users roughly halved to 30k and $MSFT cut its Anthropic tool budget by a third, steering staff to in house tools. Infrastructure capex is different, still guided at about $130",
+        "created_at": "2026-10-18T03:38:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stockmarketinvest",
+        "body": "$SPY $QQQ $MSFT $META $GOOG Meta and Microsoft are pulling back AI spending something is going on with AI",
+        "created_at": "2026-10-18T03:33:46Z",
+        "sentiment": ""
+      },
       {
         "user": "PhishTourFunds",
         "body": "$ORCL  $MSFT  $GOOG \n$SPY  not a bubble!",
@@ -353,27 +371,21 @@
         "body": "@Toorichtocare  $MSFT generated $182.9B of operating cash flow in FY26 against about $116B of capex, so it still cleared roughly $67B of free cash flow. Alphabet could not say that last quarter, capex ran past its operating cash flow and FCF went negative.",
         "created_at": "2026-10-17T21:54:12Z",
         "sentiment": ""
-      },
-      {
-        "user": "Toorichtocare",
-        "body": "$MSFT   Put me in the camp of no bubble...2000 Dot-Com Peak top 10 market cap companies P/E Ratio ~43x .... today top 10  P/E Ratio~28x to 31x.  So, it is a fair conversation to talk about what the return on  massive Capex is but our  top 10 companies are very profitable. And out of those, MSFT stan",
-        "created_at": "2026-10-17T21:43:42Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DeepValueStocks",
-        "body": "$MSFT Microsoft&#39;s cybersecurity partner SentinelOne(S) just completed their capital raise:  \n  \n               Rev Growth (27E)     P/S Ratio       Cash              Mkt Cap  \nS                      20-21%                      7               $2.7B (E)         $7.5B        \nCRWD            24-26",
-        "created_at": "2026-10-17T21:30:58Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "SeanDavid",
-        "body": "Consensus for AI stocks: earnings growth near 100% in 2026 falls to 30% in 2027 and 22% in 2028. The stocks are not priced for growth ending. They are priced for growth not slowing this fast. Deceleration is the trade now. $NVDA $MSFT $QQQ",
-        "created_at": "2026-10-17T20:26:09Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions  \n                                                                                                                                                     \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                              ",
+        "created_at": "2026-10-18T04:20:30Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stockmarketinvest",
+        "body": "$SPY $QQQ $MSFT $META $GOOG Meta and Microsoft are pulling back AI spending something is going on with AI",
+        "created_at": "2026-10-18T03:33:46Z",
+        "sentiment": ""
+      },
       {
         "user": "PhishTourFunds",
         "body": "$ORCL  $MSFT  $GOOG \n$SPY  not a bubble!",
@@ -421,21 +433,39 @@
         "body": "@Natedawg32 I hear $GOOG AI is pretty good at answering questions these days 🤙",
         "created_at": "2026-10-17T18:28:30Z",
         "sentiment": ""
-      },
-      {
-        "user": "Luffy_Swings",
-        "body": "$GOOG I think we head back up now.",
-        "created_at": "2026-10-17T17:45:33Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DeepValueStocks",
-        "body": "$GOOG Google&#39;s cybersecurity partner SentinelOne(S) just closed their capital raise: \n \n&quot;SentinelOne&#39;s net proceeds from the Offering, including the exercise in full by the initial purchasers of the Option, were approximately $1,408 million&quot; ($1.408B)  + existing cash of $813M, plu",
-        "created_at": "2026-10-17T15:45:06Z",
-        "sentiment": "Bullish"
       }
     ],
     "META": [
+      {
+        "user": "10xorbust",
+        "body": "$APLD $META @shooter0869",
+        "created_at": "2026-10-18T06:17:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "ArcValueTrade",
+        "body": "Clues for Stock market directions--  \n                                                                                                                                                     \n MAG 7 &amp; SPY&amp;  QQQ &amp;  Tech Stocks Trend &amp; Technical:                                            ",
+        "created_at": "2026-10-18T04:21:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "JDRebel",
+        "body": "$SPCX $META $GOOGL $NVDA $MU",
+        "created_at": "2026-10-18T04:12:38Z",
+        "sentiment": ""
+      },
+      {
+        "user": "SpartanTradeAlerts",
+        "body": "@Stockmarketinvest Worth separating the two buckets in $MSFT and $META. The reported pullback was internal Claude use, $META users roughly halved to 30k and $MSFT cut its Anthropic tool budget by a third, steering staff to in house tools. Infrastructure capex is different, still guided at about $130",
+        "created_at": "2026-10-18T03:38:03Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Stockmarketinvest",
+        "body": "$SPY $QQQ $MSFT $META $GOOG Meta and Microsoft are pulling back AI spending something is going on with AI",
+        "created_at": "2026-10-18T03:33:46Z",
+        "sentiment": ""
+      },
       {
         "user": "SpartanTradeAlerts",
         "body": "@Justwin100 Good list, and $QQQ already priced a chunk of it this week: closed Friday at $709.80, down 5.5% on the week. The near term test is less the headlines and more earnings, $NFLX Tuesday, then $META and $TSLA Wednesday, especially whether $META capex guidance calms the AI debt worry or feeds",
@@ -464,36 +494,6 @@
         "user": "SpartanTradeAlerts",
         "body": "@CUPandHANDLE_CHARTS The scale comparison for $QQQ is real, the four biggest hyperscalers are guiding to roughly $733B in capex for 2026, close to twice the telecom peak as a share of GDP. Difference from Global Crossing is funding started from real cash flow, but with capex now near 92% of operatin",
         "created_at": "2026-10-18T01:14:25Z",
-        "sentiment": ""
-      },
-      {
-        "user": "StageAnalysis",
-        "body": "New Blog Post: Earnings Watchlist \n \nThere are 18 stocks highlighted from the weekends US stocks watchlist scans – $NFLX, $META, $ISRG \n \nhttps://www.stageanalysis.net/blog/1417195/earnings-watchlist-19th-to-23rd-october-2026",
-        "created_at": "2026-10-18T00:03:29Z",
-        "sentiment": ""
-      },
-      {
-        "user": "KryptonResearch14",
-        "body": "@CUPandHANDLE_CHARTS  That 63% number is real, $CRWV CDS went above 1,000bp this week per Reuters. It&#39;s pretty concentrated though, $ORCL is next at nearly 300bp, then $NVDA around 90bp and $META around 104bp against an investment-grade index near 60bp.",
-        "created_at": "2026-10-17T23:58:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "investing_dans_valeur",
-        "body": "$NBIS Plunges 25%, But Directors Are Buying. \n\nAs AI cloud stocks face a broad sell-off, $NBIS directors have bought shares for two consecutive days at $169.99 per share.\n\nDirector Arne Grimme’s direct holdings have risen to 6,181 shares.\n\nMeanwhile, $NVDA invested 2 billion in $NBIS in March, and $",
-        "created_at": "2026-10-17T23:53:16Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "LoneBroker",
-        "body": "$AMZN  $GOOG  $META",
-        "created_at": "2026-10-17T23:51:13Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BullseyeGains",
-        "body": "$META Predictions for the post-earnings reaction? Up or down? Let us know your reasoning below 👇.",
-        "created_at": "2026-10-17T23:46:31Z",
         "sentiment": ""
       }
     ]
