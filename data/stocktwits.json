@@ -1,193 +1,211 @@
 {
-  "ts": "2026-10-24 21:03:54",
+  "ts": "2026-10-24 23:32:15",
   "tickers": {
     "NVDA": [
       {
-        "user": "stockdog88",
-        "body": "$MU $NVDA $QQQ $SPY $USO",
-        "created_at": "2026-10-24T20:51:59Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "FrankieSmilez",
-        "body": "$SPY $USO $QQQ $NVDA $MU",
-        "created_at": "2026-10-24T20:49:46Z",
+        "user": "BuyTheDip",
+        "body": "@theoptionsplug  Could be close though. Apple actually edged past $NVDA for a few hours Friday before Nvidia took the lead back at the close, and the gap was only around $50 billion per CNBC. Apple reports Nov 2 and Nvidia not until Nov 17, so Apple gets the first shot at the crown. I own NVDA mysel",
+        "created_at": "2026-10-24T23:23:21Z",
         "sentiment": ""
       },
       {
-        "user": "Crakerjac",
-        "body": "$NVDA The sentiment meter has been climbing I see from this morning. I think it was at 61. All aboard!!!",
-        "created_at": "2026-10-24T20:47:07Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "BashNew",
-        "body": "$AMD $INTC $NVDA $SOXL",
-        "created_at": "2026-10-24T20:32:47Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "Veridionmarkets",
-        "body": "$NVDA Rep. Cleo Fields (LA-06) reported three NVDA purchases on Oct 1, one in each of three E*TRADE accounts (one an IRA, one in the name of Fields Law Firm 2, LLC), each 1,001 to 15,000 dollars, plus $TSM on Oct 9. Signed Oct 22, House Clerk PTR 20035669. Ranges as filed; the filing shows trades, n",
-        "created_at": "2026-10-24T20:25:15Z",
+        "user": "BuyOnRedSellOnGreen",
+        "body": "$DUOT $AGPU $IWM $NVDA I got you",
+        "created_at": "2026-10-24T23:02:33Z",
         "sentiment": ""
       },
       {
-        "user": "optionkingnode777",
-        "body": "$MRNA i think Monday this breaks down under 175. Weekend presentation didn’t meet expectations. Nothing new was presented MRNA will grab weekly puts $SPY $QQQ $SPCX $NVDA",
-        "created_at": "2026-10-24T20:20:04Z",
-        "sentiment": "Bearish"
+        "user": "hyde1634",
+        "body": "$NVDA is this going to run towards earnings?",
+        "created_at": "2026-10-24T22:55:42Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "Holdmybagz",
+        "body": "$SPY $NVDA   $MSFT  spending less on AI tokens? \nhttps://www.apollo.com/wealth/insights-news/insights/daily-spark/slowing-token-spend-shows-compute-demand-is-not-unlimited",
+        "created_at": "2026-10-24T22:42:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "david102",
+        "body": "$SNDK $LLY $AAPL $NVDA",
+        "created_at": "2026-10-24T22:40:01Z",
+        "sentiment": ""
       },
       {
         "user": "TopOptionAlert",
-        "body": "Would you still buy it if 210 breaks on the first test, or do you wait for buyers to prove it again?\n\nA line like that only holds when the first dip finds real size under it. If it slices through on light volume, the same buyers usually want it cheaper. The whole plan for $NVDA, zone, invalidation a",
-        "created_at": "2026-10-24T20:18:44Z",
+        "body": "Agreed on the split you are pointing to. $NVDA carrying the AI buildout while $AAPL plays defense on red days is exactly the kind of rotation that punishes a trader who only watches one name.\n\nHere is the part most people skip. If the semis roll over, what is the level that tells you the leadership ",
+        "created_at": "2026-10-24T22:09:49Z",
         "sentiment": ""
       },
       {
-        "user": "VaporWaves",
-        "body": "$NVDA anything beloe 210, I am buying .",
-        "created_at": "2026-10-24T20:08:54Z",
+        "user": "Tomleeks",
+        "body": "$NVDA costco doing better than chips bc costco chips need replenishndaily no debt",
+        "created_at": "2026-10-24T22:06:33Z",
+        "sentiment": ""
+      },
+      {
+        "user": "theoptionsplug",
+        "body": "Looking very likely that $NVDA finishes the year as the largest company on the world, not $AAPL \n \nI view this as bullish for the market, considering that $NVDA is the biggest/most essential part of the AI infrastructure wave. Apple on the other hand, seems to deviate drastically from the market in ",
+        "created_at": "2026-10-24T21:47:46Z",
+        "sentiment": ""
+      },
+      {
+        "user": "BullseyeGains",
+        "body": "Apple briefly passed Nvidia on Friday to become the world&#39;s most valuable company, the same day its first foldable iPhone hit stores. The detail that matters: Apple spent about $7 billion on capex in the first nine months of its fiscal year while four hyperscalers have guided to roughly $730 bil",
+        "created_at": "2026-10-24T21:46:28Z",
+        "sentiment": ""
+      },
+      {
+        "user": "bullsbearsrtds",
+        "body": "$MU $NVDA $SNDK  \n \nHope we do well this time also!!  \n.",
+        "created_at": "2026-10-24T21:38:31Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "KOSPI Down 42%, Chips Down 6.7%: Is Deleveraging Accelerating? \nMentions: $META $NVDA $JBLU $ORCL $CRWV https://talkmarkets.com/article/weekly-commentary-need-to-talk",
-        "created_at": "2026-10-24T19:33:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "CUPandHANDLE_CHARTS",
-        "body": "$QQQ ~ In this episode we follow the money, from CoreWeave&#39;s bonds which in Oct 2026 are now in extreme “junk status” near 15% &amp; it’s distressed credit default swaps to the investment-grade bonds landing in pension funds, and ask who is actually holding the risk if (when) the AI trillion dol",
-        "created_at": "2026-10-24T19:15:00Z",
-        "sentiment": ""
       }
     ],
     "TSLA": [
       {
-        "user": "accountant01001001",
-        "body": "$TSLA  tesla = doge , starlink = shiba . Vay şöyle oldu vay böyle oldu. Patron , susuz götürür susuz getirir. Üzülürsünüz.",
-        "created_at": "2026-10-24T21:02:49Z",
-        "sentiment": "Bearish"
+        "user": "Zer0co0l",
+        "body": "$GOOGL $TSLA $META dont say you weren’t warned:",
+        "created_at": "2026-10-24T23:24:24Z",
+        "sentiment": ""
       },
       {
-        "user": "accountant01001001",
-        "body": "$TSLA hayalperest patron",
-        "created_at": "2026-10-24T20:55:48Z",
-        "sentiment": "Bearish"
+        "user": "GlobalTradersAcademy",
+        "body": "$TSLA $F $LCID $RIVN \n\nTrump set to announce plan by Audi to build a U.S. factory in Georgia, source says",
+        "created_at": "2026-10-24T23:00:20Z",
+        "sentiment": ""
       },
       {
-        "user": "Again1220",
-        "body": "$SPCX $TSLA $SPY",
-        "created_at": "2026-10-24T20:53:55Z",
+        "user": "proCrew",
+        "body": "$SPCX $TSLA",
+        "created_at": "2026-10-24T22:56:13Z",
+        "sentiment": ""
+      },
+      {
+        "user": "NunzioKnows",
+        "body": "$TSLA So now we find it it was actually Musk who personally crippled Starlink/ Starshield leading to the death of many Ukrainians. He thinks he is the decider of who dies and who lives. He needs to be tried for treason.",
+        "created_at": "2026-10-24T22:52:05Z",
+        "sentiment": ""
+      },
+      {
+        "user": "biggergameJames",
+        "body": "$BFLY $TSLA Gemini has it all planned out.",
+        "created_at": "2026-10-24T22:48:41Z",
         "sentiment": "Bullish"
       },
       {
-        "user": "trumpdisasterprez",
-        "body": "$TSLA  \n🤣🤣🤣🤣🤣",
-        "created_at": "2026-10-24T20:53:10Z",
+        "user": "GlobalTradersAcademy",
+        "body": "$SPCX $TSLA let me say the quiert part out loud, since once again, wal street peanut brain memory forgot. The same guy that promised FSD in 2016 andnever achieved it, its called assisted driving now. Or the people who died and burned inside their tesla cars bc the car exploded and doors were locked.",
+        "created_at": "2026-10-24T22:37:02Z",
         "sentiment": ""
       },
       {
-        "user": "Mr_Maniacal",
-        "body": "$DJT $SPY $TSLA $SPCX @TrumpTruthSocialBot \n\nThis idiot selling out Alaska resources to the Russians under the guise of &quot;peace&quot;.\nhttps://www.rawstory.com/amp/russia-alaska-gas-2678137819",
-        "created_at": "2026-10-24T20:44:05Z",
+        "user": "kikiatwork",
+        "body": "$SPY $TSLA  According to Federal Election Commission (FEC) pre-election reports filed on October 22, 2026, Elon Musk injected another $76 million to $77 million into his political committee, America PAC, during the first two weeks of October. This fresh infusion pushed his total tracked contribution",
+        "created_at": "2026-10-24T22:29:30Z",
         "sentiment": ""
       },
       {
-        "user": "trumpdisasterprez",
-        "body": "$TSLA  ... compared to me.😆",
-        "created_at": "2026-10-24T20:41:32Z",
+        "user": "McStonkin",
+        "body": "$TSLA took some lotto calls for Monday. finger crossed.",
+        "created_at": "2026-10-24T22:28:27Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "iTrade_Price",
+        "body": "$TSLA TSLA",
+        "created_at": "2026-10-24T22:28:21Z",
         "sentiment": ""
       },
       {
-        "user": "EBE_day",
-        "body": "$TSLA really funny by FT \nhttps://ftav.substack.com/p/of-spacex-tesla-and-metaphysical",
-        "created_at": "2026-10-24T20:27:24Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Eurofighter",
-        "body": "$DJT $PLTR $QQQ $SPY $TSLA \nJust embarrassing. \nUSA will finally realize that neither Putins aßß nor Kims aßß is wet enough to crawl in without stinking",
-        "created_at": "2026-10-24T20:24:10Z",
-        "sentiment": ""
-      },
-      {
-        "user": "Poolboy100",
-        "body": "$TSLA Democrats are going to go after Elon . Enemy #1 . Hope they don’t burn down everything again .",
-        "created_at": "2026-10-24T20:19:08Z",
-        "sentiment": "Bearish"
-      },
-      {
-        "user": "TopOptionAlert",
-        "body": "Agreed, that is the right question to ask about $TSLA, and the two numbers tell very different stories.\n\n350 is the line where buyers have to show up again. If it holds, the path back toward 390 stays open and you can plan around a bounce with a clear spot to be wrong. If it slips under 350 and stay",
-        "created_at": "2026-10-24T20:02:27Z",
+        "user": "Meatballtrades",
+        "body": "$TSLA 397 resistance \nplace your bets...",
+        "created_at": "2026-10-24T22:15:42Z",
         "sentiment": ""
       }
     ],
     "AAPL": [
       {
-        "user": "jujets",
-        "body": "$AAPL these negative posts are comical, a lot of gambling going on",
-        "created_at": "2026-10-24T20:52:21Z",
+        "user": "TopOptionAlert",
+        "body": "That 20 million against roughly 12 million gap on $AAPL is the whole question, is it not? If the street is only pricing the lower number, what print actually moves it to the higher one, a preorder count or a guidance line? Until that proof shows up, the upside surprise stays a story, not a position.",
+        "created_at": "2026-10-24T23:19:27Z",
         "sentiment": ""
       },
       {
-        "user": "thatsolardude365",
-        "body": "$AAPL: seen a payment estimate for the Apple Watch support suit? None is verified in Goetz. Filed Aug 12 in N.D. Cal., the case still must clear class certification, with no settlement or claim form. Open Class Actions.",
-        "created_at": "2026-10-24T20:46:40Z",
+        "user": "RockyTSTH",
+        "body": "$AAPL 📱 COULD THE iPHONE DUO BE WALL STREET’S UPSIDE SURPRISE? \n \nGene Munster projects 20M Duo sales in FY2027—well above Wall Street’s roughly 12M estimate. \n \nHe estimates that gap could add about $8B to consensus iPhone revenue expectations and lift projected iPhone growth from 10% to 13%. \n \nLa",
+        "created_at": "2026-10-24T23:16:29Z",
         "sentiment": ""
       },
       {
-        "user": "WilliamsEmpire",
-        "body": "$AAPL reviews are coming out. Going viral again. Brand new Duo. Opened less than 20 times. The middle of the screen cracked and lower right side triangle area visible product defect. They just lost the entire Chinese market.  Reported incidents were Shanghai and Australia.",
-        "created_at": "2026-10-24T19:48:21Z",
-        "sentiment": "Bearish"
+        "user": "Cvn71",
+        "body": "$AAPL iPhone folder cracking get ready",
+        "created_at": "2026-10-24T23:04:46Z",
+        "sentiment": ""
       },
       {
-        "user": "jujets",
-        "body": "$AAPL Verizon store in\nJersey sold out duo in 1 hour Friday",
-        "created_at": "2026-10-24T19:46:50Z",
+        "user": "Cvn71",
+        "body": "$AAPL",
+        "created_at": "2026-10-24T23:03:55Z",
+        "sentiment": ""
+      },
+      {
+        "user": "david102",
+        "body": "$SNDK $LLY $AAPL $NVDA",
+        "created_at": "2026-10-24T22:40:01Z",
         "sentiment": ""
       },
       {
         "user": "TopOptionAlert",
-        "body": "$AAPL NOV20 360C · in play\n\nZone: $345.30 to $350.16\nInvalidation: close under $342.28\nObjectives: $360, then $370\n\nThe math: up 3.5% to the first objective and 6.4% to the second, against 1.6% risk on the invalidation, better than 4 to 1 to the second\n\nDear friend, picture a shop that just put a br",
-        "created_at": "2026-10-24T19:21:12Z",
+        "body": "Agreed on the setup, and 15 percent to 400 on $AAPL after earnings is a real call, not a wish. The part I would nail down is what the print has to do to earn that move, and where the idea breaks if it does not. If the number lands soft, the same crowd that bid it up will be first out the door. The w",
+        "created_at": "2026-10-24T22:39:17Z",
         "sentiment": ""
       },
       {
-        "user": "Plexrec",
-        "body": "$AAPL Thoughts on Apple&#39;s AI strategy ??? gonna be a real player ????",
-        "created_at": "2026-10-24T18:40:34Z",
+        "user": "AndyonOptions",
+        "body": "@Thetraderguy4738 Haha... the usual FAKE propaganda after an $AAPL launch.",
+        "created_at": "2026-10-24T22:38:43Z",
         "sentiment": ""
       },
       {
-        "user": "Mrbullsociety",
-        "body": "TODAY’S RECAP🔥\nLINK IN BIO.\n\n🟢 $AAPL 350C +350%\n🟢 $QQQ 708C +150%\n🟢 $TSLA 375P +156%\n🟢 $SPY 764C +70%\n🟢 $SPY 757P +60%\n🟢 $AMZN 247.5P +25%\n🟢 $AMZN 247.5P +80%\n🟢 $TSLA 375C +220%\n🔴 $AAPL 345P LOSS\n🔴 $QQQ 710C LOSS\n🔴 $TSLA 360P LOSS\n\nGREAT DAY. JOIN US AHEAD OF NEXT WEEK.",
-        "created_at": "2026-10-24T17:47:02Z",
-        "sentiment": "Bullish"
+        "user": "Thetraderguy4738",
+        "body": "$AAPL",
+        "created_at": "2026-10-24T22:37:18Z",
+        "sentiment": "Bearish"
       },
       {
-        "user": "VegetaSo",
-        "body": "$AAPL $QQQ $SPY $TSLA $UCO",
-        "created_at": "2026-10-24T17:35:36Z",
+        "user": "Secretadventures",
+        "body": "$AAPL Expecting a 15% movie to ATH.    Analyst have low expectations and I think Apple going to blow it out of the water.   Will take over Nvidia in big style....$ 400 price after earnings.  Good Luck.",
+        "created_at": "2026-10-24T22:16:56Z",
         "sentiment": ""
       },
       {
-        "user": "TerryFolly",
-        "body": "$AAPL $QQQ $SPY $TSLA $UCO I would be surprised if we don’t pump the week leading into the midterms",
-        "created_at": "2026-10-24T17:33:41Z",
+        "user": "TopOptionAlert",
+        "body": "Agreed on the split you are pointing to. $NVDA carrying the AI buildout while $AAPL plays defense on red days is exactly the kind of rotation that punishes a trader who only watches one name.\n\nHere is the part most people skip. If the semis roll over, what is the level that tells you the leadership ",
+        "created_at": "2026-10-24T22:09:49Z",
         "sentiment": ""
-      },
-      {
-        "user": "PPTrader3",
-        "body": "$SPY $QQQ $TSLA $AAPL $UCO \n\nEntirely possibly Trump wanted to lower the market all last week so that the upcoming week before midterms he can pamp the shit out of it. No one remembers the dump, everyone remembers the pamp.",
-        "created_at": "2026-10-24T17:32:39Z",
-        "sentiment": "Bullish"
       }
     ],
     "AMD": [
+      {
+        "user": "notimetohunt",
+        "body": "$AMD um, lets get it straight…..NVDA gonna fly and AMD will rise even more. 1st inning is over. Early chips will be obsolete soon. Newer chips needed. Repeat. More and more advanced tech needed to make those chips. Not everyone can do it. AMD  can.📈🚀",
+        "created_at": "2026-10-24T22:37:13Z",
+        "sentiment": "Bullish"
+      },
+      {
+        "user": "iTrade_Price",
+        "body": "$AMD amd",
+        "created_at": "2026-10-24T22:25:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "billbraski1777",
+        "body": "$AMD who&#39;s a good el nino? That&#39;s right; AMD is.",
+        "created_at": "2026-10-24T21:37:05Z",
+        "sentiment": "Bullish"
+      },
       {
         "user": "BashNew",
         "body": "$AMD $INTC $NVDA $SOXL",
@@ -228,24 +246,6 @@
         "user": "flychicken1991",
         "body": "$AMD Reddit heat: top 3 ticker in NewsImpact&#39;s Reddit scan over the past 2 days (rank #1). Mentions: 6; trend score: 27.1. Research only, not financial advice. https://nimpact.tech/newsimpact/ticker/AMD?utm_source=stocktwits&amp;utm_medium=reddit_heat",
         "created_at": "2026-10-24T17:12:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MikeCaymanTrades",
-        "body": "$AMD Clear trend down.📉",
-        "created_at": "2026-10-24T16:43:53Z",
-        "sentiment": ""
-      },
-      {
-        "user": "ShadowBanningIsBad",
-        "body": "@viggizags  I just think that diesel prices because of NATO war with Russia will force a global recession.  Everything will get re-valued and the only think worth spending money on is memory.    Do you have a top stock pick.  Remember I have been yelling about $MU for over a year I said nothing when",
-        "created_at": "2026-10-24T16:05:58Z",
-        "sentiment": ""
-      },
-      {
-        "user": "BullseyeGains",
-        "body": "Every dollar of AI hardware spending gets split across the silicon stack: $NVDA sells the GPUs, $AVGO $MRVL  design custom chips, $AMD $INTC sell the CPUs (with AMD having a small portion of the GPU pie), and Micron/SanDisk/SK Hynix/Western Digital/Seagate the memory &amp; storage. Three years from ",
-        "created_at": "2026-10-24T15:45:40Z",
         "sentiment": ""
       }
     ],
@@ -313,6 +313,36 @@
     ],
     "MSFT": [
       {
+        "user": "PersistentEnergy13",
+        "body": "Lots of opportunity next week in many markets 🥰\n\n$MSFT $GOOGL $SPY $AMZN  $ES_F",
+        "created_at": "2026-10-24T22:45:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Holdmybagz",
+        "body": "$SPY $NVDA   $MSFT  spending less on AI tokens? \nhttps://www.apollo.com/wealth/insights-news/insights/daily-spark/slowing-token-spend-shows-compute-demand-is-not-unlimited",
+        "created_at": "2026-10-24T22:42:43Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TopOptionAlert",
+        "body": "$MSFT Azure at 44 to 45 percent is the right line to watch. If the print lands there and the stock still slips, the bar was already 46, not demand breaking. Settle where you are wrong before Wednesday. If Azure holds, the trade has room. If it misses, you want the exit picked in advance. The whole p",
+        "created_at": "2026-10-24T22:15:49Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Tomleeks",
+        "body": "$MSFT calling all zoomies...hedgies are shorting the stonka 5 x morenthan buying and youbknow most will cover t some time wait for the rips even though they have firepower now tonshort more",
+        "created_at": "2026-10-24T22:08:40Z",
+        "sentiment": ""
+      },
+      {
+        "user": "DividendPower",
+        "body": "Dividend Contenders List in 2026: Analysis and Financial Insights $AAPL $MSFT $CHCT $ALL $CMCSA  \n \n \nhttps://www.dividendpower.org/dividend-contenders-list/",
+        "created_at": "2026-10-24T21:26:18Z",
+        "sentiment": "Bullish"
+      },
+      {
         "user": "Veridionmarkets",
         "body": "$MSFT reports fiscal Q1 after the close Wednesday, Oct 28 (Microsoft release, Oct 7). September House filings on Microsoft, all in the smallest band, 1,001 to 15,000 dollars: Rep. Cleo Fields bought Sep 10 in two E*TRADE accounts (PTR 20035464); Rep. Michael Rulli sold part of a position Sep 28 in a",
         "created_at": "2026-10-24T20:52:51Z",
@@ -341,36 +371,6 @@
         "body": "$MSFT Monday we go up.",
         "created_at": "2026-10-24T19:57:36Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$GOOGL $GOOG Google is about to rocket post earnings like Meta and Microsoft did. $MSFT $META If you missed the boat on those, load up on Google. $320 current price, and $450 price target.",
-        "created_at": "2026-10-24T19:30:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TopOptionAlert",
-        "body": "Look, memory capex and Microsoft capex are not the same bet. Memory is priced for a cycle. Microsoft is priced for capacity that has to earn its keep week after week. So the question for $MSFT is not whether spending is high. It is where the idea breaks if the market decides it is too high. Names li",
-        "created_at": "2026-10-24T19:08:52Z",
-        "sentiment": ""
-      },
-      {
-        "user": "SecEdgarWhisperer",
-        "body": "$QQQ $SPY $NVDA $MSFT $MU \n\nhttps://www.instagram.com/reel/De4T86shnHy/?vrfl=bzN4aTZ4MHhzZmt4\n\nI like the Claude MCP skill. It eliminated all the AI slop and just gave factual answers.",
-        "created_at": "2026-10-24T17:10:42Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TopOptionAlert",
-        "body": "That list is worth sitting with before earnings week starts. An implied move is not a prediction. It is the move the options market has already priced in, up or down.\n\n$MSFT at 5.28 percent is the calm end of that list, and that is why it teaches the lesson best. A call bought inside that band needs",
-        "created_at": "2026-10-24T16:42:37Z",
-        "sentiment": ""
-      },
-      {
-        "user": "KingpinJames",
-        "body": "$SPY  capex is cooked at these prices for memory. $QQQ $INTC $MSFT $AAPL",
-        "created_at": "2026-10-24T15:51:42Z",
-        "sentiment": ""
       }
     ],
     "GOOG": [
@@ -437,6 +437,48 @@
     ],
     "META": [
       {
+        "user": "TresNombre",
+        "body": "$META Oversold.  Buy the Dip.🚀",
+        "created_at": "2026-10-24T23:31:51Z",
+        "sentiment": ""
+      },
+      {
+        "user": "danglino",
+        "body": "$META this piece of trash is gonna crash once Billionaore tax passes in California. You are all Zuck&#39;s exit liquidity https://www.bbc.com/news/articles/cky83vwnyglno",
+        "created_at": "2026-10-24T23:27:14Z",
+        "sentiment": "Bearish"
+      },
+      {
+        "user": "Zer0co0l",
+        "body": "$GOOGL $TSLA $META dont say you weren’t warned:",
+        "created_at": "2026-10-24T23:24:24Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TopOptionAlert",
+        "body": "The 200 day test on $META is the right line to watch. A bounce off it only counts if it holds into next week, because a break early in the week opens the path toward 580 and that drift can be slow and grinding rather than a clean drop. What that means is, the trade is not the bounce itself, it is wh",
+        "created_at": "2026-10-24T21:52:58Z",
+        "sentiment": ""
+      },
+      {
+        "user": "Tomleeks",
+        "body": "$META hedgies are getting greedy its forced selling not naturalnselling which makes this a v bottom soon mich likencovid. Sell bc we might have bad earnings or might have a bad economy theynlatched on but theyll have to cover and lose their shirts",
+        "created_at": "2026-10-24T21:15:19Z",
+        "sentiment": ""
+      },
+      {
+        "user": "theoptionsplug",
+        "body": "$META looks pretty good here off of its 200 DMA test. If broken early next week, could drift lower to ~580 at trendline support but will probably bounce off. $METU can be a cheaper way to play it for calls considering how expensive Meta premiums are.",
+        "created_at": "2026-10-24T21:15:00Z",
+        "sentiment": ""
+      },
+      {
+        "user": "TopOptionAlert",
+        "body": "What would change your mind on it? $META can feel behind in one room and still sell in another. I am watching whether regular folks pick it up outside that circle.",
+        "created_at": "2026-10-24T21:09:53Z",
+        "sentiment": ""
+      },
+      {
         "user": "ilovetradingsm",
         "body": "$META I do not like Muse Wonder. Cant see how customers will use it the way the SF sphere does.  \n \nI may be wrong and eat my words, but meta still feels behind.",
         "created_at": "2026-10-24T20:59:27Z",
@@ -453,48 +495,6 @@
         "body": "$META Cathie Load the boat.",
         "created_at": "2026-10-24T20:58:06Z",
         "sentiment": "Bullish"
-      },
-      {
-        "user": "Techdamentals",
-        "body": "$META is the one that already reported. Capital spending of $34.9 billion in the quarter against $32.8 billion of cash from operations, which put free cash flow at about negative $2.12 billion. Free cash flow is simply cash from operations minus capital spending. When it goes below zero the gap come",
-        "created_at": "2026-10-24T20:49:59Z",
-        "sentiment": ""
-      },
-      {
-        "user": "eholland",
-        "body": "$META loading up on Monday",
-        "created_at": "2026-10-24T20:30:04Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "Ben_Dover_U",
-        "body": "$SKYD $DIS $NFLX $GOOG $META  Incredible assets that no analysts talk about when they myopically see the debt!!  Broadband frequency Leasing,  multiple A.I. engine deals to be made with content training past and future...  The Ellison&#39;s and Gerry Cardinale said they wanted to make these assets i",
-        "created_at": "2026-10-24T19:47:18Z",
-        "sentiment": ""
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "KOSPI Down 42%, Chips Down 6.7%: Is Deleveraging Accelerating? \nMentions: $META $NVDA $JBLU $ORCL $CRWV https://talkmarkets.com/article/weekly-commentary-need-to-talk",
-        "created_at": "2026-10-24T19:33:31Z",
-        "sentiment": ""
-      },
-      {
-        "user": "MaBoiiiiiiiiiiis",
-        "body": "$GOOGL $GOOG Google is about to rocket post earnings like Meta and Microsoft did. $MSFT $META If you missed the boat on those, load up on Google. $320 current price, and $450 price target.",
-        "created_at": "2026-10-24T19:30:13Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "DerekQuick",
-        "body": "$META Mark keeping his super share control over 50% is why meta can turn things around overnight so a split is fine. Dilution next year will be something next year can worry about. Without those super shares in 2022 when the stock traded at $88 and everyone thought it was over he made changes overni",
-        "created_at": "2026-10-24T19:17:25Z",
-        "sentiment": "Bullish"
-      },
-      {
-        "user": "TalkMarkets",
-        "body": "The 700 Club $META $TSLA $SVIX $UVIX $UVXY https://talkmarkets.com/article/the-700-club",
-        "created_at": "2026-10-24T19:00:56Z",
-        "sentiment": ""
       }
     ]
   }
